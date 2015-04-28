@@ -5,6 +5,8 @@ menu:
 
 sidebar: right
 widgets:
+- about
+- support
 - category
 - recent_posts
 

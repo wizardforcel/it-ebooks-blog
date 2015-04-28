@@ -17,12 +17,14 @@
         <%- item.content %>
       <% } %>
     </div>
+    <% if (item.excerpt && index){ %>
     <footer>
-        <% if (item.excerpt){ %>
-          <div class="alignleft">
-            <a href="<%- config.root %><%- item.path %>#more" class="more-link"><%= theme.excerpt_link %></a>
-          </div>
-        <% } %>
+      <div class="alignleft">
+        <a href="<%- config.root %><%- item.path %>#more" class="more-link"><%= theme.excerpt_link %></a>
+      </div>
+    </footer>
+    <% } %>
+    <footer>
         <% if (item.comments && config.duoshuo_shortname){ %>
         <div class="alignright">
           <a href="<%- url_for(item.path) %>#comment" class="comment-link">Comments</a>
