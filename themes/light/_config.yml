@@ -1,0 +1,37 @@
+menu:
+  计算机电子书: /
+  龙哥盟: http://www.flygon.net
+  留言板: /about
+
+sidebar: right
+widgets:
+- category
+- recent_posts
+
+excerpt_link: "Read More"
+
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
+
+addthis:
+  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+fancybox: true
+
+google_analytics:
+rss: /atom.xml
+
+comment_provider: facebook
+# Facebook comment
+facebook:
+  appid: 123456789012345
+  comment_count: 5
+  comment_width: 840
+  comment_colorscheme: light
