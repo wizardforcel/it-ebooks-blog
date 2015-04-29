@@ -4,7 +4,7 @@ categories:
   - javascript
 ---
 
-!{](http://img3.douban.com/lpic/s8958650.jpg)
+![](http://img3.douban.com/lpic/s8958650.jpg)
 
 格式：PDF
 类型：文字版
