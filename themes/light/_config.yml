@@ -9,6 +9,7 @@ widgets:
 - support
 - category
 - recent_posts
+- link
 
 excerpt_link: "Read More"
 
