@@ -281,7 +281,6 @@ ISBN: 9787115362865
 
 ## 下载 ##
 
-* 第一行代码--Android （文字版）
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROvl8S)
-  * [百度云下载](http://pan.baidu.com/s/1o65e8qu)
-  * [MEGA下载](https://mega.co.nz/#!7MkHGarL!aGvUzvQrND7EzoS2kGEZm5Pht7nll2kfdGvs6n_I248)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROvl8S)
+* [百度云下载](http://pan.baidu.com/s/1o65e8qu)
+* [MEGA下载](https://mega.co.nz/#!7MkHGarL!aGvUzvQrND7EzoS2kGEZm5Pht7nll2kfdGvs6n_I248)
