@@ -10,6 +10,7 @@ widgets:
 - category
 - recent_posts
 - link
+- account
 
 excerpt_link: "Read More"
 
