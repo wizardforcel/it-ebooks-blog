@@ -26,5 +26,6 @@ ISBN: 9787121075520
 
 ## 下载 ##
 
+* [百度云下载](http://pan.baidu.com/s/1o6A6zFG)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVTzj)
 * [MEGA下载](https://mega.co.nz/#!SdkR0DrB!KN_-pDbJXWkdkUEI1kxwL_s1A2vb8h94KVGFBnZDMLQ)
