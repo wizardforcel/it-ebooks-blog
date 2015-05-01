@@ -208,5 +208,6 @@ mongodb如何帮你管理通过web应用收集的海量数据呢？通过本书�
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1jG5UUCQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP60hF)
 + [MEGA下载](https://mega.co.nz/#!CUEDGCaa!rnKGiB5gaAC5olPZCcJsbAnjOolhRSWjnv6LVSdVd2Q)

@@ -232,5 +232,6 @@ ISBN: 9787111464747
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1mgopS7m)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP60hj)
 + [MEGA下载](https://mega.co.nz/#!DAESESYR!3gwUsHi_rpEqX6KPJCqWxQHZiITa-ZSAR34H2iwhqJI)
