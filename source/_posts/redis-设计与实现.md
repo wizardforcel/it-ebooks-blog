@@ -7,9 +7,8 @@ categories:
 
 ![](http://img5.douban.com/lpic/s27297117.jpg)
 
-格式：PDF
-类型：扫描版
-大小：12.7M
+格式：EPUB
+类型：文字版
 
 <!--more-->
 
@@ -232,6 +231,6 @@ ISBN: 9787111464747
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1mgopS7m)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP60hj)
-+ [MEGA下载](https://mega.co.nz/#!DAESESYR!3gwUsHi_rpEqX6KPJCqWxQHZiITa-ZSAR34H2iwhqJI)
++ [百度云下载](http://pan.baidu.com/s/1nt86DO9)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP5ZA1)
++ [MEGA下载](https://mega.co.nz/#!SYNHERTD!BcIFfrja4VMiPg5PjnNT9ttby14eH3EYkflBqDXos6M)
