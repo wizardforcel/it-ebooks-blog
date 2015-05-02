@@ -3,11 +3,11 @@
   "version": "2.8.3",
   "private": true,
   "dependencies": {
-    "hexo-renderer-ejs": "*",
-    "hexo-renderer-stylus": "*",
-    "hexo-renderer-marked": "*",
+    "hexo-renderer-ejs": "0.1.0",
+    "hexo-renderer-stylus": "0.1.0",
+    "hexo-renderer-marked": "0.1.0",
     "hexo-migrator-wordpress": "^0.1.1",
-    "hexo-generator-feed": "*",
-    "hexo-generator-sitemap": "*"
+    "hexo-generator-feed": "0.2.1",
+    "hexo-generator-sitemap": "0.2.0"
   }
 }
