@@ -36,10 +36,10 @@ ISBN: 9787121239700
 序3 30个最火热的JavaScript面试题	XXI
 第1章　学习JavaScript必须知道的事儿	1
 1.1　如何在HTML中调用JavaScript代码	1
-1.1.1　<script>标签的定义	1
+1.1.1　&lt;script&gt;标签的定义	1
 1.1.2　两种嵌入JavaScript代码的方式	2
 1.1.3　XHTML与HTML对JavaScript解析的不同之处	2
-1.1.4　<noscript>如何用	3
+1.1.4　&lt;noscript&gt;如何用	3
 1.2　使用什么工具开发JavaScript	3
 1.2.1　Adobe Dreamweaver软件，推荐指数：3	3
 1.2.2　SublimeText，推荐指数：4	4
