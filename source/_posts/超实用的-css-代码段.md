@@ -249,5 +249,6 @@ ISBN: 9787121239489
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1eQo2q8U)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVnk1)
 + [MEGA下载](https://mega.co.nz/#!qR83yboT!pPEJSKt8VfJuZ2AS_EjwZuaXl34K6gK07onoUh4SPdE)

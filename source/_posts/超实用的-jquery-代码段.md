@@ -304,5 +304,6 @@ ISBN: 9787121239496
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1kT03xfp)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVzzd)
 + [MEGA下载](https://mega.co.nz/#!KA0Q1QhA!5vK-tq3_VuDKYgtThucHxLH8ZiSFXf-wWvZ9X1mhPN4)

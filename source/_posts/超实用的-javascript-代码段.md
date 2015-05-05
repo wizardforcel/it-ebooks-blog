@@ -219,5 +219,6 @@ ISBN: 9787121239700
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1c051yE0)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVwuG)
 + [MEGA下载](https://mega.co.nz/#!nYsynCSD!lBAA0frZKoNNPvinw8vC4nJ3BEFqZ7GaA57pfLvuxxk)
