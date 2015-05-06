@@ -316,6 +316,7 @@ Java领域最有影响力和价值的著作之一，由拥有20多年教学与�
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1eQu7VW2)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROUUki)
 + [MEGA下载](https://mega.co.nz/#!rA8mmIhZ!cOOsEf9loC_FLT0fW9pfJrpBYgl15LIcirq9ArHAOF0)
 
