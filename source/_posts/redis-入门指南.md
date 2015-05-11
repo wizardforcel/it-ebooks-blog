@@ -1,8 +1,7 @@
 title: redis 入门指南
 date: 2015-05-01 12:18:29
 categories:
-  - 数据库
-    - nosql
+  - 数据库 - nosql
 ---
 
 ![](http://img3.douban.com/lpic/s26559363.jpg)

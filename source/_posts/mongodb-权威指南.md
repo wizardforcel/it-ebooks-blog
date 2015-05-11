@@ -1,8 +1,7 @@
 title: mongodb 权威指南 （中文第二版）
 date: 2015-05-01 12:20:23
 categories:
-  - 数据库
-    - nosql
+  - 数据库 - nosql
 ---
 
 ![](http://img5.douban.com/lpic/s28015838.jpg)
