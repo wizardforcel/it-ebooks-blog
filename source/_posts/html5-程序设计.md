@@ -8,7 +8,7 @@ categories:
 
 格式：PDF
 类型：扫描版
-大小：5.21M
+大小：5.92M
 
 <!--more-->
 
@@ -268,6 +268,5 @@ ISBN: 9787115278715
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1pWn3g)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP5zPG)
-+ [MEGA下载](https://mega.co.nz/#!qFUAWZaS!Dowk7SFUW82HDHTvGGRK9VPG11hD-RFiyCdW46UldSg)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFsCJq)
++ [MEGA下载](https://mega.co.nz/#!GR8mzIab!8GVAOEIosUpTJ9Yv4QrGIWeyfri86ygjK5CL0TAws3c)
