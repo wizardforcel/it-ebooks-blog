@@ -152,5 +152,6 @@ ISBN: 9787121129018
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1hqJ6Sde)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFstE9)
 + [MEGA下载](https://mega.co.nz/#!OVlzBK5Z!1xbIidsQqVagjAc7XUWHRHUrRltvP0GlsIFWaC0L8ic)
