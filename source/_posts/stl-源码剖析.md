@@ -47,5 +47,6 @@ ISBN: 9787560926995
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1bn6QgYN)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBJ3)
 + [MEGA下载](https://mega.co.nz/#!bcdWEIKI!N20UU2rSk_X9Nqth7VpbMhuyW0HlHiR8XZuitzFeAHc)

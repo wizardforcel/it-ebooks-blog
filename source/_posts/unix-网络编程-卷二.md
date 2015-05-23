@@ -227,5 +227,6 @@ unlink函数 179
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1pJMGHon)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwxLu)
 + [MEGA下载](https://mega.co.nz/#!GI1SVJDQ!2yVXpdR8iBWmcItBMkMLD23HXKAd6_VQ53EJCd9tZNU)

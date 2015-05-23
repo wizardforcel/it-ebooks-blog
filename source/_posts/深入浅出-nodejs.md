@@ -314,5 +314,6 @@ D.4 　参考资源　　332
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1o69R1bG)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXB_q)
 + [MEGA下载](https://mega.co.nz/#!fMlyiZjR!SVqBJBkCFh8K3SYaYp1in5HWPQm2lZ2-FE-5B5v3Q50)

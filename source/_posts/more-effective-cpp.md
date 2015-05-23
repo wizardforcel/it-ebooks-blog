@@ -32,5 +32,6 @@ MoreEffectiveC++的重点包括：
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1ntl6Zmp)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBJf)
 + [MEGA下载](https://mega.co.nz/#!CNM1EKCZ!cbyIhevF1N3jXUtc5yHD7vvvyymkR4-rxLjeIGPI4LI)

@@ -151,5 +151,6 @@ ISBN: 9787115251558
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1qWzDZFA)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXZ9W)
 + [MEGA下载](https://mega.co.nz/#!actzxDJK!UBfJhEnQ2KJlrRQjsJxLAxgZMPDE8e_Kn_ozAJJ91LI)

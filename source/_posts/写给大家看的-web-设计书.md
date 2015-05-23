@@ -58,5 +58,6 @@ ISBN: 9787115225368
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1i3tgDYt)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXAEz)
 + [MEGA下载](https://mega.co.nz/#!uZFh3KJZ!u7KVuzap1pyJjgFaCwTeRu8dMo5zNwrdvuugBB9_m8M)

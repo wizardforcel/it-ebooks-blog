@@ -366,5 +366,6 @@ ISBN: 9787115145529
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1eQix3jk)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXCon)
 + [MEGA下载](https://mega.co.nz/#!uNVURCaY!ugNtCOdD6ECwScBJTwjwPUNn7JGU0ZWCOrAltARXZBM)

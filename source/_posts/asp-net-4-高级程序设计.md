@@ -833,5 +833,6 @@ ISBN: 9787115253293
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1mgtaARQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwCpC)
 + [MGEA下载](https://mega.co.nz/#!rZ9RUYAZ!L0q-U8pSIp2nhHrvVqBn_VqampmPYsfUsSdEmF64qs8)

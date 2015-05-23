@@ -207,5 +207,6 @@ ISBN: 9787115139214
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1ntxIorB)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXXQW)
 + [MEGA下载](https://mega.co.nz/#!Oc921bBI!Xg4SqKpAJlgNPQlCZN5E5zJhvILDJH_GiNCzwwu7S5k)

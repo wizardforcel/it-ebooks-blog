@@ -52,5 +52,6 @@ ISBN: 9787111075684
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1eQEl6Vo)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBJs)
 + [MEGA下载](https://mega.co.nz/#!nIMEWLyA!mYKyGuOSvXkYMNoEtiEzx4lyPA9TebVGVbKlT7O-axY)
