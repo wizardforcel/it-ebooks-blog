@@ -8,7 +8,7 @@ categories:
 
 格式：PDF
 类型：扫描版
-大小；18.2M
+大小；22.9M
 
 <!--more-->
 
@@ -33,6 +33,5 @@ ISBN: 9787302209768
 
 ## 下载 ##
 
-* [百度云下载](http://pan.baidu.com/s/1ntqo0cT)
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROAA_0)
-* [MEGA下载](https://mega.co.nz/#!yItRWZaT!11iIzbXt6F4mCn0R6909kpGR7nXqM8_fE3NJHOuDe68)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFmqOU)
+* [MEGA下载](https://mega.co.nz/#!KF903JjC!gB0jRcUfnRuZh7p572dbnd5uL1-_z_A3DEll7d3RRDQ)
