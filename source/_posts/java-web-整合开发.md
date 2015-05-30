@@ -33,5 +33,6 @@ ISBN: 9787302209768
 
 ## 下载 ##
 
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFmqOU)
-* [MEGA下载](https://mega.co.nz/#!KF903JjC!gB0jRcUfnRuZh7p572dbnd5uL1-_z_A3DEll7d3RRDQ)
++ [百度云下载](http://pan.baidu.com/s/1gdH7CpP)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFmqOU)
++ [MEGA下载](https://mega.co.nz/#!KF903JjC!gB0jRcUfnRuZh7p572dbnd5uL1-_z_A3DEll7d3RRDQ)

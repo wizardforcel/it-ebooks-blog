@@ -549,5 +549,6 @@ ISBN: 9787115320902
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/12iENs)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwuxY)
 + [MEGA下载](https://mega.co.nz/#!GQsUhTBL!K9klUGb2QGGPL2jvZQ-OQj3XaE1zs0hEmk2nL54EMws)

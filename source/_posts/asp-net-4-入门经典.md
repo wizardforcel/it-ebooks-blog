@@ -359,5 +359,6 @@ ajax	297
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1hqxmIxQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwnBs)
 + [MEGA下载](https://mega.co.nz/#!rZd1RRbR!29w5Sw_chr6RMMXkLs6PLU2tJb43ufdvRJZa_62hw7U)

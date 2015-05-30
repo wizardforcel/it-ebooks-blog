@@ -423,5 +423,6 @@ B.5.6　[BUG]　　334
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1ntxc8Et)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwI4f)
 + [MEGA下载](https://mega.co.nz/#!2F8S2QxL!NZJM3A5yrt2dAsFUv_9yHPGfIwL0NVZBpJiCRQeqko8)
