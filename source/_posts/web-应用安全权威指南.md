@@ -1,7 +1,7 @@
 title: web应用安全权威指南
 date: 2015-05-25 20:52:42
 categories:
-  - 网络安全
+  - 安全
 ---
 
 ![](http://img3.douban.com/lpic/s27563854.jpg)
