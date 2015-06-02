@@ -462,5 +462,6 @@ A.2 　错误处理包装函数696
 
 ## 下载 ##
 
+* [百度云下载](http://pan.baidu.com/s/1mgl91A4)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFmvoo)
 * [MEGA下载](https://mega.co.nz/#!bJFm0abJ!vsMQtB_8qf_Hxw0_VKeJieGQbQyZtSyEjZK4Lg7zKLw)
