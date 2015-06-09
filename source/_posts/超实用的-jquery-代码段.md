@@ -1,7 +1,7 @@
 title: 超实用的jquery代码段
 date: 2015-05-03 17:12:36
 categories:
-  - javascript
+  - jquery
 ---
 
 ![](http://img3.douban.com/lpic/s27427644.jpg)

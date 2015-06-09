@@ -1,7 +1,7 @@
 title: ejb3实战
 date: 2015-06-06 10:45:11
 categories:
- - java
+ - java web
 ---
 
 ![](http://img3.douban.com/lpic/s5906090.jpg)

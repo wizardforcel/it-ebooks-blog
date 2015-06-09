@@ -1,7 +1,7 @@
 title: 锋利的 jquery （第二版）
 date: 2015-04-29 13:14:24
 categories:
-  - javascript
+  - jquery
 ---
 
 ![](http://img5.douban.com/lpic/s28026858.jpg)

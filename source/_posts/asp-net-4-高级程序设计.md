@@ -1,7 +1,7 @@
 title: asp.net 4 高级程序设计
 date: 2015-05-22 07:31:11
 categories:
-  - csharp
+  - asp.net
 ---
 
 ![](http://img3.douban.com/lpic/s6640674.jpg)

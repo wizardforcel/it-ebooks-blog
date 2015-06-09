@@ -1,7 +1,7 @@
 title: 设计模式 （中文版）
 date: 2015-04-29 15:05:45
 categories:
-  - 编程思想
+  - 设计模式·架构
 ---
 
 ![](http://img3.douban.com/lpic/s1074361.jpg)

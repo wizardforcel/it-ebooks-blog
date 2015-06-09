@@ -1,7 +1,7 @@
 title: asp.net mvc4 高级编程 （中文版）
 date: 2015-05-24 14:47:14
 categories:
-  - csharp
+  - asp.net
 ---
 
 ![](http://img4.douban.com/lpic/s27251036.jpg)

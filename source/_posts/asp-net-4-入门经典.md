@@ -1,7 +1,7 @@
 title: asp.net4入门经典 （中文版）
 date: 2015-05-24 16:09:20
 categories:
-  - csharp
+  - asp.net
 ---
 
 ![](http://img3.douban.com/lpic/s6261390.jpg)
