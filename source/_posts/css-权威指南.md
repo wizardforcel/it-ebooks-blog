@@ -92,6 +92,6 @@ font属性
 
 ## 下载 ##
 
-+ [酷盘下载](https://kanbox.com/f/kG0o8)
++ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8793705)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFt9ev)
 + [MEGA下载](https://mega.co.nz/#!6IkEHAoK!RjjyT-oxpddlw82bxAGgP4bfqSn-9su-H_07gfN0q-8)

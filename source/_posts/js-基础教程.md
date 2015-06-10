@@ -235,6 +235,6 @@ ISBN: 9787115276766
 
 ## 下载 ##
 
-+ [酷盘下载](https://kanbox.com/f/MI0oA)
++ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8778453)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFtLbv)
 + [MEGA下载](https://mega.co.nz/#!udMTlJDa!Qg-4AHvDeYHunFxxU17CFHxO3LBfkShwmYjlEd9RnZs)
