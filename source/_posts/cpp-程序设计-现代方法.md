@@ -373,5 +373,6 @@ bug　　225
 
 ## 下载 ##
 
++ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8453057)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROSoJw)
 + [MEGA下载](https://mega.co.nz/#!XcskFYCD!bXFvbpAQk8e9fhnvU6UmarwZQxD5nPoXpldT36TD_fM)

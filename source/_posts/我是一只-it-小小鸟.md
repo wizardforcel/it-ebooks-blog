@@ -299,5 +299,6 @@ InfoQ中文站——我的兼职编辑生涯
 
 ## 下载 ##
 
++ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8753037)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFlVBB)
 + [MEGA下载](https://mega.co.nz/#!yZlzgQBQ!GZ9fwDeB0CP4yNnSZJre8JDyyYygqekS_CZFZju_1J8)

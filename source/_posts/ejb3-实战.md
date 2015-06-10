@@ -28,5 +28,6 @@ ISBN: 9787115177896
 
 ## 下载 ##
 
++ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8700487)
 + [微盘下载](https://mega.co.nz/#!TRNi3LrL!apqD_0xXWKg5mLsxujDqXCGMTf_hA5Ad0ooJkX8qa2U)
 + [MEGA下载](https://mega.co.nz/#!TRNi3LrL!apqD_0xXWKg5mLsxujDqXCGMTf_hA5Ad0ooJkX8qa2U)
