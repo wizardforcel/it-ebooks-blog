@@ -1,7 +1,7 @@
 title: 哥德尔、埃舍尔、巴赫——集异璧之大成
 date: 2015-06-17 20:53:29
 categories:
-  - IT人文
+  - 数学·数理逻辑
 ---
 
 ![](http://img4.douban.com/lpic/s1789059.jpg)
