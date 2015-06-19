@@ -1,7 +1,7 @@
 title: 深入理解计算机系统 （中文第二版）
 date: 2015-04-29 13:56:59
 categories:
-  - os
+  - 组成原理
 ---
 
 ![](http://img3.douban.com/lpic/s4510534.jpg)
