@@ -68,4 +68,4 @@ ISBN: 9787100013239
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRE_Snh)
 + [MEGA下载](https://mega.co.nz/#!7Ms1nJAA!Tb7DNpCswiUDSwT9ruqBOZmkscAN8RqLOlIro8TSvK8)
-+ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8816843)
++ [千易下载](http://1000eb.com/1dpt6)
