@@ -281,6 +281,6 @@ ISBN: 9787115362865
 
 ## 下载 ##
 
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROvl8S)
-* [百度云下载](http://pan.baidu.com/s/1o65e8qu)
+* [微盘下载](http://vdisk.weibo.com/s/qoKRXlvHeJsSN)
+* [千易下载](http://1000eb.com/1dv00)
 * [MEGA下载](https://mega.co.nz/#!7MkHGarL!aGvUzvQrND7EzoS2kGEZm5Pht7nll2kfdGvs6n_I248)
