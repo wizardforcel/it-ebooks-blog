@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s26559363.jpg)
 
-格式：MOBI
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -173,6 +173,6 @@ A.6　REDIS_CMD_LOADING　179
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1jGw12XS)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP60h0)
-+ [MEGA下载](https://mega.co.nz/#!rdl1yYCS!fPx0Ph_2M1wF-mEGtH_gq4E0sD7kiGNuny-ihOnHQ6I)
++ [百度云下载](http://pan.baidu.com/s/1hqfDKJq)
++ [微盘下载](http://vdisk.weibo.com/s/qBHeHbwa2TRd0)
++ [千易下载](http://1000eb.com/1dyil)

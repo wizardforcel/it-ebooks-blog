@@ -42,6 +42,6 @@ This book is for all open source developers: you are bound to encounter it somew
 
 ## 下载 ##
 
-* [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582235)
-* [51CTO下载](http://down.51cto.com/data/2037756)
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIDx9)
+* [百度云下载](http://pan.baidu.com/s/1eQ93YBw)
+* [微盘下载](http://vdisk.weibo.com/s/qBHeHbwa2TRcB)
+* [千易下载](http://1000eb.com/1dyii)

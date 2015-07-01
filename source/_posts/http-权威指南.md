@@ -6,7 +6,7 @@ categories:
 
 ![](http://img5.douban.com/lpic/s11329547.jpg)
 
-格式：MOBI
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -626,6 +626,6 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 ## 下载 ##
 
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP4CG1)
-* [百度云下载](http://pan.baidu.com/s/1ntmQbO1)
-* [MEGA下载](https://mega.co.nz/#!iYtFiArJ!3YDR5zsZA6s0NtssvD1wnxD_a6LsEvjOlRq8V6BEvco)
+* [微盘下载](http://vdisk.weibo.com/s/qBHeHbwa2TRcv)
+* [百度云下载](http://pan.baidu.com/s/1nt46dC1)
+* [千易下载](http://1000eb.com/1dyig)

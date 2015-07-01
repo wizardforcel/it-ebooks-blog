@@ -6,7 +6,7 @@ categories:
 
 ![](http://img5.douban.com/lpic/s10307479.jpg)
 
-格式：MOBI
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -160,6 +160,6 @@ Node.js是一种方兴未艾的新技术，诞生于2009年。经过两年的快
 
 ## 下载 ##
 
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP4DkR)
-* [百度云下载](http://pan.baidu.com/s/1sjnxS2h)
-* [MEGA下载](https://mega.co.nz/#!7BUlmaqJ!hMc81J3k-uisbq5U5vEar5uVAW5OOvGovloUJGNVR8g)
+* [百度云下载](http://pan.baidu.com/s/1pJHZnmj)
+* [微盘下载](http://vdisk.weibo.com/s/qBHeHbwa2TRct)
+* [千易下载](http://1000eb.com/1dyih)

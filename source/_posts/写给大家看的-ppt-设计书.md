@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s6339184.jpg)
 
-格式：MOBI
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -151,6 +151,6 @@ ISBN: 9787115251558
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1qWzDZFA)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXZ9W)
-+ [MEGA下载](https://mega.co.nz/#!actzxDJK!UBfJhEnQ2KJlrRQjsJxLAxgZMPDE8e_Kn_ozAJJ91LI)
++ [百度云下载](http://pan.baidu.com/s/1eQ2IyQY)
++ [微盘下载](http://vdisk.weibo.com/s/qBHeHbwa2TRcO)
++ [千易下载](http://1000eb.com/1dyiq)
