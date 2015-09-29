@@ -85,6 +85,6 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: https://gitcafe.com/it-ebooks/it-ebooks.git 
+  type: git
+  repository: https://gitcafe.com/it-ebooks/it-ebooks.git
   branch: gitcafe-pages
