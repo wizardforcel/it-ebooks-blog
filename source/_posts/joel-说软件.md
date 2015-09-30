@@ -35,3 +35,4 @@ ISBN: 9787121016417
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFeIhT)
 + [MEGA下载](https://mega.nz/#!eQ0GDKbL!mcX72esMJ_JFUEWSzvnOeCnGw736hX4VODCoxnKR81E)
++ [千易下载](http://1000eb.com/1gcbw)
