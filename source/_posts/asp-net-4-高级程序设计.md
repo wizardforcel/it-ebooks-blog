@@ -14,9 +14,9 @@ categories:
 
 ## 出版信息 ##
 
-作者: Matthew MacDonald 
+作者: Matthew MacDonald
 出版社: 人民邮电出版社
-译者: 博思工作室 
+译者: 博思工作室
 出版年: 2011-6
 页数: 1146
 定价: 148.00元
@@ -836,3 +836,4 @@ ISBN: 9787115253293
 + [百度云下载](http://pan.baidu.com/s/1mgtaARQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwCpC)
 + [MGEA下载](https://mega.co.nz/#!rZ9RUYAZ!L0q-U8pSIp2nhHrvVqBn_VqampmPYsfUsSdEmF64qs8)
++ [千易下载](http://1000eb.com/1gf38)

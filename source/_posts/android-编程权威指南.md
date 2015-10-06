@@ -13,10 +13,10 @@ categories:
 
 ## 出版信息 ##
 
-作者: 菲利普斯 (Brian Hardy) / 哈迪 (Bill Phillips) 
+作者: 菲利普斯 (Brian Hardy) / 哈迪 (Bill Phillips)
 出版社: 人民邮电出版社
 原作名: Android programming: the big nerd ranch guide
-译者: 王明发 
+译者: 王明发
 出版年: 2014-4-1
 页数: 523
 定价: CNY 99.00
@@ -420,6 +420,7 @@ ISBN: 9787115346438
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1FOAGQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFh2Uf)
 + [MEGA下载](https://mega.co.nz/#!nMMyQbjK!n8xSyHXuSGjL42rn-B4l6dgSGI1D-GNUjoW9xt_ixUc)
 + [千易下载](http://1000eb.com/1dxjo)

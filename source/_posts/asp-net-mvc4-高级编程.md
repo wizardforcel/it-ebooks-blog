@@ -14,11 +14,11 @@ categories:
 
 ## 出版信息 ##
 
-作者: Jon Galloway / Phil Haack / Brad Wilson / K. Scott Allen 
+作者: Jon Galloway / Phil Haack / Brad Wilson / K. Scott Allen
 出版社: 清华大学出版社
 副标题: ASP.NET MVC 4高级编程
 原作名: Professional ASP.NET MVC 4
-译者: 孙远帅 / 邹权 
+译者: 孙远帅 / 邹权
 出版年: 2013-8
 页数: 427
 定价: CNY 59.00
@@ -392,3 +392,4 @@ Mailer 426
 + [百度云下载](http://pan.baidu.com/s/1bnhNUMV)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwnWS)
 + [MEGA下载](https://mega.co.nz/#!2dsAkT5Z!T-qqMrp755VmlGgkVwbDnsOi4vi8eoHyil4mWrD2w2E)
++ [千易下载](http://1000eb.com/1gf3g)

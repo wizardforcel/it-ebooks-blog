@@ -13,7 +13,7 @@ date: 2015-04-28 21:59:00
 
 ## 出版信息 ##
 
-作者: 郭霖 
+作者: 郭霖
 出版社: 人民邮电出版社
 副标题: Android
 出版年: 2014-7-30
@@ -281,6 +281,7 @@ ISBN: 9787115362865
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1hqeyBcg)
 * [微盘下载](http://vdisk.weibo.com/s/qoKRXlvHeJsSN)
 * [千易下载](http://1000eb.com/1dv00)
 * [MEGA下载](https://mega.co.nz/#!7MkHGarL!aGvUzvQrND7EzoS2kGEZm5Pht7nll2kfdGvs6n_I248)

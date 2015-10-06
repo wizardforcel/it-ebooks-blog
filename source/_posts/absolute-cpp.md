@@ -14,7 +14,7 @@ categories:
 
 ## 出版信息 ##
 
-作者: 萨维奇 
+作者: 萨维奇
 出版社: 电子工业出版社
 出版年: 2014-6-1
 页数: 788
@@ -467,6 +467,7 @@ C++如何实现虚函数 574
 + [百度云下载](http://pan.baidu.com/s/1jG27rKE)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVqTt)
 + [MEGA下载](https://mega.co.nz/#!LV0UEAxa!7ntFbHJDg__rAobD0mzbYQ_-a_h0k7oW1cmD_yKlSM8)
++ [千易下载](http://1000eb.com/1gf34)
 
 <!-- 2e
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1kkW)

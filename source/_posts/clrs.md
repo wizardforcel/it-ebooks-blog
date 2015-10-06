@@ -14,10 +14,10 @@ categories:
 
 ## 出版信息 ##
 
-作者: Thomas H.Cormen / Charles E.Leiserson / Ronald L.Rivest / Clifford Stein 
+作者: Thomas H.Cormen / Charles E.Leiserson / Ronald L.Rivest / Clifford Stein
 出版社: 机械工业出版社
 原作名: Introduction to Algorithms, Third Edition
-译者: 殷建平 / 徐云 / 王刚 / 刘晓光 / 苏明 / 邹恒明 / 王宏志 
+译者: 殷建平 / 徐云 / 王刚 / 刘晓光 / 苏明 / 邹恒明 / 王宏志
 出版年: 2012-12
 页数: 780
 定价: 128.00元
@@ -353,6 +353,7 @@ D.2 矩阵基本性质 712
 + [百度云下载](http://pan.baidu.com/s/1jGmYqLw)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVbLa)
 + [MEGA下载](https://mega.co.nz/#!CV1mHYTK!TElqht8F51C84fgAGqKwzLPd6OudJusFnR8p1x2NM3o)
++ [千易下载](http://1000eb.com/1gf3e)
 
 <!-- 2e
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROsmRV)

@@ -14,9 +14,9 @@ categories:
 
 ## 出版信息 ##
 
-作者: 史蒂文斯 (W.Richard Stevens) / 拉戈 (Stephen A.Rago) 
+作者: 史蒂文斯 (W.Richard Stevens) / 拉戈 (Stephen A.Rago)
 出版社: 人民邮电出版社
-译者: 戚正伟 / 张亚英 / 尤晋元 
+译者: 戚正伟 / 张亚英 / 尤晋元
 出版年: 2014-6-1
 页数: 812
 定价: CNY 128.00
@@ -288,6 +288,7 @@ ISBN: 9787115352118
 + [百度云下载](http://pan.baidu.com/s/1dDIq9vb)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROUMK8)
 + [MEGA下载](https://mega.co.nz/#!qE1gSQRD!tjS6bjwcEWG-54Fi-_0eaCXcU9O2sEvsJJjB-SBunr4)
++ [千易下载](http://1000eb.com/1gf36)
 
 <!-- 2e
 * [百度云下载](http://pan.baidu.com/s/1qWHQilA)

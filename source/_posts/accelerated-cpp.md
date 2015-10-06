@@ -15,8 +15,8 @@ categories:
 ## 出版信息 ##
 
 
-作者: Andrew Koenig / Barbara E.Moo 
-译者: 覃剑锋 
+作者: Andrew Koenig / Barbara E.Moo
+译者: 覃剑锋
 出版年: 2003-12
 页数: 340
 定价: 39.50元
@@ -37,3 +37,4 @@ ISBN: 9787508318196
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBJ0)
 + [百度云下载](http://pan.baidu.com/s/1sjkIS4t)
 + [MEGA下载](https://mega.co.nz/#!GJtFkKDC!U3klInP6I4tcmqqTmshqK8D7Kx6jK8ydfjW3p1ts-n8)
++ [千易下载](http://1000eb.com/1gf35)

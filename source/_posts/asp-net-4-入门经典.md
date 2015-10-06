@@ -14,11 +14,11 @@ categories:
 
 ## 出版信息 ##
 
-作者: [美] Imar Spaanjaars 
+作者: [美] Imar Spaanjaars
 出版社: 清华大学出版社
 副标题: 涵盖C#和VB.NET
 原作名: Beginning ASP.NET 4 in C# and Vb
-译者: 刘伟琴 / 张格仙 
+译者: 刘伟琴 / 张格仙
 出版年: 2010-12
 页数: 682
 定价: 88.00元
@@ -362,3 +362,4 @@ ajax	297
 + [百度云下载](http://pan.baidu.com/s/1hqxmIxQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwnBs)
 + [MEGA下载](https://mega.co.nz/#!rZd1RRbR!29w5Sw_chr6RMMXkLs6PLU2tJb43ufdvRJZa_62hw7U)
++ [千易下载](http://1000eb.com/1gf39)
