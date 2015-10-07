@@ -13,10 +13,10 @@ categories:
 
 ## 出版信息 ##
 
-作者: [美] 沃森(Karli Watson) / [美] 内格尔(Christian Nagel) 等 
+作者: [美] 沃森(Karli Watson) / [美] 内格尔(Christian Nagel) 等
 出版社: 清华大学出版社
 原作名: Beginning visual C# 2010
-译者: 齐立波 
+译者: 齐立波
 出版年: 2010-12
 页数: 887
 定价: 99.80元
@@ -601,3 +601,4 @@ Foundation	819
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1kgs)
 * [百度云下载](http://pan.baidu.com/s/1eQvSr0u)
 * [MEGA下载](https://mega.co.nz/#!CA0UySoC!-rbJ6Z8oa6mm1bsIgKVrFV9vB2-YKg527AAETCLuims)
+* [千易下载](http://1000eb.com/1gfdd)

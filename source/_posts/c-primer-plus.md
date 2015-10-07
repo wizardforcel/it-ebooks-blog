@@ -13,9 +13,9 @@ categories:
 
 ## 出版信息 ##
 
-作者: Stephen Prata / 云巅工作室 
+作者: Stephen Prata / 云巅工作室
 出版社: 人民邮电出版社
-译者: 云巅工作室 
+译者: 云巅工作室
 出版年: 2005-2-1
 页数: 626
 定价: 60.00元
@@ -93,7 +93,7 @@ ISBN: 9787115130228
 6.2 while语句
 6.4 不确定循环与计数循环
 6.5 for循环
-6.6 更多赋值运算符：+=、-=、*=、/=和%=
+6.6 更多赋值运算符：+=、-=、\*=、/=和%=
 6.7 逗号运算符
 6.8 退出条件循环：do while
 6.9 选择哪种循环
@@ -259,3 +259,4 @@ ISBN: 9787115130228
 + [百度云下载](http://pan.baidu.com/s/1jGf72WQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBIW)
 + [MEGA下载](https://mega.co.nz/#!Od1HyJ4Z!pizMW-tuVuGSw2ImQFGbflSNnWkhryjNM0lkeZr_xxI)
++ [千易下载](http://1000eb.com/1gfdl)

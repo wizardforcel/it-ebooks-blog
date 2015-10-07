@@ -13,7 +13,7 @@ categories:
 
 ## 出版信息 ##
 
-作者: 钱林松 / 赵海旭 
+作者: 钱林松 / 赵海旭
 出版社: 机械工业出版社华章公司
 出版年: 2011-10
 页数: 411
@@ -167,3 +167,4 @@ ISBN: 9787111356332
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP4P5A)
 * [百度云下载](http://pan.baidu.com/s/1kTxd4Tx)
 * [MEGA下载](https://mega.co.nz/#!Wc1lACwQ!twHPX8d5IUQ1kJCw6E2Y0pp57z4ypuyZj_6q4k5bCGY)
+* [千易下载](http://1000eb.com/1gfdk)

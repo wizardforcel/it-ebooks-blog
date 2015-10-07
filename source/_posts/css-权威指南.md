@@ -15,9 +15,9 @@ categories:
 ## 出版信息 ##
 
 
-作者: [美] Eric A.Meyer 
+作者: [美] Eric A.Meyer
 出版社: 中国电力出版社
-译者: 侯妍 / 尹志忠 
+译者: 侯妍 / 尹志忠
 出版年: 2007-10
 页数: 508
 定价: 58.00
@@ -92,6 +92,7 @@ font属性
 
 ## 下载 ##
 
-+ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8793705)
++ [百度云下载](http://pan.baidu.com/s/1c0dQQqs)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFt9ev)
 + [MEGA下载](https://mega.co.nz/#!6IkEHAoK!RjjyT-oxpddlw82bxAGgP4bfqSn-9su-H_07gfN0q-8)
++ [千易下载](http://1000eb.com/1gfdj)

@@ -14,11 +14,11 @@ categories:
 
 ## 出版信息 ##
 
-作者: [美] Daniel M. Solis 
+作者: [美] Daniel M. Solis
 出版社: 人民邮电出版社
 副标题: 第4版
 原作名: Illustrated C# 2012，Fourth Edition
-译者: 姚琪琳 / 苏　林 / 朱　晔 
+译者: 姚琪琳 / 苏　林 / 朱　晔
 出版年: 2013-6
 页数: 540
 定价: 89.00
@@ -552,3 +552,4 @@ ISBN: 9787115320902
 + [百度云下载](http://pan.baidu.com/s/12iENs)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwuxY)
 + [MEGA下载](https://mega.co.nz/#!GQsUhTBL!K9klUGb2QGGPL2jvZQ-OQj3XaE1zs0hEmk2nL54EMws)
++ [千易下载](http://1000eb.com/1gfdg)

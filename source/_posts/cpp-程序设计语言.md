@@ -14,10 +14,10 @@ categories:
 
 ## 出版信息 ##
 
-作者: 斯特朗斯特鲁普 (Bjarne Stroustrup) 
+作者: 斯特朗斯特鲁普 (Bjarne Stroustrup)
 出版社: 机械工业出版社
 副标题: 特别版·十周年中文纪念版
-译者: 裘宗燕 
+译者: 裘宗燕
 出版年: 2010-3-1
 页数: 905
 定价: 99.00元
@@ -635,6 +635,7 @@ ISBN: 9787111298854
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1c0rxZ1I)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFB5qw)
 + [MEGA下载](https://mega.co.nz/#!uYsGyBpC!-FZkxNQXFK7tk1uMfQAaxPZBDuUDbPDB5G7stw7awxQ)
-+ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8823437)
++ [千易下载](http://1000eb.com/1gfdi)

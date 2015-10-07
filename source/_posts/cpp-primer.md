@@ -13,10 +13,10 @@ categories:
 
 ## 出版信息 ##
 
-作者: Stanley B.Lippman / Josée LaJoie / Barbara E.Moo 
+作者: Stanley B.Lippman / Josée LaJoie / Barbara E.Moo
 出版社: 人民邮电出版社
 原作名: C++ Primer, 4th Edition
-译者: 李师贤 / 蒋爱军 / 梅晓勇 / 林瑛 
+译者: 李师贤 / 蒋爱军 / 梅晓勇 / 林瑛
 出版年: 2006
 页数: 745
 定价: 99.00元
@@ -141,3 +141,4 @@ ISBN: 9787115145543
 * [百度云下载](http://pan.baidu.com/s/1i3zN2QD)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAKv)
 * [MEGA下载](https://mega.co.nz/#!DAlBFJrb!9W-AK3l6T_T_p3mxfZgU0OTV9KQ3sVPaRLj1R5D-wmA)
+* [千易下载](http://1000eb.com/1gfde)

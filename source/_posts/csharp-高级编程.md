@@ -13,9 +13,9 @@ categories:
 
 ## 出版信息 ##
 
-作者: christian nagel / bill evjen / jay glynn 
+作者: christian nagel / bill evjen / jay glynn
 出版社: 清华大学出版社
-译者: 李铭 
+译者: 李铭
 出版年: 2010-11
 页数: 1473
 定价: 148.00元
@@ -35,6 +35,7 @@ ISBN: 9787302239376
 + [百度云下载](http://pan.baidu.com/s/1pJsoLbd)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwfjX)
 + [MEGA下载](https://mega.co.nz/#!zJEAVTYC!_59UgUbetn-UYmKsP7Yp1oWrHb6M3FR81oqvc4ny9EI)
++ [千易下载](http://1000eb.com/1gfdc)
 
 <!-- 6e
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1jBO)

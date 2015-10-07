@@ -14,11 +14,11 @@ categories:
 
 ## 出版信息 ##
 
-作者: [德] Nicolai M. Josuttis 
+作者: [德] Nicolai M. Josuttis
 出版社: 华中科技大学出版社
 副标题: 自修教程与参考手册
 原作名: The C++ Standard Library
-译者: 侯捷 / 孟岩 
+译者: 侯捷 / 孟岩
 出版年: 2002-9
 页数: 800
 定价: 108.00元
@@ -402,6 +402,7 @@ ISBN: 9787560927824
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1gdKyh6j)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFjV_Y)
 + [MEGA下载](https://mega.co.nz/#!3dNhWYDb!Nk5PGQirnLtG1stetTPvtwOwiA7GTQax98oFieEd7gk)
 + [千易下载](http://1000eb.com/1eote)
