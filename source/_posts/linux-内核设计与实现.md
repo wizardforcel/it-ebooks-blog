@@ -39,3 +39,4 @@ ISBN: 9787111338291
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbPtg)
 * [百度云下载](http://pan.baidu.com/s/1c0ctQz2)
 * [MEGA下载](https://mega.co.nz/#!uMc30Bab!AHJtIuK1xXZFy0dVLxDZa3PUcl9g25kCA1UE6npFEy8)
+* [千易下载](http://1000eb.com/1gg2u)

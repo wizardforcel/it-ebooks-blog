@@ -31,6 +31,7 @@ ISBN: 9787115275790
 
 ## 目录 ##
 
+```
 第1章　JavaScript简介　　1
 1.1　JavaScript简史　　1
 1.2　JavaScript实现　　2
@@ -520,9 +521,11 @@ ISBN: 9787115275790
 附录B　严格模式　　717
 附录C　JavaScript库　　723
 附录D　JavaScript工具　　727
+```
 
 ## 下载 ##
 
 * [百度云下载](http://pan.baidu.com/s/1c0jcGTi)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAKe)
 * [MEGA下载](https://mega.co.nz/#!rZExTZ6D!71KG8UUyspdkax4oyPxhT6fw1l08Z9QtFZIwomV4G3g)
+* [千易下载](http://1000eb.com/1gg33)

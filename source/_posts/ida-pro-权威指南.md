@@ -72,3 +72,4 @@ IDA Pro（交互式反汇编器专业版）是应用最广泛的静态反汇编�
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFsHrx)
 + [百度云下载](http://pan.baidu.com/s/1sj0XDxj)
 + [MEGA下载](https://mega.co.nz/#!3Fs2gD6B!HWRMObCr7UYzJNSoIpbXMSlXYnvF9ifnsJayMp9EIfo)
++ [千易下载](http://1000eb.com/1gg26)

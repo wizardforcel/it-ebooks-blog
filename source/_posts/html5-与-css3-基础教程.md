@@ -31,6 +31,7 @@ ISBN: 9787115350657
 
 ## 目录 ##
 
+```
 第1章　网页的构造块　　1
 1.1　HTML思想　　1
 1.2　基本的HTML页面　　2
@@ -254,9 +255,10 @@ ISBN: 9787115350657
 21.3　将文件传送至服务器　　394
 附录A　HTML 参考　　398
 附录B　CSS 引用　　408
+```
 
 ## 下载 ##
 
-+ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8778501)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFtLkX)
 + [MEGA下载](https://mega.co.nz/#!rZkwgArb!eAS-tghoBSBCRQ8FlxqILSSh5HVOiy38BbjMhVsTyo8)
++ [千易下载](http://1000eb.com/1gg25)

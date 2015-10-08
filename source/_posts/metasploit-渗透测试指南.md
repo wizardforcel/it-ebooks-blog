@@ -257,3 +257,4 @@ ISBN: 9787121154874
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1H91)
 * [百度云下载](http://pan.baidu.com/s/1jGvKh6I)
 * [MEGA下载](https://mega.co.nz/#!aEVGzQ5b!60ikBvuOpmyzj6pJ0b0sSwm7Ufv1Zj54rAgRjCVDhUs)
+* [千易下载](http://1000eb.com/1gg39)

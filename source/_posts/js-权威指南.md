@@ -32,6 +32,7 @@ ISBN: 9787111376613
 
 ## 目录 ##
 
+```
 前言 1
 第1章 JavaScript概述 5
 1.1 JavaScript语言核心 8
@@ -220,9 +221,11 @@ ISBN: 9787111376613
 JavaScript核心参考 711
 第四部分 客户端JavaScript参考
 客户端JavaScript参考 847
+```
 
 ## 下载 ##
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP5kSf)
 * [百度云下载](http://pan.baidu.com/s/1hqtLOt2)
 * [MEGA下载](https://mega.co.nz/#!OB0nDLJb!jKScu3TfzgadeNmISb1aEyF4q3n7yc4P-OxLwvSrnN0)
+* [千易下载](http://1000eb.com/1gg31)

@@ -189,3 +189,4 @@ Python
 * [百度云下载](http://pan.baidu.com/s/1dDeWU21)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAKh)
 * [MEGA下载](https://mega.co.nz/#!LI0TFLSK!bq_KAAqL5ReKkKAXb3jScKm8ugjCdsMG7Tgo04zmpfM)
+* [千易下载](http://1000eb.com/1gg27)

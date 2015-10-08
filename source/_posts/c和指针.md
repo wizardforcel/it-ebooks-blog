@@ -88,3 +88,4 @@ ISBN: 9787115172013
 * [百度云下载](http://pan.baidu.com/s/1hqzR5x6)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROT3FD)
 * [MEGA下载](https://mega.co.nz/#!qEEgUJqQ!gLuJEyH2Heed_atgovZil4mg0hxI4VzIPiqBt88Kbbs)
+* [千易下载](http://1000eb.com/1gg20)

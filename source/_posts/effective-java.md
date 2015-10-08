@@ -134,3 +134,4 @@ ISBN: 9787111255833
 + [百度云下载](http://pan.baidu.com/s/1gd6bYpl)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwziP)
 + [MEGA下载](https://mega.co.nz/#!GMNi3YSR!AMKUBIA-iRLqf9pn30f0_U68YWX71lSSwkAUB3FbiRc)
++ [千易下载](http://1000eb.com/1gg1r)

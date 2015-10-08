@@ -454,3 +454,4 @@ ISBN: 9787115228215
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbc4a)
 * [百度云下载](http://pan.baidu.com/s/1eQgt9SY)
 * [MEGA下载](https://mega.co.nz/#!rB8VCDhK!E3L6S4V7IWes1rISkwE1PbWjXBTsMwQ_QIXa1K1e4cI)
+* [千易下载](http://1000eb.com/1gg30)

@@ -33,6 +33,7 @@ JavaScript是Web开发中最重要的一门语言，它强大而优美。无论�
 
 ## 目录 ##
 
+```
 第1章 JavaScript简史	1
 1.1 JavaScript的起源	1
 1.2 DOM	2
@@ -222,12 +223,13 @@ JavaScript是Web开发中最重要的一门语言，它强大而优美。无论�
 12.5.7 压缩代码	263
 12.6 小结	264
 附录 JavaScript库	265
+```
 
 ## 下载 ##
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFB5Z3)
 + [MEGA下载](https://mega.co.nz/#!OUtl3ZYZ!_Wx0iLoPiGdOdOVFOpOu4cigDM61aLMrbQWdTq19EBE)
-+ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8823613)
++ [千易下载](http://1000eb.com/1gg36)
 
 <!-- 1e
 + [百度云下载](http://pan.baidu.com/s/1ntxIorB)
