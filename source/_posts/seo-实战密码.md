@@ -29,4 +29,4 @@ ISBN: 9787121167676
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFj-xQ)
 + [MEGA下载](https://mega.co.nz/#!vZsHCSJI!z6BVWm0AQsR-WFJ6l_7Lrn84VhFUpn00KTh8nMMR8fY)
-+ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8798203)
++ [千易下载](http://1000eb.com/1ggc3)

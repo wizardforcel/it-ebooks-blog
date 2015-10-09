@@ -345,3 +345,4 @@ ISBN: 9787115230270
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1O2g)
 * [百度云下载](http://pan.baidu.com/s/1i39Zwxv)
 * [MEGA下载](https://mega.co.nz/#!HNkjAAoK!qbkCkAoL_PA0hMkf4kh1d40sfI82IYm_URkg9X6eptI)
+* [千易下载](http://1000eb.com/1ggbs)

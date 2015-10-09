@@ -32,3 +32,4 @@ ISBN: 9787900631923
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbPIy)
 * [百度云下载](http://pan.baidu.com/s/1c02ctA4)
 * [MEGA下载](https://mega.co.nz/#!OdNAXKyT!U6SlhQuoTevQvWIGbVBtslVLpJ6w3ov7W-JQ8A2VZa0)
+* [千易下载](http://1000eb.com/1ggbn)

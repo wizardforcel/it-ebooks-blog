@@ -32,4 +32,4 @@ ISBN: 9787111186823
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFkuH3)
 + [MEGA下载](https://mega.co.nz/#!3EsT2Kaa!9Qrt6cDcGv4Dv18ghBQ6uebCOD-seYzf8uWt6UknlSE)
-+ [CSDN下载](http://download.csdn.net/detail/wizardforcel/8804551)
++ [千易下载](http://1000eb.com/1ggca)

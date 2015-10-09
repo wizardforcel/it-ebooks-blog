@@ -432,3 +432,4 @@ icmpv6	690
 + [百度云下载](http://pan.baidu.com/s/1pJMGHon)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwyk_)
 + [MEGA下载](https://mega.co.nz/#!TIMRmCxY!lkxH5bIdgSTwG2ZIfapMY7cfflpHYR4yBLmG_qotKlQ)
++ [千易下载](http://1000eb.com/1ggcq7)

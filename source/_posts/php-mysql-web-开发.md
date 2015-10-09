@@ -802,3 +802,4 @@ ISBN: 9787111262817
 * [百度云下载](http://pan.baidu.com/s/1eQ1XzQq)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROT3Fk)
 * [MEGA下载](https://mega.co.nz/#!fEsjjb6A!RthFHe4SkjbJ_oKDRyhvHBhXyhO-Ze_ZO3yKoUszdAM)
+* [千易下载](http://1000eb.com/1ggbq)

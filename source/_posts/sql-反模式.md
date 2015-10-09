@@ -365,3 +365,4 @@ ISBN: 9787115261274
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROSVi3)
 * [百度云下载](http://pan.baidu.com/s/1eQGQ7aa)
 * [MEGA下载](https://mega.co.nz/#!OE9iCCwR!i5riSCc9WTILbqAh3OZsfwQA8eZ8Zpn5RTZS99-whhs)
+* [千易下载](http://1000eb.com/1ggbw)

@@ -188,3 +188,4 @@ ISBN: 9787115311047
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROR8YZ)
 * [百度云下载](http://pan.baidu.com/s/1ntGCppn)
 * [MEGA下载](https://mega.co.nz/#!mA8zyaYA!MS7ePg6SbhtDRF8cd70NbfOvfT3l9jRphhhhXKDk-qw)
+* [千易下载](http://1000eb.com/1ggcu)

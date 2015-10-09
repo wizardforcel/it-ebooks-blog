@@ -169,3 +169,4 @@ ISBN: 9787111075677
 + [百度云下载](http://pan.baidu.com/s/1i3y6vEt)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwzrq)
 + [MEGA下载](https://mega.co.nz/#!XAskkCZB!MYKYyXpoqOJ_0EaP2hTc-AD1i9z7cDQBliBgxbYtIn4)
++ [千易下载](http://1000eb.com/1ggbv)
