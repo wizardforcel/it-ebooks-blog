@@ -27,6 +27,7 @@ ISBN: 9787115388407
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1o6mufJc)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRF6FP_)
 + [MEGA下载](https://mega.nz/#!vFECFbjT!rk68FxmJn8GyDYJQFQsu11jfTPVY_5yFmfFh027YTvI)
 + [千易下载](http://1000eb.com/1fjo4)

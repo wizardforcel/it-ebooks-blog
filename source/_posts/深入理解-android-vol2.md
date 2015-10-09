@@ -198,6 +198,7 @@ ISBN: 9787111389187
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1eQFG9KA)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFh2U5)
 + [MEGA下载](https://mega.co.nz/#!iJVEHCSb!Qt3GjYQig1z9WxCHHEDLtVaIcbz5pOQmE52zaHPMza0)
 + [千易下载](http://1000eb.com/1dxjq)

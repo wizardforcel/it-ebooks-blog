@@ -28,6 +28,7 @@ ISBN: 9787115177896
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1c0lY7ni)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFsDFV)
 + [MEGA下载](https://mega.co.nz/#!TRNi3LrL!apqD_0xXWKg5mLsxujDqXCGMTf_hA5Ad0ooJkX8qa2U)
 + [千易下载](http://1000eb.com/1gg1w)

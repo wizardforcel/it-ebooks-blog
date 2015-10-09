@@ -1239,6 +1239,7 @@ ABC　　820
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1ntEgvqh)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFklgh)
 + [MEGA下载](https://mega.co.nz/#!uQlhGALS!30qQi1M9yU5zjwwyeozoNj9KGhHF2_YvmbLwAPbHmTk)
 + [千易下载](http://1000eb.com/1ggha)

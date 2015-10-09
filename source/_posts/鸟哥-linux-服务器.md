@@ -33,6 +33,7 @@ ISBN: 9787111384991
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1o6vh6mY)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRF6FU1)
 + [MEGA下载](https://mega.nz/#!aA0V3YqT!4FWly73CrtHyQkY158CAQ0DH8xZpmQZ1awRbwJYhhsE)
 + [千易下载](http://1000eb.com/1fjo8)

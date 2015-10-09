@@ -182,6 +182,7 @@ ISBN: 9787111426608
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1o6pHPKA)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFh3zK)
 + [MEGA下载](https://mega.co.nz/#!DdVwhQAL!nvdbglBVWhbasSxR5oNohnjGs9u9YujG6wh7NXXhypk)
 + [千易下载](http://1000eb.com/1dxke)

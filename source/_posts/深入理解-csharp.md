@@ -416,6 +416,7 @@ Changed　　456
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1pJ7qIDH)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFB2zD)
 + [MEGA下载](https://mega.co.nz/#!rFEBER7L!wk3DLL0zHAMjjZouvCqZIJkfErNd0h19MiAkvOHXUkA)
 + [千易下载](http://1000eb.com/1drkw)

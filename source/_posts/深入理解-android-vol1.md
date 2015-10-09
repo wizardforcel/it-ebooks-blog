@@ -217,6 +217,7 @@ ISBN: 9787111357629
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1bnAxeNH)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFh2Uh)
 + [MEGA下载](https://mega.co.nz/#!6UdUnajb!Ql5VmqncbR8f7IsqkRpEnQ87WX18B7EVdtFDbdJzwXY)
 + [千易下载](http://1000eb.com/1dxjp)

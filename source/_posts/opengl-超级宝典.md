@@ -402,6 +402,7 @@ Richard S. Wright, Jr.是Software Bisque公司的资深软件工程师，在这�
 
 ## 下载 ##
 
+* [百度云下载](http://pan.baidu.com/s/1gd2NtE7)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFjj5L)
 * [MEGA下载](https://mega.co.nz/#!iF0VAB6S!AZBV4BsNOCIWatIuOUTGooYdSFvOh1_edP8XxstKxMI)
 * [千易下载](http://1000eb.com/1eo2z)

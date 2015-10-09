@@ -259,6 +259,7 @@ resume()、stop()	236
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1kT2Fot5)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPb4RY)
 + [MEGA下载](https://mega.co.nz/#!SANExYQC!SY0pMKgq532Gteuyh0VYogTfW5GrBjjzFz75f7s-mMs)
 + [千易下载](http://1000eb.com/1gg2b)

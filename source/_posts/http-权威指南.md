@@ -626,6 +626,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 ## 下载 ##
 
+* [百度云下载](http://pan.baidu.com/s/1kTrPQx5)
 * [微盘下载](http://vdisk.weibo.com/s/qBHeHbwa2TRcv)
 * [百度云下载](http://pan.baidu.com/s/1nt46dC1)
 * [千易下载](http://1000eb.com/1dyig)

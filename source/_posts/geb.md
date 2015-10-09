@@ -66,6 +66,7 @@ ISBN: 9787100013239
 
 ## 下载 ##
 
++ [百度云下载](http://pan.baidu.com/s/1hqlQtm8)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRE_Snh)
 + [MEGA下载](https://mega.co.nz/#!7Ms1nJAA!Tb7DNpCswiUDSwT9ruqBOZmkscAN8RqLOlIro8TSvK8)
 + [千易下载](http://1000eb.com/1dpt6)
