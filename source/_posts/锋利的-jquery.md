@@ -264,3 +264,4 @@ G.11 其他对象 379
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbL6K)
 * [百度云下载](http://pan.baidu.com/s/1mgiPhRM)
 * [MEGA下载](https://mega.co.nz/#!PQ8mSLaT!8UbFs3gyeWw84VzI7cDUtprHjFn5dDnwepmIx53NLF8)
+* [千易下载](http://1000eb.com/1ggel)
