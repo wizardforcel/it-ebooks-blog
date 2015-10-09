@@ -404,5 +404,5 @@ ISBN: 9787560927824
 
 + [百度云下载](http://pan.baidu.com/s/1gdKyh6j)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFjV_Y)
-+ [MEGA下载](https://mega.co.nz/#!3dNhWYDb!Nk5PGQirnLtG1stetTPvtwOwiA7GTQax98oFieEd7gk)
++ [FilePi下载](http://filepi.com/i/DN8Vvy8)
 + [千易下载](http://1000eb.com/1eote)

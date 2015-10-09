@@ -34,7 +34,7 @@ ISBN: 9787302239376
 
 + [百度云下载](http://pan.baidu.com/s/1pJsoLbd)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwfjX)
-+ [MEGA下载](https://mega.co.nz/#!zJEAVTYC!_59UgUbetn-UYmKsP7Yp1oWrHb6M3FR81oqvc4ny9EI)
++ [FilePi下载](http://filepi.com/i/tvXMa7t)
 + [千易下载](http://1000eb.com/1gfdc)
 
 <!-- 6e

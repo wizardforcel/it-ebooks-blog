@@ -258,5 +258,5 @@ ISBN: 9787115130228
 
 + [百度云下载](http://pan.baidu.com/s/1jGf72WQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBIW)
-+ [MEGA下载](https://mega.co.nz/#!Od1HyJ4Z!pizMW-tuVuGSw2ImQFGbflSNnWkhryjNM0lkeZr_xxI)
++ [FilePi下载](http://filepi.com/i/c7qRjyu)
 + [千易下载](http://1000eb.com/1gfdl)

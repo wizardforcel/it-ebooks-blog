@@ -637,5 +637,5 @@ ISBN: 9787111298854
 
 + [百度云下载](http://pan.baidu.com/s/1c0rxZ1I)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFB5qw)
-+ [MEGA下载](https://mega.co.nz/#!uYsGyBpC!-FZkxNQXFK7tk1uMfQAaxPZBDuUDbPDB5G7stw7awxQ)
++ [FilePi下载](http://filepi.com/i/vQ9pVlm)
 + [千易下载](http://1000eb.com/1gfdi)

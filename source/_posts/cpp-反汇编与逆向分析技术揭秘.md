@@ -166,5 +166,5 @@ ISBN: 9787111356332
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP4P5A)
 * [百度云下载](http://pan.baidu.com/s/1kTxd4Tx)
-* [MEGA下载](https://mega.co.nz/#!Wc1lACwQ!twHPX8d5IUQ1kJCw6E2Y0pp57z4ypuyZj_6q4k5bCGY)
+* [FilePi下载](http://filepi.com/i/SIdaylV)
 * [千易下载](http://1000eb.com/1gfdk)

@@ -140,5 +140,5 @@ ISBN: 9787115145543
 
 * [百度云下载](http://pan.baidu.com/s/1i3zN2QD)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAKv)
-* [MEGA下载](https://mega.co.nz/#!DAlBFJrb!9W-AK3l6T_T_p3mxfZgU0OTV9KQ3sVPaRLj1R5D-wmA)
+* [FilePi下载](http://filepi.com/i/FWFAcqw)
 * [千易下载](http://1000eb.com/1gfde)

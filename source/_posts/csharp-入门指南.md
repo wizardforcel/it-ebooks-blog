@@ -600,5 +600,5 @@ Foundation	819
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1kgs)
 * [百度云下载](http://pan.baidu.com/s/1eQvSr0u)
-* [MEGA下载](https://mega.co.nz/#!CA0UySoC!-rbJ6Z8oa6mm1bsIgKVrFV9vB2-YKg527AAETCLuims)
+* [FilePi下载](http://filepi.com/i/zy9Ezdt)
 * [千易下载](http://1000eb.com/1gfdd)

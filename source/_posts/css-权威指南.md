@@ -94,5 +94,5 @@ font属性
 
 + [百度云下载](http://pan.baidu.com/s/1c0dQQqs)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFt9ev)
-+ [MEGA下载](https://mega.co.nz/#!6IkEHAoK!RjjyT-oxpddlw82bxAGgP4bfqSn-9su-H_07gfN0q-8)
++ [FilePi下载](http://filepi.com/i/8Cnjk9J)
 + [千易下载](http://1000eb.com/1gfdj)
