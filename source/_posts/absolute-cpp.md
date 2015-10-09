@@ -466,7 +466,7 @@ C++如何实现虚函数 574
 
 + [百度云下载](http://pan.baidu.com/s/1jG27rKE)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVqTt)
-+ [MEGA下载](https://mega.co.nz/#!LV0UEAxa!7ntFbHJDg__rAobD0mzbYQ_-a_h0k7oW1cmD_yKlSM8)
++ [FilePi下载](http://filepi.com/i/xQiQn25)
 + [千易下载](http://1000eb.com/1gf34)
 
 <!-- 2e

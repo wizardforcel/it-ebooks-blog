@@ -422,5 +422,5 @@ ISBN: 9787115346438
 
 + [百度云下载](http://pan.baidu.com/s/1FOAGQ)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFh2Uf)
-+ [MEGA下载](https://mega.co.nz/#!nMMyQbjK!n8xSyHXuSGjL42rn-B4l6dgSGI1D-GNUjoW9xt_ixUc)
++ [FilePi下载](http://filepi.com/i/xJ8Rypa)
 + [千易下载](http://1000eb.com/1dxjo)

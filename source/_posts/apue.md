@@ -287,7 +287,7 @@ ISBN: 9787115352118
 
 + [百度云下载](http://pan.baidu.com/s/1dDIq9vb)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROUMK8)
-+ [MEGA下载](https://mega.co.nz/#!qE1gSQRD!tjS6bjwcEWG-54Fi-_0eaCXcU9O2sEvsJJjB-SBunr4)
++ [FilePi下载](http://filepi.com/i/7SaxdN1)
 + [千易下载](http://1000eb.com/1gf36)
 
 <!-- 2e

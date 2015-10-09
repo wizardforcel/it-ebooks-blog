@@ -391,5 +391,5 @@ Mailer 426
 
 + [百度云下载](http://pan.baidu.com/s/1bnhNUMV)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFwnWS)
-+ [MEGA下载](https://mega.co.nz/#!2dsAkT5Z!T-qqMrp755VmlGgkVwbDnsOi4vi8eoHyil4mWrD2w2E)
++ [FilePi下载](http://filepi.com/i/h1pb5JK)
 + [千易下载](http://1000eb.com/1gf3g)

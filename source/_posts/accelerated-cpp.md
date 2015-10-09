@@ -36,5 +36,5 @@ ISBN: 9787508318196
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBJ0)
 + [百度云下载](http://pan.baidu.com/s/1sjkIS4t)
-+ [MEGA下载](https://mega.co.nz/#!GJtFkKDC!U3klInP6I4tcmqqTmshqK8D7Kx6jK8ydfjW3p1ts-n8)
++ [FilePi下载](http://filepi.com/i/btBMpdG)
 + [千易下载](http://1000eb.com/1gf35)

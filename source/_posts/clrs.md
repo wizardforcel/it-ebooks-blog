@@ -352,7 +352,7 @@ D.2 矩阵基本性质 712
 
 + [百度云下载](http://pan.baidu.com/s/1jGmYqLw)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVbLa)
-+ [MEGA下载](https://mega.co.nz/#!CV1mHYTK!TElqht8F51C84fgAGqKwzLPd6OudJusFnR8p1x2NM3o)
++ [FilePi下载](http://filepi.com/i/nF21L7d)
 + [千易下载](http://1000eb.com/1gf3e)
 
 <!-- 2e
