@@ -560,3 +560,4 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROSgb5)
 * [百度云下载](http://pan.baidu.com/s/1hqkYvRm)
 * [MEGA下载](https://mega.co.nz/#!3Yk3iQbS!KHEUgs4Q8KZDDISZTaF-Mubw6Yx7hQusaE0dKCkmnEQ)
+* [千易下载](http://1000eb.com/1ggfy)

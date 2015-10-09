@@ -248,3 +248,4 @@ ISBN: 9787115351531
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP52lP)
 * [百度云下载](http://pan.baidu.com/s/1sjE2nY9)
 * [MEGA下载](https://mega.co.nz/#!qY9B0Zgb!uqpblJ2vHYi6Z8v1yN0reP3ENyN8R6Af0HqsfU3QihU)
+* [千易下载](http://1000eb.com/1ggi2)

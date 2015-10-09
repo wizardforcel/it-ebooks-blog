@@ -478,6 +478,7 @@ ISBN: 9787121198854
 + [百度云下载](http://pan.baidu.com/s/1gd4azuF)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFlWZv)
 + [MEGA下载](https://mega.co.nz/#!rNE2XBbK!edNNkuLIp7KaXoN1KYsrLGCE9muy6Yw1Q505ivPtIJY)
++ [千易下载](http://1000eb.com/1ggg2)
 
 <!-- 2e
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1k22)

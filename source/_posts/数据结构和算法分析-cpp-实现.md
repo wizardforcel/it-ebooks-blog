@@ -32,3 +32,4 @@ ISBN: 9787115139238
 * [百度云下载](http://pan.baidu.com/s/1jGuyty2)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1ocn)
 * [MEGA下载](https://mega.co.nz/#!PJtlXYJa!rs-akKtUfTQQJacREFLNrSrsoxczH7_DB71RMwZQV10)
+* [千易下载](http://1000eb.com/1gghy)
