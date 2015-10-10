@@ -33,5 +33,5 @@ ISBN: 9787115318978
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1k2m)
 * [百度云下载](http://pan.baidu.com/s/1mgvaem8)
-* [MEGA下载](https://mega.co.nz/#!uB9CDArB!3q5DS-5wFmby74H3i9Akg8kixEuIfpSMHj_opU8gvpg)
+* [FilePi下载](http://filepi.com/i/SLjTRuh)
 * [千易下载](http://1000eb.com/1gghz)

@@ -318,5 +318,5 @@ ISBN: 9787115226266
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROstGM)
 * [百度云下载](http://pan.baidu.com/s/1mgl60Jm)
-* [MEGA下载](https://mega.co.nz/#!HZVDWJYD!trYNBvCRWvZ-SjuR84oVMrQJK4jQqxy0YLlt0HzsctI)
+* [FilePi下载](http://filepi.com/i/LuhV7zN)
 * [千易下载](http://1000eb.com/1gghg)

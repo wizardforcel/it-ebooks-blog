@@ -608,5 +608,5 @@ jQuery领域标杆之作，以实例驱动，系统全面讲解jQuery、jQuery U
 
 + [百度云下载](http://pan.baidu.com/s/1wlXLG)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFfU7X)
-+ [MEGA下载](https://mega.co.nz/#!eNkwhCxL!hEUrxg1M8_wr1GcgOV_IW74AfqslHPASPVhdCtW_LAU)
++ [FilePi下载](http://filepi.com/i/AAIbajx)
 + [千易下载](http://1000eb.com/1elzq)

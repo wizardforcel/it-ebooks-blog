@@ -164,5 +164,5 @@ JavaScript语言有很多复杂的概念，但却用简单的方式体现出来�
 
 + [百度云下载](http://pan.baidu.com/s/1pJ0wpIV)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFv-3e)
-+ [MEGA下载](https://mega.co.nz/#!yUE2BbqL!-55aDmx2pkWo1D-o57rZmv0JICBb3aZXo4-_pJr9xZE)
++ [FilePi下载](http://filepi.com/i/uhW1PiY)
 + [千易下载](http://1000eb.com/1gggz)
