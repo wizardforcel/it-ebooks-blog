@@ -29,5 +29,5 @@ ISBN: 9787121167676
 
 + [百度云下载](http://pan.baidu.com/s/1hq4Nnta)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFj-xQ)
-+ [MEGA下载](https://mega.co.nz/#!vZsHCSJI!z6BVWm0AQsR-WFJ6l_7Lrn84VhFUpn00KTh8nMMR8fY)
++ [FilePi下载](http://filepi.com/i/udInzMT)
 + [千易下载](http://1000eb.com/1ggc3)

@@ -45,5 +45,5 @@ ISBN: 9787111075660
 
 * [百度云下载](http://pan.baidu.com/s/1sjma5Ut)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTBaD)
-* [MEGA下载](https://mega.co.nz/#!3I9xTBAY!KWWeLIEdRbxWeKFPFv-zrx3doS0yXkcsp1xcNygc8Y0)
+* [FilePi下载](http://filepi.com/i/mWkhOlv)
 * [千易下载](http://1000eb.com/1ggcc)

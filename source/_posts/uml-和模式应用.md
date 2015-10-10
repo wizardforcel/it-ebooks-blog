@@ -32,5 +32,5 @@ ISBN: 9787111186823
 
 + [百度云下载](http://pan.baidu.com/s/1kTu7EHT)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFkuH3)
-+ [MEGA下载](https://mega.co.nz/#!3EsT2Kaa!9Qrt6cDcGv4Dv18ghBQ6uebCOD-seYzf8uWt6UknlSE)
++ [FilePi下载](http://filepi.com/i/XcZJzGw)
 + [千易下载](http://1000eb.com/1ggca)

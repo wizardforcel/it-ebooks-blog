@@ -330,7 +330,7 @@ ISBN: 9787111481133
 
 * [百度云下载](http://pan.baidu.com/s/1c0DcRNa)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFzB7P)
-* [MEGA下载](https://mega.co.nz/#!OUMTmTZZ!jc3rr0MCG6lk4C0aA1afv-j_pvynOKoerw3Vh1rbnMo)
+* [FilePi下载](http://filepi.com/i/WDCVvJH)
 * [千易下载](http://1000eb.com/1eulf)
 
 <!-- 7e

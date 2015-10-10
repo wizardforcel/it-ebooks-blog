@@ -261,5 +261,5 @@ resume()、stop()	236
 
 + [百度云下载](http://pan.baidu.com/s/1kT2Fot5)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPb4RY)
-+ [MEGA下载](https://mega.co.nz/#!SANExYQC!SY0pMKgq532Gteuyh0VYogTfW5GrBjjzFz75f7s-mMs)
++ [FilePi下载](http://filepi.com/i/nJyLhBH)
 + [千易下载](http://1000eb.com/1gg2b)

@@ -37,5 +37,5 @@ ISBN: 9787121029097
 
 + [百度云下载](http://pan.baidu.com/s/1i3iryz7)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBIU)
-+ [MEGA下载](https://mega.co.nz/#!iFcylb7A!vU71e5KwNvEuKubMbTlXSBFxvR33mNIO5MEOFkVobvs)
++ [FilePi下载](http://filepi.com/i/YePCeJp)
 + [千易下载](http://1000eb.com/1gg1u)

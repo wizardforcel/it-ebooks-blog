@@ -272,5 +272,5 @@ ISBN: 9787115278715
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFsCJq)
 + [百度云下载](http://pan.baidu.com/s/1eQ3vWKa)
-+ [MEGA下载](https://mega.co.nz/#!GR8mzIab!8GVAOEIosUpTJ9Yv4QrGIWeyfri86ygjK5CL0TAws3c)
++ [FilePi下载](http://filepi.com/i/VKcX18y)
 + [千易下载](http://1000eb.com/1gg1y)

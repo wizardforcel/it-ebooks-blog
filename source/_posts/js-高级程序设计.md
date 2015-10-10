@@ -527,5 +527,5 @@ ISBN: 9787115275790
 
 * [百度云下载](http://pan.baidu.com/s/1c0jcGTi)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAKe)
-* [MEGA下载](https://mega.co.nz/#!rZExTZ6D!71KG8UUyspdkax4oyPxhT6fw1l08Z9QtFZIwomV4G3g)
+* [FilePi下载](http://filepi.com/i/cMKj231)
 * [千易下载](http://1000eb.com/1gg33)

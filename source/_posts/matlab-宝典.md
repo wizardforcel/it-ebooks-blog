@@ -34,5 +34,5 @@ ISBN: 9787121122187
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbB8O)
 * [百度云下载](http://pan.baidu.com/s/1c04KgRA)
-* [MEGA下载](https://mega.co.nz/#!jIdniCCJ!gHvjfafRrqXmqQx3G-fNLgvxgOPrTmzJ6p87CprGQrU)
+* [FilePi下载](http://filepi.com/i/9E1zHt3)
 * [千易下载](http://1000eb.com/1ggbp)

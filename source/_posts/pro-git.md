@@ -45,3 +45,4 @@ This book is for all open source developers: you are bound to encounter it somew
 * [百度云下载](http://pan.baidu.com/s/1eQ93YBw)
 * [微盘下载](http://vdisk.weibo.com/s/qBHeHbwa2TRcB)
 * [千易下载](http://1000eb.com/1dyii)
+* [FilePi下载](http://filepi.com/i/2Huxk3T)

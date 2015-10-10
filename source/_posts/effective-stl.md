@@ -25,5 +25,5 @@ ISBN: 9787302126959
 
 + [百度云下载](http://pan.baidu.com/s/1gdxxFIb)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFjWbg)
-+ [MEGA下载](https://mega.co.nz/#!iJsHWRCI!NNo7AOZhcH5Sh4qg5AVKI_eigN7CElF9v0Oe74ISn3I)
++ [FilePi下载](http://filepi.com/i/2rlwams)
 + [千易下载](http://1000eb.com/1eotc)

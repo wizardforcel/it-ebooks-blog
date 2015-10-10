@@ -73,5 +73,5 @@ ISBN: 9787111135104
 
 * [百度云下载](http://pan.baidu.com/s/1eQs4e0y)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTb7M)
-* [MEGA下载](https://mega.co.nz/#!CZ8SHKjZ!j8u4i07Ik1Y8BqSP81tJIdZMFKddLHpb7ngM4zfjJLg)
+* [FilePi下载](http://filepi.com/i/5HCRLGQ)
 * [千易下载](http://1000eb.com/1ggby)

@@ -237,5 +237,5 @@ ISBN: 9787115276766
 
 + [百度云下载](http://pan.baidu.com/s/1i3xZ6CH)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFtLbv)
-+ [MEGA下载](https://mega.co.nz/#!udMTlJDa!Qg-4AHvDeYHunFxxU17CFHxO3LBfkShwmYjlEd9RnZs)
++ [FilePi下载](http://filepi.com/i/kNtbrGY)
 + [千易下载](http://1000eb.com/1gg32)

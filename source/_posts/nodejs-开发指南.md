@@ -163,3 +163,4 @@ Node.js是一种方兴未艾的新技术，诞生于2009年。经过两年的快
 * [百度云下载](http://pan.baidu.com/s/1pJHZnmj)
 * [微盘下载](http://vdisk.weibo.com/s/qBHeHbwa2TRct)
 * [千易下载](http://1000eb.com/1dyih)
+* [FilePi下载](http://filepi.com/i/fnpWQXO)

@@ -227,5 +227,5 @@ JavaScript核心参考 711
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP5kSf)
 * [百度云下载](http://pan.baidu.com/s/1hqtLOt2)
-* [MEGA下载](https://mega.co.nz/#!OB0nDLJb!jKScu3TfzgadeNmISb1aEyF4q3n7yc4P-OxLwvSrnN0)
+* [FilePi下载](http://filepi.com/i/yr3ZySx)
 * [千易下载](http://1000eb.com/1gg31)

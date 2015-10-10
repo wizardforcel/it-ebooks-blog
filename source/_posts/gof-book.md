@@ -50,5 +50,5 @@ ISBN: 9787111075752
 
 * [百度云下载](http://pan.baidu.com/s/1jG7SVNC)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTBaA)
-* [MEGA下载](https://mega.co.nz/#!bUMxlYIK!BzrTNP_FNbWpGiaUc0ah206_fiN8g7WUJtgAeXsQO9Q)
+* [FilePi下载](http://filepi.com/i/hlSgalB)
 * [千易下载](http://1000eb.com/1gg1x)

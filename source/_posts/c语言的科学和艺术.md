@@ -33,5 +33,5 @@ ISBN: 9787111159711
 
 * [百度云下载](http://pan.baidu.com/s/1qWmedUs)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTbdO)
-* [MEGA下载](https://mega.co.nz/#!2JVXSIyQ!FnW5wvN6R6KsOi4vLGE_CXDmtwtq81AYP6uawfB0U3I)
+* [FilePi下载](http://filepi.com/i/pAVRERK)
 * [千易下载](http://1000eb.com/1gg1t)

@@ -727,5 +727,5 @@ ISBN: 9787115338365
 
 * [百度云下载](http://pan.baidu.com/s/1bnDAEIj)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROLEyJ)
-* [MEGA下载](https://mega.co.nz/#!GU1FHYqA!urAeqWRVbXZ8CXXlkw4TCvAMEeIbNb2LdVuEsH_D1hY)
+* [FilePi下载](http://filepi.com/i/3dpwKny)
 * [千易下载](http://1000eb.com/1gg22)

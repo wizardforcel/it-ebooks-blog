@@ -404,5 +404,5 @@ colophon 510
 
 + [百度云下载](http://pan.baidu.com/s/1o6859MU)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXKE0)
-+ [MEGA下载](https://mega.co.nz/#!mJ1i3TKL!dQ4DqUdkPZoZXnEQB7kJIZG4_NwgedHYcgCQs5A2I28)
++ [FilePi下载](http://filepi.com/i/4Weag5r)
 + [千易下载](http://1000eb.com/1ggc9)

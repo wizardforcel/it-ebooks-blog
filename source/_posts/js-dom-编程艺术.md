@@ -229,7 +229,7 @@ JavaScript是Web开发中最重要的一门语言，它强大而优美。无论�
 
 + [百度云下载](http://pan.baidu.com/s/1c0ls6h6)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFB5Z3)
-+ [MEGA下载](https://mega.co.nz/#!OUtl3ZYZ!_Wx0iLoPiGdOdOVFOpOu4cigDM61aLMrbQWdTq19EBE)
++ [FilePi下载](http://filepi.com/i/F3M6ccl)
 + [千易下载](http://1000eb.com/1gg36)
 
 <!-- 1e
