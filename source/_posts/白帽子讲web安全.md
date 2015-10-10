@@ -275,5 +275,5 @@ ISBN: 9787121160721
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROUdxQ)
 * [百度云下载](http://pan.baidu.com/s/1mg7kA0K)
-* [MEGA下载](https://mega.co.nz/#!aI0HCB7T!4yJ6OqKSF_FbH7mAk1Ff9tKmr_Xcxq4TBIbuXfQF_fE)
+* [FilePi下载](http://filepi.com/i/mn3WH3i)
 * [千易下载](http://1000eb.com/1ggdf)

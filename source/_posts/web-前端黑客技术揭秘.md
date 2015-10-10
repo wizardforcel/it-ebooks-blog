@@ -229,5 +229,5 @@ BUG带来的安全问题	165
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRORNpk)
 * [百度云下载](http://pan.baidu.com/s/1c0fGO3Q)
-* [MEGA下载](https://mega.co.nz/#!aV0nHT5Y!GadcBOkSva_qe2WrCmKMMZdPgOCA0Yt7RtfgrN2JDl8)
+* [FilePi下载](http://filepi.com/i/qrpbxiF)
 * [千易下载](http://1000eb.com/1ggcn)

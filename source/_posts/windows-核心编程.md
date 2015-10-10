@@ -362,5 +362,5 @@ ISBN: 9787302184003
 
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbvbN)
 * [百度云下载](http://pan.baidu.com/s/1ntmQRxf)
-* [MEGA下载](https://mega.co.nz/#!zM1mACBa!lyVR2yaiUYjicv58AnJEJT2wgLFTbK1R_DCfguXn26A)
+* [FilePi下载](http://filepi.com/i/vdbVUJz)
 * [千易下载](http://1000eb.com/1ggd0)

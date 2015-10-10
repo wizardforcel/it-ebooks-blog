@@ -494,5 +494,5 @@ ISBN: 9787111354185
 
 + [百度云下载](http://pan.baidu.com/s/1bnmG32R)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFtpQ6)
-+ [MEGA下载](https://mega.co.nz/#!mVFxXTDA!0HhRwCBiFbc-EajeQO0rJiG2s1Y6POkcwJusH5-G4fg)
++ [FilePi下载](http://filepi.com/i/oUQu9kq)
 + [千易下载](http://1000eb.com/1ggcv)

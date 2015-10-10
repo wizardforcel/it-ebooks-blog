@@ -32,5 +32,5 @@ ISBN: 9787115176066
 
 * [百度云下载](http://pan.baidu.com/s/1hqpebsg)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROWaMC)
-* [MEGA下载](https://mega.co.nz/#!eElUzLxQ!NGRyGH_KDWQGUlo8XhUTOHsae2y6gV5j0f0PHuiynTI)
+* [FilePi下载](http://filepi.com/i/GOFf5cp)
 * [千易下载](http://1000eb.com/1ggd7)

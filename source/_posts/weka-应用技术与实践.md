@@ -25,5 +25,5 @@ ISBN: 9787302371748
 
 * [百度云下载](http://pan.baidu.com/s/1c04LjKs)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVRaA)
-* [MEGA下载](https://mega.co.nz/#!SJN0WK6Y!2aJ3IDPtx24k4AZMH4seNEjgCEKlxgI1MiHdtjr1LdI)
+* [FilePi下载](http://filepi.com/i/I7tpkSf)
 * [千易下载](http://1000eb.com/1ggch)

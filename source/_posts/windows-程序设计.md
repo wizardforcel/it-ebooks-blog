@@ -60,5 +60,5 @@ ISBN: 9787302227397
 
 * [百度云下载](http://pan.baidu.com/s/1ntDm6rn)
 * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAK6)
-* [MEGA下载](https://mega.co.nz/#!XQ8EgIaD!N5R4MTcXxSlwkQ3gV8Udmb9AhHbZ61SuXQN3UZDHG7M)
+* [FilePi下载](http://filepi.com/i/VDcXDg4)
 * [千易下载](http://1000eb.com/1ggd5)

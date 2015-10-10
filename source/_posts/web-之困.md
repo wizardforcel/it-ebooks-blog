@@ -267,5 +267,5 @@ ISBN: 9787111439462
 
 + [百度云下载](http://pan.baidu.com/s/1i3CJWvr)
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRE-U0l)
-+ [MEGA下载](https://mega.co.nz/#!DZcH2Y6J!X3QHkVmbljdKW1AOqHdTsQ0qizpt7q5538mqeX_Ho5w)
++ [FilePi下载](http://filepi.com/i/QYGN5Vr)
 + [千易下载](http://1000eb.com/1ggcj)
