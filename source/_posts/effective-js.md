@@ -1,6 +1,7 @@
 title: effective javascript （中文版）
 date: 2015-10-25 13:40:04
 categories:
+  - javascript
 ---
 
 ![](http://img4.douban.com/lpic/s27274299.jpg)
