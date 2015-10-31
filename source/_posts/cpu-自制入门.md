@@ -8,7 +8,7 @@ categories:
 
 格式：PDF
 类型：扫描版
-大小：--
+大小：8.9M
 
 <!--more-->
 
@@ -223,4 +223,6 @@ ISBN: 9787115338181
 
 ## 下载 ##
 
-+ [360云盘下载](http://yunpan.cn/lk/Qa9nC7BIM5BbV#)（提取码：daa0）
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YREZ9Oo)
++ [千易下载](http://1000eb.com/1hjb5)
++ [FilePi下载](http://filepi.com/i/9XgKqLl)
