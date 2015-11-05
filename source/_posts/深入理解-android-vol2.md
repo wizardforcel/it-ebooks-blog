@@ -196,6 +196,10 @@ ISBN: 9787111389187
 8.6　本章小结 / 437
 “深入理解Android”系列书籍的规划路线图 / 438
 
+## 在线阅读 ##
+
++ [在线阅读](http://blog.csdn.net/column/details/innost.html)
+
 ## 下载 ##
 
 + [百度云下载](http://pan.baidu.com/s/1eQFG9KA)
