@@ -1,7 +1,7 @@
 title: java web 整合开发 王者归来
 date: 2015-04-29 11:55:43
 categories:
-  - java web
+  - ssh
 ---
 
 ![](http://img5.douban.com/lpic/s6106647.jpg)
