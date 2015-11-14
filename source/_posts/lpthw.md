@@ -6,7 +6,7 @@ categories:
 
 ![](http://img4.douban.com/lpic/s27836847.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -384,6 +384,6 @@ PowerShell参考资料 249
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFaCyF)
-+ [千易下载](http://1000eb.com/1hrxs)
-+ [FilePi下载](http://filepi.com/i/35fqRTp)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFay58)
++ [千易下载](http://1000eb.com/1hs4h)
++ [FilePi下载](http://filepi.com/i/5E3HQFR)
