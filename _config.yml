@@ -88,3 +88,7 @@ deploy:
   type: git
   repository: https://gitcafe.com/it-ebooks/it-ebooks.git
   branch: gitcafe-pages
+
+# Baidu Sitemap
+baidusitemap:
+  path: baidusitemap.xml
