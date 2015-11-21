@@ -1,4 +1,4 @@
-title: c程序设计语言 （中文第二版）
+title: c程序设计语言 （中文第二版·新版）
 date: 2015-04-29 11:22:41
 categories:
   - c
@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s1106934.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -85,7 +85,7 @@ ISBN: 9787111128069
 
 ## 下载 ##
 
-* [百度云下载](http://pan.baidu.com/s/1c0H8BRU)
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAKi)
-* [FilePi下载](http://filepi.com/i/8JTRig5)
-* [千易下载](http://1000eb.com/1gg1z)
+* [百度云下载](http://pan.baidu.com/s/1DQdVC)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YREZyaV)
+* [FilePi下载](http://filepi.com/i/hAEWszY)
+* [千易下载](http://1000eb.com/1hwfa)

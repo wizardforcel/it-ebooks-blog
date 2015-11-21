@@ -186,7 +186,7 @@ O(nlogk)的算法，适合处理海量数据 168
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1nt6EQzJ)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFmkMf)
-+ [FilePi下载](http://filepi.com/i/tr34OEw)
-+ [千易下载](http://1000eb.com/1gggt)
++ [百度云下载](http://pan.baidu.com/s/1mgMZcIs)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YREZybF)
++ [FilePi下载](http://filepi.com/i/iEJHmRy)
++ [千易下载](http://1000eb.com/1hwfj)

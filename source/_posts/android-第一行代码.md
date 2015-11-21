@@ -6,7 +6,7 @@ date: 2015-04-28 21:59:00
 
 ![](http://img5.douban.com/lpic/s27358406.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!-- more -->
@@ -281,7 +281,7 @@ ISBN: 9787115362865
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1hqeyBcg)
-+ [微盘下载](http://vdisk.weibo.com/s/qoKRXlvHeJsSN)
-+ [千易下载](http://1000eb.com/1dv00)
-+ [FilePi下载](http://filepi.com/i/LIkDaEz)
++ [百度云下载](http://pan.baidu.com/s/1eQnZ7Zc)
++ [微盘下载]()
++ [千易下载](http://1000eb.com/1hwfe)
++ [FilePi下载](http://filepi.com/i/BTl8OpL)

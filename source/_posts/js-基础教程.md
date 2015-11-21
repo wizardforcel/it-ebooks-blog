@@ -6,7 +6,7 @@ categories:
 
 ![](http://img4.douban.com/lpic/s9026598.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -235,7 +235,7 @@ ISBN: 9787115276766
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1i3xZ6CH)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFtLbv)
-+ [FilePi下载](http://filepi.com/i/kNtbrGY)
-+ [千易下载](http://1000eb.com/1gg32)
++ [百度云下载](http://pan.baidu.com/s/1sjtIE1B)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YREZyb4)
++ [FilePi下载](http://filepi.com/i/iVVwJpR)
++ [千易下载](http://1000eb.com/1hwfc)
