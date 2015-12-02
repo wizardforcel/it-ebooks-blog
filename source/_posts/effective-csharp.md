@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s2373644.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -95,6 +95,6 @@ ISBN: 9787115158888
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRETFk0)
-+ [千易下载](http://1000eb.com/1hmbb)
-+ [FilePi下载](http://filepi.com/i/uQ7NfRy)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFcmGQ)
++ [千易下载](http://1000eb.com/1i2b6)
++ [FilePi下载](http://filepi.com/i/ffK7FCm)

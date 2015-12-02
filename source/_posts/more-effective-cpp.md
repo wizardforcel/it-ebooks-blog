@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s1483794.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -32,7 +32,6 @@ MoreEffectiveC++的重点包括：
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1ntl6Zmp)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBJf)
-+ [FilePi下载](http://filepi.com/i/yb4inKw)
-+ [千易下载](http://1000eb.com/1ggbm)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFcHTi)
++ [FilePi下载](http://filepi.com/i/5OzNWsr)
++ [千易下载](http://1000eb.com/1i28n)
