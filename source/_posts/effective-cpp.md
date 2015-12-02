@@ -6,9 +6,8 @@ categories:
 
 ![](http://img3.douban.com/lpic/s1764864.jpg)
 
-格式：PDF
-类型：扫描版
-大小：14M
+格式：EPUB
+类型：文字版
 
 <!--more-->
 
@@ -35,7 +34,6 @@ ISBN: 9787121029097
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1i3iryz7)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YREXBIU)
-+ [FilePi下载](http://filepi.com/i/YePCeJp)
-+ [千易下载](http://1000eb.com/1gg1u)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFcqWb)
++ [FilePi下载](http://filepi.com/i/JMWCp48)
++ [千易下载](http://1000eb.com/1i268)
