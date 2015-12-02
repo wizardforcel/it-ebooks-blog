@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s27243455.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -186,7 +186,6 @@ Python
 
 ## 下载 ##
 
-* [百度云下载](http://pan.baidu.com/s/1dDeWU21)
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAKh)
-* [FilePi下载](http://filepi.com/i/hoQDME4)
-* [千易下载](http://1000eb.com/1gg27)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFc1dg)
+* [FilePi下载](http://filepi.com/i/rlTNgO6)
+* [千易下载](http://1000eb.com/1i1wi)
