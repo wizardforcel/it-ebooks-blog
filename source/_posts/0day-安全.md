@@ -1,7 +1,7 @@
 title: 0day安全（第二版）
 date: 2015-10-30 15:00:37
 categories:
-  - 逆向工程
+  - 安全
 ---
 
 ![](http://img4.douban.com/lpic/s6518586.jpg)
