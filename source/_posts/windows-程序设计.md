@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s6219932.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -58,7 +58,6 @@ ISBN: 9787302227397
 
 ## 下载 ##
 
-* [百度云下载](http://pan.baidu.com/s/1ntDm6rn)
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAK6)
-* [FilePi下载](http://filepi.com/i/VDcXDg4)
-* [千易下载](http://1000eb.com/1ggd5)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFcgAn)
+* [FilePi下载](http://filepi.com/i/V8vIH6W)
+* [千易下载]()
