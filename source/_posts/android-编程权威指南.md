@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s27969351.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -420,7 +420,6 @@ ISBN: 9787115346438
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1FOAGQ)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFh2Uf)
-+ [FilePi下载](http://filepi.com/i/xJ8Rypa)
-+ [千易下载](http://1000eb.com/1dxjo)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFcd1-)
++ [FilePi下载](http://filepi.com/i/fXMb0KM)
++ [千易下载](http://1000eb.com/1i3hg)

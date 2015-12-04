@@ -6,9 +6,8 @@ categories:
 
 ![](http://img4.douban.com/lpic/s27160217.jpg)
 
-格式：PDF
-类型：扫描版
-大小：8.9M
+格式：EPUB
+类型：文字版
 
 <!--more-->
 
@@ -223,6 +222,6 @@ ISBN: 9787115338181
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YREZ9Oo)
-+ [千易下载](http://1000eb.com/1hjb5)
-+ [FilePi下载](http://filepi.com/i/9XgKqLl)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFcdBy)
++ [千易下载](http://1000eb.com/1i3ij)
++ [FilePi下载](http://filepi.com/i/8ctrFrN)

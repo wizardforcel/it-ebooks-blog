@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s8958650.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -525,7 +525,6 @@ ISBN: 9787115275790
 
 ## 下载 ##
 
-* [百度云下载](http://pan.baidu.com/s/1c0jcGTi)
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROTAKe)
-* [FilePi下载](http://filepi.com/i/cMKj231)
-* [千易下载](http://1000eb.com/1gg33)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFbV3W)
+* [FilePi下载](http://filepi.com/i/RBHevCz)
+* [千易下载](http://1000eb.com/1i3j8)
