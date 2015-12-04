@@ -6,7 +6,7 @@ categories:
 
 ![](http://img3.douban.com/lpic/s3348730.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -360,7 +360,6 @@ ISBN: 9787302184003
 
 ## 下载 ##
 
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbvbN)
-* [百度云下载](http://pan.baidu.com/s/1ntmQRxf)
-* [FilePi下载](http://filepi.com/i/vdbVUJz)
-* [千易下载](http://1000eb.com/1ggd0)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFc2On)
+* [FilePi下载](http://filepi.com/i/WG7wyzs)
+* [千易下载](http://1000eb.com/1i3f1)
