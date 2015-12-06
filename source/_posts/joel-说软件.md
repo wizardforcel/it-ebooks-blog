@@ -6,7 +6,7 @@ categories:
 
 ![](http://img4.douban.com/lpic/s1436476.jpg)
 
-格式：PDF
+格式：EPUB
 类型：文字版
 
 <!--more-->
@@ -33,7 +33,6 @@ ISBN: 9787121016417
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1i3D8EvN)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFeIhT)
-+ [FilePi下载](http://filepi.com/i/9Q18d8O)
-+ [千易下载](http://1000eb.com/1gcbw)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YREWqP-)
++ [FilePi下载](http://filepi.com/i/AsaTeyM)
++ [千易下载](http://1000eb.com/1i4db)
