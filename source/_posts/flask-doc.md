@@ -4,7 +4,7 @@ categories:
   - flask
 ---
 
-![]()
+![](http://docs.jinkan.org/docs/flask/_images/logo-full.png)
 
 来源：[Flask 中文文档 0.10.1](http://docs.jinkan.org/docs/flask/)
 
