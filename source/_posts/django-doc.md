@@ -4,7 +4,7 @@ categories:
   - django
 ---
 
-![](http://python.usyiyi.cn/index/django.png)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/django-chinese-docs-18.jpg?build=1443001716717&v=12.0.2)
 
 作者：Django 文档协作翻译小组
 

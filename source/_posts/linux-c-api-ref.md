@@ -4,18 +4,18 @@ categories:
   - linux
 ---
 
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/linux-c-api-ref.jpg?build=1451270427909&v=12.0.2)
+
 来源：[Linux C API参考](http://net.pku.edu.cn/~yhf/linux_c/)
 
 <!--more-->
 
 ## 在线阅读 ##
 
-+ [Linux C API参考](http://net.pku.edu.cn/~yhf/linux_c/)
++ [Linux C API参考](https://www.gitbook.com/book/wizardforcel/linux-c-api-ref/details)
 
 ## 下载 ##
 
-+ PDF格式（2014.10.16）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8044903)
-  + [51CTO下载](http://down.51cto.com/data/1883732)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCG)
-  + [百度云下载](http://pan.baidu.com/s/1mg88VYo)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/linux-c-api-ref)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/linux-c-api-ref)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/linux-c-api-ref)
