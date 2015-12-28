@@ -6,22 +6,7 @@ categories:
 
 ![](http://img4.douban.com/lpic/s27836847.jpg)
 
-格式：EPUB
-类型：文字版
-
 <!--more-->
-
-## 出版信息 ##
-
-作者: [美] 泽德 A. 肖（Zed A. Shaw） 
-出版社: 人民邮电出版社
-原作名: Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (3rd Edition)
-译者: 王巍巍 译 
-出版年: 2014-10
-页数: 264
-定价: 49
-装帧: 平装
-ISBN: 9787115350541
 
 ## 简介 ##
 
@@ -380,10 +365,10 @@ PowerShell参考资料 249
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.jb51.net/shouce/Pythonbbf/latest/)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/lpthw/details)
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFay58)
-+ [千易下载](http://1000eb.com/1hs4h)
-+ [FilePi下载](http://filepi.com/i/5E3HQFR)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/lpthw)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lpthw)

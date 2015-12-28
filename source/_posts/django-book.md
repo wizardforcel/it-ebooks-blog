@@ -4,59 +4,43 @@ categories:
   - django
 ---
 
-![](http://img3.douban.com/lpic/s4230960.jpg)
+![](http://box.kancloud.cn/2015-06-23_55896703c0fe4_173x231.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100)
 
-格式：EPUB
-类型：文字版
+来源：[The Django Book](http://djangobook.py3k.cn/2.0/)
 
 <!--more-->
 
-## 出版信息 ##
-
-作者: Adrian Holovaty / Jacob Kaplan-Moss 
-出版社: Apress
-副标题: Web Development Done Right
-出版年: 2009-7-1
-页数: 536
-定价: USD 44.99
-装帧: Paperback
-ISBN: 9781430219361
-
 ## 简介 ##
 
-This latest edition of The Definitive Guide to Django is updated for Django 1.1, and, with the forward–compatibility guarantee that Django now provides, should serve as the ultimate tutorial and reference for this popular framework for years to come.
-Django, the Python–based equivalent to Ruby’s Rails web development framework, is one of the hottest topics in web development today. Lead developer Jacob Kaplan–Moss and Django creator Adrian Holovaty show you how they use this framework to create award–winning web sites by guiding you through the creation of a web application reminiscent of ChicagoCrime.org.
-The Definitive Guide to Django is broken into three parts, with the first introducing Django fundamentals such as installation and configuration, and creating the components that together power a Django–driven web site. The second part delves into the more sophisticated features of Django, including outputting non–HTML content such as RSS feeds and PDFs, caching, and user management. The appendixes serve as a detailed reference to Django’s many configuration options and commands.
+本书的目的是将你培养成Django专家。 主要侧重于两方面： 第一，我们深度解释 Django 到底做了哪些工作以及如何用她构建Web应用；第二，我们将会在适当的地方讨论更高级的概念
 
 ## 目录 ##
 
-Introduction to Django
-Getting Started
-Views and URLconfs
-Templates
-Models
-The Django Admin Site
-Forms
-Advanced Views and URLconfs
-Advanced Templates
-Advanced Models
-Generic Views
-Deploying Django
-Generating Non-HTML Content
-Sessions, Users, and Registration
-Caching
-django.contrib
-Middleware
-Integrating with Legacy Databases and Applications
-Internationalization
-Security
+第一章：介紹Django
+第二章：入门
+第三章：视图和URL配置
+第四章：模版
+第五章：模型
+第六章：Admin
+第七章：表单
+第八章：高级视图和URL配置
+第九章：模版高级进阶
+第十章：模型高级进阶
+第十一章：通用视图
+第十二章：部署Django
+第十三章：输出非HTML内容
+第十四章：会话、用户和注册
+第十五章：缓存机制
+第十六章：集成的子框架
+第十七章：中间件
+第十八章：集成已有的数据库和应用
+第十九章：国际化
+第二十章：安全
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://docs.30c.org/djangobook2/)
++ [在线阅读](http://www.kancloud.cn/thinkphp/django-book)
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1mguvNO8)
-+ [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCo)
-+ [千易下载](http://1000eb.com/1hrsb)
++ [下载地址](http://www.kancloud.cn/thinkphp/django-book)
