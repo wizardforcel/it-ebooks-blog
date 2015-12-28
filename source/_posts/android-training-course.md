@@ -6,8 +6,6 @@ categories:
 
 ![](http://hukai.me/android-training-course-in-chinese/android_training.jpg)
 
-来源：[](http://hukai.me/android-training-course-in-chinese/index.html)
-
 <!--more-->
 
 ## 在线阅读 ##

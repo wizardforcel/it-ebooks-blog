@@ -6,7 +6,7 @@ categories:
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/django-chinese-docs-18.jpg?build=1443001716717&v=12.0.2)
 
-作者：Django 文档协作翻译小组
+译者：Django 文档协作翻译小组
 
 来源：[Django 中文文档 1.8](http://python.usyiyi.cn/django/index.html)
 
