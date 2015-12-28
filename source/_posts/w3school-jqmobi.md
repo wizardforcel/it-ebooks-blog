@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [jQueryMobile教程](http://www.w3cschool.cc/jquerymobile/jquerymobile-tutorial.html)
+* [jQueryMobile教程](https://www.gitbook.com/book/wizardforcel/w3school-jqmobile/details)
 
 ## 下载 ##
 

@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [Eclipse教程](http://www.w3cschool.cc/eclipse/eclipse-tutorial.html)
+* [Eclipse教程](https://www.gitbook.com/book/wizardforcel/w3school-eclipse/details)
 
 ## 下载 ##
 

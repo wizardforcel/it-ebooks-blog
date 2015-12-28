@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [Bootstrap教程](http://www.w3cschool.cc/bootstrap/bootstrap-tutorial.html)
+* [Bootstrap教程](https://www.gitbook.com/book/wizardforcel/w3school-bootstrap/details)
 
 ## 下载 ##
 

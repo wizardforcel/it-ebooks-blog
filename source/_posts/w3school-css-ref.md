@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [CSS参考手册](http://www.w3cschool.cc/cssref/css-reference.html)
+* [CSS参考手册](https://www.gitbook.com/book/wizardforcel/w3school-css-ref/details)
 
 ## 下载 ##
 

@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [ios教程](http://www.w3cschool.cc/ios/ios-tutorial.html)
+* [ios教程](https://www.gitbook.com/book/wizardforcel/w3school-ios/details)
 
 ## 下载 ##
 

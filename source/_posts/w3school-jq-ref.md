@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [jQuery参考手册](http://www.w3cschool.cc/jquery/jquery-ref-selectors.html)
+* [jQuery参考手册](https://www.gitbook.com/book/wizardforcel/w3school-jquery-ref/details)
 
 ## 下载 ##
 

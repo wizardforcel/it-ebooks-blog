@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
+* [正则表达式教程](https://www.gitbook.com/book/wizardforcel/w3school-regex/details)
 
 ## 下载 ##
 

@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [Linux教程](http://www.w3cschool.cc/linux/linux-tutorial.html)
+* [Linux教程](https://www.gitbook.com/book/wizardforcel/w3school-linux/details)
 
 ## 下载 ##
 

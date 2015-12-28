@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [Node.js教程](http://www.w3cschool.cc/nodejs/nodejs-tutorial.html)
+* [Node.js教程](https://www.gitbook.com/book/wizardforcel/w3school-nodejs/details)
 
 ## 下载 ##
 

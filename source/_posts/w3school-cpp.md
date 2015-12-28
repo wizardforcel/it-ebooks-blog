@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [C++教程](http://www.w3cschool.cc/cplusplus/cpp-tutorial.html)
+* [C++教程](https://www.gitbook.com/book/wizardforcel/w3school-cpp/details)
 
 ## 下载 ##
 

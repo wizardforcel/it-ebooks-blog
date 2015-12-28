@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [AngularJS教程](http://www.w3cschool.cc/angularjs/angularjs-tutorial.html)
+* [AngularJS教程](https://www.gitbook.com/book/wizardforcel/w3school-angularjs/details)
 
 ## 下载 ##
 

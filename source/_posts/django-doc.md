@@ -6,7 +6,7 @@ categories:
 
 ![](http://python.usyiyi.cn/index/django.png)
 
-作者：Django文档翻译组
+作者：Django 文档协作翻译小组
 
 来源：[Django 中文文档 1.8](http://python.usyiyi.cn/django/index.html)
 
@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [在线阅读](http://python.usyiyi.cn/django/index.html)
+* [在线阅读](https://www.gitbook.com/book/wizardforcel/django-chinese-docs-18/details)
 
 ## 下载 ##
 

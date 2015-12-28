@@ -11,7 +11,7 @@ categories:
 
 ## 在线阅读 ##
 
-+ [MySQL 5.1参考手册](http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/)
++ [MySQL 5.1参考手册](http://www.kancloud.cn/yangweijie/mysql5_1)
 
 ## 下载 ##
 

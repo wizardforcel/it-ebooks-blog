@@ -15,7 +15,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [MongoDB教程](http://www.w3cschool.cc/mongodb/mongodb-tutorial.html)
+* [MongoDB教程](https://www.gitbook.com/book/wizardforcel/w3school-mongodb/details)
 
 ## 下载 ##
 

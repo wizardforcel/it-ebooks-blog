@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [设计模式教程](http://www.w3cschool.cc/design-pattern/design-pattern-tutorial.html)
+* [设计模式教程](https://www.gitbook.com/book/wizardforcel/w3school-design-patterns/details)
 
 ## 下载 ##
 

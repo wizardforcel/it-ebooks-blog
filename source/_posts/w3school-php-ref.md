@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [PHP参考手册](http://www.w3cschool.cc/php/php-ref-array.html)
+* [PHP参考手册](https://www.gitbook.com/book/wizardforcel/w3school-php-ref/details)
 
 ## 下载 ##
 

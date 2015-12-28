@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [HTML参考手册](http://www.w3cschool.cc/tags/html-reference.html)
+* [HTML参考手册](https://www.gitbook.com/book/wizardforcel/w3school-html-ref/details)
 
 ## 下载 ##
 

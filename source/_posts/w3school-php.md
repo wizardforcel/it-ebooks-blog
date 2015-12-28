@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [PHP教程](http://www.w3cschool.cc/php/php-tutorial.html)
+* [PHP教程](https://www.gitbook.com/book/wizardforcel/w3school-php/details)
 
 ## 下载 ##
 

@@ -10,7 +10,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [在线阅读](http://v3.bootcss.com/)
+* [在线阅读](http://wiki.jikexueyuan.com/project/bootstrap/)
 
 ## 下载 ##
 

@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [C语言教程](http://www.w3cschool.cc/cprogramming/c-tutorial.html)
+* [C语言教程](https://www.gitbook.com/book/wizardforcel/w3school-c/details)
 
 ## 下载 ##
 

@@ -14,7 +14,7 @@ categories:
 
 ## 在线阅读 ##
 
-* [Ruby教程](http://www.w3cschool.cc/ruby/ruby-tutorial.html)
+* [Ruby教程](https://www.gitbook.com/book/wizardforcel/w3school-ruby/details)
 
 ## 下载 ##
 
