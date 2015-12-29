@@ -6,23 +6,13 @@ categories:
 
 ![](http://img3.douban.com/lpic/s1764864.jpg)
 
-格式：EPUB
-类型：文字版
+作者：Scott Meyers
+
+译者：fatalerror99 (iTePub's Nirvana)
+
+来源：http://blog.csdn.net/fatalerror99/
 
 <!--more-->
-
-## 出版信息 ##
-
-作者: [美]Scott Meyers 
-出版社: 电子工业出版社
-副标题: 改善程序与设计的55个具体做法
-原作名: Effective C++: 55 Specific Ways to Improve Your Programs and Designs
-译者: 侯捷 
-出版年: 2006-7
-页数: 297
-定价: 58.00元
-装帧: 简裝本
-ISBN: 9787121029097
 
 ## 简介 ##
 
@@ -32,8 +22,12 @@ ISBN: 9787121029097
 ·崭新的 TR1 标准程序库功能应用，以及与既有标准程序库组件的比较。
 ·洞察 C++和其他语言（例如Java、C#、C）之间的不同。此举有助于那些来自其他语言阵营的开发人员消化吸收 C++ 式的各种解法。
 
+## 在线阅读 ##
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/effective-cpp/details)
+
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFcqWb)
-+ [FilePi下载](http://filepi.com/i/JMWCp48)
-+ [千易下载](http://1000eb.com/1i268)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/effective-cpp)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/effective-cpp)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/effective-cpp)
