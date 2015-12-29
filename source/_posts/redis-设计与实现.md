@@ -6,20 +6,7 @@ categories:
 
 ![](http://img5.douban.com/lpic/s27297117.jpg)
 
-格式：EPUB
-类型：文字版
-
 <!--more-->
-
-## 出版信息 ##
-
-
-作者: 黄健宏 
-出版社: 机械工业出版社
-出版年: 2014-6
-定价: 79.00
-装帧: 平装
-ISBN: 9787111464747
 
 ## 简介 ##
 
@@ -228,9 +215,10 @@ ISBN: 9787111464747
 24.2 向监视器发送命令信息	387
 24.3 重点回顾	388
 
+## 在线阅读 ##
+
++ [在线阅读](http://www.kancloud.cn/kancloud/redisbook)
+
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1nt86DO9)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP5ZA1)
-+ [FilePi下载](http://filepi.com/i/Q9kkRVs)
-+ [千易下载](http://1000eb.com/1ggc6)
++ [下载地址](http://www.kancloud.cn/kancloud/redisbook)
