@@ -1,6 +1,6 @@
 title: AngularJS 入门教程
 date: 2015-12-27 21:32:57
-categories:
+tags:
   - angularjs
 ---
 

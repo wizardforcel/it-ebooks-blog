@@ -1,6 +1,6 @@
 title: pro git （中文第二版）
 date: 2015-04-29 16:26:35
-categories:
+tags:
   - git
 ---
 

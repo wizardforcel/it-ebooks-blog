@@ -1,6 +1,6 @@
 title: effective c++ （中文第三版）
 date: 2015-05-20 23:59:22
-categories:
+tags:
   - cpp
 ---
 

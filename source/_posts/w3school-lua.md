@@ -1,6 +1,6 @@
 title: W3School Lua 教程
 date: 2015-12-29 14:52:44
-categories:
+tags:
   - lua
 ---
 

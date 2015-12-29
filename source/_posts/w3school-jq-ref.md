@@ -1,6 +1,6 @@
 title: W3School jQuery 参考手册
 date: 2015-12-27 21:01:50
-categories:
+tags:
   - jquery
 ---
 

@@ -1,6 +1,6 @@
 title: W3School VBS & ASP 教程
 date: 2015-12-27 21:13:40
-categories:
+tags:
   - vbs
   - asp
 ---

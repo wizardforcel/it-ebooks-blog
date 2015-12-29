@@ -1,6 +1,6 @@
 title: W3School Linux 教程
 date: 2015-12-27 21:03:08
-categories:
+tags:
   - linux
 ---
 

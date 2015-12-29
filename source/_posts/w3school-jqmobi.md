@@ -1,6 +1,6 @@
 title: W3School jQueryMobile 教程
 date: 2015-12-27 20:59:15
-categories:
+tags:
   - jquerymobile
 ---
 

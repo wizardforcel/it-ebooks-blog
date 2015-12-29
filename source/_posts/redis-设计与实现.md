@@ -1,7 +1,8 @@
 title: redis 设计与实现
 date: 2015-05-01 12:16:06
-categories:
-  - 数据库 - nosql
+tags:
+  - redis
+  - nosql
 ---
 
 ![](http://img5.douban.com/lpic/s27297117.jpg)

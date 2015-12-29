@@ -1,6 +1,6 @@
 title: 鸟哥的linux私房菜 （第三版） 基础学习篇
 date: 2015-04-29 13:16:52
-categories:
+tags:
   - linux
 ---
 

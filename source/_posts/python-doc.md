@@ -1,6 +1,6 @@
 title: Python 中文文档 2.7 & 3.4
 date: 2015-12-28 11:38:42
-categories:
+tags:
   - python
 ---
 

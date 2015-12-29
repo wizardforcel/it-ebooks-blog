@@ -1,6 +1,6 @@
 title: nginx 中文官方文档
 date: 2015-12-28 11:34:07
-categories:
+tags:
   - nginx
 ---
 

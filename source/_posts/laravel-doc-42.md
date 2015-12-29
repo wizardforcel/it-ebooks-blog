@@ -1,6 +1,6 @@
 title: Laravel 4.2 中文文档
 date: 2015-12-27 21:44:15
-categories:
+tags:
   - laravel
 ---
 

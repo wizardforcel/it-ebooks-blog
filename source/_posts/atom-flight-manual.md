@@ -1,6 +1,6 @@
 title: Atom 飞行手册 中文版
 date: 2015-12-28 12:31:23
-categories:
+tags:
   - atom
 ---
 

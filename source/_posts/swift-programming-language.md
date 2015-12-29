@@ -1,6 +1,6 @@
 title: Swift 程序设计语言
 date: 2015-12-28 11:41:53
-categories:
+tags:
   - swift
 ---
 

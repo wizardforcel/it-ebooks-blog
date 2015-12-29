@@ -1,6 +1,6 @@
 title: 像计算机科学家一样思考（C++版）
 date: 2015-12-28 10:49:30
-categories:
+tags:
   - cpp
 ---
 

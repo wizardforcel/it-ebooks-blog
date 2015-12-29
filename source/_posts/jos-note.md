@@ -1,6 +1,6 @@
 title: Jos 学习笔记
 date: 2015-12-28 10:45:16
-categories:
+tags:
   - os
 ---
 

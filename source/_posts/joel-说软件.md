@@ -1,7 +1,7 @@
 title: joel说软件
 date: 2015-09-29 20:49:11
-categories:
-  - IT人文
+tags:
+  - it人文
 ---
 
 ![](http://img4.douban.com/lpic/s1436476.jpg)

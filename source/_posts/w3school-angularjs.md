@@ -1,6 +1,6 @@
 title: W3School AngularJS 教程
 date: 2015-12-27 20:36:14
-categories:
+tags:
   - angularjs
 ---
 

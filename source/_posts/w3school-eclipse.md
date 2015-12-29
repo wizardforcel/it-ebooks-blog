@@ -1,6 +1,6 @@
 title: W3School Eclipse 教程
 date: 2015-12-27 20:48:12
-categories:
+tags:
   - java
 ---
 

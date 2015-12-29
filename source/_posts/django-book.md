@@ -1,6 +1,6 @@
 title: django权威指南（django book）（中文第二版）
 date: 2015-11-13 21:45:20
-categories:
+tags:
   - django
 ---
 

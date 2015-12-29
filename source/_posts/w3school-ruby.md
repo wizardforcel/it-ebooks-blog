@@ -1,6 +1,6 @@
 title: W3School Ruby 教程
 date: 2015-12-27 21:10:57
-categories:
+tags:
   - ruby
 ---
 

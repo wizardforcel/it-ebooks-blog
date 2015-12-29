@@ -1,6 +1,6 @@
 title: ECMAScript 6入门
 date: 2015-12-28 16:54:03
-categories:
+tags:
   - javascript
 ---
 

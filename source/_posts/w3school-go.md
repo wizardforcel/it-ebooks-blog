@@ -1,6 +1,6 @@
 title: W3School Go语言 教程
 date: 2015-12-29 15:28:59
-categories:
+tags:
   - go
 ---
 

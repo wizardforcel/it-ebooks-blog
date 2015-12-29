@@ -1,6 +1,6 @@
 title: W3School Memcached 教程
 date: 2015-12-29 15:43:38
-categories:
+tags:
   - memcached
 ---
 

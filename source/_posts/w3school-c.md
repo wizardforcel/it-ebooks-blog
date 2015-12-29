@@ -1,6 +1,6 @@
 title: W3School C语言教程
 date: 2015-12-27 20:47:15
-categories:
+tags:
   - c
 ---
 

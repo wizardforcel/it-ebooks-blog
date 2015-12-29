@@ -1,6 +1,6 @@
 title: 鸟哥的linux私房菜 （第三版） 服务器架设篇
 date: 2015-09-29 20:46:41
-categories:
+tags:
   - linux
 ---
 

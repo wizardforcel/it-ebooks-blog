@@ -1,7 +1,7 @@
 title: W3School SQL 教程
 date: 2015-12-27 21:12:08
-categories:
-  - 数据库
+tags:
+  - sql
   - mysql
   - sqlite
 ---

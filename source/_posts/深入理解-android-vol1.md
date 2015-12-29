@@ -1,6 +1,6 @@
 title: 深入理解 Android 卷I
 date: 2015-12-27 21:29:31
-categories:
+tags:
   - android
 ---
 

@@ -1,6 +1,6 @@
 title: W3School JavaScript & jQuery 教程
 date: 2015-12-27 20:55:51
-categories:
+tags:
   - javascript
   - jquery
 ---

@@ -1,6 +1,6 @@
 title: 笨办法学python（中文第三版）
 date: 2015-11-14 10:20:35
-categories:
+tags:
   - python
 ---
 

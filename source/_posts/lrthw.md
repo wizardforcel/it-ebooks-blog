@@ -1,6 +1,6 @@
 title: 笨办法学 ruby （中文版）
 date: 2015-12-28 16:24:34
-categories:
+tags:
   - ruby
 ---
 
