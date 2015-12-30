@@ -1,6 +1,6 @@
 title: W3School Swift 教程
 date: 2015-12-30 10:33:34
-categories:
+tags:
   - swift
 ---
 
