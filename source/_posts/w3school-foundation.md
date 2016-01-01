@@ -1,7 +1,8 @@
 title: W3School Foundation 教程
 date: 2015-12-30 16:32:18
 tags:
- - foundation
+  - css
+  - foundation
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-foundation.jpg?build=1451464316928&v=12.0.2)

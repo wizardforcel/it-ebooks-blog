@@ -1,6 +1,7 @@
 title: Flask 中文文档 0.10.1
 date: 2015-12-27 21:38:57
 tags:
+  - python
   - flask
 ---
 

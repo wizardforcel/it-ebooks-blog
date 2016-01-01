@@ -2,7 +2,8 @@ title: W3School Java & Java Web 教程
 date: 2015-12-27 20:54:07
 tags:
   - java
-  - java web
+  - servlet
+  - jsp
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-java.jpg?build=1450174177425&v=12.0.2)

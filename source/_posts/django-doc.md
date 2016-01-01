@@ -1,6 +1,7 @@
 title: Django 中文文档 1.8
 date: 2015-12-27 21:40:17
 tags:
+  - python
   - django
 ---
 

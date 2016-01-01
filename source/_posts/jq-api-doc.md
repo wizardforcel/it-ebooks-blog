@@ -1,6 +1,7 @@
 title: jQuery 1.8 API 文档
 date: 2015-12-27 21:42:49
 tags:
+  - javascript
   - jquery
 ---
 
