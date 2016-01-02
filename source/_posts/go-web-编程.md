@@ -4,7 +4,7 @@ tags:
   - go
 ---
 
-![](http://box.kancloud.cn/cover_2015-07-19_55ab1518a3f6_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/build-web-application-with-golang.jpg?build=1451708022213&v=12.0.2)
 
 作者：[astaxie](https://github.com/astaxie)
 
@@ -19,4 +19,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.kancloud.cn/kancloud/web-application-with-golang)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/build-web-application-with-golang/details)
+
+## 下载 ##
+
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/build-web-application-with-golang)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/build-web-application-with-golang)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/build-web-application-with-golang)
