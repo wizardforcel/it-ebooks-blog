@@ -6,22 +6,7 @@ tags:
 
 ![](http://img5.douban.com/lpic/s4399937.jpg)
 
-格式：EPUB
-类型：文字版
-
 <!--more-->
-
-## 出版信息 ##
-
-作者: 鸟哥 
-出版社: 人民邮电出版社
-副标题: 基础学习篇
-出版年: 2010-6-28
-页数: 778
-定价: 88.00元
-装帧: 平装
-丛书: 鸟哥的Linux私房菜
-ISBN: 9787115226266
 
 ## 简介 ##
 
@@ -312,7 +297,7 @@ ISBN: 9787115226266
 
 ## 在线阅读 ##
 
-* [在线阅读](http://vbird.dic.ksu.edu.tw/)
+* [在线阅读](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 
 ## 下载 ##
 
