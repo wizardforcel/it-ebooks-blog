@@ -6,9 +6,9 @@ tags:
   - ejs
 ---
 
-> 译者：[飞龙](https://github.com/wizardforcel)
+译者：[飞龙](https://github.com/wizardforcel)
 
-> 来源：[ejs](https://github.com/mde/ejs)
+来源：[ejs](https://github.com/mde/ejs)
 
 <!--more-->
 
