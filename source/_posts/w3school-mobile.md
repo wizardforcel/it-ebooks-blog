@@ -9,8 +9,6 @@ tags:
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mobile.jpg?build=1452482543160&v=12.0.4)
 
-作者：
-
 来源：[菜鸟教程](http://www.w3cschool.cc/)
 
 <!--more-->
