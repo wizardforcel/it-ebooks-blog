@@ -14,5 +14,5 @@ tags:
 ## 下载 ##
 
 + [GoogleCode](https://code.google.com/p/boost-doc-zh/downloads/list)
-+ [微盘]()
-+ [千易](http://1000eb.com/1iiot)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRF0sn8)
++ [千易下载](http://1000eb.com/1iiot)
