@@ -15,7 +15,7 @@ tags:
 
 ## 在线阅读 ##
 
-+ [https://www.gitbook.com/book/wizardforcel/wudi-qt4/details](https://www.gitbook.com/book/wizardforcel/wudi-qt4/details)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/wudi-qt4/details)
 
 ## 下载 ##
 
