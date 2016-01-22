@@ -20,5 +20,5 @@ tags:
 ## 下载 ##
 
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/wudi-qt4)
-+ [EPUB格式](https://www.gitbook.com/download/pdf/book/wizardforcel/wudi-qt4)
-+ [MOBI格式](https://www.gitbook.com/download/pdf/book/wizardforcel/wudi-qt4)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/wudi-qt4)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/wudi-qt4)

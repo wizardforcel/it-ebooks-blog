@@ -18,4 +18,4 @@ tags:
 ## 下载 ##
 
 + [PDF格式](http://wiki.jikexueyuan.com/download/learn-road-qt/pdf/)
-+ [EPUB格式](http://wiki.jikexueyuan.com/download/learn-road-qt/pdf/)
++ [EPUB格式](http://wiki.jikexueyuan.com/download/learn-road-qt/epub/)
