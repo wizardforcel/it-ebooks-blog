@@ -10,7 +10,7 @@ tags:
 
 译者：[xinqiu](https://github.com/xinqiu)
 
-来源：[https://github.com/xinqiu/Learn-Javascript](https://github.com/xinqiu/Learn-Javascript)
+来源：[Learn-Javascript](https://github.com/xinqiu/Learn-Javascript)
 
 <!--more-->
 
