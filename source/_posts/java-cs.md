@@ -4,7 +4,7 @@ tags:
   - java
 ---
 
-![](http://www.ituring.com.cn//download/01R60E8Ru5wy)
+![](http://ww2.sinaimg.cn/large/0060lm7Tgw1f0abr1t1wdj304h06ht8t.jpg)
 
 <!--more-->
 
