@@ -7,7 +7,7 @@ tags:
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/spring-doc-3x.jpg?build=1451289687917&v=12.0.2)
 
-译者：南磊
+译者：[南磊](http://weibo.com/nanlei1987)
 
 来源：[Java开源项目官方文档中文翻译](http://code.google.com/p/translation)
 
