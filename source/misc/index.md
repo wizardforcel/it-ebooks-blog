@@ -14,8 +14,6 @@ date: 2016-01-28 22:28:47
 ## 算法
 
 + [VisuAlgo](http://visualgo.net/) – 看动画学算法
-+ [leetcode题解](https://github.com/soulmachine/leetcode)
-+ [Acm Cheat Sheet](https://github.com/soulmachine/acm-cheat-sheet)
 + [啊哈！算法](http://www.cnblogs.com/ahalei/category/554795.html)
 + [List of algorithms](http://en.wikipedia.org/wiki/List_of_algorithms)
 
