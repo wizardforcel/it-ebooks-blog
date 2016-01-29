@@ -31,6 +31,8 @@ date: 2016-01-28 22:36:37
 *   [51CTO](http://www.51cto.com/)
 *   [V2EX](https://v2ex.com/)
 *   [OSChina](http://www.oschina.net/)
+*   [吾爱破解](http://www.52pojie.cn/)
+*   [看雪](http://www.pediy.com/)
 
 ## 问答平台
 
@@ -44,10 +46,8 @@ date: 2016-01-28 22:36:37
 *   [伯乐在线](http://www.jobbole.com/)
 *   [web开发者](http://www.admin10000.com/)
 *   [简书程序员专题](http://www.jianshu.com/collection/NEt52a)
+*   [黑客与极客](http://www.freebuf.com/)
 
-## 安全
-
-[点这里](http://navisec.it/)
 
 ## 开源
 
@@ -55,6 +55,12 @@ date: 2016-01-28 22:36:37
 *   [Github](https://github.com/)
 *   [Gitcafe](https://gitcafe.com/)
 *   [Coding](https://coding.net/)
+
+## 漏洞报告
+
+*   [乌云](http://www.wooyun.org/)
+*   [补天](http://butian.360.cn/)
+*   [seebug](https://www.seebug.org/)
 
 ## 课程
 
@@ -64,6 +70,7 @@ date: 2016-01-28 22:36:37
 *   [网易云课堂](http://study.163.com/)
 *   [计蒜客](http://www.jisuanke.com/)
 *   [泊学](https://www.boxueio.com/)
+*   [i春秋学院](http://www.ichunqiu.com/)
 
 ## OJ
 
