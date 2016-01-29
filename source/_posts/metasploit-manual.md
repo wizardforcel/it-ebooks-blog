@@ -2,7 +2,7 @@ title: Metasploit 中文手册
 date: 2016-01-14 11:41:20
 tags:
   - metasploit
-  - 安全
+  - 渗透
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/metasploit-manual.jpg?build=1452742568304&v=12.0.4)

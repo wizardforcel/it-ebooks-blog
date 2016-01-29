@@ -3,7 +3,7 @@ date: 2016-01-03 11:50:28
 tags:
   - linux
   - kali
-  - 安全
+  - 渗透
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/kali-linux-doc.jpg?build=1451792782343&v=12.0.2)
