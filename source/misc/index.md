@@ -20,13 +20,12 @@ date: 2016-01-28 22:28:47
 ## 网络安全
 
 + [安全参考](http://www.hackcto.com/)
-+ [XSS Cheat Sheet](http://drops.wooyun.org/tips/1955)
++ [HTML5安全速查表](https://html5sec.org/)
 
 ## 汇编 & 逆向
 
 + [PC Assembly Language](http://www.drpaulcarter.com/pcasm/)
 + [Intel 80386 Programmer’s Reference Manual](http://www.logix.cz/michal/doc/i386/)
-
 
 
 ## 图书
@@ -57,7 +56,7 @@ date: 2016-01-28 22:28:47
 
 ## 综合
 
-+ [reSRC](http://resrc.io/list/10/list-of-free-programming-books/)
++ [reSRC](https://github.com/vhf/resrc)
 + [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 + [一份关于“资料汇总”的汇总](https://github.com/justjavac/awesome-awesomeness-zh_CN)
 + [「从零开始」系列汇总](https://github.com/justjavac/Programming-Alpha-To-Omega)
@@ -70,6 +69,4 @@ date: 2016-01-28 22:28:47
     + [博文视点](http://weibo.com/broadviewbj)
     + [华章图书](http://weibo.com/hzbookscience)
 + [w3(c)school – web开发教程](http://www.w3cschool.cc)
-    + [离线版教程下载](https://github.com/wizardforcel/w3school)
-+ [各种语言的API文档（docset格式）](http://kapeli.com/docset_links)
 + [知道创宇研发技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html)
