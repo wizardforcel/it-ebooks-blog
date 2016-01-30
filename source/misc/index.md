@@ -73,6 +73,7 @@ date: 2016-01-28 22:28:47
     + [博文视点](http://weibo.com/broadviewbj)
     + [华章图书](http://weibo.com/hzbookscience)
 + [w3(c)school – web开发教程](http://www.w3cschool.cc)
++ [ITBegin](http://www.itbegin.com/)
 + [简明现代魔法图书馆](http://www.nowamagic.net/librarys/)
 + [易百教程](http://www.yiibai.com/)
 + [知道创宇研发技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html)
