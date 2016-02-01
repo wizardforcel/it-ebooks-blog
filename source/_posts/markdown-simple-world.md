@@ -4,13 +4,13 @@ tags:
   - markdown
 ---
 
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/markdown-simple-world.jpg?build=1452128971588&v=12.0.2)
+
 作者：[wizardforcel](https://github.com/wizardforcel)
 
 来源：[markdown-simple-world](https://github.com/wizardforcel/markdown-simple-world)
 
 <!--more-->
-
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/markdown-simple-world.jpg?build=1452128971588&v=12.0.2)
 
 ## 在线阅读 ##
 
