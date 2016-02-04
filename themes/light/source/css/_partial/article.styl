@@ -2,8 +2,9 @@ icon-size = 32px
 icon-gap = 25px
 
 article
-  box-shadow 1px 2px 3px #ddd
-  background #fff
+  // box-shadow 1px 2px 3px #ddd
+  border-radius 17px
+  background rgba(0, 0, 0, 0.65)
   &.page
     padding-left 20px
     .icon
@@ -152,8 +153,8 @@ article
       font-family font-mono
 
     code
-      background #eee
-      color #666
+      // background #eee
+      // color #666
       padding 0 5px
       margin 0 2px
       font-size 0.9em
@@ -161,7 +162,7 @@ article
       border-radius 3px
 
     pre
-      background #eee
+      // background #eee
       border 1px solid color-border
       margin-top 15px
       overflow auto
@@ -179,9 +180,15 @@ article
       ul, ol, dl
         margin-top 0
 
+    hr
+      border-top: 1px dashed
+      border-bottom: none
+      margin-top: 10px
+      margin-bottom: 10px
+    
     h1, h2
       font-weight normal
-      border-bottom 1px solid color-border
+      border-bottom 1px dashed color-border
       padding-bottom 10px
       margin-top 20px
 
@@ -237,7 +244,7 @@ article
   footer
     margin-top 15px
     padding-top 10px
-    border-top 1px solid color-border
+    border-top 1px dotted color-border
     color color-meta
     font-size 0.9em
     line-height 16px
