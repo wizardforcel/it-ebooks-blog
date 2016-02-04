@@ -1,26 +1,38 @@
 #pagination
+  clearfix()
+  margin block-margin auto
+  background rgba(0,0,0,0.65)
+  border-radius 17px
+  text-align center
+  overflow hidden
+  margin-bottom 50px
+
+  a, span
+    padding 10px 20px
+    line-height 1
+    height 2ex
+
   a
-    display block
-    padding 5px 10px
-    background color-meta
-    color color-link
-    font-family font-title
-    // text-shadow 0 0 1px #fff
-    margin-bottom 50px
+    color color-font
+    text-decoration none
     &:hover
-      background color-link
-      color #fff
-      text-decoration none
-      text-shadow none
+      background #000
+      color color-link
 
   .prev
-    &:before
-      content '\f053'
-      padding-right 10px
-      font-family font-icon
+    float left
 
   .next
-    &:after
-      content '\f054'
-      padding-left 10px
-      font-family font-icon
+    float right
+
+  .page-number
+    display inline-block
+    @media mq-mobile
+      display none
+
+  .current
+    color color-cont
+    font-weight bold
+
+  .space
+    color color-border
