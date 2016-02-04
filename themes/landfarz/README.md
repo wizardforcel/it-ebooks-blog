@@ -33,7 +33,9 @@ sidebar: right
 widgets:
 - search
 - category
+- recent_posts
 - tag
+- tagcloud
 
 # Duoshuo
 duoshuo_shortname: fl-it-ebooks
