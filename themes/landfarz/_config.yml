@@ -15,30 +15,14 @@ widgets:
 - link
 - account
 
-excerpt_link: "更多内容"
-
-twitter:
-  username:
-  show_replies: false
-  tweet_count: 5
-
-addthis:
-  enable: true
-  pubid:
-  facebook: true
-  twitter: true
-  google: true
-  pinterest: true
+# Duoshuo
+duoshuo_shortname: fl-it-ebooks
 
 fancybox: true
 
 google_analytics:
 rss: /atom.xml
 
-comment_provider: facebook
-# Facebook comment
-facebook:
-  appid: 123456789012345
-  comment_count: 5
-  comment_width: 840
-  comment_colorscheme: light
+google_site_verification: NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w
+baidu_site_verification: 
+icon: 

@@ -10,8 +10,7 @@ keywords: 计算机,编程,电子书,pdf,epub,java,c++,php,python,javascript
 author: Flygon
 email:
 language: zh-CN
-google_site_verification: NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w
-icon: 
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -76,13 +75,10 @@ time_format: H:mm:ss
 per_page: 10
 pagination_dir: page
 
-# Duoshuo
-duoshuo_shortname: fl-it-ebooks
-
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: light
+theme: landfarz
 exclude_generator:
 
 # Deployment

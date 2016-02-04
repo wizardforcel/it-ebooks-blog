@@ -16,7 +16,7 @@
   %>
   <title><%= title.join(' | ') %></title>
   <% if (config.author){ %><meta name="author" content="<%= config.author %>" /><% } %>
-  
+
   <% if (page.description){ %>
   <meta name="description" content="<%= page.description %>" />
   <% } else if (config.description){ %>
@@ -26,37 +26,38 @@
   <% } else if (page.content){ %>
   <meta name="description" content="<%= strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150) %>" />
   <% } %>
-  
+
   <% if (page.keywords){ %>
   <meta name="keywords" content="<%= page.keywords %>" />
   <% } else if(config.keywords) { %>
   <meta name="keywords" content="<%= config.keywords %>" />
   <% } %>
-  
+
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
   <% if (page.title){ %><meta property="og:title" content="<%= page.title %>" /><% } %>
   <meta property="og:site_name" content="<%= config.title %>" />
 
-  <% if (config.google_site_verification){ %><meta name="google-site-verification" content="<%= config.google_site_verification%>" /><% } %>
-  
+  <% if (theme.google_site_verification){ %><meta name="google-site-verification" content="<%= theme.google_site_verification%>" /><% } %>
+  <% if (theme.baidu_site_verification){ %><meta name="baidu-site-verification" content="<%= theme.baidu_site_verification%>" /><% } %>
+
   <% if(page.cover) { %>
     <meta property="og:image" content="<%= page.cover %>" />
   <% } else { %>
     <meta property="og:image" content="<%= config.cover %>" />
   <% } %>
 
-  <% if(config.icon) { %>
-  <link href="<%= config.icon %>" rel="icon" />
+  <% if(theme.icon) { %>
+  <link href="<%= theme.icon %>" rel="icon" />
   <% } else { %>
   <link href="<%- config.root %>css/images/favicon.ico" rel="icon" />
   <% } %>
-  
+
   <link rel="alternate" href="<% if (theme.rss){ %><%- theme.rss %><% } else { %><%- config.root %>atom.xml<% } %>" title="<%= config.title %>" type="application/atom+xml">
   <link rel="stylesheet" href="<%- config.root %>css/style.css" media="screen" type="text/css">
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <%- partial('google_analytics') %>
-  
+
   <!-- baidu webmaster push -->
   <script src='//push.zhanzhang.baidu.com/push.js'></script>
 
