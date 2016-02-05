@@ -18,9 +18,9 @@ tags:
 
 谢谢
 
-源文档地址：https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
+源文档地址：[XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
-翻译文档在线阅读：https://www.zybuluo.com/laodao/note/9592
+翻译文档在线阅读：[XSS Filter Evasion Cheat Sheet 中文版](https://www.zybuluo.com/laodao/note/9592)
 
 <!--more-->
 
