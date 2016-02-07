@@ -1,7 +1,7 @@
 title: 知乎周刊·程序人生（总第031期）
 date: 2016-02-07 10:15:27
 tags:
-  - IT人文
+  - it人文
 ---
 
 ![](http://cover.read.duokan.com/mfsv2/download/s010/p01JkvMvzooH/1Q4OOCl2RN57Fc.jpg!e)

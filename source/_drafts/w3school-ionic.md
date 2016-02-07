@@ -1,7 +1,7 @@
 title: W3School ionic 教程
 date: 2015-12-30 11:25:52
 tags:
-  - inoic
+  - ionic
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-ionic.jpg?build=1451445762585&v=12.0.2)
