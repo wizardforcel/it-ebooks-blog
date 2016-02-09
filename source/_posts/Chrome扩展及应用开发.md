@@ -19,4 +19,5 @@ tags:
 
 ## 下载 ##
 
++ [EPUB格式](http://vdisk.weibo.com/s/aADaW4YRFpY9B)
 + [MOBI格式](http://www.ituring.com.cn/minibook/pushtokindle/950)
