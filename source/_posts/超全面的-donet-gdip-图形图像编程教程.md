@@ -1,7 +1,8 @@
 title: 超全面的 .NET GDI+ 图形图像编程教程
 date: 2016-02-11 12:45:51
 tags:
-  - 书单
+  - csharp
+  - gdip
 ---
 
 > 作者：孤影
