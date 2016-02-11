@@ -4,9 +4,6 @@ date: 2016-01-28 22:28:47
 
 不便于单独列出的教程收录在这里。
 
-## C++
-
-+ [C++中文参考手册](http://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
 
 ## 前端
 
@@ -21,10 +18,6 @@ date: 2016-01-28 22:28:47
 + [啊哈！算法](http://www.cnblogs.com/ahalei/category/554795.html)
 + [List of algorithms](http://en.wikipedia.org/wiki/List_of_algorithms)
 
-## 网络安全
-
-+ [安全参考](http://www.hackcto.com/)
-+ [HTML5安全速查表](https://html5sec.org/)
 
 ## 汇编 & 逆向
 
