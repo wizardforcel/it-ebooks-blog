@@ -1,7 +1,7 @@
 title: 逆向工程基础
 date: 2015-12-28 16:06:58
 tags:
-  - 逆向工程
+  - 逆向
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/re-for-beginners.jpg?build=1451289687917&v=12.0.2)

@@ -1,7 +1,7 @@
 title: 看雪软件安全文档库（KSSD） 2012
 date: 2016-01-10 21:11:29
 tags:
-  - 逆向工程
+  - 逆向
 ---
 
 ![](http://attach.52pojie.cn/forum/201501/30/165958mggg0um5grzfgmdd.png)
