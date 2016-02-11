@@ -34,14 +34,14 @@ tags:
     + 5.3 TextureBrush(纹理笔刷)
     + 5.4 LinearGradientBrush 和 PathGradientBrush(渐变笔刷)
         + 5.4.1 LinearGradientBrush类
-        + 5.4.2 PathGradientBrush类
+        + 5.4.2 PathGradientBrush类<!--more-->
 
 
-<!--more-->本篇主题内容是.NET GDI+图形图像编程系列的教程，不要被这个滚动条吓到，为了查找方便，我没有分开写，上面加了目录了，而且很多都是源码和图片~
+本篇主题内容是.NET GDI+图形图像编程系列的教程，不要被这个滚动条吓到，为了查找方便，我没有分开写，上面加了目录了，而且很多都是源码和图片~
 
 ## GDI+绘图基础
 
-编写图形程序时需要使用GDI(Graphics De<span class="wp_keywordlink">[vi](http://www.codeceo.com/article/vi-editor-guide.html "vi")</span>ce Interface，图形设备接口)。
+编写图形程序时需要使用GDI(Graphics Device Interface，图形设备接口)。
 
 从程序设计的角度看，GDI包括两部分：GDI对象和GDI函数。GDI对象定义了GDI函数使用的工具和环境变量；而GDI函数使用GDI对象绘制各种图形。
 
