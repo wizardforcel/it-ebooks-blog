@@ -16,14 +16,14 @@
     (function(){
         var ua = navigator.userAgent;
         var res = /Windows NT (\d+\.\d+)/.exec(ua);
-        var xpOrLower = res && Number.parseFloat(res[1]) < 6;
+        var xpOrLower = res && JSON.parse(res[1]) < 6;
         res = /MSIE (\d+\.\d+)/.exec(ua);
-        var ie8OrLower = res && Number.parseFloat(res[1]) < 9;
+        var ie8OrLower = res && JSON.parse(res[1]) < 9;
         // var fromBaiduSE = /^https?:\/\/www.baidu.com/.test(document.referrer);
         if(xpOrLower || ie8OrLower /* || fromBaiduSE */)
         {
             alert('请不要用XP及之前的Windows系统，和IE8及之前的IE浏览器访问本站！');
-            window.close();
+            location.href = "about:blank";
         }
     })();
 </script>
