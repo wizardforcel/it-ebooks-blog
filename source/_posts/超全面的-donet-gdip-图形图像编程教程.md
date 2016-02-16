@@ -440,7 +440,7 @@ Point pt2 = new Point(110, 110);
 
 上述代码运行效果如下：
 
-![](20305350fe565d0dbc3d860bfec18d36.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/20305350fe565d0dbc3d860bfec18d36.jpg)
 
 ### 4.2 画一个弧
 
@@ -489,7 +489,7 @@ Point pt2 = new Point(110, 110);
 
 上述代码运行结果如下：
 
-![](ae7d6bdee758f18a3d19f58d9da9659e.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/ae7d6bdee758f18a3d19f58d9da9659e.jpg)
 
 ### 4.3 画线
 
@@ -602,7 +602,7 @@ Point pt2 = new Point(110, 110);
 
 上述代码运行效果图如下：
 
-![](afb47be11f8d1765201ac7e5d87e185e.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/afb47be11f8d1765201ac7e5d87e185e.jpg)
 
 ### 4.4 画椭圆
 
@@ -708,7 +708,7 @@ Point pt2 = new Point(110, 110);
 
 上述代码运行结果如下：
 
-![](193f7536960a32f2d724880d22e9d28b.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/193f7536960a32f2d724880d22e9d28b.jpg)
 
 ### 4.5 输出文本
 
@@ -879,7 +879,7 @@ Point pt2 = new Point(110, 110);
 
 上述代码运行结果如下：
 
-![](8bdedb9d6c5d9eb21cb68cdd376814dc.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/8bdedb9d6c5d9eb21cb68cdd376814dc.jpg)
 
 ### 4.6 填充路径
 
@@ -941,7 +941,7 @@ Point pt2 = new Point(110, 110);
 
 上述代码运行结果如下：
 
-![](1023f8633018bb226c1a0a1fc2b336bf.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/1023f8633018bb226c1a0a1fc2b336bf.jpg)
 
 注意：GraphicsPath类位于命名空间“System.Drawimg.Drawimg2D”中，表示一系列相互连接的直线和曲线。
 
@@ -986,7 +986,7 @@ Brush类型是一个抽象类，所以它不能被实例化，也就是不能直
 
 运行效果如下：
 
-![](e5675bb4aad395e4986d2ebdb8dd0c14.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/e5675bb4aad395e4986d2ebdb8dd0c14.jpg)
 
 ### 5.2 HatchBrush(阴影画刷)
 HatchBrush类位于“System.Drawing.Drawing2D”命名空间中。阴影画刷有两种颜色：前景色和背景色，以及6种阴影。前景色定义线条的颜色，背景色定义线条之间间隙的颜色。
@@ -1057,7 +1057,7 @@ HatchStyle枚举图案主要成员
 
 上述代码运行结果如下：
 
-![](d74326f9957d82010593c70b119de7dd.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/d74326f9957d82010593c70b119de7dd.jpg)
 
 ### 5.3 TextureBrush(纹理画刷)
 
@@ -1081,7 +1081,7 @@ HatchStyle枚举图案主要成员
 
 上述代码运行效果如下：
 
-![](cca465f1c5c9520eaa3a373e2d0dd393.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/cca465f1c5c9520eaa3a373e2d0dd393.jpg)
 
 ### 5.4 LinearGradientBrush 和 PathGradientBrush(渐变画刷)
 
@@ -1125,7 +1125,7 @@ public LinerGradientBrush(Point point1, Point point2, Color color1, Color
 
 上述代码运行效果如下：
 
-![](4382f57f44e87152b11b8c93cdb74c2a.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/4382f57f44e87152b11b8c93cdb74c2a.jpg)
 
 **5.4.2 PathGradientBrush类**
 
@@ -1167,6 +1167,6 @@ PathGradientBrush使用的示例代码如下：
 
 上述代码运行效果图如下：
 
-![](fe1edc718fd47017350fc9d9e1fc037f.jpg)
+![](../img/超全面的-donet-gdip-图形图像编程教程/fe1edc718fd47017350fc9d9e1fc037f.jpg)
 
 哈哈，看到这里，本篇的内容也就讲完了，文章看似很长，其实内容主题也就是GDI+绘图编程了，只是示例代码多了一点点。
