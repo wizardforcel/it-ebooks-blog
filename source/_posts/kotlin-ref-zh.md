@@ -19,3 +19,5 @@ tags:
 ## 下载 ##
 
 + [PDF格式](https://www.gitbook.com/download/pdf/book/huanglizhuo/kotlin-in-chinese)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/huanglizhuo/kotlin-in-chinese)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/huanglizhuo/kotlin-in-chinese)
