@@ -4,6 +4,10 @@ tags:
   - 渗透
 ---
 
+> 译者：[fisherMartyn](https://github.com/fisherMartyn)
+
+> 来源：[PHP-SECURITY-CHEAT-SHEET](https://github.com/fisherMartyn/PHP-SECURITY-CHEAT-SHEET)
+
 # 介绍
 
 这篇博客是翻译自OWSAP的<a href ="https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet">PHP Security Cheat Sheet</a>，你可以查看原文。
@@ -32,24 +36,26 @@ PHP是弱类型的，意味着不正确的数据类型会被自动转换。这�
 
 考虑下面的程序，程序的目的是检查一个username是不是在数据库的黑名单中，以限制访问。
 
-    $db_link = mysqli_connect('localhost', 'dbuser', 'dbpassword', 'dbname');
+```
+$db_link = mysqli_connect('localhost', 'dbuser', 'dbpassword', 'dbname');
 
-    function can_access_feature($current_user) {
-       global $db_link;
-       $username = mysqli_real_escape_string($db_link, $current_user->username);
-       $res = mysqli_query($db_link, "SELECT COUNT(id) FROM blacklisted_users WHERE username = '$username';");
-       $row = mysqli_fetch_array($res);
-       if ((int)$row[0] > 0) {
-           return false;
-       } else {
-           return true;
-       }
-    }
+function can_access_feature($current_user) {
+   global $db_link;
+   $username = mysqli_real_escape_string($db_link, $current_user->username);
+   $res = mysqli_query($db_link, "SELECT COUNT(id) FROM blacklisted_users WHERE username = '$username';");
+   $row = mysqli_fetch_array($res);
+   if ((int)$row[0] > 0) {
+       return false;
+   } else {
+       return true;
+   }
+}
 
-    if (!can_access_feature($current_user)) {
-       exit();
-    }
-    // Code for feature here
+if (!can_access_feature($current_user)) {
+   exit();
+}
+// Code for feature here
+```
 
 上面的代码可能产生各种各样的运行时错误，例如由于用户名和密码错误或者数据库server宕机可能导致的数据库连接失败、或者连接可能被server断开。在上述情况下，`mysqli`函数会抛出notice或者warnings，但不会抛出异常或者fatal error，代码会继续执行。变量`$row`会成为`NULL`，基于若类型转换`(int)$row[0]`会成为0，最终`can_access_feature`会返回`true`，用户会获得访问权限，不管用户是否在黑名单中。
 
@@ -85,18 +91,22 @@ PHP默认的路由机制是使用文件目录中`.php`的后缀，这带来很�
 
 PHP将HTTP的输入转换成了数组、而不是简单字符串。这会导致对于数据的混淆，容易导致安全风险。例如下面的代码是一个密码重置的一次性机制判断
 
-    $supplied_nonce = $_GET['nonce'];
-    $correct_nonce = get_correct_value_somehow();
+```
+$supplied_nonce = $_GET['nonce'];
+$correct_nonce = get_correct_value_somehow();
 
-    if (strcmp($supplied_nonce, $correct_nonce) == 0) {
-        // Go ahead and reset the password
-    } else {
-       echo 'Sorry, incorrect link';
-    }
+if (strcmp($supplied_nonce, $correct_nonce) == 0) {
+    // Go ahead and reset the password
+} else {
+   echo 'Sorry, incorrect link';
+}
+```
 
 如果攻击者使用如下的查询字符串
 
-     http://example.com/?nonce[]=a
+```
+http://example.com/?nonce[]=a
+```
 
 会导致`$supplied_nonce`成为数组、`strcmp()`函数会返回NULL（连异常都不会抛出），由于若类型转换和没有使用`===`操作符，校验成功，攻击者可以在不提供原密码的情况下进行密码修改。
 
@@ -148,15 +158,20 @@ All input is evil，所有用户的输入都不值得信任。输入必须被用
 
 如下的代码片段、或者类似功能的代码是很常见的：
 
-    if ($_FILES['some_name']['type'] == 'image/jpeg') {  
-       //Proceed to accept the file as a valid image
-    }
+```
+if ($_FILES['some_name']['type'] == 'image/jpeg') {  
+   //Proceed to accept the file as a valid image
+}
+```
+
 然而`type`并不是启发式的去校验的，而仅仅是接收了HTTP请求中的数据，这很容易被客户端伪造。一个更好的去校验文件类型的方法是使用`finfo`库，尽管这种方法也并不完美。
 
-    $finfo = new finfo(FILEINFO_MIME_TYPE);
-    $fileContents = file_get_contents($_FILES['some_name']['tmp_name']);
-    $mimeType = $finfo->buffer($fileContents);
-    
+```
+$finfo = new finfo(FILEINFO_MIME_TYPE);
+$fileContents = file_get_contents($_FILES['some_name']['tmp_name']);
+$mimeType = $finfo->buffer($fileContents);
+```
+
 尽管这会占用服务器的计算资源，但`$mimeType`是更好的判断文件类型的方式，会阻止一些用户上传危险的文件，并伪装成image等形式，来造成攻击行为。
 
 ## 使用$_REQUEST
@@ -169,12 +184,16 @@ All input is evil，所有用户的输入都不值得信任。输入必须被用
 ## 不要在SQL中连接或者插入数据
 
 ### 不要直接使用用户数据的string构造SQL
-     
-    $sql = "SELECT * FROM users WHERE username = '" . $username . "';";
+
+```
+$sql = "SELECT * FROM users WHERE username = '" . $username . "';";
+```
 
 或者使用如下SQL：
 
-     $sql = "SELECT * FROM users WHERE username = '$username';";
+```
+$sql = "SELECT * FROM users WHERE username = '$username';";
+```
 
 如果`$username`来自不可信任的来源，它可以包含类似于`'`这样的字符，从而可以执行其它命令，甚至删除数据库命令。使用prepare语句和绑定参数是更好的解决方案。PHP的<a href="http://php.net/mysqli">mysqli</a>和<a href="https://secure.php.net/pdo">PDO</a>提供了相关的特性。
 
@@ -199,10 +218,12 @@ ORM(Object Relational Mappers)，即对象关系映射，是非常好的安全�
 #### 尽量使用UTF-8编码
 许多新型攻击模式依赖于编码。使用UTF-8作为数据库和应用的字符集，除非你有对其它字符集的强依赖。
 
-     $DB = new mysqli($Host, $Username, $Password, $DatabaseName);
-     if (mysqli_connect_errno())
-        trigger_error("Unable to connect to MySQLi database.");
-     $DB->set_charset('UTF-8');
+```
+$DB = new mysqli($Host, $Username, $Password, $DatabaseName);
+if (mysqli_connect_errno())
+trigger_error("Unable to connect to MySQLi database.");
+$DB->set_charset('UTF-8');
+```
 
 # 其它注入
 除了SQL以外，还有PHP中别的注入的可能性
@@ -224,7 +245,9 @@ ORM(Object Relational Mappers)，即对象关系映射，是非常好的安全�
 
 不要轻易在`preg_replace()`中输入未经过滤的输入，因为payload会被<a href ="https://stackoverflow.com/questions/4289923/in-which-languages-is-it-a-security-hole-to-use-user-supplied-regular-expression/4292439#4292439">`eval()'ed`</a>
 
-    preg_replace("/.*/e","system('echo /etc/passwd')");
+```
+preg_replace("/.*/e","system('echo /etc/passwd')");
+```
 
 Reflection也有代码注入的风险。这属于高级的话题，请参考相关文档。
 
@@ -245,20 +268,22 @@ LDAP、XPath和其他一些使用数组作为输入的第三方库，也容易�
 
 需要注意的是下面的函数对于`style`、`script`、`image`、`src`、`a`等等不安全的元素是无效的。所有输出到浏览器的数据，都要经过下面函数的过滤。
 
-    //xss mitigation functions
-    function xssafe($data,$encoding='UTF-8')
-    {
-        return htmlspecialchars($data,ENT_QUOTES |ENT_HTML401,$encoding);
-    }
-    
-    function xecho($data)
-    {
-        echo xssafe($data);
-    }
-    
-    //usage example
-    <input type='text' name='test' value='<?php xecho ("' onclick='alert(1)");?>' />
-    
+```
+//xss mitigation functions
+function xssafe($data,$encoding='UTF-8')
+{
+    return htmlspecialchars($data,ENT_QUOTES |ENT_HTML401,$encoding);
+}
+
+function xecho($data)
+{
+    echo xssafe($data);
+}
+
+//usage example
+<input type='text' name='test' value='<?php xecho ("' onclick='alert(1)");?>' />
+```
+
 ## 不可信的tags
 当你需要用户在你输出时提供HTML tags时（例如富文本博客评论、博客等等），但不是很信任使用者时，你需要使用安全编码库。这很困难，迁移过程也很慢，所以大量的网络应用有XSS注入攻击的风险。OWASP ESAPI对于不同类型数据的编码具有大量的编解码器，也有PHP的OWASP AntiSammy和HTMLPurifier。这需要一定的配置和学习的成本，但对于一个好的网络应用，是必不可少的。
 ## 模板引擎
@@ -304,7 +329,9 @@ PHP默认的session机制是安全的，生成的PHPSessionID足够随机，但�
 
 在session第一次创建时，存储客户端的IP地址，确保后面的请求都是相同来源。下面的代码返回了客户端的IP地址
 
-    $IP = getenv ( "REMOTE_ADDR" );
+```
+$IP = getenv ( "REMOTE_ADDR" );
+```
 
 在本地环境下，无法获得有效的IP地址，可能是`:::1`或者`:::127`，调整你的IP检查逻辑。另外要注意使用`HTTP_X_FORWARDED_FOR`变量的相似代码，因为该数据可以被用户随意修改，易于被欺骗。（<a href="http://www.thespanner.co.uk/2007/12/02/faking-the-unexpected/">这里</a>和<a href="http://security.stackexchange.com/a/34327/37">这里</a>）
 
@@ -341,10 +368,12 @@ session应该在一定时间后失效，无论是活动还是静止状态。超�
 #### 恰当删除
 要安全的删除cookie，使用如下的代码：
 
-    setcookie ($name, "", 1);
-    setcookie ($name, false);
-    unset($_COOKIE[$name]);
-    
+```
+setcookie ($name, "", 1);
+setcookie ($name, false);
+unset($_COOKIE[$name]);
+```
+
 第一行保证了浏览器过期了cookie数据，第二行是标准的删除cookie的方法，第三行从脚本中删除了cookie信息。很多手册中使用了`time()-3600`来做超时，但在浏览器时间不准确的情况下会无效。
 
 可以使用`session_name()`来获得php默认session cookie名。
@@ -353,17 +382,21 @@ session应该在一定时间后失效，无论是活动还是静止状态。超�
 
 PHP5.2+版本支持Http-Only cookie，你要手动设置http session cookie（不是使用session_start）
 
-    #prototype
-    bool setcookie ( string $name [, string $value [, int $expire = 0 [, string $path [, string $domain [, bool $secure = false [, bool $httponly = false ]]]]]] )
-    
-    #usage
-    if (!setcookie("MySessionID", $secureRandomSessionID,$generalTimeout, $applicationRootURLwithoutHost, NULL, NULL,true))
-        echo ("could not set HTTP-only cookie");
-        
+```
+#prototype
+bool setcookie ( string $name [, string $value [, int $expire = 0 [, string $path [, string $domain [, bool $secure = false [, bool $httponly = false ]]]]]] )
+
+#usage
+if (!setcookie("MySessionID", $secureRandomSessionID,$generalTimeout, $applicationRootURLwithoutHost, NULL, NULL,true))
+echo ("could not set HTTP-only cookie");
+```
+ 
 `$path`参数指定了cookie的有效范围，例如，如果你的网址是`example.com/some/folder`，`$path`应该是`/some/folder`，否则所有在`example.com`的应用都可以读取你的cookie。如果你使用全域名，可以忽略。域名参数强制了可访问域名，如果需要在多个域和IP访问，忽略该参数，否则老老实实设置。 如果安全参数设置，cookie可以通过HTTPs传递，例如：
 
-    $r=setcookie("SECSESSID","1203j01j0s1209jw0s21jxd01h029y779g724jahsa9opk123973",time()+60*60*24*7 /*a week*/,"/","owasp.org",true,true);
-    if (!$r) die("Could not set session cookie.");
+```
+$r=setcookie("SECSESSID","1203j01j0s1209jw0s21jxd01h029y779g724jahsa9opk123973",time()+60*60*24*7 /*a week*/,"/","owasp.org",true,true);
+if (!$r) die("Could not set session cookie.");
+```
 
 #### 浏览器相关
 很多浏览器都有cookies的问题，大部分可以通过设置超时时间为0来解决。
