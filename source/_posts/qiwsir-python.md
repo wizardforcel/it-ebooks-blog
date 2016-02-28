@@ -14,8 +14,9 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.kancloud.cn/kancloud/starter-learning-python)
++ [在线阅读](http://wiki.jikexueyuan.com/project/start-learning-python/index.html)
 
 ## 下载 ##
 
-暂无。
++ [PDF格式](http://passport.jikexueyuan.com/sso/login)
++ [EPUB格式](http://passport.jikexueyuan.com/sso/login)
