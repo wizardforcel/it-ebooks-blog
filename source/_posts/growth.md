@@ -1,9 +1,7 @@
 title: Growth
 date: 2016-02-05 22:13:26
 tags:
-  - web 开发
-  - 前端
-  - 后端
+  - 综合
 ---
 
 作者：[phodal](https://github.com/phodal)
