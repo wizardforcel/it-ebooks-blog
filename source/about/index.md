@@ -27,7 +27,7 @@ date: 2016-01-29 08:28:45
 如果你仍想访问之前的图书，请点击下面的链接。这些链接可能会失效，所以不要保存链接而是保存这个页面。以前的图书仍旧会提供，但是书目不会更新了。
 
 + [Mega下载](https://mega.nz/#F!qQUwUTKR!okYrzPOauVIaFj4GNSRZfA)
-+ OneDrive下载
++ [OneDrive下载](http://1drv.ms/217UA2D)
 + BTSync序列号
 
 [programthink](https://github.com/programthink/books)的网盘中也有一些不错的书籍。
