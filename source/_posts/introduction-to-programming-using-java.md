@@ -1,4 +1,4 @@
-title: Introduction to Programming Using Java 7e （英文）
+title: Introduction to Programming Using Java 7e
 date: 2016-03-02 16:56:39
 tags:
   - java
@@ -25,4 +25,4 @@ tags:
 
 ## 翻译 ##
 
-ImportNew 网站正在翻译此书，译名为《Java编程入门》请见[这里](http://www.importnew.com/?s=java+%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8)。
+ImportNew 网站正在翻译此书，译名为《Java编程入门》，请见[这里](http://www.importnew.com/?s=java+%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8)。
