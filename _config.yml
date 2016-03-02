@@ -85,5 +85,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://gitcafe.com/it-ebooks/it-ebooks.git
-  branch: gitcafe-pages
+  repository: https://git.coding.net/wizardforcel/it-ebooks-site.git
+  branch: master
