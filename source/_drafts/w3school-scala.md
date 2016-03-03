@@ -1,3 +1,4 @@
+---
 title: W3School Scala 教程
 date: 2015-12-29 16:33:44
 tags:

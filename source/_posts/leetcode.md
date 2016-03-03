@@ -1,3 +1,4 @@
+---
 title: 数据结构与算法笔记（leetcode/lintcode题解）
 date: 2015-12-31 20:57:30
 tags:

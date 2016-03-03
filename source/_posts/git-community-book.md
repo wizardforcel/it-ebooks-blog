@@ -1,3 +1,4 @@
+---
 title: Git Community Book 中文版
 date: 2016-01-02 08:35:41
 tags:

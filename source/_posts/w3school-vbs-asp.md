@@ -1,3 +1,4 @@
+---
 title: W3School VBS & ASP 教程
 date: 2015-01-01 00:01:01
 tags:

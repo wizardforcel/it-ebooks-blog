@@ -1,3 +1,4 @@
+---
 title: C++ Template 进阶指南
 date: 2016-02-14 14:06:07
 tags:

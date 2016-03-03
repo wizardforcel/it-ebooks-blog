@@ -1,3 +1,4 @@
+---
 title: JavaScript 标准参考教程
 date: 2016-01-02 11:17:16
 tags:

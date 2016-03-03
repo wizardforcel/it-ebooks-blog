@@ -1,3 +1,4 @@
+---
 title: Programming Abstractions in C++
 date: 2016-03-02 20:00:03
 tags:

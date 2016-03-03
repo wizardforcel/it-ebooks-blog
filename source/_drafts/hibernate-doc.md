@@ -1,3 +1,4 @@
+---
 title: Hibernate 中文文档 3.2
 date: 2016-01-06 17:23:31
 tags:

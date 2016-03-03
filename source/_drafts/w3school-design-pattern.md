@@ -1,3 +1,4 @@
+---
 title: W3School 设计模式教程
 date: 2015-12-27 21:17:02
 tags:

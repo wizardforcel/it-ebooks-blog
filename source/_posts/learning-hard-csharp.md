@@ -1,3 +1,4 @@
+---
 title: Learning Hard C# 博客原文
 date: 2016-01-23 10:59:33
 tags:

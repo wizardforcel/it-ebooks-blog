@@ -1,3 +1,4 @@
+---
 title: Introduction to Computer Graphics
 date: 2016-03-02 17:01:47
 tags:

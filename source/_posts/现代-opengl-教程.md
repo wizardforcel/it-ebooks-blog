@@ -1,3 +1,4 @@
+---
 title: 现代 OpenGL 教程
 date: 2016-01-20 18:29:04
 tags:

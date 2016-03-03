@@ -1,3 +1,4 @@
+---
 title: MFC程序员的WTL指南
 date: 2016-01-13 19:11:33
 tags:

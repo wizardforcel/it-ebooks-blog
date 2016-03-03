@@ -1,3 +1,4 @@
+---
 title: Foundations of Computation
 date: 2016-03-02 17:04:44
 tags:
