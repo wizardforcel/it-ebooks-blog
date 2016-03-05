@@ -22,7 +22,6 @@ date: 2016-01-28 22:28:47
 
 ## 汇编 & 逆向
 
-+ [PC Assembly Language](http://www.drpaulcarter.com/pcasm/)
 + [Intel 80386 Programmer’s Reference Manual](http://www.logix.cz/michal/doc/i386/)
 
 
