@@ -2,6 +2,7 @@
 title: PC Assembly Language （中文版）
 date: 2016-03-05 20:22:41
 tags:
+  - 汇编
   - 逆向
 ---
 

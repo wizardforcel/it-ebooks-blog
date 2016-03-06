@@ -18,12 +18,6 @@ date: 2016-01-28 22:28:47
 + [VisuAlgo](http://visualgo.net/) – 看动画学算法
 + [List of algorithms](http://en.wikipedia.org/wiki/List_of_algorithms)
 
-
-## 汇编 & 逆向
-
-+ [Intel 80386 Programmer’s Reference Manual](http://www.logix.cz/michal/doc/i386/)
-
-
 ## 图书
 
 + 中文
