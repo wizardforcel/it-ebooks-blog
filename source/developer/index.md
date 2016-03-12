@@ -62,11 +62,13 @@ date: 2016-01-28 22:36:37
 *   [乌云](http://www.wooyun.org/)
 *   [补天](http://butian.360.cn/)
 *   [seebug](https://www.seebug.org/)
+*   [Exploit DB](https://www.exploit-db.com/)
 
 ## 课程
 
 *   [Coursera](https://www.coursera.org/)
 *   [imooc](http://www.imooc.com/)
+*   [极客学院](http://www.jikexueyuan.com/)
 *   [CodeAcademy](http://www.codecademy.com/)
 *   [网易云课堂](http://study.163.com/)
 *   [计蒜客](http://www.jisuanke.com/)
@@ -77,6 +79,7 @@ date: 2016-01-28 22:36:37
 
 *   [leetcode](https://oj.leetcode.com/)
 *   [九度](http://ac.jobdu.com/)
+*   [IDF CTF](http://ctf.idf.cn/index.php)
 
 * * *
 
