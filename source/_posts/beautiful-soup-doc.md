@@ -1449,7 +1449,7 @@ last_a_tag.next_sibling
 
 
 
-但这个`<a>`标签的 `.next_element` 属性结果是在`<a>`标签被解析之后的解析内容,不是<a>标签后的句子部分,应该是字符串”Tillie”:
+但这个`<a>`标签的 `.next_element` 属性结果是在`<a>`标签被解析之后的解析内容,不是`<a>`标签后的句子部分,应该是字符串”Tillie”:
 
 
 
@@ -1729,7 +1729,7 @@ soup.find_all(has_class_but_no_id)
 
 
 
-返回结果中只有`<p>`标签没有`<a>`标签,因为<a>标签还定义了”id”,没有返回`<html>`和`<head>`,因为`<html>`和`<head>`中没有定义”class”属性.
+返回结果中只有`<p>`标签没有`<a>`标签,因为`<a>`标签还定义了”id”,没有返回`<html>`和`<head>`,因为`<html>`和`<head>`中没有定义”class”属性.
 
 下面代码找到所有被文字包含的节点内容:
 
@@ -1767,7 +1767,7 @@ for tag in soup.find_all(surrounded_by_strings):
 
 ## find_all()
 
-find_all( [name](#id32) , [attrs](#css) , [recursive](#recursive) , [text](#text) , [**kwargs](#keyword) )
+`find_all( name , attrs , recursive , text , **kwargs )`
 
 `find_all()` 方法搜索当前tag的所有tag子节点,并判断是否符合过滤器的条件.这里有几个例子:
 
@@ -2205,7 +2205,7 @@ soup.title(text=True)
 
 ## find()
 
-find( [name](#id32) , [attrs](#css) , [recursive](#recursive) , [text](#text) , [**kwargs](#keyword) )
+`find( name , attrs , recursive , text , **kwargs )`
 
 `find_all()` 方法将返回文档中符合条件的所有tag,尽管有时候我们只想得到一个结果.比如文档中只有一个`<body>`标签,那么使用 `find_all()` 方法来查找`<body>`标签就不太合适, 使用 `find_all` 方法并设置 `limit=1` 参数不如直接使用 `find()` 方法.下面两行代码是等价的:
 
@@ -2305,7 +2305,7 @@ a_string.find_parents("p", class="title")
 
 
 
-文档中的一个<a>标签是是当前叶子节点的直接父节点,所以可以被找到.还有一个<p>标签,是目标叶子节点的间接父辈节点,所以也可以被找到.包含class值为”title”的<p>标签不是不是目标叶子节点的父辈节点,所以通过 `find_parents()` 方法搜索不到.
+文档中的一个`<a>`标签是是当前叶子节点的直接父节点,所以可以被找到.还有一个`<p>`标签,是目标叶子节点的间接父辈节点,所以也可以被找到.包含class值为”title”的`<p>`标签不是不是目标叶子节点的父辈节点,所以通过 `find_parents()` 方法搜索不到.
 
 `find_parent()` 和 `find_parents()` 方法会让人联想到 [.parent](#parent) 和 [.parents](#parents) 属性.它们之间的联系非常紧密.搜索父辈节点的方法实际上就是对 `.parents` 属性的迭代搜索.
 
