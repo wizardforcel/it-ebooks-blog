@@ -2,6 +2,7 @@
 title: Python3 Cookbook 中文版
 date: 2016-03-12 20:05:19
 tags:
+  - python
 ---
 
 ![](http://box.kancloud.cn/cover_2015-07-29_55b86876708c_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100)
