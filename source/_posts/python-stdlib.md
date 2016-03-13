@@ -9,6 +9,8 @@ tags:
 
 翻译: Python 江湖群
 
+格式：PDF
+
 <!--more-->
 
 ## 在线阅读 ##
@@ -17,4 +19,6 @@ tags:
 
 ## 下载 ##
 
-+ [下载地址](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
++ [Sebug下载](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRi_vpB)
++ [千易下载](http://1000eb.com/1j0va)
