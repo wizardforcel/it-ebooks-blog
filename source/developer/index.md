@@ -66,6 +66,7 @@ date: 2016-01-28 22:36:37
 *   [补天](http://butian.360.cn/)
 *   [seebug](https://www.seebug.org/)
 *   [Exploit DB](https://www.exploit-db.com/)
+*   [全球被黑网站统计](http://www.hack-cn.com/)
 
 ## 课程
 
