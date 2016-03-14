@@ -5,7 +5,7 @@ tags:
   - coffeescript
 ---
 
-![](http://ww3.sinaimg.cn/large/841aea59jw1f1wjxp37evj20p00xcq57.jpg)
+![](http://ww3.sinaimg.cn/large/841aea59jw1f1wk7eb5vxj20e60iwt9q.jpg)
 
 译者：[寸志](http://island205.com)
 
