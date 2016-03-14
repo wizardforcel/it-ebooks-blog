@@ -34,6 +34,9 @@ date: 2016-01-28 22:36:37
 *   [OSChina](http://www.oschina.net/)
 *   [吾爱破解](http://www.52pojie.cn/)
 *   [看雪](http://www.pediy.com/)
+*   [习科](http://bbs.blackbap.org/forum.php)
+*   [暗组](http://forum.cnsec.org/)
+*   [Cocode](http://cocode.cc)
 
 ## 问答平台
 
@@ -84,22 +87,3 @@ date: 2016-01-28 22:36:37
 *   [leetcode](https://oj.leetcode.com/)
 *   [九度](http://ac.jobdu.com/)
 *   [IDF CTF](http://ctf.idf.cn/index.php)
-
-* * *
-
-## 公开课
-
-*   算法，普林斯顿，segwick
-    *   [part1](https://www.coursera.org/course/algs4partI)
-    *   [part2](https://www.coursera.org/course/algs4partII)
-*   机器学习，台湾大学
-    *   [part1](https://www.coursera.org/course/ntumltwo)
-    *   [part2](https://www.coursera.org/course/ntumlone)
-*   云计算，uiuc
-    *   [part1](https://www.coursera.org/course/nlangp)
-    *   [part2](https://www.coursera.org/course/cloudcomputing2)
-*   [编译，斯坦福，aho](https://www.coursera.org/course/compilers)
-*   [软硬件接口（csapp），华盛顿大学](https://www.coursera.org/course/hwswinterface)
-*   [web开发，哈佛（cs75）](http://open.163.com/special/opencourse/buildingdynamicwebsites.html)
-*   [计算机科学导论，哈佛（cs50）](http://open.163.com/special/opencourse/cs50.html)
-*   [线性代数，mit](http://open.163.com/special/opencourse/daishu.html)

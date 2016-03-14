@@ -5,6 +5,15 @@ date: 2016-01-28 22:28:47
 
 不便于单独列出的教程收录在这里。
 
+## Python
+
++ [SciPy Cookbook](http://scipy-cookbook.readthedocs.org/index.html)
++ [SciPy 讲义](https://github.com/cloga/scipy-lecture-notes_cn)
++ [NumPy User Guide](http://docs.scipy.org/doc/numpy-dev/user/)
++ [SciPy Tutorial](http://scipy.github.io/devdocs/tutorial/index.html)
++ [Matplotlib User Guide](http://matplotlib.org/users/index.html)
++ [SymPy Doc](http://docs.sympy.org/latest/index.html)
++ [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 ## 前端
 
@@ -43,6 +52,11 @@ date: 2016-01-28 22:28:47
 
 + [cheat-sheets](http://www.cheat-sheets.org/)
 + [OverApi](http://overapi.com/) – 又一个速查表网站
+
+## 公开课/讲义
+
++ [awesome-courses](https://github.com/prakhar1989/awesome-courses)
++ [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
 
 ## 综合
 
