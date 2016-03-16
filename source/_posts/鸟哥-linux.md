@@ -1,11 +1,11 @@
 ---
-title: 鸟哥的linux私房菜 （第三版） 基础学习篇
+title: 鸟哥的linux私房菜 （第四版） 基础学习篇
 date: 2015-04-29 13:16:52
 tags:
   - linux
 ---
 
-![](http://img5.douban.com/lpic/s4399937.jpg)
+![](http://ww2.sinaimg.cn/large/841aea59jw1f1yxrmfjyuj20aa0dw0t5.jpg)
 
 <!--more-->
 
@@ -298,11 +298,10 @@ tags:
 
 ## 在线阅读 ##
 
-* [在线阅读](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
+* [在线阅读](http://linux.vbird.org/linux_basic/)
 
 ## 下载 ##
 
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROstGM)
-* [百度云下载](http://pan.baidu.com/s/1mgl60Jm)
-* [FilePi下载](http://filepi.com/i/LuhV7zN)
-* [千易下载](http://1000eb.com/1gghg)
+* [Kindle114](http://www.kindle114.com/page-170675.html)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjsaSk)
+* [千易下载](http://1000eb.com/1j1cb)
