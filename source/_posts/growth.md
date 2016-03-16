@@ -1,5 +1,5 @@
 ---
-title: Growth: 深入浅出全栈工程师
+title: Growth：深入浅出全栈工程师
 date: 2016-02-05 22:13:26
 tags:
   - 综合
