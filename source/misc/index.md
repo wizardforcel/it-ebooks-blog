@@ -27,6 +27,11 @@ date: 2016-01-28 22:28:47
 + [VisuAlgo](http://visualgo.net/) – 看动画学算法
 + [List of algorithms](http://en.wikipedia.org/wiki/List_of_algorithms)
 
+## 渗透
+
++ [Security Flow Chart](https://github.com/SecWiki/sec-chart)
++ [安全思维导图整理](https://github.com/phith0n/Mind-Map)
+
 ## 图书
 
 + 中文
