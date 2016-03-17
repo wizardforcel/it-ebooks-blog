@@ -19,10 +19,15 @@
         var xpOrLower = res && JSON.parse(res[1]) < 6;
         res = /MSIE (\d+\.\d+)/.exec(ua);
         var ie8OrLower = res && JSON.parse(res[1]) < 9;
-        // var fromBaiduSE = /^https?:\/\/www.baidu.com/.test(document.referrer);
-        if(xpOrLower || ie8OrLower /* || fromBaiduSE */)
+        if(xpOrLower || ie8OrLower)
         {
             alert('请不要用XP及之前的Windows系统，和IE8及之前的IE浏览器访问本站！');
+            location.href = "about:blank";
+        }
+        var fromBaiduSE = /^https?:\/\/www.baidu.com/.test(document.referrer);
+        if(fromBaiduSE)
+        {
+            alert('检测到你还在使用百度搜索，作为一个程序员，这是一种自暴自弃！\n\n做不作恶的程序员，从不用百度开始！')
             location.href = "about:blank";
         }
     })();
