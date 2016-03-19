@@ -8,14 +8,19 @@ tags:
   - 科学计算
 ---
 
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/hyry-studio-scipy.jpg?build=1439249362341&v=12.0.2)
+
+
 作者：[HYRY Studio](http://hyry.dip.jp/)
 
 <!--more-->
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://old.sebug.net/paper/books/scipydoc)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/hyry-studio-scipy/details)
 
 ## 下载 ##
 
-暂无。
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/hyry-studio-scipy)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/hyry-studio-scipy)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/hyry-studio-scipy)
