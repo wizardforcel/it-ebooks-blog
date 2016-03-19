@@ -2,6 +2,7 @@
 title: Dive Into Python3 中文版
 date: 2016-03-19 15:02:40
 tags:
+  - python
 ---
 
 ![](https://img1.doubanio.com/lpic/s4059293.jpg)
