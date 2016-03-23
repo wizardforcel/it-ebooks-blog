@@ -6,7 +6,7 @@ tags:
   - 图像处理
 ---
 
-![](http://ww2.sinaimg.cn/large/841aea59jw1f26kyh5ghgj20jt0s13ym.jpg)
+<img src='http://ww2.sinaimg.cn/large/841aea59jw1f26kyh5ghgj20jt0s13ym.jpg' width='500' />
 
 格式：PDF
 

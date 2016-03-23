@@ -6,7 +6,7 @@ tags:
   - 科学计算
 ---
 
-![](http://ww1.sinaimg.cn/large/841aea59jw1f26l45n76oj20ka0q878b.jpg)
+<img src='http://ww1.sinaimg.cn/large/841aea59jw1f26l45n76oj20ka0q878b.jpg' width='500' />
 
 格式：PDF
 
