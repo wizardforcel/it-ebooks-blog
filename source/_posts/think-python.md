@@ -23,7 +23,3 @@ tags:
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjuH2J)
 + [千易下载](http://1000eb.com/1izcy)
-
-## 第二版翻译 ##
-
-该书的第二版（Python 3）正在由[编程派](http://www.codingpy.com/)组织翻译，请见[这里](https://github.com/bingjin/ThinkPython2-CN)。
