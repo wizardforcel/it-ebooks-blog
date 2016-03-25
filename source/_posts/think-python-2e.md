@@ -17,10 +17,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://github.com/cycleuser/ThinkPython-en-cn)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/think-python-2e/details)
 
 ## 下载 ##
 
-+ [PDF格式](https://github.com/cycleuser/ThinkPython-en-cn/raw/master/ThinkPython.pdf)
-+ [EPUB格式](https://github.com/cycleuser/ThinkPython-en-cn/raw/master/ThinkPython.epub)
-+ [Markdown格式（单页）](https://github.com/cycleuser/ThinkPython-en-cn/raw/master/ThinkPython.md)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/think-python-2e)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/think-python-2e)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/think-python-2e)
