@@ -5,7 +5,7 @@ tags:
   - python
 ---
 
-![](http://ww2.sinaimg.cn/large/841aea59jw1f288pj48ylj2094059aa0.jpg)
+![](http://ww2.sinaimg.cn/large/841aea59jw1f281f6ovxej20er0kv3zs.jpg)
 
 作者：Wesley J. Chun（陳仲才） 
 
@@ -25,5 +25,5 @@ tags:
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjjhDu)
-+ [千易下载](http://1000eb.com/1jtwc)
++ [微盘下载]()
++ [千易下载](http://1000eb.com/1jzo4)
