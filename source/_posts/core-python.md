@@ -25,5 +25,5 @@ tags:
 
 ## 下载 ##
 
-+ [微盘下载]()
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRiZOis)
 + [千易下载](http://1000eb.com/1jzo4)
