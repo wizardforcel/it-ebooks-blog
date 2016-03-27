@@ -30,7 +30,7 @@ date: 2016-03-27 17:05:57
     +   [Effective STL](http://book.douban.com/subject/24534868/)
     +   [Effective Modern C++](http://book.douban.com/subject/25923597/)
 
-### c#
+### C&#35;
 
 +   [C# 入门经典 6e](http://book.douban.com/subject/25867885/)
 +   [C# 高级编程 9e](http://book.douban.com/subject/26279096/)
