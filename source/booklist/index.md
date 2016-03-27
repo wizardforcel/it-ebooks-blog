@@ -30,7 +30,7 @@ date: 2016-03-27 17:05:57
     +   [Effective STL](http://book.douban.com/subject/24534868/)
     +   [Effective Modern C++](http://book.douban.com/subject/25923597/)
 
-### c\#
+### c#
 
 +   [C# 入门经典 6e](http://book.douban.com/subject/25867885/)
 +   [C# 高级编程 9e](http://book.douban.com/subject/26279096/)
@@ -68,8 +68,7 @@ date: 2016-03-27 17:05:57
 +   [你不知道的JavaScript（上卷）](http://book.douban.com/subject/26351021/)
 +   [Effective JavaScript](http://book.douban.com/subject/25786138/)
 +   jQuery
-    +   [
-锋利的 jQuery 2e](http://book.douban.com/subject/10792216/)
+    +   [锋利的 jQuery 2e](http://book.douban.com/subject/10792216/)
     +   [精通 jQuery 2e](http://book.douban.com/subject/26243466/)
 +   Node.js
     +   [深入浅出 Node.js](http://book.douban.com/subject/25768396/)
@@ -114,8 +113,7 @@ date: 2016-03-27 17:05:57
     +   [Windows PE 权威指南](http://book.douban.com/subject/6855804/)
 +   Unix/Linux
     +   [Linux 程序设计 4e](http://book.douban.com/subject/4831448/)
-    +   [
-Linux内核设计与实现](http://book.douban.com/subject/6097773/)
+    +   [Linux内核设计与实现](http://book.douban.com/subject/6097773/)
     +   [UNIX 环境高级编程 3e](http://book.douban.com/subject/25900403/)
     +   UNIX 网络编程
         +   [卷1](http://book.douban.com/subject/26434583/)
@@ -156,6 +154,7 @@ Linux内核设计与实现](http://book.douban.com/subject/6097773/)
 +   [架构之美](http://book.douban.com/subject/4086029/)
 +   [七周七并发模型](http://book.douban.com/subject/26337939/)
 +   [UML 和模式应用](http://book.douban.com/subject/1792387/)
++   [代码整洁之道](http://book.douban.com/subject/4199741/)
 
 ### 编程思想
 
@@ -175,9 +174,9 @@ Linux内核设计与实现](http://book.douban.com/subject/6097773/)
 +   [番茄工作法图解](http://book.douban.com/subject/5916234/)
 +   [程序员修炼之道](http://book.douban.com/subject/5387402/)
 +   [构建之法 2e](http://book.douban.com/subject/26577755/)
-+   [
-代码整洁之道](http://book.douban.com/subject/4199741/)
 +   [高效程序员的45个习惯](http://book.douban.com/subject/26098849/)
++   [梦断代码](http://book.douban.com/subject/6526454/)
++   [程序员职业规划之道](http://book.douban.com/subject/4923179/)
 
 ### 数据库
 
@@ -195,7 +194,52 @@ Linux内核设计与实现](http://book.douban.com/subject/6097773/)
 
 ### IT 人文
 
++   [黑客与画家](http://book.douban.com/subject/6021440/)
++   [软件随想录](http://book.douban.com/subject/4163938/)
++   [浪潮之巅 2e](http://book.douban.com/subject/24738302/)
++   [世界是数字的](http://book.douban.com/subject/24749903/)
++   [线上幽灵](http://book.douban.com/subject/25788945/)
++   [大教堂与集市](http://book.douban.com/subject/25881855/)
++   [史蒂夫·乔布斯传](http://book.douban.com/subject/25810506/)
++   [编程人生](http://book.douban.com/subject/5355285/)
+
 ### 图形学
 
 +   [OpenGL 编程指南 8e](http://book.douban.com/subject/26220248/)
 +   [OpenGL 超级宝典 5e](http://book.douban.com/subject/10774590/)
+
+### 机器学习/数据挖掘
+
++   [数据挖掘导论](http://book.douban.com/subject/5377669/)
++   [数据挖掘：概念与技术 3e](http://book.douban.com/subject/11542972/)
++   [数据挖掘十大算法](http://book.douban.com/subject/24735417/)
++   [机器学习实战](http://book.douban.com/subject/24703171/)
+
+### 逆向/二进制安全
+
++   [加密与解密 3e](http://book.douban.com/subject/3091212/)
++   [C++ 反汇编与逆向分析技术揭秘](http://book.douban.com/subject/6849800/)
++   [微软.NET程序的加密与解密](http://book.douban.com/subject/3274597/)
++   [0day 安全 2e](http://book.douban.com/subject/6524076/)
++   [Android 软件安全与逆向分析](http://book.douban.com/subject/20556210/)
++   [黑客攻防技术宝典：iOS实战篇](http://book.douban.com/subject/25697429/)
++   [Android 安全攻防权威指南](http://book.douban.com/subject/26348151/)
++   [黑客攻防技术宝典：系统实战篇](http://book.douban.com/subject/4225167/)
++   [IDA Pro权威指南 2e](http://book.douban.com/subject/10463039/)
+
+### 渗透/Web 安全
+
++   [白帽子讲Web安全](http://book.douban.com/subject/10546925/)
++   [Web前端黑客技术揭秘](http://book.douban.com/subject/20451827/)
++   [黑客攻防技术宝典：Web实战篇 2e](http://book.douban.com/subject/10793814/)
++   [Web之困](http://book.douban.com/subject/25733421/)
++   [XSS跨站脚本攻击剖析与防御](http://book.douban.com/subject/25711796/)
++   [SQL注入攻击与防御 2e](http://book.douban.com/subject/25815527/)
++   [Metasploit渗透测试指南](http://book.douban.com/subject/10433737/)
++   [渗透测试实践指南 2e](http://book.douban.com/subject/25964279/)
++   Kali
+    +   [Web渗透测试：使用Kali Linux](http://book.douban.com/subject/25955740/)
+    +   [Kali Linux渗透测试的艺术](http://book.douban.com/subject/26393282/)
++   [反入侵的艺术](http://book.douban.com/subject/25962826/)
++   [反欺骗的艺术](http://book.douban.com/subject/25962840/)
++   [社会工程：安全体系中的人性漏洞](http://book.douban.com/subject/25768304/)
