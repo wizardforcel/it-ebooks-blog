@@ -7,7 +7,6 @@ date: 2016-01-28 22:28:47
 
 ## Python
 
-+ [SciPy Cookbook](http://scipy-cookbook.readthedocs.org/index.html)
 + [Scikit Learn User Guide](http://scikit-learn.org/stable/user_guide.html)
 + [NumPy User Guide](http://docs.scipy.org/doc/numpy-dev/user/)
 + [SciPy Tutorial](http://scipy.github.io/devdocs/tutorial/index.html)
