@@ -50,3 +50,13 @@ date: 2016-01-29 08:28:45
 ## 投稿
 
 大家可以在此投稿，分享珍藏已久的计算机免费书籍。有任何问题或意见也可以在此提出。
+
+## 其它
+
+如果你仍想访问之前的图书，请点击下面的链接。这些链接可能会失效，所以不要保存链接而是保存这个页面。以前的图书仍旧会提供，但是书目不会更新了。
+
++ [Mega下载](https://mega.nz/#F!qQUwUTKR!okYrzPOauVIaFj4GNSRZfA)
++ [OneDrive下载](http://1drv.ms/217UA2D)
++ BTSync序列号
+
+[programthink](https://github.com/programthink/books)的网盘中也有一些不错的书籍。
