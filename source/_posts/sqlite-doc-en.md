@@ -5,18 +5,16 @@ tags:
   - sqlite
 ---
 
-![](http://pic.cr173.com/up/2010-12/2010129173913.jpg)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/sqlite-doc-en.jpg?build=1452495789786&v=12.0.4)
 
 来源：[SQLite Documents](http://www.sqlite.org/docs.html)
 
-格式：CHM
-
 <!--more-->
 
-+ [在线阅读](http://www.sqlite.org/docs.html)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/sqlite-doc-en/details)
 
 ## 下载 ##
 
-+ [CSDN下载](http://download.csdn.net/detail/iihero/2890372)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRiZNlA)
-+ [千易下载](http://1000eb.com/1khkd)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/sqlite-doc-en)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/sqlite-doc-en)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sqlite-doc-en)
