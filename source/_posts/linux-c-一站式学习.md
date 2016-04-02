@@ -6,7 +6,7 @@ tags:
   - c
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/linux-c-book.jpg?build=1452162345819&v=12.0.4)
+![](https://img1.doubanio.com/lpic/s24562068.jpg)
 
 作者：宋劲杉
 
