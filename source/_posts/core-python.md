@@ -5,7 +5,7 @@ tags:
   - python
 ---
 
-![](http://ww2.sinaimg.cn/large/841aea59jw1f281f6ovxej20er0kv3zs.jpg)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/core-python-2e.jpg?build=1452162345819&v=12.0.4)
 
 作者：Wesley J. Chun（陳仲才） 
 
@@ -21,9 +21,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://openbookproject.googlecode.com/svn/trunk/CorePython_zh/)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/core-python-2e/details)
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRiZOis)
-+ [千易下载](http://1000eb.com/1jzo4)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/core-python-2e)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/core-python-2e)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/core-python-2e)
