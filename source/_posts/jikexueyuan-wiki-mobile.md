@@ -9,6 +9,8 @@ tags:
 
 格式：EPUB
 
+日期：2015.12.24
+
 ## 下载 ##
 
 + [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjzdwX)
