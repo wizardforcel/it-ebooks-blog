@@ -76,4 +76,5 @@ tags:
 
 ## 下载 ##
 
++ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjfPtJ)
 + [MEGA下载](https://mega.nz/#!3cki1YjY!GwO6nxFvfUmpjpjdr4CDw1WDJuxrxgvFYTpcl2BzmG0)
