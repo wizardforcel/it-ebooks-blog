@@ -3,7 +3,7 @@ title: Asp.NET 官方文档（英文）
 date: 2016-04-04 10:29:24
 tags:
   - csharp
-  = asp.net
+  - asp.net
 ---
 
 作者：[aspnet](https://github.com/aspnet)
