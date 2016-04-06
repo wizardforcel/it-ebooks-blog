@@ -80,4 +80,3 @@ date: 2016-01-28 22:28:47
 + [ITBegin](http://www.itbegin.com/)
 + [简明现代魔法图书馆](http://www.nowamagic.net/librarys/)
 + [易百教程](http://www.yiibai.com/)
-+ [知道创宇研发技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html)
