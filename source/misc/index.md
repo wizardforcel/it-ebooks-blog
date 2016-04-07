@@ -31,27 +31,6 @@ date: 2016-01-28 22:28:47
 + [Security Flow Chart](https://github.com/SecWiki/sec-chart)
 + [安全思维导图整理](https://github.com/phith0n/Mind-Map)
 
-## 图书
-
-+ 中文
-    + [脚本之家电子书](http://www.jb51.net/books/)
-    + [图灵社区电子书](http://www.ituring.com.cn/book/ebook)
-    + [计算机书籍控](http://bestcbooks.com/)
-    + [稀酷客](http://www.ckook.com/)
-    + [kindle114](http://www.kindle114.com/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=1&sortid=1)
-    + [读远](http://readcolor.com/books?tag=%E8%AE%A1%E7%AE%97%E6%9C%BA)
-    + [it-ebooks.cn](http://it-ebooks.cn/)
-+ 英文
-    + [it-ebooks.info](http://it-ebooks.info/)
-    + [it-ebooks.org](http://it-ebooks.org/)
-    + [it-ebooks.com](http://www.it-ebooks.com/)
-    + [ebooks-it.net](https://www.ebooks-it.net/)
-    + [wowebook.org](http://www.wowebook.org/)
-    + [bookdl.com](http://bookdl.com/)
-    + [bookzz.org](http://bookzz.org/)
-    + [library genesis](http://gen.lib.rus.ec/)
-    + [SaltTiger](http://www.salttiger.com/)
-
 ## 速查表
 
 + [cheat-sheets](http://www.cheat-sheets.org/)
@@ -64,6 +43,7 @@ date: 2016-01-28 22:28:47
 
 ## 综合
 
++ [图灵社区电子书](http://www.ituring.com.cn/book/ebook)
 + [reSRC](https://github.com/vhf/resrc)
 + [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 + [一份关于“资料汇总”的汇总](https://github.com/justjavac/awesome-awesomeness-zh_CN)
