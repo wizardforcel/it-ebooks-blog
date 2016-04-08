@@ -5,11 +5,7 @@ tags:
   - go
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/build-web-application-with-golang.jpg?build=1451708022213&v=12.0.2)
-
-作者：[astaxie](https://github.com/astaxie)
-
-来源：[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/astaxie/build-web-application-with-golang.jpg?build=1451708022213&v=12.0.2)
 
 <!--more-->
 
@@ -20,10 +16,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/build-web-application-with-golang/details)
++ [在线阅读](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details/zh)
 
 ## 下载 ##
 
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/build-web-application-with-golang)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/build-web-application-with-golang)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/build-web-application-with-golang)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/astaxie/build-web-application-with-golang?lang=zh)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/astaxie/build-web-application-with-golang?lang=zh)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/astaxie/build-web-application-with-golang?lang=zh)

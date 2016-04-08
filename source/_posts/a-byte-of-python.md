@@ -11,10 +11,9 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/a-byte-of-python/details)
++ [在线阅读](http://wiki.jikexueyuan.com/project/simple-python-course/)
 
 ## 下载 ##
 
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/a-byte-of-python)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/a-byte-of-python)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/a-byte-of-python)
++ [PDF格式](http://wiki.jikexueyuan.com/download/simple-python-course/pdf/)
++ [EPUB格式](http://wiki.jikexueyuan.com/download/simple-python-course/epub/)
