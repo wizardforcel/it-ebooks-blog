@@ -14,8 +14,9 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.pythondoc.com/sphinx/index.html)
++ [在线阅读](http://sphinx-doc-zh.readthedocs.org/)
 
 ## 下载 ##
 
-+ [RST格式](https://github.com/sixu05202004/sphinx-docs-cn/archive/master.zip)
++ [HTML格式](http://readthedocs.org/projects/sphinx-doc-zh/downloads/htmlzip/latest/)
++ [EPUB格式](http://readthedocs.org/projects/sphinx-doc-zh/downloads/epub/latest/)

@@ -14,8 +14,9 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.pythondoc.com/flask-mega-tutorial/index.html)
++ [在线阅读](http://flask-mega-tutorial.readthedocs.org/)
 
 ## 下载 ##
 
-+ [RST格式](https://github.com/sixu05202004/The-Flask-Mega-Tutorial/archive/master.zip)
++ [HTML格式](http://readthedocs.org/projects/flask-mega-tutorial/downloads/htmlzip/latest/)
++ [EPUB格式](http://readthedocs.org/projects/flask-mega-tutorial/downloads/epub/latest/)
