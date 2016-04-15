@@ -20,9 +20,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://github.com/cundi/Web.Development.with.Django.Cookbook)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/web-development-with-django-cookbook/details)
 
 ## 下载 ##
 
-+ [Markdown格式](https://github.com/cundi/Web.Development.with.Django.Cookbook/archive/master.zip)
-
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/web-development-with-django-cookbook)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/web-development-with-django-cookbook)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/web-development-with-django-cookbook)

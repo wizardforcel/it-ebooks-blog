@@ -20,8 +20,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/django-design-patterns-and-best-practices/details)
 
 ## 下载 ##
 
-+ [Markdown格式](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices/archive/master.zip)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/django-design-patterns-and-best-practices)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/django-design-patterns-and-best-practices)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/django-design-patterns-and-best-practices)
