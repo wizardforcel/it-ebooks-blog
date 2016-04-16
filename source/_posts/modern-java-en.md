@@ -1,5 +1,5 @@
 ---
-title: modern-java-en
+title: Modern Java - A Guide to Java 8
 date: 2016-04-16 10:34:53
 tags:
   - java
