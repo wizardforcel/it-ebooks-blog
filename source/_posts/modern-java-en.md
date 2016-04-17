@@ -3,6 +3,7 @@ title: Modern Java - A Guide to Java 8
 date: 2016-04-16 10:34:53
 tags:
   - java
+  - 英文
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&v=12.0.4)

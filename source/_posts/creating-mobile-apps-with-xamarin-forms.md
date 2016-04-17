@@ -4,6 +4,7 @@ date: 2016-04-04 10:33:21
 tags:
   - csharp
   - xamarin
+  - 英文
 ---
 
 ![](https://msdnshared.blob.core.windows.net/media/2016/03/9781509302970_alternate_thumb.jpg)

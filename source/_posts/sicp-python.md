@@ -4,6 +4,7 @@ date: 2016-04-05 12:02:26
 tags:
   - 编程思想
   - python
+  - 英文
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/sicp-in-python.jpg?build=1451891804807&v=12.0.2)

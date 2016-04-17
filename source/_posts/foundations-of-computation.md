@@ -3,6 +3,7 @@ title: Foundations of Computation
 date: 2016-03-02 17:04:44
 tags:
   - 数理逻辑·数学
+  - 英文
 ---
 
 ![](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_small_cover.png)

@@ -3,6 +3,7 @@ title: Learn C The Hard Way （英文）
 date: 2016-03-29 22:04:41
 tags:
   - c
+  - 英文
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lcthw-en.jpg?build=1452162345819&v=12.0.4)

@@ -3,6 +3,7 @@ title: Functional Programming in Python
 date: 2016-03-24 12:03:39
 tags:
   - python
+  - 英文
 ---
 
 ![](http://covers.oreillystatic.com/images/0636920041368/cat.gif)

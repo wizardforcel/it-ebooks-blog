@@ -3,6 +3,7 @@ title: Introduction to Computer Graphics
 date: 2016-03-02 17:01:47
 tags:
   - 图形
+  - 英文
 ---
 
 ![](http://math.hws.edu/graphicsbook/resource/graphicstext-cover-180x235.png)

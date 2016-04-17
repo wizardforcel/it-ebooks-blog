@@ -4,6 +4,7 @@ date: 2016-03-30 12:24:44
 tags:
   - c
   - cpp
+  - 英文
 ---
 
 <img src='http://ww3.sinaimg.cn/large/841aea59jw1f2eryg7yitj20qv0krthe.jpg' width='500' />

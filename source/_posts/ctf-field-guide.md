@@ -5,6 +5,7 @@ tags:
   - ctf
   - 渗透
   - 逆向
+  - 英文
 ---
 
 作者：[trailofbits](https://github.com/trailofbits)
