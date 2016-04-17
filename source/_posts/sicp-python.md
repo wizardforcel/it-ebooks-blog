@@ -6,6 +6,7 @@ tags:
   - python
 ---
 
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/sicp-in-python.jpg?build=1451891804807&v=12.0.2)
 
 来源：[CS61A: Online Textbook](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
 
@@ -15,8 +16,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/sicp-in-python/details)
 
 ## 下载地址 ##
 
-+ [下载地址](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/sicp-in-python)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/sicp-in-python)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sicp-in-python)
