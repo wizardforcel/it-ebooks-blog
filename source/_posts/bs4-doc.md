@@ -5,20 +5,15 @@ tags:
   - python
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/bs4-doc.jpg?build=1452162345819&v=12.0.4)
-
-译者：delong
-
-来源：[Beautiful Soup 4.2.0 文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
+![](http://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg)
 
 <!--more-->
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/bs4-doc/details)
++ [在线阅读](http://beautifulsoup.readthedocs.org/)
 
 ## 下载 ##
 
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/bs4-doc)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/bs4-doc)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/bs4-doc)
++ [HTML格式](http://readthedocs.org/projects/beautifulsoup/downloads/htmlzip/latest/)
++ [EPUB格式](http://readthedocs.org/projects/beautifulsoup/downloads/epub/latest/)
