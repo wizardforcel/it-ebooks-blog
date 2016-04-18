@@ -5,7 +5,7 @@ tags:
   - csharp
   - asp.net
   - 网络
-  - 设计模式
+  - 设计模式·架构
 ---
 
 ![](http://box.kancloud.cn/cover/wizardforcel/learning-hard-csharp.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100)
