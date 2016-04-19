@@ -30,6 +30,10 @@ var cmds = [
 ];
 
 for(var cmd of cmds) {
-    console.log(cmd);
-    console.log(process.execSync(cmd).toString());
+    try {
+        console.log(cmd);
+        console.log(process.execSync(cmd).toString());
+    } catch(ex) {
+        console.log(ex.toString());
+    }
 }
