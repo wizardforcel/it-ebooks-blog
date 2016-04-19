@@ -30,5 +30,6 @@ var cmds = [
 ];
 
 for(var cmd of cmds) {
+    console.log(cmd);
     console.log(process.execSync(cmd).toString());
 }
