@@ -4,7 +4,7 @@ date: 2016-04-21 15:07:49
 tags:
 ---
 
-![](https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg)
+<img src='https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg' width='500' />
 
 来源：[Email Marketing Field Guide](http://mailchimp.com/resources/guides/email-marketing-field-guide/)
 
