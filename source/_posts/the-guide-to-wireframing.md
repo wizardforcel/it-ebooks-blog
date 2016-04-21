@@ -6,7 +6,7 @@ tags:
   - 英文
 ---
 
-![](https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/06/guide_to_wireframing.jpg)
+![](https://studio.uxpin.com/wp-content/uploads/2015/09/wireframing.jpg)
 
 来源：[The Guide to Wireframing](https://speckyboy.com/2014/06/18/the-guide-to-wireframing/)
 

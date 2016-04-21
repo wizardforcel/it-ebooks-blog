@@ -6,7 +6,7 @@ tags:
   - 英文
 ---
 
-![](http://speakingjs.com/es5/orm_front_cover.jpg)
+<img src='http://speakingjs.com/es5/orm_front_cover.jpg' width='500' />
 
 <!--more-->
 

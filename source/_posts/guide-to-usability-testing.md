@@ -7,7 +7,7 @@ tags:
   - 英文
 ---
 
-![](https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/12/usability_testing.jpg)
+![](https://studio.uxpin.com/wp-content/uploads/2015/09/The-Guide-to-Usability-Testing.jpg)
 
 作者：
 

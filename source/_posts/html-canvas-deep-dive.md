@@ -1,5 +1,5 @@
 ---
-title: HTML Canvas Deep Dive
+title: HTML Canvas Deep Dive （深入HTML Canvas）
 date: 2016-04-21 14:40:24
 tags:
   - html

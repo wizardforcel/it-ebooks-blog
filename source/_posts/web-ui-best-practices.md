@@ -1,5 +1,5 @@
 ---
-title: Web UI Best Practices
+title: Web UI Best Practices （Web UI 最佳实践）
 date: 2016-04-21 15:00:02
 tags:
   - 设计
@@ -7,7 +7,7 @@ tags:
   - 英文
 ---
 
-![](https://speckyboy.com/wp-content/uploads/2014/10/uxpinbook.png)
+![](https://studio.uxpin.com/wp-content/uploads/2015/09/Web-UI-Design-Best-Practices.jpg)
 
 来源：[Web UI Best Practices](https://speckyboy.com/2014/11/11/free-e-book-web-ui-best-practices/)
 

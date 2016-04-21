@@ -7,7 +7,7 @@ tags:
   - 英文
 ---
 
-![](http://adaptivewebdesign.info/1st-edition/cover-1024.jpg)
+<img src='http://adaptivewebdesign.info/1st-edition/cover-1024.jpg' width='500' />
 
 <!--more-->
 

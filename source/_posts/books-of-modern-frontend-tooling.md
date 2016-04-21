@@ -6,16 +6,14 @@ tags:
   - 英文
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tooling/book-of-modern-frontend-tooling.jpg?build=1452162345819&v=12.0.4)
+![](http://upload-images.jianshu.io/upload_images/79755-a133849991e68bbf.png)
 
 <!--more-->
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://www.gitbook.com/book/tooling/book-of-modern-frontend-tooling/details)
++ [在线阅读](http://tooling.github.io/book-of-modern-frontend-tooling/)
 
 ## 下载 ##
 
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/tooling/book-of-modern-frontend-tooling)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/tooling/book-of-modern-frontend-tooling)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/tooling/book-of-modern-frontend-tooling)
+暂无。

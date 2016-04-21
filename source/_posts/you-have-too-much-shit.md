@@ -1,12 +1,12 @@
 ---
-title: You have Too Much Shit
+title: You have Too Much Shit （断舍离）
 date: 2016-04-21 15:11:54
 tags:
   - 其它
   - 英文
 ---
 
-![](http://youhavetoomuchshit.com/images/yhtms.png)
+<img src='http://youhavetoomuchshit.com/images/yhtms.png' width='500' />
 
 作者：
 

@@ -7,7 +7,7 @@ tags:
   - 英文
 ---
 
-![](http://www.indiegamepod.com/mobile-game-design-cover.png4)
+![](http://www.indiegamepod.com/mobile-game-design-cover.png)
 
 来源：[Freebie Reminder: Mobile Game Design book…](http://www.indiegamepod.com/?p=3168)
 
