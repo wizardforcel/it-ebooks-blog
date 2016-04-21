@@ -18,8 +18,6 @@ date: 2016-01-28 22:28:47
 
 + [The Web platform: Browser technologies](https://platform.html5.org/)
 + [WebPlatform](https://docs.webplatform.org/wiki/tutorials)
-+ [20个网页设计免费电子书2014（上）](http://www.jianshu.com/p/c39c1caa25b6)
-+ [20个网页设计免费电子书2014（下）](http://www.jianshu.com/p/4fc08bc158b1)
 
 ## 算法
 
