@@ -6,7 +6,7 @@ tags:
   - 逆向
 ---
 
-![]()
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/ios-sec-wiki.jpg?build=1451880715229&v=12.0.2)
 
 作者：[wufawei](https://github.com/wufawei)
 
@@ -16,9 +16,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://security.ios-wiki.com/)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/ios-sec-wiki/details)
 
 ## 下载 ##
 
-+ [Markdown格式](https://github.com/wufawei/iossecurity/archive/master.zip)
-
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ios-sec-wiki)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ios-sec-wiki)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ios-sec-wiki)
