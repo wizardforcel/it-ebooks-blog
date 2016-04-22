@@ -7,7 +7,7 @@ tags:
   - svg
 ---
 
-![](http://upload-images.jianshu.io/upload_images/79755-add7ee31df4cd358.png)
+![](http://ww1.sinaimg.cn/large/841aea59jw1f35a4tjc9jj20ku06oaa3.jpg)
 
 <!--more-->
 

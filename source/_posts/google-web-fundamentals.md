@@ -6,7 +6,7 @@ tags:
   - 英文
 ---
 
-![](http://upload-images.jianshu.io/upload_images/79755-4fc30d088826605e.jpg)
+![](http://ww4.sinaimg.cn/large/841aea59jw1f35a4bmwy0j20ku0780sx.jpg)
 
 <!--more-->
 

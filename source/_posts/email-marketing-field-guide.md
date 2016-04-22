@@ -2,6 +2,8 @@
 title: Email Marketing Field Guide （电子邮件营销指南）
 date: 2016-04-21 15:07:49
 tags:
+  - 其它
+  - 英文
 ---
 
 <img src='https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg' width='500' />

@@ -6,7 +6,7 @@ tags:
   - 英文
 ---
 
-![](http://upload-images.jianshu.io/upload_images/79755-a133849991e68bbf.png)
+![](http://tooling.github.io/book-of-modern-frontend-tooling/assets/imgs/dev-workflow.svg)
 
 <!--more-->
 
