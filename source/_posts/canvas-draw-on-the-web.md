@@ -2,6 +2,7 @@
 title: Canvas -- Draw on the Web
 date: 2016-04-22 18:38:47
 tags:
+  - html
 ---
 
 ![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/airingursb/canvas.jpg?build=1452162345819&v=12.0.4)
