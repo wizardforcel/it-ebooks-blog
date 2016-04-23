@@ -5,7 +5,7 @@ tags:
   - 数据结构·算法
 ---
 
-![](http://www.ituring.com.cn/bookcover/1019.175.big.jpg)
+<img src='http://www.ituring.com.cn/bookcover/1019.175.big.jpg' width='500' />
 
 格式：EPUB
 类型：文字版
