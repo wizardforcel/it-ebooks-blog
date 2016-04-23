@@ -10,11 +10,6 @@ tags:
 
 <!--more-->
 
-<script>
-    if(document.referer.startsWith('https://github.com'))
-        location.href='https://www.gitbook.com/book/wizardforcel/selenium-webdriver-simple-tutorial/details';
-</script>
-
 ## 在线阅读 ##
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/selenium-webdriver-simple-tutorial/details)
