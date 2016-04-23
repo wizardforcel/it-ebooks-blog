@@ -6,7 +6,7 @@ tags:
   - node.js
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/davidcai1993/nodejs-api-doc-in-chinese.jpg?build=1443343402543&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/davidcai1993/nodejs-api-doc-in-chinese.jpg)
 
 <!--more-->
 

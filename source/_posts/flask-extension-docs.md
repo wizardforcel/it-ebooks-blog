@@ -6,7 +6,7 @@ tags:
   - flask
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/flask-extension-docs.jpg?build=1451704333665&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/flask-extension-docs.jpg)
 
 来源：[Python中文学习大本营](http://www.pythondoc.com/)
 

@@ -5,7 +5,7 @@ tags:
   - chrome
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/chrome-doc.jpg?build=1451273361495&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/chrome-doc.jpg)
 
 来源：[Chrome 扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 

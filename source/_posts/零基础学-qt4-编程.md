@@ -6,7 +6,7 @@ tags:
   - qt
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wudi-qt4.jpg?build=1439249362341&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wudi-qt4.jpg)
 
 作者：[wd007](http://www.qtcn.org/bbs/u/70707)
 

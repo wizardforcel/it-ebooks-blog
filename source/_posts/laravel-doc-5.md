@@ -6,7 +6,7 @@ tags:
   - laravel
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/lbp0200/laravel-5-doc.jpg?build=1425805982556&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/lbp0200/laravel-5-doc.jpg)
 
 来源：[Laravel中文网](http://www.golaravel.com/laravel/docs/5.0/)
 

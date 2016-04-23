@@ -6,7 +6,7 @@ tags:
   - zepto.js
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/zeptojs-api-doc.jpg?build=1451813674472&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/zeptojs-api-doc.jpg)
 
 <!--more-->
 

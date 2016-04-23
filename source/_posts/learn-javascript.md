@@ -5,7 +5,7 @@ tags:
   - javascript
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/xinqiu/learn-javascript-cn.jpg?build=1451270427909&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/xinqiu/learn-javascript-cn.jpg)
 
 作者：[Gitbook](https://www.gitbook.com)
 

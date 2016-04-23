@@ -5,7 +5,7 @@ tags:
   - 渗透
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/xss-naxienian.jpg?build=1439249362341&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/xss-naxienian.jpg)
 
 
 <!--more-->

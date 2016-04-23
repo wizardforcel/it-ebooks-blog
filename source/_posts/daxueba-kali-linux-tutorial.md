@@ -6,7 +6,7 @@ tags:
   - 渗透
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/daxueba-kali-linux-tutorial.jpg?build=1451636079716&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/daxueba-kali-linux-tutorial.jpg)
 
 作者：[大学霸](http://www.daxueba.net/)
 

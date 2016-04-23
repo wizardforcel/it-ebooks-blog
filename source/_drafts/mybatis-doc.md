@@ -6,7 +6,7 @@ tags:
   - mybatis
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/mybatis-doc.jpg?build=1451618793659&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/mybatis-doc.jpg)
 
 来源：[MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
 

@@ -5,7 +5,7 @@ tags:
   - 数据结构·算法
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/yuanbin/algorithm.jpg?build=1451443748705&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/yuanbin/algorithm.jpg)
 
 <!--more-->
 

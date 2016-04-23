@@ -5,7 +5,7 @@ tags:
   - android
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/deepin-android-vol3.jpg?build=1439249362341&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/deepin-android-vol3.jpg)
 
 作者：张大伟
 

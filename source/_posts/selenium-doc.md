@@ -6,7 +6,7 @@ tags:
   - 测试
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/selenium-doc.jpg?build=1451891804807&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/selenium-doc.jpg)
 
 译者：[fool2fish](https://github.com/fool2fish)
 

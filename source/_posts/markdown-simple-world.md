@@ -5,7 +5,7 @@ tags:
   - markdown
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/markdown-simple-world.jpg?build=1452128971588&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/markdown-simple-world.jpg)
 
 作者：[wizardforcel](https://github.com/wizardforcel)
 

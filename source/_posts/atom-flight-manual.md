@@ -5,7 +5,7 @@ tags:
   - atom
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/atom-flight-manual-zh-cn.jpg?build=1451276845379&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/atom-flight-manual-zh-cn.jpg)
 
 <!--more-->
 

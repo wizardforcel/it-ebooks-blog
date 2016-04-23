@@ -5,7 +5,7 @@ tags:
   - 设计模式·架构
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-design-patterns.jpg?build=1450095716987&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-design-patterns.jpg)
 
 作者：[W3School](http://www.w3cschool.cc)
 

@@ -7,7 +7,7 @@ tags:
   - 英文
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/sicp-in-python.jpg?build=1451891804807&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/sicp-in-python.jpg)
 
 来源：[CS61A: Online Textbook](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
 

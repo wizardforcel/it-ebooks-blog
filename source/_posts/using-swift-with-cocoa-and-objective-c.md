@@ -5,7 +5,7 @@ tags:
   - swift
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/mengxiangpingx/using-swift-with-cocoa-and-objective-c.jpg?build=1420522443865&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/mengxiangpingx/using-swift-with-cocoa-and-objective-c.jpg)
 
 译者：mengxiangpingx
 

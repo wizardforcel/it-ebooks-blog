@@ -7,7 +7,7 @@ tags:
   - jqueryui
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-jqui.jpg?build=1450418761090&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-jqui.jpg)
 
 作者：[W3School](http://www.w3cschool.cc)
 

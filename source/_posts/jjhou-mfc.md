@@ -6,7 +6,7 @@ tags:
   - mfc
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jjhou-mfc.jpg?build=1451985303017&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jjhou-mfc.jpg)
 
 作者：侯捷
 

@@ -6,7 +6,7 @@ tags:
   - d3.js
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/d3-api-ref.jpg?build=1451636079716&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/d3-api-ref.jpg)
 
 来源：[d3 Wiki API 中文手册](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
 

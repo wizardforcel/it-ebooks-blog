@@ -5,7 +5,7 @@ tags:
   - postgresql
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/postgresql-doc.jpg?build=1452128971588&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/postgresql-doc.jpg)
 
 来源：[PostgreSQL 9.3.1 中文手册](http://www.postgres.cn/docs/9.3/)
 

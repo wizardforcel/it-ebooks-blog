@@ -7,7 +7,7 @@ tags:
   - express.js
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/expressjs-doc.jpg?build=1451704333665&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/expressjs-doc.jpg)
 
 来源：[Express.js 中文文档](http://expressjs.jser.us/)
 

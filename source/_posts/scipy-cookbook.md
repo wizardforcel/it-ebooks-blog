@@ -8,7 +8,7 @@ tags:
   - 英文
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/scipy-cookbook-en.jpg?build=1439249362341&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/scipy-cookbook-en.jpg)
 
 来源：[SciPy Cookbook](http://scipy-cookbook.readthedocs.org/index.html)
 

@@ -7,7 +7,7 @@ tags:
   - jquerymobile
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jqmobi-doc.jpg?build=1452051550255&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jqmobi-doc.jpg)
 
 整理：[darklord](http://www.cnblogs.com/darklord/)
 

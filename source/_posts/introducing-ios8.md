@@ -6,7 +6,7 @@ tags:
   - swift
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/introducing-ios8.jpg?build=1451880715229&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/introducing-ios8.jpg)
 
 作者：Steve Derico
 

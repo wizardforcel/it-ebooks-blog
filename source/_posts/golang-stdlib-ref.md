@@ -5,7 +5,7 @@ tags:
   - go
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/golang-stdlib-ref.jpg?build=1451718975417&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/golang-stdlib-ref.jpg)
 
 来源：[Go语言标准库文档中文版](http://studygolang.com/pkgdoc)
 

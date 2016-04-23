@@ -11,7 +11,7 @@ tags:
   - guava
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/java-opensource-doc.jpg?build=1450929768303&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/java-opensource-doc.jpg)
 
 <!--more-->
 

@@ -5,7 +5,7 @@ tags:
   - linux
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/xinqiu/linux-insides-cn.jpg?build=1451787900847&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/xinqiu/linux-insides-cn.jpg)
 
 作者：[0xAX](https://github.com/0xAX)
 

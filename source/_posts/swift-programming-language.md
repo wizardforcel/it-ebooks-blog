@@ -5,7 +5,7 @@ tags:
   - swift
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/numbbbbb/-the-swift-programming-language-.jpg?build=1439249362341&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/numbbbbb/-the-swift-programming-language-.jpg)
 
 译者：Swift 中文翻译组
 

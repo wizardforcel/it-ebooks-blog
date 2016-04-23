@@ -6,7 +6,7 @@ tags:
   - spring
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/spring-doc-3x.jpg?build=1451289687917&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/spring-doc-3x.jpg)
 
 译者：[南磊](http://weibo.com/nanlei1987)
 

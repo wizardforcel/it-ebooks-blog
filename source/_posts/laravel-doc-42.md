@@ -6,7 +6,7 @@ tags:
   - laravel
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/star001007/laravel-notest.jpg?build=1444191257414&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/star001007/laravel-notest.jpg)
 
 来源：[Laravel中文网](http://www.golaravel.com/laravel/docs/4.2/)
 

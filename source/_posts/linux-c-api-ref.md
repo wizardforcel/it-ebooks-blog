@@ -6,7 +6,7 @@ tags:
   - linux
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/linux-c-api-ref.jpg?build=1451270427909&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/linux-c-api-ref.jpg)
 
 来源：[Linux C API参考](http://net.pku.edu.cn/~yhf/linux_c/)
 

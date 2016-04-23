@@ -7,7 +7,7 @@ tags:
   - jqueryui
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jqui-api-doc.jpg?build=1451985303017&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jqui-api-doc.jpg)
 
 来源：[jQuery UI API中文文档](http://www.css88.com/jquery-ui-api/)
 

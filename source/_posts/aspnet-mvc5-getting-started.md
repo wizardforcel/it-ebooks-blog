@@ -6,7 +6,7 @@ tags:
   - asp.net
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/aspnet-mvc5-getting-started.jpg?build=1451701875551&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/aspnet-mvc5-getting-started.jpg)
 
 译者：[葡萄城控件技术团队](http://www.cnblogs.com/powertoolsteam/)
 

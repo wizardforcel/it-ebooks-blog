@@ -5,7 +5,7 @@ tags:
   - nginx
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nginx-doc.jpg?build=1450072788295&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nginx-doc.jpg)
 
 来源：[nginx中文站](http://www.nginx.cn)
 

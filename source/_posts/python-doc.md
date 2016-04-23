@@ -5,7 +5,7 @@ tags:
   - python
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-doc-27-34.jpg?build=1450098001120&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-doc-27-34.jpg)
 
 译者：Python文档翻译小组
 

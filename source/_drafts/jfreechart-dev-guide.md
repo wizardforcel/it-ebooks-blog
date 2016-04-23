@@ -6,7 +6,7 @@ tags:
   - jfreechart
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jfreechart-dev-guide.jpg?build=1451792782343&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jfreechart-dev-guide.jpg)
 
 <!--more-->
 

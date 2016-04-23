@@ -6,7 +6,7 @@ tags:
   - 逆向
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/ios-sec-wiki.jpg?build=1451880715229&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/ios-sec-wiki.jpg)
 
 作者：[wufawei](https://github.com/wufawei)
 

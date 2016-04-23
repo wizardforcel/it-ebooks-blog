@@ -5,7 +5,7 @@ tags:
   - os
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jos-lab.jpg?build=1450929768303&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jos-lab.jpg)
 
 作者：[ROger__wonG](http://my.csdn.net/ROger__wonG)
 

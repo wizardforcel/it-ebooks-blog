@@ -7,7 +7,7 @@ tags:
   - jsp
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-java.jpg?build=1450174177425&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-java.jpg)
 
 作者：[W3School](http://www.w3cschool.cc)
 

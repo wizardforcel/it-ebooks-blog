@@ -6,7 +6,7 @@ tags:
   - python
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/grey-hat-python.jpg?build=1451289687917&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/grey-hat-python.jpg)
 
 <!--more-->
 

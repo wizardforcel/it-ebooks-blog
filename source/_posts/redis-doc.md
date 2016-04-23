@@ -6,7 +6,7 @@ tags:
   - nosql
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/redis-doc.jpg?build=1452069013937&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/redis-doc.jpg)
 
 译者：[黄健宏（huangz）](http://www.huangz.me/)
 

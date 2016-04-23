@@ -6,7 +6,7 @@ tags:
   - 渗透
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/py-sec-tutorial.jpg?build=1452128971588&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/py-sec-tutorial.jpg)
 
 原文：[Python Tutorials](http://www.primalsecurity.net/tutorials/python-tutorials/)
 

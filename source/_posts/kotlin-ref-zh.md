@@ -5,7 +5,7 @@ tags:
   - kotlin
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/huanglizhuo/kotlin-in-chinese.jpg?build=1425805982556&v=12.0.2)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/huanglizhuo/kotlin-in-chinese.jpg)
 
 译者：[huanglizhuo](https://github.com/huanglizhuo)
 
