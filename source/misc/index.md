@@ -5,6 +5,15 @@ date: 2016-01-28 22:28:47
 
 不便于单独列出的教程收录在这里。
 
+## Golang
+
++ [Building Web Apps with Go （使用Go语言构建Web应用）](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
+
+## JavaScript
+
++ [Speaking JavaScript （谈谈JavaScript）](http://speakingjs.com/es5/)
++ [Eloquent JavaScript （JavaScript编程精粹）](http://eloquentjavascript.net/)
+
 ## Python
 
 + [Scikit Learn User Guide](http://scikit-learn.org/stable/user_guide.html)
@@ -14,10 +23,35 @@ date: 2016-01-28 22:28:47
 + [SymPy Doc](http://docs.sympy.org/latest/index.html)
 + [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
+## Wordpress
+
++ [WordPress Security （WordPress安全 袖珍指南）](http://ithemes.com/downloads/WordPress-Security-ebook.pdf)
++ [11 Things to Do with Every New WordPress Install （11件安装新的WordPress后要做的事情）](https://ithemes.com/downloads/11-Things-WordPress-ebook1.pdf)
+
 ## 前端
 
 + [The Web platform: Browser technologies](https://platform.html5.org/)
 + [WebPlatform](https://docs.webplatform.org/wiki/tutorials)
++ [Web UI Best Practices （Web UI 最佳实践）](https://studio.uxpin.com/ebooks/web-ui-design-best-practices/)
++ [A Guide to HTML5 and CSS3 （HTML5和CSS3指南）](http://zenva.com/file/en/A-Guide-to-HTML5-and-CSS3.pdf)
++ [Google Web Fundamentals （Google网站基本法则）](https://developers.google.com/web/fundamentals/)
++ [Books of Modern Frontend Tooling （现代前端工具书）](http://tooling.github.io/book-of-modern-frontend-tooling/)
++ [Pocket Guide to Writing SVG （SVG编写袖珍指南）](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md)
++ [HTML Canvas Deep Dive （深入HTML Canvas）](http://joshondesign.com/p/books/canvasdeepdive/title.html)
++ [Magic of CSS （CSS的魔力）](http://adamschwartz.co/magic-of-css/)
++ [Adaptive Web Design （响应式Web设计）](http://adaptivewebdesign.info/1st-edition/read/)
+
+## 设计
+
++ [Pixel Perfect Precision （完美像素手册3）](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/)
++ [Mobile Game Design （手机游戏设计）](http://www.indiegamepod.com/mobile-game-design-book.pdfe)
++ [The Guide to Mockups （原型图绘制指南）](https://studio.uxpin.com/ebooks/guide-to-mockups/)
++ [Guide to UX Design Process and Documentation](https://studio.uxpin.com/ebooks/guide-to-ux-design-process-and-documentation/)
++ [The Guide to Wireframing （线框图绘制指南）](https://studio.uxpin.com/ebooks/guide-to-wireframing/)
+
+## 测试
+
++ [Guide to Usability Testing （易用性测试指南）](https://studio.uxpin.com/ebooks/guide-to-usability-testing/)
 
 ## 算法
 
@@ -38,6 +72,11 @@ date: 2016-01-28 22:28:47
 
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 + [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
+
+## 其它
+
++ [You have Too Much Shit （断舍离）](http://youhavetoomuchshit.com/)
++ [Email Marketing Field Guide （电子邮件营销指南）](http://mailchimp.com/resources/guides/email-marketing-field-guide/)
 
 ## 综合
 
