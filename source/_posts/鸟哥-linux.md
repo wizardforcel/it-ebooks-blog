@@ -302,6 +302,4 @@ tags:
 
 ## 下载 ##
 
-* [Kindle114](http://www.kindle114.com/page-170675.html)
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjsaSk)
-* [千易下载](http://1000eb.com/1j1cb)
+暂无。

@@ -9,5 +9,5 @@ tags:
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjre9T)
-+ [千易下载](http://1000eb.com/1ixdm)
++ [百度云下载](http://pan.baidu.com/share/link?uk=4110645937&shareid=2863522945)
++ [MEGA下载](https://mega.nz/#!aNNWADhY!Isnop5dLJBO79jo3kb6fBgamKXoxsTP2hXDtU9QnNtQ)

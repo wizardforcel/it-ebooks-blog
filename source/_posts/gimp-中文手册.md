@@ -19,5 +19,4 @@ tags:
 ## 下载 ##
 
 + [百度云下载](http://pan.baidu.com/share/link?shareid=441114&uk=2435549136)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjjnDa)
-+ [千易下载](http://1000eb.com/1jmlh)
++ [MEGA下载](https://mega.nz/#!jYVCjJ6D!FZOFRCw9N6TXVut95aFFG6N752rnTZQ1MoBOJcyEzpA)

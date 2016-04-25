@@ -19,5 +19,5 @@ tags:
 ## 下载 ##
 
 + [原地址](http://www.phy.fju.edu.tw/files/archive/876_ab57aed9.pdf)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjjn_5)
-+ [千易下载](http://1000eb.com/1jmkf)
++ [百度云下载](http://pan.baidu.com/s/1bZmJgy)
++ [MEGA下载](https://mega.nz/#!GJl0ADjB!JgM91Fu5FSiwbYhdpdj1_6fmxQ0WUbLdjQrTPtkkjmY)

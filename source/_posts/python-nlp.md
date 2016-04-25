@@ -22,5 +22,4 @@ tags:
 
 + [Sebug下载](http://old.sebug.net/paper/books/python/PYTHON%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 + [百度云下载](http://pan.baidu.com/s/1qW4pvnY)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRi_Fxd)
-+ [千易下载](http://1000eb.com/1j0t4)
++ [MEGA下载](https://mega.nz/#!DVVG0K5T!urM2pwMg9YyeGk7PfU5K0ucgL7ZApmo3TvsvGMUGiRY)

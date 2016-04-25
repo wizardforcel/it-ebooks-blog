@@ -16,5 +16,5 @@ tags:
 + CHM格式
   + [CSDN下载](http://download.csdn.net/download/zplinuxx/2556476)
   + [51CTO下载](http://down.51cto.com/data/1040355)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCx)
+  + [MEGA下载](https://mega.nz/#!yME1VS4J!-zIkEymfsez9huK7MNoD_wuaY55Q-5z5-yh7UXjTu5Y)
   + [百度云下载](http://pan.baidu.com/s/1pJyZzFd)

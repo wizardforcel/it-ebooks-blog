@@ -12,5 +12,5 @@ tags:
 
 + CHM格式
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588163)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOC4)
+  + [MEGA下载](https://mega.nz/#!LREHgBqC!8NZvOikLr2y0XVJhHf2xVwKCR8N7Pna-xWSs_Xn9-Uk)
   + [百度云下载](http://pan.baidu.com/s/1ntrBYvZ)

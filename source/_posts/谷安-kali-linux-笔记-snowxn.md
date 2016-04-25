@@ -14,5 +14,5 @@ tags:
 
 ## 下载 ##
 
-+ [百度云下载]()
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRji8ls)
++ [百度云下载](http://pan.baidu.com/s/1dEH5Gad)
++ [MEGA下载](https://mega.nz/#!XM0hQbKK!r50LVJfnVduhUmQjq_QQ3BnBwiVPylv4RrCqyz5sbsA)

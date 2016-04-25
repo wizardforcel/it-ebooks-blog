@@ -25,6 +25,5 @@ tags:
 
 + [CSDN下载](http://download.csdn.net/download/wizardforcel/8073981)
 + [51CTO下载](http://down.51cto.com/data/1887796)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRiZNl9)
-+ [千易下载](http://1000eb.com/1khkb)
-
++ [MEGA下载](https://mega.nz/#!3YcgSIyA!5aLcd0bbxibOji-WZQtGGH2BF9viAR5iTaZnyenNUyQ)
++ [百度云下载](http://pan.baidu.com/s/1eSx1gNg)

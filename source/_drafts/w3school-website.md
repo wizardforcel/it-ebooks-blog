@@ -38,5 +38,4 @@ tags:
 * PDF格式（2014.11.19）
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8175147)
   * [51CTO下载](http://down.51cto.com/data/1901422)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBK)
   * [百度云下载](http://pan.baidu.com/s/1c0vqQEO)

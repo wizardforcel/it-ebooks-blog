@@ -22,5 +22,4 @@ tags:
 ## 下载 ##
 
 + [百度云下载](http://pan.baidu.com/s/1dDkUyCp)
-+ [微盘下载](http://vdisk.weibo.com/s/CeFLYiTngI9wb)
-+ [千易下载](http://1000eb.com/1j11x)
++ [MEGA下载](https://mega.nz/#!XQNCGJyJ!8H-PUTInAd7kI2b8pqpGt6iHF8fOxzFFTXlTPQlCgW0)

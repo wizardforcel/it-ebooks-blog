@@ -19,5 +19,5 @@ tags:
 ## 下载 ##
 
 + [CSDN下载](http://download.csdn.net/detail/u012550782/6455307)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjjofa)
-+ [千易下载](http://1000eb.com/1jmn0)
++ [MEGA下载](https://mega.nz/#!CQdWESxL!_CjSqxe5lZgOw3fYqJXgsCp7fkoUoshLbfVsW3_pMAg)
++ [百度云下载](http://pan.baidu.com/s/1c6wJSE)

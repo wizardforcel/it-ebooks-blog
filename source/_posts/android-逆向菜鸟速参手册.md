@@ -10,16 +10,15 @@ tags:
 
 格式：PDF
 
-手册整理者：PeterDocter or PeterChen[FCG] 
+手册整理者：PeterDocter or PeterChen[FCG]
 
-手册整理：2014-12-18 20:30 
+手册整理：2014-12-18 20:30
 
-本逆向手册，一切教程来源至网络。我只是搬运工与装修工。。。 
+本逆向手册，一切教程来源至网络。我只是搬运工与装修工。。。
 
 <!--more-->
 
 ## 下载 ##
 
 + [百度云下载](http://pan.baidu.com/s/1c0kyazA) 密码：kfac
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjr5dM)
-+ [千易下载](http://1000eb.com/1ix8i)
++ [MEGA下载](https://mega.nz/#!yQESHKKI!6zBnIkkm0yAFYc3afOhJQm1kBX9So3_AxEJSeCdkmSs)

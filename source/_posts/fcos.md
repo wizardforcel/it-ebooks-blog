@@ -14,7 +14,7 @@ tags:
 
 ## 出版信息 ##
 
-作者: Alfred V. Aho / Jeffrey D. Ullman 
+作者: Alfred V. Aho / Jeffrey D. Ullman
 出版社: W. H. Freeman
 副标题: C Edition (Principles of Computer Science Series)
 出版年: 1994-10-15
@@ -25,8 +25,8 @@ ISBN: 9780716782841
 
 ## 简介 ##
 
-1.本书是计算机科学领域的名著 
-2.从后台算法到实际应用，全部例子均为C语言 
+1.本书是计算机科学领域的名著
+2.从后台算法到实际应用，全部例子均为C语言
 3.内容全面，讲解清晰
 
 本书全面而详细地阐述了计算机科学的理论基础，从抽象概念的机械化到各种数据模型的建立，用算法、数据抽象等核心思想贯穿各个主题，很好地兼顾了学科广度和主题深度，帮助读者培养计算机领域的大局观，学习真正的计算机科学。
@@ -57,6 +57,5 @@ ISBN: 9780716782841
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRF9yo8)
-+ [千易下载](http://1000eb.com/1hw6j)
-+ [FilePi下载](http://filepi.com/i/cGnjnbn)
++ [百度云下载](http://pan.baidu.com/s/1boGnPOb)
++ [MEGA下载](https://mega.nz/#!2AEnQDYI!brpfnuGAhkBIiyrD5YPf7kLJFGKBgMPBwgDlt1ubxsA)

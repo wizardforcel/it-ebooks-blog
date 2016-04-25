@@ -16,4 +16,4 @@ tags:
 ## 下载 ##
 
 + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8000001)
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQZsp)
++ [Github下载](https://github.com/wizardforcel/75cheatsheets/archive/master.zip)
