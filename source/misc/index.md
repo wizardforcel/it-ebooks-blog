@@ -5,6 +5,10 @@ date: 2016-01-28 22:28:47
 
 不便于单独列出的教程收录在这里。
 
+## CSharp
+
++ [超全面的.NET GDI+图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
+
 ## Golang
 
 + [Building Web Apps with Go （使用Go语言构建Web应用）](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
@@ -22,6 +26,8 @@ date: 2016-01-28 22:28:47
 + [Matplotlib User Guide](http://matplotlib.org/users/index.html)
 + [SymPy Doc](http://docs.sympy.org/latest/index.html)
 + [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
++ [Matplotlib 教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
++ [试验性NumPy教程](http://reverland.org/python/2012/08/22/numpy)
 
 ## Wordpress
 
@@ -58,6 +64,10 @@ date: 2016-01-28 22:28:47
 + [VisuAlgo](http://visualgo.net/) – 看动画学算法
 + [List of algorithms](http://en.wikipedia.org/wiki/List_of_algorithms)
 
+## 逆向
+
++ [探索PE文件内幕](http://www.360doc.com/content/14/0301/08/16014697_356636939.shtml)
+
 ## 渗透
 
 + [Security Flow Chart](https://github.com/SecWiki/sec-chart)
@@ -72,6 +82,11 @@ date: 2016-01-28 22:28:47
 
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 + [你所读的计算机科学方向，有哪些不错的讲义（Notes）？](https://www.zhihu.com/question/38300204)
+
+## 入门指南
+
++ [5天学会一种 web 开发框架](http://lutaf.com/148.htm)
++ [互联网行业的快餐式入门指南](https://github.com/phoenixlzx/the_start.md)
 
 ## 其它
 
