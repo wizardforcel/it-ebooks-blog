@@ -15,8 +15,8 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://github.com/someus/another-tutorial-about-java-web)
++ [在线阅读](http://www.kancloud.cn/nvshengweiwei/another-tutorial-about-java-web)
 
 ## 下载 ##
 
-+ [Markdown格式](https://github.com/someus/another-tutorial-about-java-web/archive/master.zip)
++ [下载地址](http://www.kancloud.cn/nvshengweiwei/another-tutorial-about-java-web)
