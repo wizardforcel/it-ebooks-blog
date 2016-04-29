@@ -1,5 +1,5 @@
 ---
-title: Modern Perl: 2014 Edition
+title: Modern Perl 2014 Edition
 date: 2016-04-29 17:43:53
 tags:
   - perl

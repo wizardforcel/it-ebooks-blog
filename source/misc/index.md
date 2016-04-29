@@ -71,6 +71,10 @@ date: 2016-01-28 22:28:47
 + [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 + [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
+## PHP
+
++ [Laravel 入门](https://github.com/huanghua581/laravel-getting-started/blob/master/4.2.md)
+
 ## Python
 
 + [Scikit Learn User Guide](http://scikit-learn.org/stable/user_guide.html)

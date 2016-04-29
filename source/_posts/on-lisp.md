@@ -5,7 +5,7 @@ tags:
   - lisp
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/bookname.jpg)
+![](http://box.kancloud.cn/cover_2015-08-23_55d9ce86beb5_800x1068.gif?imageMogr2/thumbnail/173x231!/interlace/1/quality/100)
 
 <!--more-->
 
