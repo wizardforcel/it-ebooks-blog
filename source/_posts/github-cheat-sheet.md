@@ -5,7 +5,7 @@ tags:
   - git
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/bookname.jpg)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/snowdream86/github-cheat-sheet.jpg)
 
 <!--more-->
 

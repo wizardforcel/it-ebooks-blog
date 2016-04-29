@@ -5,7 +5,7 @@ tags:
   - mac
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/aaaaaashu/mac-dev-setup.jpg)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/aaaaaashu/mac-dev-setup.jpg)
 
 
 <!--more-->

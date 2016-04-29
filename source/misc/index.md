@@ -73,6 +73,8 @@ date: 2016-01-28 22:28:47
 + [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 + [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 + [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
++ [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
++ [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 
 ## 设计
 
@@ -95,6 +97,7 @@ date: 2016-01-28 22:28:47
 
 + [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 + [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
++ [每个程序员都应该了解的内存知识【第一部分】](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)
 
 ## 编程思想
 
@@ -112,6 +115,11 @@ date: 2016-01-28 22:28:47
 
 + [Security Flow Chart](https://github.com/SecWiki/sec-chart)
 + [安全思维导图整理](https://github.com/phith0n/Mind-Map)
+
+## 机器学习/数据挖掘
+
++ [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big_Data_Resources)
++ [数据挖掘18大算法实现](https://github.com/linyiqun/DataMiningAlgorithm)
 
 ## 速查表
 
@@ -132,9 +140,7 @@ date: 2016-01-28 22:28:47
 
 + [You have Too Much Shit （断舍离）](http://youhavetoomuchshit.com/)
 + [Email Marketing Field Guide （电子邮件营销指南）](http://mailchimp.com/resources/guides/email-marketing-field-guide/)
-+ [一步步搭建物联网系统](http://ebook.designiot.cn/)
 + [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-+ [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 
 ## 综合
 
