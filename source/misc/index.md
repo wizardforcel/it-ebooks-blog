@@ -38,6 +38,15 @@ date: 2016-01-28 22:28:47
 ## Golang
 
 + [Building Web Apps with Go （使用Go语言构建Web应用）](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
++ [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
++ [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
+
+## iOS
+
++ [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
++ [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
++ [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
++ [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 
 ## JavaScript
 
@@ -63,6 +72,10 @@ date: 2016-01-28 22:28:47
 + [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 + [Matplotlib 教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 + [试验性NumPy教程](http://reverland.org/python/2012/08/22/numpy)
+
+## Swift
+
++ [Swift 语言指南](http://dev.swiftguide.cn/)
 
 ## Vim
 
