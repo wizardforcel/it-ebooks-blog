@@ -5,6 +5,10 @@ date: 2016-01-28 22:28:47
 
 不便于单独列出的教程收录在这里。
 
+## C
+
++ [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+
 ## CSharp
 
 + [超全面的.NET GDI+图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
@@ -28,6 +32,11 @@ date: 2016-01-28 22:28:47
 + [Speaking JavaScript （谈谈JavaScript）](http://speakingjs.com/es5/)
 + [Eloquent JavaScript （JavaScript编程精粹）](http://eloquentjavascript.net/)
 
+## Mysql
+
++ [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
++ [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+
 ## Python
 
 + [Scikit Learn User Guide](http://scikit-learn.org/stable/user_guide.html)
@@ -38,6 +47,10 @@ date: 2016-01-28 22:28:47
 + [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 + [Matplotlib 教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 + [试验性NumPy教程](http://reverland.org/python/2012/08/22/numpy)
+
+## Vim
+
++ [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
 
 ## Wordpress
 
@@ -56,6 +69,10 @@ date: 2016-01-28 22:28:47
 + [HTML Canvas Deep Dive （深入HTML Canvas）](http://joshondesign.com/p/books/canvasdeepdive/title.html)
 + [Magic of CSS （CSS的魔力）](http://adamschwartz.co/magic-of-css/)
 + [Adaptive Web Design （响应式Web设计）](http://adaptivewebdesign.info/1st-edition/read/)
++ [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
++ [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
++ [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
++ [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 
 ## 设计
 
@@ -82,6 +99,10 @@ date: 2016-01-28 22:28:47
 ## 编程思想
 
 + [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
+
+## 工程
+
++ [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882)
 
 ## 逆向
 
@@ -112,6 +133,8 @@ date: 2016-01-28 22:28:47
 + [You have Too Much Shit （断舍离）](http://youhavetoomuchshit.com/)
 + [Email Marketing Field Guide （电子邮件营销指南）](http://mailchimp.com/resources/guides/email-marketing-field-guide/)
 + [一步步搭建物联网系统](http://ebook.designiot.cn/)
++ [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
++ [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 
 ## 综合
 
