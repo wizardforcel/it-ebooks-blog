@@ -52,6 +52,9 @@ date: 2016-01-28 22:28:47
 
 + [Speaking JavaScript （谈谈JavaScript）](http://speakingjs.com/es5/)
 + [Eloquent JavaScript （JavaScript编程精粹）](http://eloquentjavascript.net/)
++ [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)
++ [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
++ [Koa 中文文档](https://github.com/guo-yu/koa-guide)
 
 ## HTML
 
