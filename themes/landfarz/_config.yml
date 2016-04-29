@@ -12,7 +12,7 @@ sidebar: right
 widgets:
 - about
 - support
-- tag
+- tagcloud
 - recent_posts
 - link
 - account
