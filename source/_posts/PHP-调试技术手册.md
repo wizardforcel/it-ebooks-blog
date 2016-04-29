@@ -4,20 +4,16 @@ date: 2016-04-29 18:15:46
 tags:
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/bookname.jpg)
+![](http://ww2.sinaimg.cn/large/841aea59jw1f3drey4g8xj20fr0medfx.jpg)
 
-作者：
-
-来源：
+来源：[PHP调试技术手册发布(1.0.0 pdf)](http://www.laruence.com/2010/06/21/1608.html)
 
 <!--more-->
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/bookname/details)
+暂无。
 
 ## 下载 ##
 
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/bookname)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/bookname)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/bookname)
++ [PDF格式](http://heiyeluren-doc.googlecode.com/files/PHP-Debug-Manual-public.pdf)

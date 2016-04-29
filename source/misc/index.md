@@ -85,6 +85,9 @@ date: 2016-01-28 22:28:47
 + [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 + [Matplotlib 教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
 + [试验性NumPy教程](http://reverland.org/python/2012/08/22/numpy)
++ [Python的魔术方法指南](http://article.yeeyan.org/view/311527/287706)
++ [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
++ [web.py 新手指南](http://webpy.org/tutorial3.zh-cn)
 
 ## Swift
 

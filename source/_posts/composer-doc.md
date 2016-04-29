@@ -5,7 +5,7 @@ tags:
   - php
 ---
 
-![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/bookname.jpg)
+![](http://box.kancloud.cn/2015-06-04_556fec4093607_173x231.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100)
 
 <!--more-->
 
