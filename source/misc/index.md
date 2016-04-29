@@ -89,6 +89,10 @@ date: 2016-01-28 22:28:47
 + [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
 + [web.py 新手指南](http://webpy.org/tutorial3.zh-cn)
 
+## Shell
+
++ [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
+
 ## Swift
 
 + [Swift 语言指南](http://dev.swiftguide.cn/)
