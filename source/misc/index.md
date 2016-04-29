@@ -16,6 +16,10 @@ date: 2016-01-28 22:28:47
 
 + [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 
+## CoffeeScript
+
++ [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
+
 ## CSharp
 
 + [超全面的.NET GDI+图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
@@ -55,6 +59,8 @@ date: 2016-01-28 22:28:47
 + [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)
 + [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 + [Koa 中文文档](https://github.com/guo-yu/koa-guide)
++ [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
++ [impress.js 中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese/blob/master/index.html)
 
 ## HTML
 
