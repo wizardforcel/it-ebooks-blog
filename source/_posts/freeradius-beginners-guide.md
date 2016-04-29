@@ -1,5 +1,5 @@
 ---
-title: freeradius-beginners-guide
+title: FreeRADIUS新手入门
 date: 2016-04-29 10:01:45
 tags:
 ---

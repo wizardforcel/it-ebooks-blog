@@ -5,7 +5,7 @@ tags:
   - docker
 ---
 
-![](http://hiphotos.baidu.com/doc/pic/item/c83d70cf3bc79f3d5c1fc981bfa1cd11738b2980.jpg)
+![](http://ww1.sinaimg.cn/large/841aea59jw1f3dd76itxyj20go0m840p.jpg)
 
 <!--more-->
 

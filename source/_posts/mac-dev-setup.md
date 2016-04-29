@@ -1,5 +1,5 @@
 ---
-title: mac-dev-setup
+title: Mac 开发配置手册
 date: 2016-04-29 10:03:50
 tags:
   - mac
@@ -12,10 +12,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://www.gitbook.com/aaaaaashu/mac-dev-setup/details)
++ [在线阅读](https://www.gitbook.com/book/aaaaaashu/mac-dev-setup/details)
 
 ## 下载 ##
 
-+ [PDF格式](https://www.gitbook.com/download/pdf/aaaaaashu/mac-dev-setup)
-+ [EPUB格式](https://www.gitbook.com/download/epub/aaaaaashu/mac-dev-setup)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/aaaaaashu/mac-dev-setup)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/aaaaaashu/mac-dev-setup)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/aaaaaashu/mac-dev-setup)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/aaaaaashu/mac-dev-setup)

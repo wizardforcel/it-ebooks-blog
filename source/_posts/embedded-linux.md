@@ -11,10 +11,10 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](https://www.gitbook.com/book/tinylab/elinux/details)
++ [在线阅读](https://www.gitbook.com/book/tinylab/elinux/details/zh)
 
 ## 下载 ##
 
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/tinylab/elinux)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/tinylab/elinux)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/tinylab/elinux)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/tinylab/elinux?lang=zh)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/tinylab/elinux?lang=zh)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/tinylab/elinux?lang=zh)
