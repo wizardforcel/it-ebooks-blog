@@ -5,6 +5,13 @@ date: 2016-01-28 22:28:47
 
 不便于单独列出的教程收录在这里。
 
+## Android
+
++ [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
++ [Android开发技术前线](https://github.com/hehonghui/android-tech-frontier)
++ [Android重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
++ [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ## C
 
 + [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
@@ -12,6 +19,11 @@ date: 2016-01-28 22:28:47
 ## CSharp
 
 + [超全面的.NET GDI+图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
+
+## CSS
+
++ [学习CSS布局](http://zh.learnlayout.com/)
++ [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 
 ## Docker
 
@@ -31,6 +43,10 @@ date: 2016-01-28 22:28:47
 
 + [Speaking JavaScript （谈谈JavaScript）](http://speakingjs.com/es5/)
 + [Eloquent JavaScript （JavaScript编程精粹）](http://eloquentjavascript.net/)
+
+## HTML
+
++ [编码规范 by @mdo](http://codeguide.bootcss.com/)
 
 ## Mysql
 

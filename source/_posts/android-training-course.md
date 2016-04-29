@@ -5,16 +5,16 @@ tags:
   - android
 ---
 
-![](http://hukai.me/android-training-course-in-chinese/android_training.jpg)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/kesenhoo/android-training-course-in-chinese.jpg)
 
 <!--more-->
 
 ## 在线阅读 ##
 
-* [在线阅读](http://hukai.me/android-training-course-in-chinese/index.html)
++ [在线阅读](https://www.gitbook.com/book/kesenhoo/android-training-course-in-chinese/details)
 
 ## 下载 ##
 
-+ [PDF格式](http://hukai.me/eBooks/AndroidTrainingCHS.pdf)
-+ [EPUB格式](http://hukai.me/eBooks/AndroidTrainingCHS.epub)
-+ [MOBI格式](http://hukai.me/eBooks/AndroidTrainingCHS.mobi)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/kesenhoo/android-training-course-in-chinese)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/kesenhoo/android-training-course-in-chinese)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/kesenhoo/android-training-course-in-chinese)
