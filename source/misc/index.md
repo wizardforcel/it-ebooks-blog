@@ -9,6 +9,10 @@ date: 2016-01-28 22:28:47
 
 + [超全面的.NET GDI+图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
 
+## Docker
+
++ [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet)
+
 ## Golang
 
 + [Building Web Apps with Go （使用Go语言构建Web应用）](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
@@ -64,6 +68,15 @@ date: 2016-01-28 22:28:47
 + [VisuAlgo](http://visualgo.net/) – 看动画学算法
 + [List of algorithms](http://en.wikipedia.org/wiki/List_of_algorithms)
 
+## 操作系统
+
++ [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
++ [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+
+## 编程思想
+
++ [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
+
 ## 逆向
 
 + [探索PE文件内幕](http://www.360doc.com/content/14/0301/08/16014697_356636939.shtml)
@@ -92,6 +105,7 @@ date: 2016-01-28 22:28:47
 
 + [You have Too Much Shit （断舍离）](http://youhavetoomuchshit.com/)
 + [Email Marketing Field Guide （电子邮件营销指南）](http://mailchimp.com/resources/guides/email-marketing-field-guide/)
++ [一步步搭建物联网系统](http://ebook.designiot.cn/)
 
 ## 综合
 
