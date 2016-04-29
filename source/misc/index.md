@@ -13,6 +13,12 @@ date: 2016-01-28 22:28:47
 
 + [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet)
 
+## Git
+
++ [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
++ [Git Cheat Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
++ [git flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+
 ## Golang
 
 + [Building Web Apps with Go （使用Go语言构建Web应用）](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
