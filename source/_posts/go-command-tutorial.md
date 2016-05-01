@@ -1,7 +1,8 @@
 ---
-title: go-command-tutorial
+title: GO 命令教程
 date: 2016-05-01 16:09:55
 tags:
+  - go
 ---
 
 <!--more-->
