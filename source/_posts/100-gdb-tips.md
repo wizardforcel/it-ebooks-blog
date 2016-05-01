@@ -1,5 +1,5 @@
 ---
-title: 100-gdb-tips
+title: 100个gdb小技巧
 date: 2016-05-01 11:27:04
 tags:
   - c
