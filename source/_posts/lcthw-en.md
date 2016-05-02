@@ -1,5 +1,5 @@
 ---
-title: Learn C The Hard Way （英文）
+title: Learn C The Hard Way 
 date: 2016-03-29 22:04:41
 tags:
   - c

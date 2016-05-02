@@ -1,5 +1,5 @@
 ---
-title: 计算机程序的构造和解释（SICP） Python描述 （英文）
+title: 计算机程序的构造和解释（SICP） Python描述 
 date: 2016-04-05 12:02:26
 tags:
   - 编程思想

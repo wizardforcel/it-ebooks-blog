@@ -1,5 +1,5 @@
 ---
-title: Sqlite 3.7.3 文档（英文）
+title: Sqlite 3.7.3 文档
 date: 2016-03-30 12:32:14
 tags:
   - sqlite

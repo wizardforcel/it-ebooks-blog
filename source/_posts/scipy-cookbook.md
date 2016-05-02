@@ -1,5 +1,5 @@
 ---
-title: SciPy Cookbook （英文）
+title: SciPy Cookbook 
 date: 2016-03-28 16:54:07
 tags:
   - python

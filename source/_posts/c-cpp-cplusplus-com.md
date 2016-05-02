@@ -1,5 +1,5 @@
 ---
-title: C/C++ API 参考（英文）
+title: C/C++ API 参考
 date: 2016-03-30 12:24:44
 tags:
   - c

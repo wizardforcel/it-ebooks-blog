@@ -1,5 +1,5 @@
 ---
-title: Git Reference （英文）
+title: Git Reference 
 date: 2016-03-30 21:17:58
 tags:
   - git
