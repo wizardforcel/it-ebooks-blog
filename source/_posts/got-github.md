@@ -1,17 +1,20 @@
 ---
 title: Got Github
-date: 2016-04-29 10:38:29
+date: 2016-05-03 17:59:07
 tags:
+  - git
 ---
 
-![](http://box.kancloud.cn/cover_2015-07-09_559e4a8e0314_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/got-github.jpg)
 
 <!--more-->
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.kancloud.cn/kancloud/how-to-use-github)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/got-github/details)
 
 ## 下载 ##
 
-暂无。
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/got-github)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/got-github)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/got-github)
