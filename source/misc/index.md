@@ -52,6 +52,10 @@ date: 2016-01-28 22:28:47
 + [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 + [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 
+## Java
+
++ [Java8新特性终极指南](http://www.importnew.com/11908.html)
+
 ## JavaScript
 
 + [Speaking JavaScript （谈谈JavaScript）](http://speakingjs.com/es5/)
