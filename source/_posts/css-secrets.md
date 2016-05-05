@@ -11,8 +11,8 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.kancloud.cn/wizardforcel/css-secrets)
++ [在线阅读](http://www.kancloud.cn/digest/css-secrets)
 
 ## 下载 ##
 
-+ [下载地址](http://www.kancloud.cn/wizardforcel/css-secrets)
++ [下载地址](http://www.kancloud.cn/digest/css-secrets)

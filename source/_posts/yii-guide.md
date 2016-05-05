@@ -12,8 +12,8 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.kancloud.cn/wizardforcel/yii2-guide)
++ [在线阅读](http://www.kancloud.cn/manual/yii2-guide)
 
 ## 下载 ##
 
-+ [下载地址](http://www.kancloud.cn/wizardforcel/yii2-guide)
++ [下载地址](http://www.kancloud.cn/manual/yii2-guide)
