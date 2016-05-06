@@ -11,8 +11,9 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://www.kancloud.cn/kancloud/learn-js-design-patterns)
++ [在线阅读](http://wiki.jikexueyuan.com/project/javascript-design-patterns/)
 
 ## 下载 ##
 
-+ [下载地址](http://www.kancloud.cn/kancloud/learn-js-design-patterns)
++ [PDF格式](http://wiki.jikexueyuan.com/download/javascript-design-patterns/pdf/)
++ [EPUB格式](http://wiki.jikexueyuan.com/download/javascript-design-patterns/pdf/)
