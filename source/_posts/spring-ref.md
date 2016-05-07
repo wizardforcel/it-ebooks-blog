@@ -12,5 +12,5 @@ tags:
 
 + CHM格式
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588163)
-  + [MEGA下载](https://mega.nz/#!LREHgBqC!8NZvOikLr2y0XVJhHf2xVwKCR8N7Pna-xWSs_Xn9-Uk)
+  + [Github下载](https://github.com/it-ebooks/ebooks/raw/master/spring_3.0_api%E5%8F%82%E8%80%83.chm)
   + [百度云下载](http://pan.baidu.com/s/1ntrBYvZ)

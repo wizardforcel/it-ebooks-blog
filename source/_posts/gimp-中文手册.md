@@ -19,4 +19,4 @@ tags:
 ## 下载 ##
 
 + [百度云下载](http://pan.baidu.com/share/link?shareid=441114&uk=2435549136)
-+ [MEGA下载](https://mega.nz/#!jYVCjJ6D!FZOFRCw9N6TXVut95aFFG6N752rnTZQ1MoBOJcyEzpA)
++ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/gimp%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.pdf)

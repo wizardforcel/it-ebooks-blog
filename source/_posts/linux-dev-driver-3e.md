@@ -17,5 +17,5 @@ tags:
 
 ## 下载 ##
 
-+ [MEGA下载](https://mega.nz/#!KJcQSabZ!slPJLHwz1jp_zVMIVf4T_ztN-fsVnXCj51KEubD6gRg)
++ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/Linux%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F%28%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%29.pdf)
 + [百度云下载](http://pan.baidu.com/share/link?uk=3440082512&shareid=2735946707)

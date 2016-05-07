@@ -19,5 +19,4 @@ tags:
 ## 下载 ##
 
 + [原地址](http://www.phy.fju.edu.tw/files/archive/876_ab57aed9.pdf)
-+ [百度云下载](http://pan.baidu.com/s/1bZmJgy)
-+ [MEGA下载](https://mega.nz/#!GJl0ADjB!JgM91Fu5FSiwbYhdpdj1_6fmxQ0WUbLdjQrTPtkkjmY)
++ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/%E4%BD%BF%E7%94%A8GnuPlot%E7%A7%91%E5%AD%A6%E4%BD%9C%E5%9B%BE.pdf)

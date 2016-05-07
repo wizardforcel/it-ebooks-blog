@@ -25,5 +25,4 @@ tags:
 
 + [CSDN下载](http://download.csdn.net/download/wizardforcel/8073981)
 + [51CTO下载](http://down.51cto.com/data/1887796)
-+ [MEGA下载](https://mega.nz/#!3YcgSIyA!5aLcd0bbxibOji-WZQtGGH2BF9viAR5iTaZnyenNUyQ)
-+ [百度云下载](http://pan.baidu.com/s/1eSx1gNg)
++ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/C_C%2B%2B_API%E6%96%87%E6%A1%A3_%E9%A3%9E%E9%BE%99%E6%95%B4%E7%90%86_20141023.chm)

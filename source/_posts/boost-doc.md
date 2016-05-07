@@ -15,5 +15,4 @@ tags:
 ## 下载 ##
 
 + [GoogleCode](https://code.google.com/p/boost-doc-zh/downloads/list)
-+ [MEGA下载](https://mega.nz/#!nE8XGLID!-XX8mkJzmlNgfR4DyUYcHCh6TMNbIQ9WCnBdxDekN-U)
-+ [百度云下载](http://pan.baidu.com/s/1minf5P2)
++ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/boost_1_41_0_doc.chm)

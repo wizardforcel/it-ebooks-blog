@@ -16,5 +16,5 @@ tags:
 
 ## 下载 ##
 
-+ [MEGA下载](https://mega.nz/#!SF81hayI!jMyZT1aHLCu-cWb4sIgvD61JqF1_jZRzeIywoldb6s4)
++ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/jfinal-2.2-manual.pdf)
 + [CSDN下载](http://download.csdn.net/download/meisoft2009/9420507)
