@@ -33,4 +33,5 @@ tags:
 
 ## 下载 ##
 
-+ [Mega下载](https://mega.nz/#F!jQsHSJjb!KoOtcgIC2jo7MNsCPKXMrg)
++ [百度云下载](http://pan.baidu.com/s/1c18KTzE)
++ [Mega下载](https://mega.nz/#!PBckwSyC!l0NW9v_O-218agQmdJpYMrAvJx7ifHt2jnvSuNW3fYM)
