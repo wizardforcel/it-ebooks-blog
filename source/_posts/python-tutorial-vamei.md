@@ -5,9 +5,9 @@ tags:
   - python
 ---
 
-![](http://ww3.sinaimg.cn/large/841aea59jw1f3rhyme5ojj20l50rsq3g.jpg)
+<img src='http://ww3.sinaimg.cn/large/841aea59jw1f3rhyme5ojj20l50rsq3g.jpg' width='500' />
 
-作者：[Vamei]https://github.com/Vamei()
+作者：[Vamei](https://github.com/Vamei)
 
 来源：[Python-Tutorial-Vamei](https://github.com/Vamei/Python-Tutorial-Vamei)
 
