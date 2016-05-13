@@ -1,11 +1,13 @@
 ---
-title: 鸟哥的linux私房菜 （第三版） 服务器架设篇
-date: 2015-09-29 20:46:41
+title: 鸟哥的linux私房菜：服务器架设篇 （第三版） 
+date: 2016-05-13 21:52:41
 tags:
   - linux
 ---
 
-![](http://img3.douban.com/lpic/s10328185.jpg)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/vbird-linux-server-3e.jpg?build=1452482543160&v=12.0.4)
+
+来源：[鸟哥的linux私房菜：服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
 
 <!--more-->
 
@@ -20,9 +22,10 @@ tags:
 
 ## 在线阅读 ##
 
-* [在线阅读](http://vbird.dic.ksu.edu.tw/linux_server/)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/vbird-linux-server-3e/details)
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1o6vh6mY)
-+ [FilePi下载](http://filepi.com/i/m4daSZH)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/vbird-linux-server-3e)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/vbird-linux-server-3e)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/vbird-linux-server-3e)
