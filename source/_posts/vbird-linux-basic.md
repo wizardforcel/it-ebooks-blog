@@ -1,11 +1,14 @@
 ---
-title: 鸟哥的linux私房菜 （第四版） 基础学习篇
+title: 鸟哥的linux私房菜：基础学习篇 （第四版） 
 date: 2015-04-29 13:16:52
 tags:
   - linux
 ---
 
-![](http://ww2.sinaimg.cn/large/841aea59jw1f1yxrmfjyuj20aa0dw0t5.jpg)
+![](https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/vbird-linux-basic-4e.jpg?build=1452482543160&v=12.0.4)
+
+来源：[鸟哥的linux私房菜：基础学习篇](http://linux.vbird.org/linux_basic/)
+
 
 <!--more-->
 
@@ -298,8 +301,10 @@ tags:
 
 ## 在线阅读 ##
 
-* [在线阅读](http://linux.vbird.org/linux_basic/)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
 
 ## 下载 ##
 
-暂无。
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/vbird-linux-basic-4e)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/vbird-linux-basic-4e)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/vbird-linux-basic-4e)
