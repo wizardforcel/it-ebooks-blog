@@ -19,5 +19,4 @@ tags:
 
 ## 下载 ##
 
-+ [微盘下载](http://vdisk.weibo.com/s/aADaW4YRjvf0y)
-+ [千易下载](http://1000eb.com/1iz4j)
++ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/Programming%20Abstractions%20in%20C%2B%2B.pdf)

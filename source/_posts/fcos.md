@@ -7,9 +7,6 @@ tags:
 
 <img src='http://www.ituring.com.cn/bookcover/1019.175.big.jpg' width='500' />
 
-格式：EPUB
-类型：文字版
-
 <!--more-->
 
 ## 出版信息 ##
@@ -57,5 +54,6 @@ ISBN: 9780716782841
 
 ## 下载 ##
 
-+ [百度云下载](http://pan.baidu.com/s/1boGnPOb)
-+ [MEGA下载](https://mega.nz/#!2AEnQDYI!brpfnuGAhkBIiyrD5YPf7kLJFGKBgMPBwgDlt1ubxsA)
++ [PDF格式](http://www.ituring.com.cn/book/download/1be3ee51-b741-4f17-954e-8106d0001360)
++ [EPUB格式](https://github.com/it-ebooks/ebooks/raw/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%9A%84%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.epub)
++ [MOBI格式](http://www.ituring.com.cn/book/pushtokindle/1019)
