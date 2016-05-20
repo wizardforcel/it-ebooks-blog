@@ -5,6 +5,8 @@ tags:
   - 工程
 ---
 
+![](http://box.kancloud.cn/cover_2015-12-28_5680938b2321_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100)
+
 作者：[phodal](https://github.com/phodal)
 
 来源：[repractise](https://github.com/phodal/repractise)
@@ -15,8 +17,8 @@ tags:
 
 ## 在线阅读 ##
 
-+ [在线阅读](http://repractise.phodal.com/)
++ [在线阅读](http://www.kancloud.cn/digest/re-practise)
 
 ## 下载 ##
 
-暂无。
++ [下载地址](http://www.kancloud.cn/digest/re-practise)
