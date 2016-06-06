@@ -5,7 +5,9 @@ tags:
   - python
 ---
 
-![](http://docs.python-guide.org/en/latest/_static/python-guide-logo.png)
+<img src='http://docs.python-guide.org/en/latest/_static/python-guide-logo.png' width='300' />
+
+<!--more-->
 
 ## 在线阅读 ##
 
