@@ -11,7 +11,7 @@ tags:
 
 作者：Eric Roberts
 
-来源：[CS106B: Programming Abstractions](http://www.stanford.edu/class/cs106b/)
+来源：[CS106B: Programming Abstractions](http://web.stanford.edu/class/cs106b/)
 
 格式：PDF
 
@@ -19,4 +19,5 @@ tags:
 
 ## 下载 ##
 
++ [原地址](http://web.stanford.edu/class/cs106b/textbook/CS106BX-Reader.pdf)
 + [Github下载](https://github.com/it-ebooks/ebooks/raw/master/Programming%20Abstractions%20in%20C%2B%2B.pdf)

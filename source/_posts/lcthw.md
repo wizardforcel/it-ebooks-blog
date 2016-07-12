@@ -1,5 +1,5 @@
 ---
-title: Learn C The Hard Way 
+title: 笨办法学C
 date: 2016-06-22 22:04:41
 tags:
   - c
