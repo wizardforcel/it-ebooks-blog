@@ -74,6 +74,8 @@ date: 2016-01-28 22:28:47
 ## PHP
 
 + [Laravel 入门](https://github.com/huanghua581/laravel-getting-started/blob/master/4.2.md)
++ [11 Things to Do with Every New WordPress Install（11件安装新的WordPress后要做的事情）（PDF）](https://ithemes.com/downloads/11-Things-WordPress-ebook1.pdf)
++ [WordPress Security（WordPress 安全袖珍指南）（PDF）](http://ithemes.com/downloads/WordPress-Security-ebook.pdf)
 
 ## Python
 
@@ -115,7 +117,13 @@ date: 2016-01-28 22:28:47
 
 ## 设计
 
-+ [Pixel Perfect Precision （完美像素手册3）](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/)
++ [Pixel Perfect Precision （完美像素手册3）（PDF）](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/)
++ [Mobile Game Design（手机游戏设计）（PDF）](http://www.indiegamepod.com/mobile-game-design-book.pdf)
++ [The Guide to Mockups（原型图绘制指南）（PDF）](https://studio.uxpin.com/ebooks/guide-to-mockups/)
++ [Guide to UX Design Process and Documentation（PDF）](https://studio.uxpin.com/ebooks/guide-to-ux-design-process-and-documentation/)
++ [Web UI Best Practices（Web UI 最佳实践）（PDF）](https://studio.uxpin.com/ebooks/web-ui-design-best-practices/)
++ [Guide to Usability Testing（易用性测试指南）（PDF）](https://studio.uxpin.com/ebooks/guide-to-usability-testing/)
++ [The Guide to Wireframing（线框图绘制指南）（PDF）](https://studio.uxpin.com/ebooks/guide-to-wireframing/)
 
 ## 算法
 
@@ -136,6 +144,8 @@ date: 2016-01-28 22:28:47
 
 + [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882)
 
+## 设计
+
 ## 逆向
 
 + [探索PE文件内幕](http://www.360doc.com/content/14/0301/08/16014697_356636939.shtml)
@@ -144,6 +154,7 @@ date: 2016-01-28 22:28:47
 
 + [Security Flow Chart](https://github.com/SecWiki/sec-chart)
 + [安全思维导图整理](https://github.com/phith0n/Mind-Map)
++ [iOS Security May 2012](http://old.sebug.net/paper/mobile/iOS_Security_May12.pdf)
 
 ## 机器学习/数据挖掘
 

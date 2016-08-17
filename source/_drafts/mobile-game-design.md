@@ -19,4 +19,4 @@ tags:
 
 ## 下载 ##
 
-+ [PDF格式](http://www.indiegamepod.com/mobile-game-design-book.pdfe)
++ [PDF格式](http://www.indiegamepod.com/mobile-game-design-book.pdf)
