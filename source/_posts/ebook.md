@@ -7,9 +7,11 @@ title: 计算机开放电子书汇总
 链接：
 
 + [MEGA下载](https://mega.nz/#F!GJlE3QDY!322d8-f-7QOwPgxfKTUOzw)
-+ [百度云下载](http://pan.baidu.com/s/1dFdqE9z)
++ [百度云下载](http://pan.baidu.com/s/1i5yNUuh)
 
 [这里](http://pan.baidu.com/s/1pLlJNo3)是部分电子书的Gitbook源码。
+
+**由于网盘链接可能失效，请大家不要直接转载此文章，而是提供这篇文章的链接。网盘链接失效后请尽快通知我，我会在这篇文章上更新。**
 
 另外，这些电子书有备份到BTSync的计划，具体时间未知。
 
