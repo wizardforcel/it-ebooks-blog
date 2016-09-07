@@ -7,7 +7,7 @@ title: 计算机开放电子书汇总
 链接：
 
 + [MEGA下载](https://mega.nz/#F!GJlE3QDY!322d8-f-7QOwPgxfKTUOzw)
-+ [百度云下载（密码：wfiu）](http://pan.baidu.com/s/1o8rSmpG)
++ [360下载（密码：916d）](https://yunpan.cn/cMiU7CGKcKVqr)
 
 [这里](http://pan.baidu.com/s/1pLlJNo3)是部分电子书的Gitbook源码。
 
