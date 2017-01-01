@@ -7,7 +7,7 @@ title: 计算机开放电子书汇总
 链接：
 
 + [MEGA下载](https://mega.nz/#F!GJlE3QDY!322d8-f-7QOwPgxfKTUOzw)
-+ [亿方云下载](https://www.fangcloud.com/share/0ea91b4da74f3cbae81b0ab96a)
++ [坚果云下载](https://www.jianguoyun.com/p/DSWA5rEQyIybBhjVjyQ)
 
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
