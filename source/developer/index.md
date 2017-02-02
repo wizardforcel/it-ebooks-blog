@@ -34,14 +34,19 @@ date: 2016-01-28 22:36:37
 *   [OSChina](http://www.oschina.net/)
 *   [吾爱破解](http://www.52pojie.cn/)
 *   [看雪](http://www.pediy.com/)
-*   [习科](http://bbs.blackbap.org/forum.php)
+*   [学破解](http://www.xuepojie.com/)
+*   [逆向未来](http://www.pd521.com/)
+*   [习科](https://silic.org)
 *   [暗组](http://forum.cnsec.org/)
 *   [Cocode](http://cocode.cc)
+*   [90Sec](https://forum.90sec.org/)
 
 ## 问答平台
 
 *   [SegmentFault](http://segmentfault.com/)
 *   [StackOverflow](http://stackoverflow.com/)
+*   [知乎](https://www.zhihu.com/)
+*   [Quora](https://www.quora.com/)
 
 ## 博客
 
@@ -50,8 +55,12 @@ date: 2016-01-28 22:36:37
 *   [伯乐在线](http://www.jobbole.com/)
 *   [web开发者](http://www.admin10000.com/)
 *   [简书程序员专题](http://www.jianshu.com/collection/NEt52a)
+*   [Medium](https://medium.com/)
 *   [黑客与极客](http://www.freebuf.com/)
-
+*   [KnownSec](http://blog.knownsec.com/)
+*   [安全客](http://bobao.360.cn/)
+*   [安全脉搏](https://www.secpulse.com/)
+*   [t00ls](https://www.t00ls.net/)
 
 ## 开源
 
@@ -77,6 +86,7 @@ date: 2016-01-28 22:36:37
 *   [imooc](http://www.imooc.com/)
 *   [极客学院](http://www.jikexueyuan.com/)
 *   [CodeAcademy](http://www.codecademy.com/)
+*   [Udacity](https://cn.udacity.com/)
 *   [网易云课堂](http://study.163.com/)
 *   [计蒜客](http://www.jisuanke.com/)
 *   [泊学](https://www.boxueio.com/)
@@ -87,3 +97,5 @@ date: 2016-01-28 22:36:37
 *   [leetcode](https://oj.leetcode.com/)
 *   [九度](http://ac.jobdu.com/)
 *   [IDF CTF](http://ctf.idf.cn/index.php)
+*   [实验吧](http://www.shiyanbar.com/ctf/beginner)
+*   [Pwnable](http://www.pwnable.kr/)
