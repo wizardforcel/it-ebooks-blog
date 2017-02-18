@@ -40,6 +40,10 @@ date: 2016-01-28 22:36:37
 *   [暗组](http://forum.cnsec.org/)
 *   [Cocode](http://cocode.cc)
 *   [90Sec](https://forum.90sec.org/)
+*   [r00ts](https://www.r00ts.cc/forum.php)
+*   [听潮(?)](http://www.tcsec.org/forum.php)
+*   [邪恶八进制](https://forum.eviloctal.com/)
+*   [幽灵网安](http://bbs.wghostk.com/)
 
 ## 问答平台
 
@@ -77,6 +81,7 @@ date: 2016-01-28 22:36:37
 *   [乌云](http://www.wooyun.org/)
 *   [补天](http://butian.360.cn/)
 *   [seebug](https://www.seebug.org/)
+*   [漏洞银行](http://www.bugbank.cn/)
 *   [Exploit DB](https://www.exploit-db.com/)
 *   [全球被黑网站统计](http://www.hack-cn.com/)
 
