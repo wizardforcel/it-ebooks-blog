@@ -29,11 +29,23 @@ title: 计算机开放电子书汇总
 +   500 Lines or Less.epub
 +   7天学会PHP（千峰教育）.epub
 +   90sec安全文档第一期.pdf
++   A Second Course in Algorithms Lecture Notes (Stanford CS261).pdf
 +   ACM Cheat Sheet (C++).pdf
 +   Activiti 5.x 用户指南.epub
++   Advanced Algorithm Design Lecture Notes (Princeton COS521).pdf
++   Advanced Algorithms Lecture Notes (MIT 6.854J).pdf
++   Advanced Data Flow Analysis Lecture Notes (Cambridge L111).pdf
++   Advanced Data Structures Lecture Notes (MIT 6.851).pdf
 +   Agera Wiki 中文版  - v1.0.epub
 +   Aircrack-ng 教程及文档（部分）.epub
++   Algebraic Graph Algorithms Lecture Notes (Stanford CS367).pdf
 +   algorithm-zh-cn.epub
++   Algorithmic Aspects of Machine Learning (MIT 18.409).pdf
++   Algorithmic Game Theory Lecture Notes (Cornell CS6840).pdf
++   Algorithms & Models of Computation Lecture Notes (UIUC CS374).pdf
++   Algorithms for Big Data Lecture Notes (Harvard CS229r).pdf
++   Algorithms for Big Data Lecture Notes (UIUC CS598CSC).pdf
++   Algorithms Jeff Erickson (UIUC CS473 573).pdf
 +   Android Studio 中文教程（前六章）.epub
 +   Android 渗透测试学习手册.epub
 +   Android 设计指南 4.4.epub
@@ -50,12 +62,14 @@ title: 计算机开放电子书汇总
 +   Apache Shiro 1.2.x Reference Manual 中文翻译.epub
 +   Apache Spark 设计与实现.epub
 +   apache-doc.epub
++   Approximation Algorithms Lecture Notes (UIUC CS598CSC).pdf
 +   Asp.net Documentation.epub
 +   ASP.NET知识库.chm
 +   aspnet-mvc5-getting-started.epub
 +   Atom 飞行手册 中文版.epub
 +   atom-flight-manual-zh-cn.epub
 +   Aukland COMPSCI 105 ProblemSolvingwithAlgorithmsandDataStructures.pdf
++   Aukland COMPSCI 111 Practical Computing Reference Manual.pdf
 +   Aukland COMPSCI 210 Computer System 1 Lecture Notes.pdf
 +   Aukland COMPSCI 220 Introduction to Algorithms, Data Structures & Formal Languages 4e.pdf
 +   AWK程序设计语言.epub
@@ -66,9 +80,10 @@ title: 计算机开放电子书汇总
 +   Beyond the C++ Standard Library 中文版.epub
 +   Biopython 教程与手册.epub
 +   Boost C++ 库.epub
-+   boost_1_41_0_doc.chm
++   boost\_1\_41\_0\_doc.chm
 +   Bootstrap 3 中文版 - v1.1.epub
 +   Bootstrap 小书.epub
++   Building Blocks for Theoretical Computer Science (UIUC CS173).pdf
 +   building-web-apps-with-go.epub
 +   Burp Suite 使用说明.pdf
 +   Burp Suite 实战指南.epub
@@ -98,21 +113,29 @@ title: 计算机开放电子书汇总
 +   Clojure 入门教程.epub
 +   CoffeeScript Coobook 中文版 - v1.1.epub
 +   CoffeeScript小书.pdf
++   Combinatorial Optimization Lecture Notes (MIT 18.433).pdf
++   Combinatorial Optimization Lecture Notes (UIUC CS598CSC).pdf
++   Compiler Design Lecture Notes (CMU 15-411).pdf
 +   Computational Statistics in Python.epub
++   Computer System Engineering Lecture Notes (MIT 6.033).pdf
++   Convex Optimization (Stanford CVX101).pdf
 +   CoolShell 2006 ~ 2010 文集.epub
 +   CoolShell 2011 ~ 2015 文集.epub
 +   cpp-11-faq.epub
-+   csharp_MSDN_编程指南_参考手册.chm
++   csharp\_MSDN\_编程指南\_参考手册.chm
 +   CSS3 教程.epub
 +   CSS参考手册.chm
 +   CTF Writeups 2016.9.29.epub
 +   CTF 领域指南.epub
-+   C_C++_API文档_飞龙整理_20141023.chm
-+   c_cpp_ref_html_book_20161029.zip
++   C\_C++\_API文档\_飞龙整理\_20141023.chm
++   c\_cpp\_ref\_html\_book\_20161029.zip
 +   d3-api-ref.epub
 +   D3.js 入门教程 - v1.0.epub
 +   Data Science iPython Notebook 20160913.epub
 +   Deep Learning - Bengio.pdf
++   Deep Learning in Neural Networks - An Overview.pdf
++   Deep Learning Methods and Application.pdf
++   Design and Analysis of Algorithms Lecture Notes (MIT 6.046J).pdf
 +   Dive Into Python 中文版.epub
 +   Dive Into Python3 中文版.epub
 +   Django 中文文档 1.8 20170215.epub
@@ -122,7 +145,7 @@ title: 计算机开放电子书汇总
 +   django-chinese-docs-18.epub
 +   django-girls-taipei-tutorial.epub
 +   Django之歌：简易博客搭建教程.epub
-+   DotNET_4.0_类库参考手册.chm
++   DotNET\_4.0\_类库参考手册.chm
 +   ECMAScript 5.1 规范中文版.epub
 +   ECMAScript 6入门.epub
 +   Effective C# 改善C#程序的50种方法.epub
@@ -150,13 +173,15 @@ title: 计算机开放电子书汇总
 +   fltk-manual.epub
 +   Fortran77和9095编程入门.rar
 +   Foundations of Computation.pdf
++   Foundations of Programming Languages Lecture Notes (CMU 15-312).pdf
 +   FreeBSD 使用手册.epub
-+   FreeMarker_Manual_zh_CN.pdf
++   FreeMarker\_Manual\_zh\_CN.pdf
 +   FreeRADIUS新手入门.epub
 +   Functional Programming in Python.epub
 +   FuzzySecurity Windows Exploit 开发系列教程 1 ~ 8.epub
 +   GDI+ SDK参考（翻译版本）.pdf
 +   Gdip 编程基础.epub
++   Generic Programming with Adjunctions.pdf
 +   Getting Started with Storm 中文版.pdf
 +   gimp中文手册.pdf
 +   Git Community Book 中文版.epub
@@ -181,6 +206,7 @@ title: 计算机开放电子书汇总
 +   Go语言圣经.epub
 +   Gradle 2 用户指南.epub
 +   Gradle 实战中文版 - v1.0.epub
++   Great Ideas in Theoretical Computer Science Lecture Notes (MIT 6.045).pdf
 +   Growth：深入浅出全栈工程师.epub
 +   GTK+程序设计中文版.pdf
 +   gulp 中文文档.epub
@@ -188,6 +214,7 @@ title: 计算机开放电子书汇总
 +   hexo-doc.epub
 +   HgInit 中文文档.epub
 +   Highcharts 中文教程.epub
++   Homotopy Type Theory Lecture Notes (CMU 15-819).pdf
 +   How to make an Operating System.epub
 +   HTML 4.01 Specification.pdf
 +   HTML 5.1 Specification.epub
@@ -199,17 +226,21 @@ title: 计算机开放电子书汇总
 +   HttpCore-Simplified Chinese.pdf
 +   IA-32 架构软件开发人员手册 第三卷.pdf
 +   IDA Pro 5.4 中文帮助手册.chm
-+   InfoQ迷你书打包_epub格式_20160420.7z
-+   InfoQ迷你书打包_epub格式_20160420_目录.html
++   InfoQ迷你书打包\_epub格式\_20160420.7z
++   InfoQ迷你书打包\_epub格式\_20160420\_目录.html
 +   Intel 80386 程序员参考手册.epub
 +   IntelliJ IDEA 13 基础教程.pdf
 +   IntelliJ IDEA 使用教程 - v1.0.epub
++   Introduction to Algorithms Lecture Notes (MIT 6.006).pdf
++   Introduction to Analysis of Algorithms Lecture Notes (Cornell CS4820).pdf
 +   Introduction to Computer Graphics.pdf
 +   Introduction to Programming Using Java 7e.pdf
++   Introduction to Scientific Computing Lecture Notes (Cornell CS3220).pdf
++   Intuitionistic Type Theory.pdf
 +   Ionic 中文文档.epub
 +   iOS 安全 Wiki fix1.epub
 +   iOS8 开发入门 fix1.epub
-+   iOS_Security_May12.pdf
++   iOS\_Security\_May12.pdf
 +   IPython 交互式计算和数据可视化.epub
 +   IT Audit - Security Beyond the Checklist.pdf
 +   Java 8 教程汇总.epub
@@ -246,7 +277,7 @@ title: 计算机开放电子书汇总
 +   Java问题定位技术.pdf
 +   Java面向对象程序设计（？）.pdf
 +   Java面试宝典2016版.pdf
-+   JDK_1.6_中文API参考.CHM
++   JDK\_1.6\_中文API参考.CHM
 +   Jersey 2.x 用户指南.epub
 +   jfinal-2.2-manual.pdf
 +   Jims 的学习笔记.epub
@@ -271,6 +302,7 @@ title: 计算机开放电子书汇总
 +   Learn C The Hard Way.epub
 +   Learn Javascript 中文版.epub
 +   Learn Version Control with Git 中文版.epub
++   Learning Deep Architectures for AI 中文版.pdf
 +   Learning Hard C# 博客原文 fix1.epub
 +   Learning Perl the Hard Way.pdf
 +   LeetCode题解 (C++).pdf
@@ -296,7 +328,9 @@ title: 计算机开放电子书汇总
 +   Lodash 中文文档 4.5.epub
 +   lua-doc.epub
 +   Mac 开发配置手册.epub
++   Machine Learning for Natural Language Processing Lecture Notes (Columbia E6998).pdf
 +   Markdown 简单的世界.epub
++   MARKOV CHAIN MONTE CARLO FOUNDATIONS & APPLICATIONS Lecture Notes (UCB CS294).pdf
 +   Mastering Elasticsearch 中文版.epub
 +   Mastering Machine Learning With scikit-learn 中文版.pdf
 +   Matplotlib fix1.pdf
@@ -310,8 +344,9 @@ title: 计算机开放电子书汇总
 +   Meteor 中文文档.epub
 +   MFC 中文参考.chm
 +   MFC程序员的WTL指南.epub
-+   Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms fix1.pdf
++   Microsoft\_Press\_eBook\_CreatingMobileAppswithXamarinForms fix1.pdf
 +   Microsoft可移植可执行文件和通用目标文件格式文件规范.pdf
++   Mining Massive Data Sets Reading Material (Stanford CS246).pdf
 +   MIT 6.858 Computer Systems Security Lecture Notes.epub
 +   mobile-game-design-book.pdf
 +   Modern Java - A Guide to Java 8.epub
@@ -325,6 +360,7 @@ title: 计算机开放电子书汇总
 +   MySQL存储过程编程（1~5）.pdf
 +   MySQL性能调优与架构设计（JesseLZJ）.epub
 +   MySQL金典培训教程.pdf
++   Natural Language Processing  Lecture Notes (Columbia CS4705).pdf
 +   Netty 4.x 用户指南.epub
 +   Netty 实战精髓.epub
 +   nginx-doc.epub
@@ -336,6 +372,7 @@ title: 计算机开放电子书汇总
 +   nodejs-api-doc-in-chinese.epub
 +   Nodejs开发加密货币.epub
 +   NoSQL数据库笔谈.pdf
++   Notes on Programming (Alexander Stepanov).pdf
 +   NumPy 中文文档 1.11 20170215.epub
 +   numpy-ref-1.11.0.pdf
 +   numpy-user-1.11.0.pdf
@@ -348,9 +385,12 @@ title: 计算机开放电子书汇总
 +   OpenGL 教程.epub
 +   OpenResty最佳实践.epub
 +   OpenWrt智能、自动、透明翻墙路由器教程.epub
++   Operating Systems - Three Easy Pieces.pdf
++   Operating Systems and Middleware - Supporting Controlled Interaction.pdf
 +   Oreilly Free EBook 20160507 目录.html
 +   Oreilly Free EBook 20160507.7z
 +   orm2-doc-zh-cn.epub
++   Overcoming Intractability in Machine Learning Lecture Notes (Princeton COS598D).pdf
 +   OWASP测试指南V3.0中文版.pdf
 +   Pandas 0.19.2 中文文档 20170305.epub
 +   pandas docs.pdf
@@ -362,7 +402,7 @@ title: 计算机开放电子书汇总
 +   PHP 调试技术手册.pdf
 +   PHP-Debug-Manual-public.pdf
 +   PHP5面向对象初步（刀客羽朋）.pdf
-+   php_manual_zh.chm
++   php\_manual\_zh.chm
 +   PHP内核介绍及扩展开发指南.pdf
 +   PHP安全基础详解.pdf
 +   PHP扩展开发及内核应用.epub
@@ -371,10 +411,14 @@ title: 计算机开放电子书汇总
 +   PHP设计模式范例.epub
 +   Pillow 中文文档.epub
 +   postgresql-doc.epub
++   Probabilistic Graphical Models Lecture Notes (CMU 10.708).pdf
 +   problem-solving-with-algorithms-and-data-structure-using-python 中文版.epub
++   Program Analysis Lecture Notes (CMU 15-819O).pdf
 +   Programming Abstractions in C++.pdf
 +   Programming and Programming Languages (Brown Univ).epub
++   Programming Languages and Logics Lecture Notes (Cornell CS4110).pdf
 +   Programming Languages Application and Interpretation.epub
++   Programming Languages Lecture Notes (Washington CSE341).pdf
 +   Puppet 2.7 Cookbook 中文版.epub
 +   pwntools Documentation .pdf
 +   PyQt4 精彩实例分析.pdf
@@ -406,12 +450,16 @@ title: 计算机开放电子书汇总
 +   Qt 学习之路 - v1.1.epub
 +   Qt 快速入门系列教程.epub
 +   Qt3 中文参考.chm
++   Quantum algorithms Lecture Notes (Waterloo CO781).pdf
++   Quantum Computation Lecture Notes (Caltech CS219).pdf
++   Quantum Computing Lecture Notes (Amsterdam).pdf
 +   Q版缓冲区溢出教程 fix1.epub
 +   R4ndom 破解教程翻译 1~20a by QQSniper.pdf
 +   Rails 102.epub
 +   Rails 5 开发进阶(Beta).epub
 +   Rails 指南.epub
 +   Rails 风格指南.epub
++   Random Algorithm (Sariel Har-Peled).pdf
 +   re-for-beginners.epub
 +   React Native 中文文档.epub
 +   React Native 入门指南.epub
@@ -450,24 +498,31 @@ title: 计算机开放电子书汇总
 +   Shell 13 问.epub
 +   Shell 编程范例.epub
 +   Shellcoder's Handbook 中文版 by Arhat.pdf
++   SICP 2e (MIT 6.001).epub
 +   SICP in Python.epub
 +   SICP Python 描述 中文版.epub
-+   Silic_Security_Handbook.pdf
++   Silic\_Security\_Handbook.pdf
 +   Simple Programmer 2015 文集.epub
 +   sjtu-se-课件 目录.html
 +   sjtu-se-课件.zip
 +   Slim3 中文文档.epub
++   Software Analysis and Design I Lecture Notes (CUNY CSci135).pdf
++   Software Design and Analysis II Lecture Notes (CUNY CSci235).pdf
++   Software Design and Analysis III Lecture Notes (CUNY CSci335).pdf
 +   Spark大数据处理 - 汇智网.url
 +   Spark编程指南.epub
 +   Speaking JavaScript.epub
 +   Sphinx 中文文档.epub
 +   Spring Boot参考指南.epub
 +   Spring-Data-Elasticsearch 中文文档.epub
-+   spring_3.0_api参考.chm
++   spring\_3.0\_api参考.chm
 +   SQLAlchemy 1.1 Documentation.epub
 +   SQLite Documentation.epub
 +   SQLite 学习手册.epub
 +   SQLite 权威指南.epub
++   Static Program Analysis Reading List (UCLA CS232).pdf
++   Static Program Analysis.pdf
++   Statistical Learning Theory Lecture Notes (Stanford CS229t).pdf
 +   Struts User Guide-Simplified Chinese.pdf
 +   Struts2入门V3.0（大漠孤烟）.pdf
 +   svnbook-1.5-final-zh.pdf
@@ -475,6 +530,7 @@ title: 计算机开放电子书汇总
 +   SystemTap新手指南.epub
 +   T00ls技术文章350篇.7z
 +   TextGrocery 中文 API.epub
++   The Datacenter as a Computer.pdf
 +   The Linux Command Line 中文版.epub
 +   The Performance of Open Source Applications.epub
 +   The Swift Programming Language 中文版 - v1.2.epub
@@ -482,6 +538,8 @@ title: 计算机开放电子书汇总
 +   theano Documentation 0.8.2.pdf
 +   Theano 中文文档 0.9 20170304.epub
 +   theForger's Win32 API教程第二版(简体中文).epub
++   Theoretical Machine Learning Lecture Notes (Princeton COS511).pdf
++   Theory of Quantum Information.pdf
 +   Think Python 2e 中文版.epub
 +   think python （中文版）.pdf
 +   thinkbayes.pdf
@@ -514,10 +572,12 @@ title: 计算机开放电子书汇总
 +   Understanding ECMAScript 6 中文版.epub
 +   Unity3D圣典中文脚本.chm
 +   using-swift-with-cocoa-and-objective-c.epub
++   Vectors, Matrices, and Least Squares (Stanford EE103).pdf
 +   Violent Python 中文版.epub
 +   Visual Studio Code Guide.epub
 +   VS2010 MFC编程入门（鸡啄米）.pdf
 +   vuejs-doc.epub
++   Web Hacking 101.pdf
 +   Web.py Cookbook 中文版.epub
 +   WebGL 教程中文版.epub
 +   WEKA 3.5.5 用户指南.epub
@@ -530,9 +590,10 @@ title: 计算机开放电子书汇总
 +   Writing a Simple Operating System.pdf
 +   wxWidgets 跨平台 GUI 编程.epub
 +   XSS 蠕虫 & 病毒.epub
++   xv6 中文文档.epub
 +   YAF 用户手册.epub
 +   You Dont Know JS x6.epub
-+   You_Have_Too_Much_Shit.epub
++   You\_Have\_Too\_Much\_Shit.epub
 +   Y分钟学习X种语言.epub
 +   zeptojs-api-doc.epub
 +   ZetCode 教程整理.epub
@@ -542,6 +603,10 @@ title: 计算机开放电子书汇总
 +   一站式学习Wireshark.epub
 +   一起学 koa.epub
 +   一起学 Node.js.epub
++   万学海文概率统计基础班、强化班、冲刺班讲义（铁军）.pdf
++   万学海文线性代数基础班、强化班、冲刺班讲义（铁军）.pdf
++   万学海文高等数学、线性代数专题专项讲义 2011.pdf
++   万学海文高等数学基础班讲义（铁军）.pdf
 +   上传攻击总结.pdf
 +   为生物信息学设计的Python教程.epub
 +   乌云月爆（全十期）.7z
@@ -620,8 +685,10 @@ title: 计算机开放电子书汇总
 +   实验楼信息安全教程合集 20160904 fix1.epub
 +   实验楼算法教程合集 20160904.epub
 +   实验楼网络教程合集 20160904.epub
++   尚学考研高等数学基础班辅导讲义（武忠祥 2017）.pdf
 +   嵌入式 Linux 知识库.epub
 +   常用数据挖掘算法总结及Python实现.pdf
++   应用概率统计基础及算法（于江生）.pdf
 +   廖雪峰 JavaScript Python Git 教程.epub
 +   开源 PHP 开发框架 Yii 全方位教程.pdf
 +   开源世界旅行手册.epub
@@ -634,12 +701,14 @@ title: 计算机开放电子书汇总
 +   我的WafBypass之路(SQL注入篇).pdf
 +   手把手教你做一个 C 语言编译器.epub
 +   挑战30天C++入门极限.pdf
++   换个角度看线性代数（风萧萧）.pdf
 +   提问的智慧.epub
 +   操作系统思考.epub
 +   教你成为全栈工程师(Full Stack Developer).pdf
 +   数学之美、浪潮之巅（谷歌黑板报）.epub
 +   数据挖掘十大算法详解.epub
 +   数据结构与算法 Java 版（周鹏）.pdf
++   文都网校高等数学、线性代数、概率统计基础班讲义 2015.pdf
 +   斯坦福 cs224d 深度学习与自然语言处理讲义.epub
 +   斯坦福 CS229 机器学习讲义中文版 1~5.pdf
 +   斯坦福 CS229 机器学习讲义英文版（全）.pdf
@@ -656,17 +725,22 @@ title: 计算机开放电子书汇总
 +   新编win32api大全.epub
 +   无痛的机器学习 第一季.epub
 +   易学C++（第一版）.pdf
++   李正元高等数学强化讲义.pdf
 +   李炎恢 HTML CSS JavaScript PHP Bootstrap 教程.epub
-+   极客学院Wiki_20160404.7z
-+   极客学院Wiki_20160404_目录.html
++   极客学院Wiki\_20160404.7z
++   极客学院Wiki\_20160404\_目录.html
 +   极客爱情.epub
++   概率论与数理统计习题参考解答（西安邮电）.pdf
++   概率论与数理统计讲义（复旦 徐勤丰） .pdf
 +   欺骗的艺术.epub
 +   正则表达式30分钟入门.epub
++   水木考研概率统计基础班讲义 2011.pdf
 +   汇智网教程合集 20160914 fix1.epub
 +   法克论坛一周年提权文集.pdf
 +   浅入浅出 Android 安全.epub
 +   浅入浅出Flask框架.epub
 +   浅入浅出Java Web.epub
++   海天教育线性代数、概率统计基础班讲义（张卓奎）.pdf
 +   深入分析Linux内核源代码.pdf
 +   深入浅出ES6.epub
 +   深入浅出MFC.epub
@@ -690,14 +764,17 @@ title: 计算机开放电子书汇总
 +   用 Python 做科学计算.epub
 +   用 Python 和 Pygame 写游戏 - 从入门到精通.pdf
 +   用Jersey构建RESTful服务.epub
-+   看云_推荐文档_20160406.7z
-+   看云_推荐文档_20160406_目录.html
++   看云\_推荐文档\_20160406.7z
++   看云\_推荐文档\_20160406\_目录.html
 +   看雪 OllyDBG 入门教程.chm
 +   看雪、rufeng、coolfly 破解教程及常用手册.chm
 +   看雪软件安全文档库2012版KSSD.chm
 +   知乎周刊·程序人生（总第 31 期）.epub
 +   知乎周刊·编程小白学 Python（总第 103 期）.epub
 +   社工研究组文章整理 2017.2.23.epub
++   神经网络与深度学习.pdf
++   神经网络与深度学习讲义（复旦 邱锡鹏）.pdf
++   科大概率统计讲义（USTC 概率统计教研室）.pdf
 +   程序员或设计师能用上的75份速查表.7z
 +   程序员跳槽全攻略.pdf
 +   程序设计思想与方法.epub
@@ -708,7 +785,11 @@ title: 计算机开放电子书汇总
 +   笨方法学Vimscript.epub
 +   笨方法學 Ruby.epub
 +   简明 Python 教程.epub
-+   米斯特白帽培训讲义.epub
++   简明线性代数、概率统计讲义（郭志军）.pdf
++   米斯特白帽培训讲义 v1.5.epub
++   线性代数总结与复习（武汉大学 黄正华）.pdf
++   线性代数的几何意义--图解线性代数.pdf
++   线性代数讲义（武汉大学 马涛）.pdf
 +   绿色兵团技术年刊.7z
 +   编写Ruby的C拓展.epub
 +   编程之法：面试和算法心得.epub
@@ -717,7 +798,8 @@ title: 计算机开放电子书汇总
 +   编程派 2015 文集.epub
 +   网络基本功系列.epub
 +   翻译漫谈——怎样翻译更地道.epub
-+   脚本娃娃__Ext4.1.0_Doc中文版_V1.0.0_Beta.rar
++   脚本娃娃\_\_Ext4.1.0\_Doc中文版\_V1.0.0\_Beta.rar
++   苏德矿高等数学强化班讲义.pdf
 +   计算机科学的基础（中文版）.epub
 +   让开发自动化系列专栏.epub
 +   论 PHP 常见漏洞.epub
@@ -727,6 +809,8 @@ title: 计算机开放电子书汇总
 +   跟我一起写 Makefile.epub
 +   跟我一起玩Win32开发.epub
 +   跟我学 Spring 系列.epub
++   跨考教育 2012 年考研 线性代数预习讲义 .pdf
++   跨考考研高等数学讲义.pdf
 +   软件构建实践 0.1.epub
 +   软件漏洞分析入门专题.epub
 +   辛星 JDBC、MyBatis、Spring、Yaf、LESS、Symfony、Markdown、SQLite、Codeigniter 教程 2016.zip
@@ -739,11 +823,18 @@ title: 计算机开放电子书汇总
 +   逆向编译技术.chm
 +   那些年我们一起学XSS.epub
 +   邪恶八进制技术黑皮书第4版.chm
++   锐博高等数学讲义.pdf
 +   阿里巴巴 Java 开发手册（正式版）.pdf
++   随机过程讲义（中科院 孙应飞）.pdf
++   随机过程讲义（南开大学）.pdf
 +   零基础学 qt4 编程 fix1.epub
 +   零基础学Python（第二版）.epub
 +   面向程序员的数据挖掘指南.epub
++   领航考研线性代数精品辅导讲义（李永乐 2011）.pdf
++   领航考研高等数学、线性代数、概率统计强化班讲义.pdf
 +   风飘雪破解教程 【KILLL修正版】.CHM
++   高等数学讲义之积分表公式推导（Daniel Lau）.pdf
++   高等数学（CCP Maths 165）.pdf
 +   高级Bash脚本编程指南 3.9.1 (杨春敏 黄毅 译).pdf
 +   高级PHP应用程序漏洞审核技术.pdf
 +   高质量 C C++ 编程指南（林锐）.pdf
