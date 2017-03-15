@@ -74,22 +74,13 @@ date: 2016-01-28 22:28:47
 ## PHP
 
 + [Laravel 入门](https://github.com/huanghua581/laravel-getting-started/blob/master/4.2.md)
-+ [11 Things to Do with Every New WordPress Install（11件安装新的WordPress后要做的事情）（PDF）](https://ithemes.com/downloads/11-Things-WordPress-ebook1.pdf)
-+ [WordPress Security（WordPress 安全袖珍指南）（PDF）](http://ithemes.com/downloads/WordPress-Security-ebook.pdf)
 
 ## Python
 
-+ [Scikit Learn User Guide](http://scikit-learn.org/stable/user_guide.html)
-+ [NumPy User Guide](http://docs.scipy.org/doc/numpy-dev/user/)
-+ [SciPy Tutorial](http://scipy.github.io/devdocs/tutorial/index.html)
-+ [Matplotlib User Guide](http://matplotlib.org/users/index.html)
 + [SymPy Doc](http://docs.sympy.org/latest/index.html)
-+ [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 + [Matplotlib 教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
-+ [试验性NumPy教程](http://reverland.org/python/2012/08/22/numpy)
 + [Python的魔术方法指南](http://article.yeeyan.org/view/311527/287706)
 + [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
-+ [web.py 新手指南](http://webpy.org/tutorial3.zh-cn)
 
 ## Shell
 
@@ -153,8 +144,6 @@ date: 2016-01-28 22:28:47
 ## 渗透
 
 + [Security Flow Chart](https://github.com/SecWiki/sec-chart)
-+ [安全思维导图整理](https://github.com/phith0n/Mind-Map)
-+ [iOS Security May 2012](http://old.sebug.net/paper/mobile/iOS_Security_May12.pdf)
 
 ## 机器学习/数据挖掘
 
@@ -199,3 +188,4 @@ date: 2016-01-28 22:28:47
 + [ITBegin](http://www.itbegin.com/)
 + [简明现代魔法图书馆](http://www.nowamagic.net/librarys/)
 + [易百教程](http://www.yiibai.com/)
++ [实验楼](https://www.shiyanlou.com/courses/)
