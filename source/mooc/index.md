@@ -36,9 +36,3 @@ date: 2017-08-31 10:46:28
 +   [斯坦福 CS229](https://github.com/Kivy-CN/Stanford-CS-229-CN)
 +   [斯坦福 CS231n](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 +   [DeepLearningAI](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)
-
-## 应用密码学
-
-+   斯坦福 CS255
-    +   [I](https://www.coursera.org/learn/crypto)
-    +   [II](https://www.coursera.org/learn/crypto2)
