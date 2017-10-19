@@ -11,6 +11,8 @@ title: 计算机开放电子书汇总
 
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
+推荐用 [MEGA 插件](https://www.chromefor.com/mega_v3-16-5/)来访问 MEGA。
+
 **由于网盘链接可能失效，请大家不要直接转载此文章，而是提供这篇文章的链接。网盘链接失效后请尽快通知我，我会在这篇文章上更新。**
 
 另外，这些电子书有备份到BTSync的计划，具体时间未知。
