@@ -65,6 +65,9 @@ date: 2016-01-28 22:36:37
 *   [安全客](http://bobao.360.cn/)
 *   [安全脉搏](https://www.secpulse.com/)
 *   [t00ls](https://www.t00ls.net/)
+*   [集智专栏](https://jizhi.im/blog/)
+*   [机器之心](https://www.jiqizhixin.com/)
+*   [夕小瑶的科技屋](https://zhuanlan.zhihu.com/xixiaoyao)
 
 ## 开源
 
