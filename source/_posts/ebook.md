@@ -9,6 +9,11 @@ title: 计算机开放电子书汇总
 + [MEGA下载](https://mega.nz/#F!mFEBSI5L!9ufOmfbA7cnLhBz8nPjT1A)
 + [坚果云下载](https://www.jianguoyun.com/p/Dd8libYQyIybBhizxiU)
 
+镜像（可能不能及时更新）：
+
++ [it-ebooks@github](https://github.com/it-ebooks)
++ [it-ebooks@gitee](https://gitee.com/it-ebooks)
+
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
 推荐用 [MEGA 插件](https://www.chromefor.com/mega_v3-16-5/)来访问 MEGA。
