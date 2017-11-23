@@ -13,6 +13,7 @@ title: 计算机开放电子书汇总
 
 + [it-ebooks@github](https://github.com/it-ebooks)
 + [it-ebooks@gitee](https://gitee.com/it-ebooks)
++ [wizardforcel@sourceforge](https://sourceforge.net/u/wizardforcel)
 
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
