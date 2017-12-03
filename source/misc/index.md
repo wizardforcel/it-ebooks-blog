@@ -14,6 +14,7 @@ date: 2016-01-28 22:28:47
 
 ## C
 
++ [C/C++ 参考手册](http://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
 + [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 
 ## CoffeeScript
@@ -22,6 +23,8 @@ date: 2016-01-28 22:28:47
 
 ## CSharp
 
++ [MSDN](https://msdn.microsoft.com/zh-cn/)
++ [微软文档库](https://docs.microsoft.com/zh-cn/)
 + [超全面的.NET GDI+图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
 
 ## CSS
@@ -96,8 +99,8 @@ date: 2016-01-28 22:28:47
 
 ## 前端
 
++ [MDN](https://developer.mozilla.org/zh-CN/docs/MDN)
 + [The Web platform: Browser technologies](https://platform.html5.org/)
-+ [WebPlatform](https://docs.webplatform.org/wiki/tutorials)
 + [Pocket Guide to Writing SVG （SVG编写袖珍指南）](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md)
 + [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 + [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
