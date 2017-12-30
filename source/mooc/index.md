@@ -33,6 +33,8 @@ date: 2017-08-31 10:46:28
 
 ## 数据科学
 
++   [MIT 18.003](http://www-math.mit.edu/~djk/calculus_beginners/)
++   [MIT 18.06](http://open.163.com/special/opencourse/daishu.html)
 +   [斯坦福 CS109](https://web.stanford.edu/class/cs109/)
 +   [UCB DATA8](http://data8.org/)
 +   [UCB DS100](http://www.ds100.org/)
