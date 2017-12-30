@@ -31,8 +31,18 @@ date: 2017-08-31 10:46:28
 
 +   [斯坦福 CS143](http://web.stanford.edu/class/cs143/)
 
+## 数据科学
+
++   [斯坦福 CS109](https://web.stanford.edu/class/cs109/)
++   [UCB DATA8](http://data8.org/)
++   [UCB DS100](http://www.ds100.org/)
++   [哈佛 CS109](https://cs109.github.io/a-2017/)
+
 ## 机器学习
 
 +   [斯坦福 CS229](https://github.com/Kivy-CN/Stanford-CS-229-CN)
 +   [斯坦福 CS231n](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
++   [斯坦福 CS224d](http://cs224d.stanford.edu/)
++   [斯坦福 CS20si](https://web.stanford.edu/class/cs20si/)
 +   [DeepLearningAI](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)
++   [UCB CS294](http://rll.berkeley.edu/deeprlcourse/)
