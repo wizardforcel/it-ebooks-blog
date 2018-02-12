@@ -9,23 +9,29 @@ date: 2017-08-31 10:46:28
 
 +   [哈佛 CS50](http://open.163.com/special/opencourse/cs50.html)
 +   [MIT 6.001x](https://courses.edx.org/courses/MITx/6.00.1x/3T2013/course/)
-+   [UCB CS61a](https://cs61a.org/)
++   UCB CS61a
+    +   [主页](https://cs61a.org/)
+    +   [中文版教材](https://github.com/wizardforcel/sicp-py-zh)
 
 ## 数据结构
 
-+   [斯坦福 CS106b](http://web.stanford.edu/class/cs106b/)
++   [斯坦福 CS106b](http://open.163.com/special/opencourse/abstractions.html)
 +   [UCB cs61b](https://inst.eecs.berkeley.edu/~cs61b/)
 
 ## 算法
 
 +   [普林斯顿 Algs4](http://algs4.cs.princeton.edu/)
-+   [MIT 6.004](https://6004.mit.edu/)
++   [MIT 6.006](http://open.163.com/special/opencourse/algorithms.html)
 
 ## 系统
 
 +   [nand2tetris](http://www.nand2tetris.org/)
-+   [CMU 15-213](http://www.csapp.cs.cmu.edu/)
-+   [MIT 6.828](https://pdos.csail.mit.edu/6.828/)
++   CMU 15-213
+    +   [主页](http://www.csapp.cs.cmu.edu/)
+    +   [笔记](http://wdxtub.com/2016/04/16/thin-csapp-1/)
++   MIT 6.828
+    +   [主页](https://pdos.csail.mit.edu/6.828/)
+    +   [中文版教材](https://www.gitbook.com/book/th0ar/xv6-chinese)
 +   [UCB CS61c](http://www-inst.eecs.berkeley.edu/~cs61c/)
 
 ## 编译
@@ -35,17 +41,32 @@ date: 2017-08-31 10:46:28
 ## 数据科学
 
 +   [MIT 18.003](http://www-math.mit.edu/~djk/calculus_beginners/)
-+   [MIT 18.06](http://open.163.com/special/opencourse/daishu.html)
++   MIT 18.06
+    +   [视频](http://open.163.com/special/opencourse/daishu.html)
+    +   [笔记](https://github.com/zlotus/notes-linear-algebra)
 +   [斯坦福 CS109](https://web.stanford.edu/class/cs109/)
-+   [UCB DATA8](http://data8.org/)
++   UCB DATA8
+    +   [主页](http://data8.org/)
+    +   [中文版教材](https://github.com/Kivy-CN/data8-textbook-zh)
 +   [UCB DS100](http://www.ds100.org/)
 +   [哈佛 CS109](https://cs109.github.io/a-2017/)
 
 ## 机器学习
 
-+   [斯坦福 CS229](https://github.com/Kivy-CN/Stanford-CS-229-CN)
-+   [斯坦福 CS231n](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
-+   [斯坦福 CS224d](http://cs224d.stanford.edu/)
++   斯坦福 CS229
+    +   [视频](http://open.163.com/special/opencourse/machinelearning.html)
+    +   [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
++   [斯坦福 CS228](https://cs.stanford.edu/~ermon/cs228/index.html)
++   斯坦福 CS231n
+    +   [视频](https://www.bilibili.com/video/av17204303/)
+    +   [讲义](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
++   斯坦福 CS224d
+    +   [主页](http://cs224d.stanford.edu/)
+    +   [讲义](http://blog.csdn.net/column/details/dl-nlp.html)
 +   [斯坦福 CS20si](https://web.stanford.edu/class/cs20si/)
-+   [DeepLearningAI](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)
-+   [UCB CS294](http://rll.berkeley.edu/deeprlcourse/)
++   DeepLearningAI
+    +   [视频](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)
+    +   [笔记](http://ai-start.com/dl2017/)
++   UCB CS294
+    +   [视频](https://www.bilibili.com/video/av9802698/)
+    +   [笔记](https://zhuanlan.zhihu.com/c_150977189)
