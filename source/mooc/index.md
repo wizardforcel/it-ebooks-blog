@@ -13,13 +13,10 @@ date: 2017-08-31 10:46:28
     +   [主页](https://cs61a.org/)
     +   [中文版教材](https://github.com/wizardforcel/sicp-py-zh)
 
-## 数据结构
+## 数据结构·算法
 
 +   [斯坦福 CS106b](http://open.163.com/special/opencourse/abstractions.html)
 +   [UCB cs61b](https://inst.eecs.berkeley.edu/~cs61b/)
-
-## 算法
-
 +   [普林斯顿 Algs4](http://algs4.cs.princeton.edu/)
 +   [MIT 6.006](http://open.163.com/special/opencourse/algorithms.html)
 
