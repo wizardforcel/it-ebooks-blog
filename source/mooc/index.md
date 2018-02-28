@@ -34,6 +34,8 @@ date: 2017-08-31 10:46:28
 ## 编译
 
 +   [斯坦福 CS143](http://web.stanford.edu/class/cs143/)
++   [斯坦福 CS243](https://suif.stanford.edu/~courses/cs243/)
++   [斯坦福 CS343](http://web.stanford.edu/class/cs343/)
 
 ## 数据科学
 
