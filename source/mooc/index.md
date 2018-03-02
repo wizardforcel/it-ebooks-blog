@@ -70,3 +70,10 @@ date: 2017-08-31 10:46:28
 +   UCB CS294
     +   [视频](https://www.bilibili.com/video/av9802698/)
     +   [笔记](https://zhuanlan.zhihu.com/c_150977189)
+
+## 商业·理财
+
++   斯坦福 CS183b
+    +   [视频](http://open.163.com/special/opencourse/startup.html)
+    +   [笔记](http://download.csdn.net/download/wizardforcel/10015140)
++   [斯坦福 CS007](https://cs007.blog/)
