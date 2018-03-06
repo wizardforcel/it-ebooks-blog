@@ -79,3 +79,4 @@ date: 2017-08-31 10:46:28
     +   [笔记](http://download.csdn.net/download/wizardforcel/10015140)
 +   [斯坦福 CS183c](http://blog.csdn.net/wizardforcel/article/details/79440956)
 +   [斯坦福 CS007](https://cs007.blog/)
++   [YC Startup School 2017](https://www.startupschool.org/?course=1)
