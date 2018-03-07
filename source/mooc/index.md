@@ -30,6 +30,7 @@ date: 2017-08-31 10:46:28
     +   [主页](https://pdos.csail.mit.edu/6.828/)
     +   [中文版教材](https://www.gitbook.com/book/th0ar/xv6-chinese)
 +   [UCB CS61c](http://www-inst.eecs.berkeley.edu/~cs61c/)
++   [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 
 ## 编译
 
