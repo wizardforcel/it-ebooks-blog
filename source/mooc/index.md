@@ -54,6 +54,7 @@ date: 2017-08-31 10:46:28
 
 ## 机器学习
 
++   [斯坦福 CS221](https://www.douban.com/note/177781446/)
 +   斯坦福 CS229
     +   [视频](http://open.163.com/special/opencourse/machinelearning.html)
     +   [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
