@@ -80,5 +80,7 @@ date: 2017-08-31 10:46:28
     +   [视频](http://open.163.com/special/opencourse/startup.html)
     +   [笔记](http://download.csdn.net/download/wizardforcel/10015140)
 +   [斯坦福 CS183c](http://blog.csdn.net/wizardforcel/article/details/79440956)
-+   [斯坦福 CS183f](https://www.startupschool.org/?course=1)
++   斯坦福 CS183f
+    +   [视频](https://www.startupschool.org/?course=1)
+    +   [笔记](https://www.gitbook.com/book/xdite/cs183f/details)
 +   [斯坦福 CS007](https://cs007.blog/)
