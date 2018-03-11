@@ -31,6 +31,8 @@ date: 2017-08-31 10:46:28
     +   [中文版教材](https://www.gitbook.com/book/th0ar/xv6-chinese)
 +   [UCB CS61c](http://www-inst.eecs.berkeley.edu/~cs61c/)
 +   [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
++   [斯坦福 CS144](https://www.bilibili.com/video/av11930774/)
++   [斯坦福 CS145](https://www.bilibili.com/video/av19616961/)
 
 ## 编译
 
