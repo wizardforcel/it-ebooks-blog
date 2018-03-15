@@ -16,7 +16,7 @@ date: 2017-08-31 10:46:28
 ## 数据结构·算法
 
 +   [斯坦福 CS106b](http://open.163.com/special/opencourse/abstractions.html)
-+   [UCB cs61b](https://inst.eecs.berkeley.edu/~cs61b/)
++   [UCB CS61b](https://inst.eecs.berkeley.edu/~cs61b/)
 +   [普林斯顿 Algs4](http://algs4.cs.princeton.edu/)
 +   [MIT 6.006](http://open.163.com/special/opencourse/algorithms.html)
 
@@ -56,7 +56,6 @@ date: 2017-08-31 10:46:28
     +   [主页](http://data8.org/)
     +   [中文版教材](https://github.com/Kivy-CN/data8-textbook-zh)
 +   [UCB DS100](http://www.ds100.org/)
-+   [哈佛 CS109](https://cs109.github.io/a-2017/)
 
 ## 机器学习
 
@@ -85,7 +84,5 @@ date: 2017-08-31 10:46:28
     +   [视频](http://open.163.com/special/opencourse/startup.html)
     +   [笔记](http://download.csdn.net/download/wizardforcel/10015140)
 +   [斯坦福 CS183c](http://blog.csdn.net/wizardforcel/article/details/79440956)
-+   斯坦福 CS183f
-    +   [视频](https://www.startupschool.org/?course=1)
-    +   [笔记](https://www.gitbook.com/book/xdite/cs183f/details)
++   [斯坦福 CS183f](http://blog.csdn.net/wizardforcel/article/details/79547908)
 +   [斯坦福 CS007](https://cs007.blog/)
