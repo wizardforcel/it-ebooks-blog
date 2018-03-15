@@ -47,6 +47,10 @@ date: 2017-08-31 10:46:28
     +   [视频](http://open.163.com/special/opencourse/daishu.html)
     +   [笔记](https://github.com/zlotus/notes-linear-algebra)
 +   [斯坦福 CS109](https://web.stanford.edu/class/cs109/)
++   [UCB Prob140](https://prob140.org/)
++   [UCB STAT150](https://www.stat.berkeley.edu/~aldous/150/)
++   [UCB STAT153](https://www.stat.berkeley.edu/~aditya/styled-5/index.html)
++   [UCB STAT155](https://www.stat.berkeley.edu/~peres/155.html)
 +   [斯坦福 CVX101](https://www.bilibili.com/video/av8907218/)
 +   UCB DATA8
     +   [主页](http://data8.org/)
