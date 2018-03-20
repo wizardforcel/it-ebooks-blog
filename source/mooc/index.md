@@ -83,7 +83,7 @@ date: 2017-08-31 10:46:28
 
 ## 商业·理财
 
-+   [斯坦福 CS183](http://get.ftqq.com/1051.get)
++   [斯坦福 CS183](http://blog.csdn.net/wizardforcel/article/details/79633508)
 +   斯坦福 CS183b
     +   [视频](http://open.163.com/special/opencourse/startup.html)
     +   [笔记](http://download.csdn.net/download/wizardforcel/10015140)
