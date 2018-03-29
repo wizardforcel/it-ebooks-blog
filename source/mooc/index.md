@@ -63,7 +63,7 @@ date: 2017-08-31 10:46:28
 
 ## 机器学习
 
-+   [UCB CS188](http://ai.berkeley.edu/home.html)
++   [UCB CS188](https://www.bilibili.com/video/av15630620/)
 +   斯坦福 CS229
     +   [视频](http://open.163.com/special/opencourse/machinelearning.html)
     +   [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
