@@ -24,7 +24,7 @@ date: 2017-08-31 10:46:28
 
 +   [nand2tetris](http://www.nand2tetris.org/)
 +   CMU 15-213
-    +   [主页](http://www.csapp.cs.cmu.edu/)
+    +   [视频](https://www.bilibili.com/video/av20304787)
     +   [笔记](http://wdxtub.com/2016/04/16/thin-csapp-1/)
 +   MIT 6.828
     +   [主页](https://pdos.csail.mit.edu/6.828/)
@@ -65,6 +65,7 @@ date: 2017-08-31 10:46:28
 ## 机器学习
 
 +   [UCB CS188](https://www.bilibili.com/video/av15630620/)
++   [MIT 6.034](http://open.163.com/movie/2017/9/Q/S/MCTMNN3UI_MCTMNR8QS.html)
 +   斯坦福 CS229
     +   [视频](http://open.163.com/special/opencourse/machinelearning.html)
     +   [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
