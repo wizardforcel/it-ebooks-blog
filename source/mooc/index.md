@@ -8,7 +8,7 @@ date: 2017-08-31 10:46:28
 ## 编程
 
 +   [哈佛 CS50](http://open.163.com/special/opencourse/cs50.html)
-+   [MIT 6.001x](https://courses.edx.org/courses/MITx/6.00.1x/3T2013/course/)
++   [MIT 6.001x](http://www.xuetangx.com/courses/MITx/6_00_1x/2014_T2/about)
 +   UCB CS61a
     +   [主页](https://cs61a.org/)
     +   [中文版教材](https://github.com/wizardforcel/sicp-py-zh)
@@ -60,6 +60,7 @@ date: 2017-08-31 10:46:28
     +   [主页](http://data8.org/)
     +   [中文版教材](https://github.com/Kivy-CN/data8-textbook-zh)
 +   [UCB DS100](http://www.ds100.org/)
++   [MIT 6.002x](http://www.xuetangx.com/courses/MITx/6_00_2x/2014_T2/about)
 
 ## 机器学习
 
@@ -77,6 +78,7 @@ date: 2017-08-31 10:46:28
 +   DeepLearningAI
     +   [视频](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)
     +   [笔记](http://ai-start.com/dl2017/)
++   [MIT 6.S191](https://www.bilibili.com/video/av19113488)
 +   UCB CS294
     +   [视频](https://www.bilibili.com/video/av9802698/)
     +   [笔记](https://zhuanlan.zhihu.com/c_150977189)
