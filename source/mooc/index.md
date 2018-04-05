@@ -19,6 +19,7 @@ date: 2017-08-31 10:46:28
 +   [UCB CS61b](https://inst.eecs.berkeley.edu/~cs61b/)
 +   [普林斯顿 Algs4](http://algs4.cs.princeton.edu/)
 +   [MIT 6.006](http://open.163.com/special/opencourse/algorithms.html)
++   [Gate Lectures 算法和数据结构](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 
 ## 系统
 
@@ -33,12 +34,20 @@ date: 2017-08-31 10:46:28
 +   [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 +   [斯坦福 CS144](https://www.bilibili.com/video/av11930774/)
 +   [斯坦福 CS145](https://www.bilibili.com/video/av19616961/)
++   [Gate Lectures OS](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
++   [Gate Lectures 计网](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 
 ## 编译
 
 +   [斯坦福 CS143](http://web.stanford.edu/class/cs143/)
 +   [斯坦福 CS243](https://suif.stanford.edu/~courses/cs243/)
 +   [斯坦福 CS343](http://web.stanford.edu/class/cs343/)
++   [Gate Lectures 编译](https://www.youtube.com/playlist?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
+
+## 理论
+
++   [Gate Lectures 数字逻辑](https://www.youtube.com/playlist?list=PLEbnTDJUr_Ica5kK6UypsWpf95Ut2sK3o)
++   [Gate Lectures 计算理论](https://www.youtube.com/playlist?list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
 
 ## 数据科学
 
