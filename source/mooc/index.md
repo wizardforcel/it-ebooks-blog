@@ -8,7 +8,9 @@ date: 2017-08-31 10:46:28
 ## 编程
 
 +   [哈佛 CS50](http://open.163.com/special/opencourse/cs50.html)
-+   [MIT 6.00.1x](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
++   MIT 6.00.1x
+    +   [视频](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
+    +   [中文版教材](https://gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details)
 +   UCB CS61a
     +   [主页](https://cs61a.org/)
     +   [中文版教材](https://github.com/wizardforcel/sicp-py-zh)
