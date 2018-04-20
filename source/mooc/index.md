@@ -87,7 +87,7 @@ date: 2017-08-31 10:46:28
     +   [主页](http://cs224d.stanford.edu/)
     +   [讲义](http://blog.csdn.net/column/details/dl-nlp.html)
 +   [斯坦福 CS20si](https://web.stanford.edu/class/cs20si/)
-+   DeepLearningAI
++   斯坦福 CS230 / DeepLearningAI
     +   [视频](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)
     +   [笔记](http://ai-start.com/dl2017/)
 +   [MIT 6.S191](https://www.bilibili.com/video/av19113488)
