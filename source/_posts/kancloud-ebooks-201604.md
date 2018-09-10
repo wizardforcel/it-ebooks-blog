@@ -9,15 +9,33 @@ date: 2016-05-01 00:00:00
 
 ## (译) JSON-RPC 2.0 规范(中文版)
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/(%E8%AF%91)%20JSON-RPC%202.0%20%E8%A7%84%E8%8C%83(%E4%B8%AD%E6%96%87%E7%89%88).epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/(%E8%AF%91)%20JSON-RPC%202.0%20%E8%A7%84%E8%8C%83(%E4%B8%AD%E6%96%87%E7%89%88).epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/(%E8%AF%91)%20JSON-RPC%202.0%20%E8%A7%84%E8%8C%83(%E4%B8%AD%E6%96%87%E7%89%88).epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/%28%E8%AF%91%29%20JSON-RPC%202.0%20%E8%A7%84%E8%8C%83%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/%28%E8%AF%91%29%20JSON-RPC%202.0%20%E8%A7%84%E8%8C%83%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/%28%E8%AF%91%29%20JSON-RPC%202.0%20%E8%A7%84%E8%8C%83%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub?format=raw)
 
 ## 00后：移动互联网崛起新势力
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/00%E5%90%8E%EF%BC%9A%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%B4%9B%E8%B5%B7%E6%96%B0%E5%8A%BF%E5%8A%9B.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/00%E5%90%8E%EF%BC%9A%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%B4%9B%E8%B5%B7%E6%96%B0%E5%8A%BF%E5%8A%9B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/00%E5%90%8E%EF%BC%9A%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%B4%9B%E8%B5%B7%E6%96%B0%E5%8A%BF%E5%8A%9B.epub?format=raw)
+
+## 12条专业的JavaScript规则
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/12%E6%9D%A1%E4%B8%93%E4%B8%9A%E7%9A%84JavaScript%E8%A7%84%E5%88%99.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/12%E6%9D%A1%E4%B8%93%E4%B8%9A%E7%9A%84JavaScript%E8%A7%84%E5%88%99.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/12%E6%9D%A1%E4%B8%93%E4%B8%9A%E7%9A%84JavaScript%E8%A7%84%E5%88%99.epub?format=raw)
+
+## 2014互联网女皇报告：去适应用户的习惯是明智之举
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/2014%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8E%BB%E9%80%82%E5%BA%94%E7%94%A8%E6%88%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E6%98%AF%E6%98%8E%E6%99%BA%E4%B9%8B%E4%B8%BE.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/2014%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8E%BB%E9%80%82%E5%BA%94%E7%94%A8%E6%88%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E6%98%AF%E6%98%8E%E6%99%BA%E4%B9%8B%E4%B8%BE.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/2014%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8E%BB%E9%80%82%E5%BA%94%E7%94%A8%E6%88%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E6%98%AF%E6%98%8E%E6%99%BA%E4%B9%8B%E4%B8%BE.epub?format=raw)
+
+## 2015年50+ CSS 工具、框架、库合集
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/2015%E5%B9%B450%2B%20CSS%20%E5%B7%A5%E5%85%B7%E3%80%81%E6%A1%86%E6%9E%B6%E3%80%81%E5%BA%93%E5%90%88%E9%9B%86.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/2015%E5%B9%B450%2B%20CSS%20%E5%B7%A5%E5%85%B7%E3%80%81%E6%A1%86%E6%9E%B6%E3%80%81%E5%BA%93%E5%90%88%E9%9B%86.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/2015%E5%B9%B450%2B%20CSS%20%E5%B7%A5%E5%85%B7%E3%80%81%E6%A1%86%E6%9E%B6%E3%80%81%E5%BA%93%E5%90%88%E9%9B%86.epub?format=raw)
 
 ## 2015年50+ JavaScript 工具、资源合集
 
@@ -115,11 +133,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20Studio%E6%96%B0%E6%89%8B%E5%AE%8C%E5%85%A8%E6%8C%87%E5%BC%95.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Android%20Studio%E6%96%B0%E6%89%8B%E5%AE%8C%E5%85%A8%E6%8C%87%E5%BC%95.epub?format=raw)
 
-## 2015年50+ CSS 工具、框架、库合集
+## Android Studio详细教程
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/2015%E5%B9%B450%2B%20CSS%20%E5%B7%A5%E5%85%B7%E3%80%81%E6%A1%86%E6%9E%B6%E3%80%81%E5%BA%93%E5%90%88%E9%9B%86.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/2015%E5%B9%B450%2B%20CSS%20%E5%B7%A5%E5%85%B7%E3%80%81%E6%A1%86%E6%9E%B6%E3%80%81%E5%BA%93%E5%90%88%E9%9B%86.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/2015%E5%B9%B450%2B%20CSS%20%E5%B7%A5%E5%85%B7%E3%80%81%E6%A1%86%E6%9E%B6%E3%80%81%E5%BA%93%E5%90%88%E9%9B%86.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20Studio%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.mobi)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20Studio%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.mobi)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Android%20Studio%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.mobi?format=raw)
 
 ## Android Training官方培训课程中文版
 
@@ -133,11 +151,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Android%20%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub?format=raw)
 
-## 12条专业的JavaScript规则
+## Android 开源数字图像处理
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/12%E6%9D%A1%E4%B8%93%E4%B8%9A%E7%9A%84JavaScript%E8%A7%84%E5%88%99.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/12%E6%9D%A1%E4%B8%93%E4%B8%9A%E7%9A%84JavaScript%E8%A7%84%E5%88%99.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/12%E6%9D%A1%E4%B8%93%E4%B8%9A%E7%9A%84JavaScript%E8%A7%84%E5%88%99.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Android%20%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86.epub?format=raw)
 
 ## Android6.0 新特性详解
 
@@ -153,9 +171,9 @@ date: 2016-05-01 00:00:00
 
 ## Android屏幕适配全攻略(最权威的官方适配指导)
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D%E5%85%A8%E6%94%BB%E7%95%A5(%E6%9C%80%E6%9D%83%E5%A8%81%E7%9A%84%E5%AE%98%E6%96%B9%E9%80%82%E9%85%8D%E6%8C%87%E5%AF%BC).epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D%E5%85%A8%E6%94%BB%E7%95%A5(%E6%9C%80%E6%9D%83%E5%A8%81%E7%9A%84%E5%AE%98%E6%96%B9%E9%80%82%E9%85%8D%E6%8C%87%E5%AF%BC).epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Android%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D%E5%85%A8%E6%94%BB%E7%95%A5(%E6%9C%80%E6%9D%83%E5%A8%81%E7%9A%84%E5%AE%98%E6%96%B9%E9%80%82%E9%85%8D%E6%8C%87%E5%AF%BC).epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D%E5%85%A8%E6%94%BB%E7%95%A5%28%E6%9C%80%E6%9D%83%E5%A8%81%E7%9A%84%E5%AE%98%E6%96%B9%E9%80%82%E9%85%8D%E6%8C%87%E5%AF%BC%29.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D%E5%85%A8%E6%94%BB%E7%95%A5%28%E6%9C%80%E6%9D%83%E5%A8%81%E7%9A%84%E5%AE%98%E6%96%B9%E9%80%82%E9%85%8D%E6%8C%87%E5%AF%BC%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Android%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D%E5%85%A8%E6%94%BB%E7%95%A5%28%E6%9C%80%E6%9D%83%E5%A8%81%E7%9A%84%E5%AE%98%E6%96%B9%E9%80%82%E9%85%8D%E6%8C%87%E5%AF%BC%29.epub?format=raw)
 
 ## Android开发高手进阶
 
@@ -313,11 +331,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Docker%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Docker%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97.epub?format=raw)
 
-## Android 开源数字图像处理
+## Docker周报
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Android%20%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Docker%E5%91%A8%E6%8A%A5.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Docker%E5%91%A8%E6%8A%A5.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Docker%E5%91%A8%E6%8A%A5.epub?format=raw)
 
 ## Docker在PHP项目开发环境中的应用
 
@@ -357,9 +375,9 @@ date: 2016-05-01 00:00:00
 
 ## Essential Netty in Action 《Netty 实战(精髓)》
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Essential%20Netty%20in%20Action%20%E3%80%8ANetty%20%E5%AE%9E%E6%88%98(%E7%B2%BE%E9%AB%93)%E3%80%8B.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Essential%20Netty%20in%20Action%20%E3%80%8ANetty%20%E5%AE%9E%E6%88%98(%E7%B2%BE%E9%AB%93)%E3%80%8B.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Essential%20Netty%20in%20Action%20%E3%80%8ANetty%20%E5%AE%9E%E6%88%98(%E7%B2%BE%E9%AB%93)%E3%80%8B.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Essential%20Netty%20in%20Action%20%E3%80%8ANetty%20%E5%AE%9E%E6%88%98%28%E7%B2%BE%E9%AB%93%29%E3%80%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Essential%20Netty%20in%20Action%20%E3%80%8ANetty%20%E5%AE%9E%E6%88%98%28%E7%B2%BE%E9%AB%93%29%E3%80%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Essential%20Netty%20in%20Action%20%E3%80%8ANetty%20%E5%AE%9E%E6%88%98%28%E7%B2%BE%E9%AB%93%29%E3%80%8B.epub?format=raw)
 
 ## Express框架
 
@@ -435,9 +453,9 @@ date: 2016-05-01 00:00:00
 
 ## Google 开源项目风格指南 (中文版)
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Google%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97%20(%E4%B8%AD%E6%96%87%E7%89%88).epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Google%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97%20(%E4%B8%AD%E6%96%87%E7%89%88).epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Google%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97%20(%E4%B8%AD%E6%96%87%E7%89%88).epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Google%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97%20%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Google%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97%20%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Google%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97%20%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub?format=raw)
 
 ## Go入门指南
 
@@ -547,11 +565,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/JNI-NDK%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/JNI-NDK%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub?format=raw)
 
-## Android Studio详细教程
+## JSON 核心教程
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20Studio%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.mobi)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Android%20Studio%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.mobi)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Android%20Studio%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.mobi?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/JSON%20%E6%A0%B8%E5%BF%83%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/JSON%20%E6%A0%B8%E5%BF%83%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/JSON%20%E6%A0%B8%E5%BF%83%E6%95%99%E7%A8%8B.epub?format=raw)
 
 ## JS前端开发群月报
 
@@ -595,17 +613,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub?format=raw)
 
-## Docker周报
+## Java学习总结
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Docker%E5%91%A8%E6%8A%A5.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Docker%E5%91%A8%E6%8A%A5.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Docker%E5%91%A8%E6%8A%A5.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.epub?format=raw)
 
-## 2014互联网女皇报告：去适应用户的习惯是明智之举
+## Java开发之路
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/2014%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8E%BB%E9%80%82%E5%BA%94%E7%94%A8%E6%88%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E6%98%AF%E6%98%8E%E6%99%BA%E4%B9%8B%E4%B8%BE.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/2014%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8E%BB%E9%80%82%E5%BA%94%E7%94%A8%E6%88%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E6%98%AF%E6%98%8E%E6%99%BA%E4%B9%8B%E4%B8%BE.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/2014%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%8E%BB%E9%80%82%E5%BA%94%E7%94%A8%E6%88%B7%E7%9A%84%E4%B9%A0%E6%83%AF%E6%98%AF%E6%98%8E%E6%99%BA%E4%B9%8B%E4%B8%BE.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Java%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Java%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Java%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF.epub?format=raw)
 
 ## Java源码解析
 
@@ -637,11 +655,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Jinja2%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Jinja2%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
 
-## JSON 核心教程
+## Knockout应用开发指南
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/JSON%20%E6%A0%B8%E5%BF%83%E6%95%99%E7%A8%8B.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/JSON%20%E6%A0%B8%E5%BF%83%E6%95%99%E7%A8%8B.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/JSON%20%E6%A0%B8%E5%BF%83%E6%95%99%E7%A8%8B.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Knockout%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Knockout%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Knockout%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub?format=raw)
 
 ## Laravel 5 學習筆記
 
@@ -681,9 +699,9 @@ date: 2016-05-01 00:00:00
 
 ## Linux 设备驱动 (第三版)
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Linux%20%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20(%E7%AC%AC%E4%B8%89%E7%89%88).epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Linux%20%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20(%E7%AC%AC%E4%B8%89%E7%89%88).epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Linux%20%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20(%E7%AC%AC%E4%B8%89%E7%89%88).epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Linux%20%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%28%E7%AC%AC%E4%B8%89%E7%89%88%29.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Linux%20%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%28%E7%AC%AC%E4%B8%89%E7%89%88%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Linux%20%E8%AE%BE%E5%A4%87%E9%A9%B1%E5%8A%A8%20%28%E7%AC%AC%E4%B8%89%E7%89%88%29.epub?format=raw)
 
 ## Linux入门及进阶
 
@@ -757,11 +775,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Make%20%E5%91%BD%E4%BB%A4%E6%95%99%E7%A8%8B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Make%20%E5%91%BD%E4%BB%A4%E6%95%99%E7%A8%8B.epub?format=raw)
 
-## Java开发之路
+## Mastering Django- Core
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Java%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Java%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Java%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Mastering%20Django-%20Core.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Mastering%20Django-%20Core.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Mastering%20Django-%20Core.epub?format=raw)
 
 ## Medium 的技术栈
 
@@ -805,11 +823,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/MySQL%20%E8%B6%85%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/MySQL%20%E8%B6%85%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8.epub?format=raw)
 
-## Java学习总结
+## MySQL索引背后的数据结构及算法原理
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/MySQL%E7%B4%A2%E5%BC%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/MySQL%E7%B4%A2%E5%BC%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/MySQL%E7%B4%A2%E5%BC%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86.epub?format=raw)
 
 ## Mysql数据库总结
 
@@ -859,11 +877,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Note%60%20%E3%80%8ACSS%20%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Note%60%20%E3%80%8ACSS%20%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub?format=raw)
 
-## Mastering Django- Core
+## Nutch 1.10入门教程
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Mastering%20Django-%20Core.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Mastering%20Django-%20Core.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Mastering%20Django-%20Core.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Nutch%201.10%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Nutch%201.10%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Nutch%201.10%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub?format=raw)
 
 ## OpenGL中文教程
 
@@ -925,11 +943,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/PM%E5%91%A8%E5%88%8A.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/PM%E5%91%A8%E5%88%8A.epub?format=raw)
 
-## MySQL索引背后的数据结构及算法原理
+## Paul Graham：写了一万六千字告诉你，如何融资
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/MySQL%E7%B4%A2%E5%BC%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/MySQL%E7%B4%A2%E5%BC%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/MySQL%E7%B4%A2%E5%BC%95%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Paul%20Graham%EF%BC%9A%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%87%E5%85%AD%E5%8D%83%E5%AD%97%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E5%A6%82%E4%BD%95%E8%9E%8D%E8%B5%84.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Paul%20Graham%EF%BC%9A%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%87%E5%85%AD%E5%8D%83%E5%AD%97%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E5%A6%82%E4%BD%95%E8%9E%8D%E8%B5%84.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Paul%20Graham%EF%BC%9A%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%87%E5%85%AD%E5%8D%83%E5%AD%97%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E5%A6%82%E4%BD%95%E8%9E%8D%E8%B5%84.epub?format=raw)
 
 ## Perl 程序员应该知道的事
 
@@ -1045,11 +1063,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/React%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/React%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.epub?format=raw)
 
-## Knockout应用开发指南
+## Real World Haskell 中文版
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Knockout%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Knockout%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Knockout%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Real%20World%20Haskell%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Real%20World%20Haskell%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Real%20World%20Haskell%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
 
 ## Redis 基础教程
 
@@ -1135,11 +1153,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/android%20SDK%E5%BC%80%E5%8F%91.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/android%20SDK%E5%BC%80%E5%8F%91.epub?format=raw)
 
-## Paul Graham：写了一万六千字告诉你，如何融资
+## android源码解析
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Paul%20Graham%EF%BC%9A%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%87%E5%85%AD%E5%8D%83%E5%AD%97%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E5%A6%82%E4%BD%95%E8%9E%8D%E8%B5%84.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Paul%20Graham%EF%BC%9A%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%87%E5%85%AD%E5%8D%83%E5%AD%97%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E5%A6%82%E4%BD%95%E8%9E%8D%E8%B5%84.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Paul%20Graham%EF%BC%9A%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%87%E5%85%AD%E5%8D%83%E5%AD%97%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E5%A6%82%E4%BD%95%E8%9E%8D%E8%B5%84.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/android%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/android%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/android%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.epub?format=raw)
 
 ## csphere-docker-training
 
@@ -1185,9 +1203,9 @@ date: 2016-05-01 00:00:00
 
 ## iOS 中的设计模式 (Swift版本)
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/iOS%20%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%20(Swift%E7%89%88%E6%9C%AC).epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/iOS%20%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%20(Swift%E7%89%88%E6%9C%AC).epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/iOS%20%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%20(Swift%E7%89%88%E6%9C%AC).epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/iOS%20%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%20%28Swift%E7%89%88%E6%9C%AC%29.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/iOS%20%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%20%28Swift%E7%89%88%E6%9C%AC%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/iOS%20%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%20%28Swift%E7%89%88%E6%9C%AC%29.epub?format=raw)
 
 ## iOS 保持界面流畅的技巧
 
@@ -1249,11 +1267,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/io.js%20API%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/io.js%20API%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
 
-## android源码解析
+## iphone游戏开发专栏
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/android%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/android%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/android%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/iphone%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/iphone%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/iphone%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F.epub?format=raw)
 
 ## isobar前端代码规范及最佳实践
 
@@ -1327,11 +1345,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/%E3%80%8A%E7%A7%BB%E5%8A%A8Web%E6%89%8B%E5%86%8C%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/%E3%80%8A%E7%A7%BB%E5%8A%A8Web%E6%89%8B%E5%86%8C%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.epub?format=raw)
 
-## Nutch 1.10入门教程
+## 《算法导论》答案
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Nutch%201.10%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Nutch%201.10%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Nutch%201.10%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/%E3%80%8A%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B%E7%AD%94%E6%A1%88.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/%E3%80%8A%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B%E7%AD%94%E6%A1%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/%E3%80%8A%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B%E7%AD%94%E6%A1%88.epub?format=raw)
 
 ## 【译】Python Lex Yacc手册
 
@@ -1339,35 +1357,35 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/%E3%80%90%E8%AF%91%E3%80%91Python%20Lex%20Yacc%E6%89%8B%E5%86%8C.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/%E3%80%90%E8%AF%91%E3%80%91Python%20Lex%20Yacc%E6%89%8B%E5%86%8C.epub?format=raw)
 
-## Real World Haskell 中文版
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Real%20World%20Haskell%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/Real%20World%20Haskell%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/Real%20World%20Haskell%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
-
-## 《算法导论》答案
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/%E3%80%8A%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B%E7%AD%94%E6%A1%88.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/%E3%80%8A%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B%E7%AD%94%E6%A1%88.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/%E3%80%8A%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E3%80%8B%E7%AD%94%E6%A1%88.epub?format=raw)
-
-## iphone游戏开发专栏
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/iphone%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part1/raw/master/iphone%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part1/code/ci/master/tree/iphone%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F.epub?format=raw)
-
 ## SSM框架笔记
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/SSM%E6%A1%86%E6%9E%B6%E7%AC%94%E8%AE%B0.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/SSM%E6%A1%86%E6%9E%B6%E7%AC%94%E8%AE%B0.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/SSM%E6%A1%86%E6%9E%B6%E7%AC%94%E8%AE%B0.epub?format=raw)
 
+## STL经典算法我实现
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/STL%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E6%88%91%E5%AE%9E%E7%8E%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/STL%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E6%88%91%E5%AE%9E%E7%8E%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/STL%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E6%88%91%E5%AE%9E%E7%8E%B0.epub?format=raw)
+
+## Scala 课堂! - 从 ∅ 到分布式服务
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Scala%20%E8%AF%BE%E5%A0%82!%20-%20%E4%BB%8E%20%E2%88%85%20%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Scala%20%E8%AF%BE%E5%A0%82!%20-%20%E4%BB%8E%20%E2%88%85%20%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Scala%20%E8%AF%BE%E5%A0%82!%20-%20%E4%BB%8E%20%E2%88%85%20%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1.epub?format=raw)
+
 ## Scala初学指南
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Scala%E5%88%9D%E5%AD%A6%E6%8C%87%E5%8D%97.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Scala%E5%88%9D%E5%AD%A6%E6%8C%87%E5%8D%97.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Scala%E5%88%9D%E5%AD%A6%E6%8C%87%E5%8D%97.epub?format=raw)
+
+## ScrollView 学习笔记
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/ScrollView%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/ScrollView%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/ScrollView%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub?format=raw)
 
 ## Seafile服务器手册中文版
 
@@ -1386,12 +1404,6 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Shell%20%E7%BC%96%E7%A8%8B%E8%8C%83%E4%BE%8B.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Shell%20%E7%BC%96%E7%A8%8B%E8%8C%83%E4%BE%8B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Shell%20%E7%BC%96%E7%A8%8B%E8%8C%83%E4%BE%8B.epub?format=raw)
-
-## STL经典算法我实现
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/STL%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E6%88%91%E5%AE%9E%E7%8E%B0.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/STL%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E6%88%91%E5%AE%9E%E7%8E%B0.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/STL%E7%BB%8F%E5%85%B8%E7%AE%97%E6%B3%95%E6%88%91%E5%AE%9E%E7%8E%B0.epub?format=raw)
 
 ## ShuipFCMS使用手册
 
@@ -1423,11 +1435,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Spark%20%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Spark%20%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
 
-## ScrollView 学习笔记
+## Stack Overflow 揭秘程式开发者15 个不为人知的秘密
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/ScrollView%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/ScrollView%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/ScrollView%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Stack%20Overflow%20%E6%8F%AD%E7%A7%98%E7%A8%8B%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%8515%20%E4%B8%AA%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%A7%98%E5%AF%86.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Stack%20Overflow%20%E6%8F%AD%E7%A7%98%E7%A8%8B%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%8515%20%E4%B8%AA%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%A7%98%E5%AF%86.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Stack%20Overflow%20%E6%8F%AD%E7%A7%98%E7%A8%8B%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%8515%20%E4%B8%AA%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%A7%98%E5%AF%86.epub?format=raw)
 
 ## Sublime Text 全程指南
 
@@ -1435,29 +1447,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Sublime%20Text%20%E5%85%A8%E7%A8%8B%E6%8C%87%E5%8D%97.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Sublime%20Text%20%E5%85%A8%E7%A8%8B%E6%8C%87%E5%8D%97.epub?format=raw)
 
-## Stack Overflow 揭秘程式开发者15 个不为人知的秘密
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Stack%20Overflow%20%E6%8F%AD%E7%A7%98%E7%A8%8B%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%8515%20%E4%B8%AA%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%A7%98%E5%AF%86.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Stack%20Overflow%20%E6%8F%AD%E7%A7%98%E7%A8%8B%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%8515%20%E4%B8%AA%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%A7%98%E5%AF%86.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Stack%20Overflow%20%E6%8F%AD%E7%A7%98%E7%A8%8B%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%8515%20%E4%B8%AA%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%A7%98%E5%AF%86.epub?format=raw)
-
-## Swift函数式编程
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Swift%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Swift%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Swift%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub?format=raw)
-
 ## Susy 2 入门教程
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Susy%202%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Susy%202%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Susy%202%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub?format=raw)
 
-## Scala 课堂! - 从 ∅ 到分布式服务
+## Swift函数式编程
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Scala%20%E8%AF%BE%E5%A0%82!%20-%20%E4%BB%8E%20%E2%88%85%20%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Scala%20%E8%AF%BE%E5%A0%82!%20-%20%E4%BB%8E%20%E2%88%85%20%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Scala%20%E8%AF%BE%E5%A0%82!%20-%20%E4%BB%8E%20%E2%88%85%20%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Swift%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Swift%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Swift%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub?format=raw)
 
 ## Swift开发集锦
 
@@ -1489,23 +1489,29 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Django%20Book%202.0%E4%B8%AD%E6%96%87%E7%89%88.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/The%20Django%20Book%202.0%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
 
+## The Linux Command Line 中文版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Linux%20Command%20Line%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Linux%20Command%20Line%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/The%20Linux%20Command%20Line%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
+
 ## The Little MongoDB Book 中文版
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Little%20MongoDB%20Book%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Little%20MongoDB%20Book%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/The%20Little%20MongoDB%20Book%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
 
-## The Swift Programming Language 中文版
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Swift%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Swift%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/The%20Swift%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
-
 ## The Little Redis Book中文版
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Little%20Redis%20Book%E4%B8%AD%E6%96%87%E7%89%88.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Little%20Redis%20Book%E4%B8%AD%E6%96%87%E7%89%88.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/The%20Little%20Redis%20Book%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
+
+## The Swift Programming Language 中文版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Swift%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Swift%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/The%20Swift%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
 
 ## The Twelve-Factor App（中文版）
 
@@ -1537,12 +1543,6 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/ThinkPHP3.2.3%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/ThinkPHP3.2.3%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.epub?format=raw)
 
-## UNIX TOOLBOX - 中文版
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/UNIX%20TOOLBOX%20-%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/UNIX%20TOOLBOX%20-%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/UNIX%20TOOLBOX%20-%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
-
 ## Twitter的Scala最佳实践
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Twitter%E7%9A%84Scala%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub)
@@ -1555,23 +1555,23 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/U-boot%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/U-boot%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.epub?format=raw)
 
-## The Linux Command Line 中文版
+## UNIX TOOLBOX - 中文版
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Linux%20Command%20Line%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/The%20Linux%20Command%20Line%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/The%20Linux%20Command%20Line%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
-
-## V2EX 周报
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/V2EX%20%E5%91%A8%E6%8A%A5.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/V2EX%20%E5%91%A8%E6%8A%A5.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/V2EX%20%E5%91%A8%E6%8A%A5.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/UNIX%20TOOLBOX%20-%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/UNIX%20TOOLBOX%20-%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/UNIX%20TOOLBOX%20-%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
 
 ## Unity5学习记录
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Unity5%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Unity5%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Unity5%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95.epub?format=raw)
+
+## V2EX 周报
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/V2EX%20%E5%91%A8%E6%8A%A5.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/V2EX%20%E5%91%A8%E6%8A%A5.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/V2EX%20%E5%91%A8%E6%8A%A5.epub?format=raw)
 
 ## Visual Studio 11开发专栏
 
@@ -1584,6 +1584,24 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/W3School%20PHP%20%E6%95%99%E7%A8%8B.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/W3School%20PHP%20%E6%95%99%E7%A8%8B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/W3School%20PHP%20%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## WEB开发者应该有哪些必备的技能？
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WEB%E5%BC%80%E5%8F%91%E8%80%85%E5%BA%94%E8%AF%A5%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%85%E5%A4%87%E7%9A%84%E6%8A%80%E8%83%BD%EF%BC%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WEB%E5%BC%80%E5%8F%91%E8%80%85%E5%BA%94%E8%AF%A5%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%85%E5%A4%87%E7%9A%84%E6%8A%80%E8%83%BD%EF%BC%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/WEB%E5%BC%80%E5%8F%91%E8%80%85%E5%BA%94%E8%AF%A5%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%85%E5%A4%87%E7%9A%84%E6%8A%80%E8%83%BD%EF%BC%9F.epub?format=raw)
+
+## WEB重构之道
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WEB%E9%87%8D%E6%9E%84%E4%B9%8B%E9%81%93.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WEB%E9%87%8D%E6%9E%84%E4%B9%8B%E9%81%93.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/WEB%E9%87%8D%E6%9E%84%E4%B9%8B%E9%81%93.epub?format=raw)
+
+## WebSocket协议翻译
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WebSocket%E5%8D%8F%E8%AE%AE%E7%BF%BB%E8%AF%91.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WebSocket%E5%8D%8F%E8%AE%AE%E7%BF%BB%E8%AF%91.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/WebSocket%E5%8D%8F%E8%AE%AE%E7%BF%BB%E8%AF%91.epub?format=raw)
 
 ## WebStorm与Git使用指南
 
@@ -1609,11 +1627,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Web%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8EHTTP-2.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Web%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8EHTTP-2.epub?format=raw)
 
-## WebSocket协议翻译
+## Web版Rss阅读器
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WebSocket%E5%8D%8F%E8%AE%AE%E7%BF%BB%E8%AF%91.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WebSocket%E5%8D%8F%E8%AE%AE%E7%BF%BB%E8%AF%91.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/WebSocket%E5%8D%8F%E8%AE%AE%E7%BF%BB%E8%AF%91.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Web%E7%89%88Rss%E9%98%85%E8%AF%BB%E5%99%A8.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Web%E7%89%88Rss%E9%98%85%E8%AF%BB%E5%99%A8.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Web%E7%89%88Rss%E9%98%85%E8%AF%BB%E5%99%A8.epub?format=raw)
 
 ## Web项目开发规范文档
 
@@ -1627,35 +1645,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Werkzeug%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Werkzeug%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
 
-## WEB重构之道
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WEB%E9%87%8D%E6%9E%84%E4%B9%8B%E9%81%93.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WEB%E9%87%8D%E6%9E%84%E4%B9%8B%E9%81%93.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/WEB%E9%87%8D%E6%9E%84%E4%B9%8B%E9%81%93.epub?format=raw)
-
-## WEB开发者应该有哪些必备的技能？
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WEB%E5%BC%80%E5%8F%91%E8%80%85%E5%BA%94%E8%AF%A5%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%85%E5%A4%87%E7%9A%84%E6%8A%80%E8%83%BD%EF%BC%9F.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/WEB%E5%BC%80%E5%8F%91%E8%80%85%E5%BA%94%E8%AF%A5%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%85%E5%A4%87%E7%9A%84%E6%8A%80%E8%83%BD%EF%BC%9F.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/WEB%E5%BC%80%E5%8F%91%E8%80%85%E5%BA%94%E8%AF%A5%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%85%E5%A4%87%E7%9A%84%E6%8A%80%E8%83%BD%EF%BC%9F.epub?format=raw)
-
 ## XORM操作指南
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/XORM%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/XORM%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/XORM%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.epub?format=raw)
-
-## Web版Rss阅读器
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Web%E7%89%88Rss%E9%98%85%E8%AF%BB%E5%99%A8.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Web%E7%89%88Rss%E9%98%85%E8%AF%BB%E5%99%A8.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Web%E7%89%88Rss%E9%98%85%E8%AF%BB%E5%99%A8.epub?format=raw)
-
-## Yii 2.0 权威指南
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Yii%202.0%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Yii%202.0%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Yii%202.0%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub?format=raw)
 
 ## Yet Another Scheme 入门教程
 
@@ -1663,17 +1657,23 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Yet%20Another%20Scheme%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Yet%20Another%20Scheme%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.epub?format=raw)
 
-## Y分钟学习X种语言
+## Yii 2.0 权威指南
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Y%E5%88%86%E9%92%9F%E5%AD%A6%E4%B9%A0X%E7%A7%8D%E8%AF%AD%E8%A8%80.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Y%E5%88%86%E9%92%9F%E5%AD%A6%E4%B9%A0X%E7%A7%8D%E8%AF%AD%E8%A8%80.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Y%E5%88%86%E9%92%9F%E5%AD%A6%E4%B9%A0X%E7%A7%8D%E8%AF%AD%E8%A8%80.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Yii%202.0%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Yii%202.0%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Yii%202.0%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub?format=raw)
 
 ## Yii2系列教程
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Yii2%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Yii2%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Yii2%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## Y分钟学习X种语言
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Y%E5%88%86%E9%92%9F%E5%AD%A6%E4%B9%A0X%E7%A7%8D%E8%AF%AD%E8%A8%80.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/Y%E5%88%86%E9%92%9F%E5%AD%A6%E4%B9%A0X%E7%A7%8D%E8%AF%AD%E8%A8%80.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/Y%E5%88%86%E9%92%9F%E5%AD%A6%E4%B9%A0X%E7%A7%8D%E8%AF%AD%E8%A8%80.epub?format=raw)
 
 ## ZendFramework2入门教程
 
@@ -1686,6 +1686,12 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/scala%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%97%A8%2B.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/scala%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%97%A8%2B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/scala%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%97%A8%2B.epub?format=raw)
+
+## sentCMS网站管理使用文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/sentCMS%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/sentCMS%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/sentCMS%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.epub?format=raw)
 
 ## shipyard中文文档
 
@@ -1710,12 +1716,6 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/vue.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/vue.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/vue.epub?format=raw)
-
-## sentCMS网站管理使用文档
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/sentCMS%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/sentCMS%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/sentCMS%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.epub?format=raw)
 
 ## 一个Web报表项目的性能分析和优化实践
 
@@ -1765,12 +1765,6 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%B8%83%E5%A4%A9%E5%AD%A6%E4%BC%9ANodeJs.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%B8%83%E5%A4%A9%E5%AD%A6%E4%BC%9ANodeJs.epub?format=raw)
 
-## 中国互联网年度趋势报告：解读变化最大七个行业
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B4%E5%BA%A6%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E5%8F%98%E5%8C%96%E6%9C%80%E5%A4%A7%E4%B8%83%E4%B8%AA%E8%A1%8C%E4%B8%9A.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B4%E5%BA%A6%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E5%8F%98%E5%8C%96%E6%9C%80%E5%A4%A7%E4%B8%83%E4%B8%AA%E8%A1%8C%E4%B8%9A.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B4%E5%BA%A6%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E5%8F%98%E5%8C%96%E6%9C%80%E5%A4%A7%E4%B8%83%E4%B8%AA%E8%A1%8C%E4%B8%9A.epub?format=raw)
-
 ## 七牛新手指南
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%B8%83%E7%89%9B%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97.epub)
@@ -1782,6 +1776,12 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%B8%8D%E5%90%8C%E5%9C%BA%E6%99%AF%E4%B8%8B%20MySQL%20%E7%9A%84%E8%BF%81%E7%A7%BB%E6%96%B9%E6%A1%88.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%B8%8D%E5%90%8C%E5%9C%BA%E6%99%AF%E4%B8%8B%20MySQL%20%E7%9A%84%E8%BF%81%E7%A7%BB%E6%96%B9%E6%A1%88.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%B8%8D%E5%90%8C%E5%9C%BA%E6%99%AF%E4%B8%8B%20MySQL%20%E7%9A%84%E8%BF%81%E7%A7%BB%E6%96%B9%E6%A1%88.epub?format=raw)
+
+## 中国互联网年度趋势报告：解读变化最大七个行业
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B4%E5%BA%A6%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E5%8F%98%E5%8C%96%E6%9C%80%E5%A4%A7%E4%B8%83%E4%B8%AA%E8%A1%8C%E4%B8%9A.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B4%E5%BA%A6%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E5%8F%98%E5%8C%96%E6%9C%80%E5%A4%A7%E4%B8%83%E4%B8%AA%E8%A1%8C%E4%B8%9A.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B4%E5%BA%A6%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A%EF%BC%9A%E8%A7%A3%E8%AF%BB%E5%8F%98%E5%8C%96%E6%9C%80%E5%A4%A7%E4%B8%83%E4%B8%AA%E8%A1%8C%E4%B8%9A.epub?format=raw)
 
 ## 中国顶尖技术团队访谈录·第二季
 
@@ -1821,9 +1821,9 @@ date: 2016-05-01 00:00:00
 
 ## 产品需求文档(PRD)的写作方法
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3(PRD)%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3(PRD)%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3(PRD)%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3%28PRD%29%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3%28PRD%29%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3%28PRD%29%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95.epub?format=raw)
 
 ## 亿级Web系统搭建——单机到分布式集群 
 
@@ -1831,17 +1831,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BA%BF%E7%BA%A7Web%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BA%E2%80%94%E2%80%94%E5%8D%95%E6%9C%BA%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%20.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BA%BF%E7%BA%A7Web%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BA%E2%80%94%E2%80%94%E5%8D%95%E6%9C%BA%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%20.epub?format=raw)
 
-## 代码之谜
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BB%A3%E7%A0%81%E4%B9%8B%E8%B0%9C.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BB%A3%E7%A0%81%E4%B9%8B%E8%B0%9C.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BB%A3%E7%A0%81%E4%B9%8B%E8%B0%9C.epub?format=raw)
-
 ## 从P1到P7——我在淘宝这7年
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BB%8EP1%E5%88%B0P7%E2%80%94%E2%80%94%E6%88%91%E5%9C%A8%E6%B7%98%E5%AE%9D%E8%BF%997%E5%B9%B4.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BB%8EP1%E5%88%B0P7%E2%80%94%E2%80%94%E6%88%91%E5%9C%A8%E6%B7%98%E5%AE%9D%E8%BF%997%E5%B9%B4.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BB%8EP1%E5%88%B0P7%E2%80%94%E2%80%94%E6%88%91%E5%9C%A8%E6%B7%98%E5%AE%9D%E8%BF%997%E5%B9%B4.epub?format=raw)
+
+## 代码之谜
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BB%A3%E7%A0%81%E4%B9%8B%E8%B0%9C.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BB%A3%E7%A0%81%E4%B9%8B%E8%B0%9C.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BB%A3%E7%A0%81%E4%B9%8B%E8%B0%9C.epub?format=raw)
 
 ## 代码大全- 读书笔记
 
@@ -1855,6 +1855,12 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BC%81%E9%B9%85%E6%99%BA%E9%85%B7%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E4%B8%93%E6%A0%8F.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BC%81%E9%B9%85%E6%99%BA%E9%85%B7%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E4%B8%93%E6%A0%8F.epub?format=raw)
 
+## 体会人生
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BD%93%E4%BC%9A%E4%BA%BA%E7%94%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BD%93%E4%BC%9A%E4%BA%BA%E7%94%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BD%93%E4%BC%9A%E4%BA%BA%E7%94%9F.epub?format=raw)
+
 ## 你必须知道的NOSQL系列
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BD%A0%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84NOSQL%E7%B3%BB%E5%88%97.epub)
@@ -1867,29 +1873,29 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BD%BF%E7%94%A8HTTP-2%E6%8F%90%E5%8D%87%E6%80%A7%E8%83%BD%E7%9A%847%E4%B8%AA%E5%BB%BA%E8%AE%AE.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BD%BF%E7%94%A8HTTP-2%E6%8F%90%E5%8D%87%E6%80%A7%E8%83%BD%E7%9A%847%E4%B8%AA%E5%BB%BA%E8%AE%AE.epub?format=raw)
 
-## 体会人生
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BD%93%E4%BC%9A%E4%BA%BA%E7%94%9F.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BD%93%E4%BC%9A%E4%BA%BA%E7%94%9F.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BD%93%E4%BC%9A%E4%BA%BA%E7%94%9F.epub?format=raw)
-
 ## 使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BD%BF%E7%94%A8React%E3%80%81Node.js%E3%80%81MongoDB%E3%80%81Socket.IO%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E8%A7%92%E8%89%B2%E6%8A%95%E7%A5%A8%E5%BA%94%E7%94%A8.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E4%BD%BF%E7%94%A8React%E3%80%81Node.js%E3%80%81MongoDB%E3%80%81Socket.IO%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E8%A7%92%E8%89%B2%E6%8A%95%E7%A5%A8%E5%BA%94%E7%94%A8.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E4%BD%BF%E7%94%A8React%E3%80%81Node.js%E3%80%81MongoDB%E3%80%81Socket.IO%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E8%A7%92%E8%89%B2%E6%8A%95%E7%A5%A8%E5%BA%94%E7%94%A8.epub?format=raw)
 
-## 像计算机科学家一样思考（C++版)
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%EF%BC%88C%2B%2B%E7%89%88).epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%EF%BC%88C%2B%2B%E7%89%88).epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%EF%BC%88C%2B%2B%E7%89%88).epub?format=raw)
-
 ## 傻瓜函数式编程
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%82%BB%E7%93%9C%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%82%BB%E7%93%9C%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%82%BB%E7%93%9C%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.epub?format=raw)
+
+## 像计算机科学家一样思考（C++版)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%EF%BC%88C%2B%2B%E7%89%88%29.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%EF%BC%88C%2B%2B%E7%89%88%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%EF%BC%88C%2B%2B%E7%89%88%29.epub?format=raw)
+
+## 关于容器安全的白皮书
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%85%B3%E4%BA%8E%E5%AE%B9%E5%99%A8%E5%AE%89%E5%85%A8%E7%9A%84%E7%99%BD%E7%9A%AE%E4%B9%A6.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%85%B3%E4%BA%8E%E5%AE%B9%E5%99%A8%E5%AE%89%E5%85%A8%E7%9A%84%E7%99%BD%E7%9A%AE%E4%B9%A6.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%85%B3%E4%BA%8E%E5%AE%B9%E5%99%A8%E5%AE%89%E5%85%A8%E7%9A%84%E7%99%BD%E7%9A%AE%E4%B9%A6.epub?format=raw)
 
 ## 创业剧本
 
@@ -1903,23 +1909,29 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%88%9D%E5%88%9B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E9%83%BD%E9%87%87%E7%94%A8%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%EF%BC%9F.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%88%9D%E5%88%9B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E9%83%BD%E9%87%87%E7%94%A8%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%EF%BC%9F.epub?format=raw)
 
-## 关于容器安全的白皮书
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%85%B3%E4%BA%8E%E5%AE%B9%E5%99%A8%E5%AE%89%E5%85%A8%E7%9A%84%E7%99%BD%E7%9A%AE%E4%B9%A6.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%85%B3%E4%BA%8E%E5%AE%B9%E5%99%A8%E5%AE%89%E5%85%A8%E7%9A%84%E7%99%BD%E7%9A%AE%E4%B9%A6.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%85%B3%E4%BA%8E%E5%AE%B9%E5%99%A8%E5%AE%89%E5%85%A8%E7%9A%84%E7%99%BD%E7%9A%AE%E4%B9%A6.epub?format=raw)
-
 ## 利剑Extjs5
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%88%A9%E5%89%91Extjs5.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%88%A9%E5%89%91Extjs5.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%88%A9%E5%89%91Extjs5.epub?format=raw)
 
+## 制造开源软件 - 如何成功运营自由软件项目
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%88%B6%E9%80%A0%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%20-%20%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E8%BF%90%E8%90%A5%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%88%B6%E9%80%A0%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%20-%20%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E8%BF%90%E8%90%A5%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%88%B6%E9%80%A0%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%20-%20%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E8%BF%90%E8%90%A5%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE.epub?format=raw)
+
 ## 前后端分离的思考与实践
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5.epub?format=raw)
+
+## 前端开发常用技巧经验记录
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95.epub?format=raw)
 
 ## 前端开发提高之旅
 
@@ -1945,12 +1957,6 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%E6%89%8B%E5%86%8C.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%E6%89%8B%E5%86%8C.epub?format=raw)
 
-## 制造开源软件 - 如何成功运营自由软件项目
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%88%B6%E9%80%A0%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%20-%20%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E8%BF%90%E8%90%A5%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%88%B6%E9%80%A0%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%20-%20%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E8%BF%90%E8%90%A5%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%88%B6%E9%80%A0%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%20-%20%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%E8%BF%90%E8%90%A5%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE.epub?format=raw)
-
 ## 前端性能优化指南
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97.epub)
@@ -1962,12 +1968,6 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%9B%AE%E6%90%9C%E9%9B%86.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%9B%AE%E6%90%9C%E9%9B%86.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%9B%AE%E6%90%9C%E9%9B%86.epub?format=raw)
-
-## 前端开发常用技巧经验记录
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95.epub?format=raw)
 
 ## 十个 JavaScript 中易犯的小错误
 
@@ -2023,6 +2023,12 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%9F%BA%E4%BA%8EQt%E7%9A%84%E8%AF%8D%E5%85%B8%E5%BC%80%E5%8F%91.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%9F%BA%E4%BA%8EQt%E7%9A%84%E8%AF%8D%E5%85%B8%E5%BC%80%E5%8F%91.epub?format=raw)
 
+## 大型網站架構學習筆記
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%A4%A7%E5%9E%8B%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%A4%A7%E5%9E%8B%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%A4%A7%E5%9E%8B%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98.epub?format=raw)
+
 ## 大数据开源框架
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6.epub)
@@ -2034,12 +2040,6 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FLAXCUS.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FLAXCUS.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FLAXCUS.epub?format=raw)
-
-## 大型網站架構學習筆記
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%A4%A7%E5%9E%8B%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%A4%A7%E5%9E%8B%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%A4%A7%E5%9E%8B%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98.epub?format=raw)
 
 ## 奇舞周刊
 
@@ -2065,11 +2065,29 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%AE%89%E5%8D%93%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%AE%89%E5%8D%93%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5.epub?format=raw)
 
+## 完全用 GNU-Linux 工作
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%AE%8C%E5%85%A8%E7%94%A8%20GNU-Linux%20%E5%B7%A5%E4%BD%9C.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%AE%8C%E5%85%A8%E7%94%A8%20GNU-Linux%20%E5%B7%A5%E4%BD%9C.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%AE%8C%E5%85%A8%E7%94%A8%20GNU-Linux%20%E5%B7%A5%E4%BD%9C.epub?format=raw)
+
+## 小Printf的编程故事（更新中）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8FPrintf%E7%9A%84%E7%BC%96%E7%A8%8B%E6%95%85%E4%BA%8B%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8FPrintf%E7%9A%84%E7%BC%96%E7%A8%8B%E6%95%85%E4%BA%8B%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%B0%8FPrintf%E7%9A%84%E7%BC%96%E7%A8%8B%E6%95%85%E4%BA%8B%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89.epub?format=raw)
+
 ## 小巫CSDN博客客户端开发教程
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8F%E5%B7%ABCSDN%E5%8D%9A%E5%AE%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B.mobi)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8F%E5%B7%ABCSDN%E5%8D%9A%E5%AE%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B.mobi)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%B0%8F%E5%B7%ABCSDN%E5%8D%9A%E5%AE%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B.mobi?format=raw)
+
+## 小细节大体验
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8F%E7%BB%86%E8%8A%82%E5%A4%A7%E4%BD%93%E9%AA%8C.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8F%E7%BB%86%E8%8A%82%E5%A4%A7%E4%BD%93%E9%AA%8C.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%B0%8F%E7%BB%86%E8%8A%82%E5%A4%A7%E4%BD%93%E9%AA%8C.epub?format=raw)
 
 ## 常见排序算法
 
@@ -2083,11 +2101,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BB%BA%E8%AE%BE%E5%85%A8%E5%8A%9F%E8%83%BD%E5%9B%A2%E9%98%9F.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%BB%BA%E8%AE%BE%E5%85%A8%E5%8A%9F%E8%83%BD%E5%9B%A2%E9%98%9F.epub?format=raw)
 
-## 小细节大体验
+## 开源数学软件
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8F%E7%BB%86%E8%8A%82%E5%A4%A7%E4%BD%93%E9%AA%8C.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8F%E7%BB%86%E8%8A%82%E5%A4%A7%E4%BD%93%E9%AA%8C.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%B0%8F%E7%BB%86%E8%8A%82%E5%A4%A7%E4%BD%93%E9%AA%8C.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6.epub?format=raw)
 
 ## 开源物联网系统设计
 
@@ -2095,35 +2113,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%80%E6%BA%90%E7%89%A9%E8%81%94%E7%BD%91%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%BC%80%E6%BA%90%E7%89%A9%E8%81%94%E7%BD%91%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.epub?format=raw)
 
-## 小Printf的编程故事（更新中）
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8FPrintf%E7%9A%84%E7%BC%96%E7%A8%8B%E6%95%85%E4%BA%8B%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%B0%8FPrintf%E7%9A%84%E7%BC%96%E7%A8%8B%E6%95%85%E4%BA%8B%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%B0%8FPrintf%E7%9A%84%E7%BC%96%E7%A8%8B%E6%95%85%E4%BA%8B%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89.epub?format=raw)
-
 ## 开源软件架构
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.epub?format=raw)
 
-## 开源数学软件
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%BC%80%E6%BA%90%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6.epub?format=raw)
-
 ## 强迫症的 Mac 设置指南
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%BA%E8%BF%AB%E7%97%87%E7%9A%84%20Mac%20%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%BC%BA%E8%BF%AB%E7%97%87%E7%9A%84%20Mac%20%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%BC%BA%E8%BF%AB%E7%97%87%E7%9A%84%20Mac%20%E8%AE%BE%E7%BD%AE%E6%8C%87%E5%8D%97.epub?format=raw)
-
-## 完全用 GNU-Linux 工作
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%AE%8C%E5%85%A8%E7%94%A8%20GNU-Linux%20%E5%B7%A5%E4%BD%9C.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E5%AE%8C%E5%85%A8%E7%94%A8%20GNU-Linux%20%E5%B7%A5%E4%BD%9C.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E5%AE%8C%E5%85%A8%E7%94%A8%20GNU-Linux%20%E5%B7%A5%E4%BD%9C.epub?format=raw)
 
 ## 微博开放平台接入tips
 
@@ -2143,17 +2143,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%88%90%E9%95%BF.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%88%90%E9%95%BF.epub?format=raw)
 
+## 我的后端开发书架2015 2.0版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%88%91%E7%9A%84%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B9%A6%E6%9E%B62015%202.0%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%88%91%E7%9A%84%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B9%A6%E6%9E%B62015%202.0%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%88%91%E7%9A%84%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B9%A6%E6%9E%B62015%202.0%E7%89%88.epub?format=raw)
+
 ## 手淘 H5 性能最佳实践
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%89%8B%E6%B7%98%20H5%20%E6%80%A7%E8%83%BD%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%89%8B%E6%B7%98%20H5%20%E6%80%A7%E8%83%BD%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%89%8B%E6%B7%98%20H5%20%E6%80%A7%E8%83%BD%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub?format=raw)
-
-## 技术选型：喷子、胆量和产品意识
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B%EF%BC%9A%E5%96%B7%E5%AD%90%E3%80%81%E8%83%86%E9%87%8F%E5%92%8C%E4%BA%A7%E5%93%81%E6%84%8F%E8%AF%86.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B%EF%BC%9A%E5%96%B7%E5%AD%90%E3%80%81%E8%83%86%E9%87%8F%E5%92%8C%E4%BA%A7%E5%93%81%E6%84%8F%E8%AF%86.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B%EF%BC%9A%E5%96%B7%E5%AD%90%E3%80%81%E8%83%86%E9%87%8F%E5%92%8C%E4%BA%A7%E5%93%81%E6%84%8F%E8%AF%86.epub?format=raw)
 
 ## 打造android ORM框架
 
@@ -2161,23 +2161,29 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%89%93%E9%80%A0android%20ORM%E6%A1%86%E6%9E%B6.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%89%93%E9%80%A0android%20ORM%E6%A1%86%E6%9E%B6.epub?format=raw)
 
+## 技术选型：喷子、胆量和产品意识
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B%EF%BC%9A%E5%96%B7%E5%AD%90%E3%80%81%E8%83%86%E9%87%8F%E5%92%8C%E4%BA%A7%E5%93%81%E6%84%8F%E8%AF%86.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B%EF%BC%9A%E5%96%B7%E5%AD%90%E3%80%81%E8%83%86%E9%87%8F%E5%92%8C%E4%BA%A7%E5%93%81%E6%84%8F%E8%AF%86.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B%EF%BC%9A%E5%96%B7%E5%AD%90%E3%80%81%E8%83%86%E9%87%8F%E5%92%8C%E4%BA%A7%E5%93%81%E6%84%8F%E8%AF%86.epub?format=raw)
+
 ## 把《The Swift Programming Language》读薄
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%8A%E3%80%8AThe%20Swift%20Programming%20Language%E3%80%8B%E8%AF%BB%E8%96%84.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%8A%E3%80%8AThe%20Swift%20Programming%20Language%E3%80%8B%E8%AF%BB%E8%96%84.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8A%8A%E3%80%8AThe%20Swift%20Programming%20Language%E3%80%8B%E8%AF%BB%E8%96%84.epub?format=raw)
 
-## 我的后端开发书架2015 2.0版
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%88%91%E7%9A%84%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B9%A6%E6%9E%B62015%202.0%E7%89%88.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%88%91%E7%9A%84%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B9%A6%E6%9E%B62015%202.0%E7%89%88.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%88%91%E7%9A%84%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B9%A6%E6%9E%B62015%202.0%E7%89%88.epub?format=raw)
-
 ## 把《把时间当作朋友》读薄
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%8A%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E3%80%8B%E8%AF%BB%E8%96%84.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%8A%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E3%80%8B%E8%AF%BB%E8%96%84.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8A%8A%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E3%80%8B%E8%AF%BB%E8%96%84.epub?format=raw)
+
+## 把《编程珠玑》读薄
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%8A%E3%80%8A%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E3%80%8B%E8%AF%BB%E8%96%84.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%8A%E3%80%8A%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E3%80%8B%E8%AF%BB%E8%96%84.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8A%8A%E3%80%8A%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E3%80%8B%E8%AF%BB%E8%96%84.epub?format=raw)
 
 ## 持续集成（第二版）
 
@@ -2190,6 +2196,18 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%A2%E7%B4%A2Lua5.2%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%A2%E7%B4%A2Lua5.2%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8E%A2%E7%B4%A2Lua5.2%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0.epub?format=raw)
+
+## 接口测试
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95.epub?format=raw)
+
+## 掰扯数据结构
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%B0%E6%89%AF%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%B0%E6%89%AF%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8E%B0%E6%89%AF%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.epub?format=raw)
 
 ## 描述、发现以及档案：进入Web API的下一阶段
 
@@ -2209,23 +2227,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%86%85%E6%A0%B8%E6%9C%88%E6%8A%A5.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%86%85%E6%A0%B8%E6%9C%88%E6%8A%A5.epub?format=raw)
 
-## 掰扯数据结构
+## 数据的秘密
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%B0%E6%89%AF%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%B0%E6%89%AF%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8E%B0%E6%89%AF%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.epub?format=raw)
-
-## 把《编程珠玑》读薄
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%8A%E3%80%8A%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E3%80%8B%E8%AF%BB%E8%96%84.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8A%8A%E3%80%8A%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E3%80%8B%E8%AF%BB%E8%96%84.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8A%8A%E3%80%8A%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E3%80%8B%E8%AF%BB%E8%96%84.epub?format=raw)
-
-## 数据结构与算法-leetcode-lintcode题解
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-leetcode-lintcode%E9%A2%98%E8%A7%A3.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-leetcode-lintcode%E9%A2%98%E8%A7%A3.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-leetcode-lintcode%E9%A2%98%E8%A7%A3.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%9A%84%E7%A7%98%E5%AF%86.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%9A%84%E7%A7%98%E5%AF%86.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%95%B0%E6%8D%AE%E7%9A%84%E7%A7%98%E5%AF%86.epub?format=raw)
 
 ## 数据结构
 
@@ -2233,17 +2239,11 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.epub?format=raw)
 
-## 数据的秘密
+## 数据结构与算法-leetcode-lintcode题解
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%9A%84%E7%A7%98%E5%AF%86.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%9A%84%E7%A7%98%E5%AF%86.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%95%B0%E6%8D%AE%E7%9A%84%E7%A7%98%E5%AF%86.epub?format=raw)
-
-## 接口测试
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-leetcode-lintcode%E9%A2%98%E8%A7%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-leetcode-lintcode%E9%A2%98%E8%A7%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-leetcode-lintcode%E9%A2%98%E8%A7%A3.epub?format=raw)
 
 ## 新亿CMS完全手册
 
@@ -2251,23 +2251,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%96%B0%E4%BA%BFCMS%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%96%B0%E4%BA%BFCMS%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C.epub?format=raw)
 
-## 日志：每个软件工程师都应该知道的有关实时数据的统一抽象
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%97%A5%E5%BF%97%EF%BC%9A%E6%AF%8F%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%89%E5%85%B3%E5%AE%9E%E6%97%B6%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E4%B8%80%E6%8A%BD%E8%B1%A1.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%97%A5%E5%BF%97%EF%BC%9A%E6%AF%8F%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%89%E5%85%B3%E5%AE%9E%E6%97%B6%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E4%B8%80%E6%8A%BD%E8%B1%A1.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%97%A5%E5%BF%97%EF%BC%9A%E6%AF%8F%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%89%E5%85%B3%E5%AE%9E%E6%97%B6%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E4%B8%80%E6%8A%BD%E8%B1%A1.epub?format=raw)
-
 ## 新兵训练营系列课程
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%96%B0%E5%85%B5%E8%AE%AD%E7%BB%83%E8%90%A5%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%96%B0%E5%85%B5%E8%AE%AD%E7%BB%83%E8%90%A5%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%96%B0%E5%85%B5%E8%AE%AD%E7%BB%83%E8%90%A5%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B.epub?format=raw)
 
-## 智酷分析精选
+## 日志：每个软件工程师都应该知道的有关实时数据的统一抽象
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%99%BA%E9%85%B7%E5%88%86%E6%9E%90%E7%B2%BE%E9%80%89.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%99%BA%E9%85%B7%E5%88%86%E6%9E%90%E7%B2%BE%E9%80%89.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%99%BA%E9%85%B7%E5%88%86%E6%9E%90%E7%B2%BE%E9%80%89.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%97%A5%E5%BF%97%EF%BC%9A%E6%AF%8F%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%89%E5%85%B3%E5%AE%9E%E6%97%B6%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E4%B8%80%E6%8A%BD%E8%B1%A1.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%97%A5%E5%BF%97%EF%BC%9A%E6%AF%8F%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%89%E5%85%B3%E5%AE%9E%E6%97%B6%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E4%B8%80%E6%8A%BD%E8%B1%A1.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%97%A5%E5%BF%97%EF%BC%9A%E6%AF%8F%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%89%E5%85%B3%E5%AE%9E%E6%97%B6%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E4%B8%80%E6%8A%BD%E8%B1%A1.epub?format=raw)
 
 ## 时间序列数据库的秘密
 
@@ -2275,17 +2269,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%A7%98%E5%AF%86.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%A7%98%E5%AF%86.epub?format=raw)
 
+## 智酷分析精选
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%99%BA%E9%85%B7%E5%88%86%E6%9E%90%E7%B2%BE%E9%80%89.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%99%BA%E9%85%B7%E5%88%86%E6%9E%90%E7%B2%BE%E9%80%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%99%BA%E9%85%B7%E5%88%86%E6%9E%90%E7%B2%BE%E9%80%89.epub?format=raw)
+
 ## 最完整的Docker聖經 - Docker原理圖解及全環境安裝
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9C%80%E5%AE%8C%E6%95%B4%E7%9A%84Docker%E8%81%96%E7%B6%93%20-%20Docker%E5%8E%9F%E7%90%86%E5%9C%96%E8%A7%A3%E5%8F%8A%E5%85%A8%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9C%80%E5%AE%8C%E6%95%B4%E7%9A%84Docker%E8%81%96%E7%B6%93%20-%20Docker%E5%8E%9F%E7%90%86%E5%9C%96%E8%A7%A3%E5%8F%8A%E5%85%A8%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%9C%80%E5%AE%8C%E6%95%B4%E7%9A%84Docker%E8%81%96%E7%B6%93%20-%20Docker%E5%8E%9F%E7%90%86%E5%9C%96%E8%A7%A3%E5%8F%8A%E5%85%A8%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D.epub?format=raw)
-
-## 机器学习实战笔记
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0.epub?format=raw)
 
 ## 最详细的 Vi 编辑器使用指南
 
@@ -2293,11 +2287,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9C%80%E8%AF%A6%E7%BB%86%E7%9A%84%20Vi%20%E7%BC%96%E8%BE%91%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%9C%80%E8%AF%A6%E7%BB%86%E7%9A%84%20Vi%20%E7%BC%96%E8%BE%91%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.epub?format=raw)
 
+## 机器学习实战笔记
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%94%E8%AE%B0.epub?format=raw)
+
 ## 来自HeroKu的HTTP API 设计指南(中文版)
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9D%A5%E8%87%AAHeroKu%E7%9A%84HTTP%20API%20%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97(%E4%B8%AD%E6%96%87%E7%89%88).epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9D%A5%E8%87%AAHeroKu%E7%9A%84HTTP%20API%20%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97(%E4%B8%AD%E6%96%87%E7%89%88).epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%9D%A5%E8%87%AAHeroKu%E7%9A%84HTTP%20API%20%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97(%E4%B8%AD%E6%96%87%E7%89%88).epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9D%A5%E8%87%AAHeroKu%E7%9A%84HTTP%20API%20%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%9D%A5%E8%87%AAHeroKu%E7%9A%84HTTP%20API%20%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%9D%A5%E8%87%AAHeroKu%E7%9A%84HTTP%20API%20%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97%28%E4%B8%AD%E6%96%87%E7%89%88%29.epub?format=raw)
 
 ## 构建需求响应式亿级商品详情页
 
@@ -2323,11 +2323,23 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%AE%80%E6%98%8E%E5%8F%82%E8%80%83.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%AE%80%E6%98%8E%E5%8F%82%E8%80%83.epub?format=raw)
 
+## 比较全面的MySQL优化参考
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%AF%94%E8%BE%83%E5%85%A8%E9%9D%A2%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%8F%82%E8%80%83.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%AF%94%E8%BE%83%E5%85%A8%E9%9D%A2%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%8F%82%E8%80%83.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%AF%94%E8%BE%83%E5%85%A8%E9%9D%A2%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%8F%82%E8%80%83.epub?format=raw)
+
 ## 沉浸式学 Git
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%AD%A6%20Git.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%AD%A6%20Git.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%AD%A6%20Git.epub?format=raw)
+
+## 深入浅出Docker
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BADocker.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BADocker.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BADocker.epub?format=raw)
 
 ## 深入浅出ES6
 
@@ -2340,6 +2352,12 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMesos.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMesos.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMesos.epub?format=raw)
+
+## 深入浅出Nodejs读书笔记
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.epub?format=raw)
 
 ## 深入浅出React
 
@@ -2359,12 +2377,6 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3PHP%E5%86%85%E6%A0%B8.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3PHP%E5%86%85%E6%A0%B8.epub?format=raw)
 
-## 比较全面的MySQL优化参考
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%AF%94%E8%BE%83%E5%85%A8%E9%9D%A2%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%8F%82%E8%80%83.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%AF%94%E8%BE%83%E5%85%A8%E9%9D%A2%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%8F%82%E8%80%83.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%AF%94%E8%BE%83%E5%85%A8%E9%9D%A2%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%8F%82%E8%80%83.epub?format=raw)
-
 ## 深入理解javascript原型和闭包
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3javascript%E5%8E%9F%E5%9E%8B%E5%92%8C%E9%97%AD%E5%8C%85.epub)
@@ -2377,11 +2389,17 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%8E%B0%E4%BB%A3%E5%AF%86%E7%A0%81%E5%AD%A6%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%5B2015%E5%B9%B4%5D.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%8E%B0%E4%BB%A3%E5%AF%86%E7%A0%81%E5%AD%A6%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%5B2015%E5%B9%B4%5D.epub?format=raw)
 
-## 深入浅出Nodejs读书笔记
+## 理解Linux进程
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%90%86%E8%A7%A3Linux%E8%BF%9B%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%90%86%E8%A7%A3Linux%E8%BF%9B%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%90%86%E8%A7%A3Linux%E8%BF%9B%E7%A8%8B.epub?format=raw)
+
+## 理解OAuth 2.0
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%90%86%E8%A7%A3OAuth%202.0.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%90%86%E8%A7%A3OAuth%202.0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%90%86%E8%A7%A3OAuth%202.0.epub?format=raw)
 
 ## 用Swift做个游戏
 
@@ -2395,12 +2413,6 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%94%A8%E7%88%B1%E4%B8%80%E8%B5%B7%E7%94%BBgit.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%94%A8%E7%88%B1%E4%B8%80%E8%B5%B7%E7%94%BBgit.epub?format=raw)
 
-## 理解Linux进程
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%90%86%E8%A7%A3Linux%E8%BF%9B%E7%A8%8B.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%90%86%E8%A7%A3Linux%E8%BF%9B%E7%A8%8B.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%90%86%E8%A7%A3Linux%E8%BF%9B%E7%A8%8B.epub?format=raw)
-
 ## 白板编程浅谈——Why, What, How
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%99%BD%E6%9D%BF%E7%BC%96%E7%A8%8B%E6%B5%85%E8%B0%88%E2%80%94%E2%80%94Why%2C%20What%2C%20How.epub)
@@ -2412,18 +2424,6 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%9C%8B%E4%BA%91%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%9C%8B%E4%BA%91%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%9C%8B%E4%BA%91%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8.epub?format=raw)
-
-## 深入浅出Docker
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BADocker.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BADocker.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BADocker.epub?format=raw)
-
-## 理解OAuth 2.0
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%90%86%E8%A7%A3OAuth%202.0.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%90%86%E8%A7%A3OAuth%202.0.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%90%86%E8%A7%A3OAuth%202.0.epub?format=raw)
 
 ## 知道创宇研发技能表v3.0
 
@@ -2493,9 +2493,9 @@ date: 2016-05-01 00:00:00
 
 ## 程序员聊人生(试读版)
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E4%BA%BA%E7%94%9F(%E8%AF%95%E8%AF%BB%E7%89%88).epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E4%BA%BA%E7%94%9F(%E8%AF%95%E8%AF%BB%E7%89%88).epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E4%BA%BA%E7%94%9F(%E8%AF%95%E8%AF%BB%E7%89%88).epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E4%BA%BA%E7%94%9F%28%E8%AF%95%E8%AF%BB%E7%89%88%29.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E4%BA%BA%E7%94%9F%28%E8%AF%95%E8%AF%BB%E7%89%88%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8A%E4%BA%BA%E7%94%9F%28%E8%AF%95%E8%AF%BB%E7%89%88%29.epub?format=raw)
 
 ## 程序员英语单词册
 
@@ -2514,6 +2514,12 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AE%AD%E7%BB%83.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AE%AD%E7%BB%83.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AE%AD%E7%BB%83.epub?format=raw)
+
+## 笨办法学Prolog
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6Prolog.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6Prolog.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6Prolog.epub?format=raw)
 
 ## 笨方法學 Ruby
 
@@ -2550,12 +2556,6 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91%EF%BC%88%E7%B2%BE%E7%BC%96%E7%89%88%EF%BC%89.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91%EF%BC%88%E7%B2%BE%E7%BC%96%E7%89%88%EF%BC%89.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91%EF%BC%88%E7%B2%BE%E7%BC%96%E7%89%88%EF%BC%89.epub?format=raw)
-
-## 笨办法学Prolog
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6Prolog.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6Prolog.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6Prolog.epub?format=raw)
 
 ## 编程入门指南
 
@@ -2611,6 +2611,12 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E8%85%BE%E8%AE%AFalloyteam%E5%9B%A2%E9%98%9F%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E8%85%BE%E8%AE%AFalloyteam%E5%9B%A2%E9%98%9F%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.epub?format=raw)
 
+## 菜鸟学SSH
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E8%8F%9C%E9%B8%9F%E5%AD%A6SSH.mobi)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E8%8F%9C%E9%B8%9F%E5%AD%A6SSH.mobi)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E8%8F%9C%E9%B8%9F%E5%AD%A6SSH.mobi?format=raw)
+
 ## 蓝色铁骑
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E8%93%9D%E8%89%B2%E9%93%81%E9%AA%91.epub)
@@ -2634,12 +2640,6 @@ date: 2016-05-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub)
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub?format=raw)
-
-## 菜鸟学SSH
-
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E8%8F%9C%E9%B8%9F%E5%AD%A6SSH.mobi)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E8%8F%9C%E9%B8%9F%E5%AD%A6SSH.mobi)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E8%8F%9C%E9%B8%9F%E5%AD%A6SSH.mobi?format=raw)
 
 ## 设计模式与系统架构
 
@@ -2701,6 +2701,12 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E%EF%BC%9A%E9%9C%87%E7%BD%91%E7%97%85%E6%AF%92%E5%85%A8%E6%8F%AD%E7%A7%98.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E%EF%BC%9A%E9%9C%87%E7%BD%91%E7%97%85%E6%AF%92%E5%85%A8%E6%8F%AD%E7%A7%98.epub?format=raw)
 
+## 面向对象设计模式
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub?format=raw)
+
 ## 面向指针编程
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%9D%A2%E5%90%91%E6%8C%87%E9%92%88%E7%BC%96%E7%A8%8B.epub)
@@ -2713,8 +2719,14 @@ date: 2016-05-01 00:00:00
 +   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%A3%9E%E9%B8%9F%E9%9B%86.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E9%A3%9E%E9%B8%9F%E9%9B%86.epub?format=raw)
 
-## 面向对象设计模式
+## 高效运维最佳实践
 
-+   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub)
-+   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub)
-+   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.epub?format=raw)
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%AB%98%E6%95%88%E8%BF%90%E7%BB%B4%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%AB%98%E6%95%88%E8%BF%90%E7%BB%B4%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E9%AB%98%E6%95%88%E8%BF%90%E7%BB%B4%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.epub?format=raw)
+
+## 高斯模糊的算法
+
++   [Gitee 下载](https://gitee.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%AB%98%E6%96%AF%E6%A8%A1%E7%B3%8A%E7%9A%84%E7%AE%97%E6%B3%95.epub)
++   [Github 下载](https://github.com/it-ebooks/kancloud-ebooks-201604-part2/raw/master/%E9%AB%98%E6%96%AF%E6%A8%A1%E7%B3%8A%E7%9A%84%E7%AE%97%E6%B3%95.epub)
++   [SourceForge 下载](https://sourceforge.net/p/kancloud-ebooks-201604-part2/code/ci/master/tree/%E9%AB%98%E6%96%AF%E6%A8%A1%E7%B3%8A%E7%9A%84%E7%AE%97%E6%B3%95.epub?format=raw)
