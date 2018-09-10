@@ -40,6 +40,7 @@ date: 2016-01-28 22:36:37
 *   [看雪](http://www.pediy.com/)
 *   [学破解](http://www.xuepojie.com/)
 *   [逆向未来](http://www.pd521.com/)
+*   [先知社区](https://xz.aliyun.com/)
 
 ## 问答平台
 
