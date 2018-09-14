@@ -135,10 +135,3 @@ date: 2016-01-28 22:36:37
 *   [看准网](https://www.kanzhun.com/)
 *   [Glassdoor](https://www.glassdoor.com)
 *   [牛客网](https://www.nowcoder.com/)
-
-## 独立开发者/远程
-
-*   [Freelancer](https://www.freelancer.com/)
-*   [数字游民部落](https://jarodise.com/)
-*   [SideIdea](http://sideidea.com/)
-*   [Nomad List](https://nomadlist.com/)
