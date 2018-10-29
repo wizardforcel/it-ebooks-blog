@@ -1,0 +1,25 @@
+language: node_js
+node_js: node
+
+install:
+  - npm install
+
+script:
+  - hexo g
+
+after_script:
+  - cd public
+  - git init
+  - git config user.name ${GH_UN}
+  - git config user.email ${GH_EMAIL}
+  - git add -A
+  - git commit -am "$(date "+%Y-%m-%d %H:%M:%S")"
+  - git push "https://${GH_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git" master:${GH_BRANCH} -f
+  
+env:
+  global:
+    - GH_UN=wizardforcel
+    - GH_EMAIL=562826179@qq.com
+    - GH_USER=it-ebooks
+    - GH_REPO=it-ebooks.github.io
+    - GH_BRANCH=master
