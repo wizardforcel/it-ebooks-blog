@@ -105,9 +105,9 @@ date: 2017-08-31 10:46:28
 +   [斯坦福 CS183f](http://blog.csdn.net/wizardforcel/article/details/79547908)
 +   [斯坦福 CS007](https://cs007.blog/)
 
-## 高校课程资源集合
+## 高校课程资源汇总
 
-以下是由广大网友整理的，某一高校的课程资源集合。
+以下是由广大网友整理的，某一高校的课程资源汇总。
 
 +   [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 +   [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
