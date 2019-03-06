@@ -104,3 +104,15 @@ date: 2017-08-31 10:46:28
 +   [斯坦福 CS183c](http://blog.csdn.net/wizardforcel/article/details/79440956)
 +   [斯坦福 CS183f](http://blog.csdn.net/wizardforcel/article/details/79547908)
 +   [斯坦福 CS007](https://cs007.blog/)
+
+## 高校课程资源集合
+
+以下是由广大网友整理的，某一高校的课程资源集合。
+
++   [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
++   [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
++   [北京大学 EECS 课程资源](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
++   上海交通大学软件学院课程资源
+    +   [代码（大作业、Lab）](https://github.com/SJTU-SE/awesome-se)
+    +   [课件](https://github.com/sjtu-se-courseware/sjtu-se-courseware)
++   [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
