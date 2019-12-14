@@ -15,6 +15,8 @@ date: 9999-12-31 23:59:59
 + [it-ebooks@github](https://github.com/it-ebooks)
 + [it-ebooks@gitee](https://gitee.com/it-ebooks)
 + [wizardforcel@sourceforge](https://sourceforge.net/u/wizardforcel)
++ [it-ebooks@gitlab](https://gitlab.com/it-ebooks)
++ [it-ebooks@bitbucket](https://bitbucket.org/it-ebooks)
 
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
