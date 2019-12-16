@@ -5,11 +5,8 @@ date: 2018-01-01 00:00:00
 
 ## 下载方式
 
-[根据你的操作系统下载不同的 BiliDrive 二进制](https://github.com/Hsury/BiliDrive/releases)。
-
-执行：
-
 ```
+pip install bilidrive
 bilidrive download <link>
 ```
 
