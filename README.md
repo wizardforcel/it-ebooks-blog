@@ -1,5 +1,7 @@
 # 计算机开放电子书归档
 
+![](source/img/repo-deployed.svg) ![](source/img/cdn-deployed.svg) ![](source/img/northpole-preparing.svg) ![](source/img/blockchain-preparing.svg)
+
 +   [TutorialsPoint 电子书 归档](source/_posts/tutorialspoint.md)
 +   [达内 Java 全套教程 BiliDrive 备份](source/_posts/tarena-bilidrive.md)
 +   [行业报告归档 2019](source/_posts/industry-reports-2019.md)

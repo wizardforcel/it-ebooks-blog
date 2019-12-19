@@ -3,6 +3,8 @@ title: 计算机开放电子书汇总
 date: 9999-12-31 23:59:59
 ---
 
+![](../img/repo-deployed.svg) ![](../img/cdn-deployed.svg) ![](../img/northpole-preparing.svg) ![](../img/blockchain-preparing.svg)
+
 为了便于资源维护和站点部署，即日起，本站的电子书将会直接制作成EPUB并存入网盘，以文件夹链接的形式共享。以前页面的归档请见[这里](https://github.com/it-ebooks/it-ebooks-archive)。
 
 链接：
