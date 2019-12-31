@@ -894,3 +894,807 @@ date: 2020-01-01 00:00:00
 +   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.epub)
 +   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.epub)
 +   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.epub?format=raw)
+
+## 24小时玩转MyEtherWallet钱包开发
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/24%E5%B0%8F%E6%97%B6%E7%8E%A9%E8%BD%ACMyEtherWallet%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/24%E5%B0%8F%E6%97%B6%E7%8E%A9%E8%BD%ACMyEtherWallet%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/24%E5%B0%8F%E6%97%B6%E7%8E%A9%E8%BD%ACMyEtherWallet%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91.epub?format=raw)
+
+## A Survey on Dialogue Systems Recent Advances and New Frontiers 翻译
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/A%20Survey%20on%20Dialogue%20Systems%20Recent%20Advances%20and%20New%20Frontiers%20%E7%BF%BB%E8%AF%91.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/A%20Survey%20on%20Dialogue%20Systems%20Recent%20Advances%20and%20New%20Frontiers%20%E7%BF%BB%E8%AF%91.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/A%20Survey%20on%20Dialogue%20Systems%20Recent%20Advances%20and%20New%20Frontiers%20%E7%BF%BB%E8%AF%91.pdf?format=raw)
+
+## Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Algebra%2C%20Topology%2C%20Differential%20Calculus%2C%20and%20Optimization%20Theory%20For%20Computer%20Science%20and%20Engineering.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Algebra%2C%20Topology%2C%20Differential%20Calculus%2C%20and%20Optimization%20Theory%20For%20Computer%20Science%20and%20Engineering.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Algebra%2C%20Topology%2C%20Differential%20Calculus%2C%20and%20Optimization%20Theory%20For%20Computer%20Science%20and%20Engineering.pdf?format=raw)
+
+## Apache Flume 1.9.0 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Apache%20Flume%201.9.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Apache%20Flume%201.9.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Apache%20Flume%201.9.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Apache FreeMarker 2.3.28 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Apache%20FreeMarker%202.3.28%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Apache%20FreeMarker%202.3.28%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Apache%20FreeMarker%202.3.28%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Apache Hive 3.1.1 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Apache%20Hive%203.1.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Apache%20Hive%203.1.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Apache%20Hive%203.1.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Apache Server 2.4 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Apache%20Server%202.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Apache%20Server%202.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Apache%20Server%202.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Bottle Python Web 框架中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Bottle%20Python%20Web%20%E6%A1%86%E6%9E%B6%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Bottle%20Python%20Web%20%E6%A1%86%E6%9E%B6%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Bottle%20Python%20Web%20%E6%A1%86%E6%9E%B6%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## CSS 权威指南 中文第四版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/CSS%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%20%E4%B8%AD%E6%96%87%E7%AC%AC%E5%9B%9B%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/CSS%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%20%E4%B8%AD%E6%96%87%E7%AC%AC%E5%9B%9B%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/CSS%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%20%E4%B8%AD%E6%96%87%E7%AC%AC%E5%9B%9B%E7%89%88.epub?format=raw)
+
+## Click 7.x 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Click%207.x%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Click%207.x%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Click%207.x%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Django 2.2 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Django%202.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Django%202.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Django%202.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## EOS DApp合约开发之DICE游戏(线上完整项目)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/EOS%20DApp%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E4%B9%8BDICE%E6%B8%B8%E6%88%8F%28%E7%BA%BF%E4%B8%8A%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE%29.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/EOS%20DApp%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E4%B9%8BDICE%E6%B8%B8%E6%88%8F%28%E7%BA%BF%E4%B8%8A%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/EOS%20DApp%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E4%B9%8BDICE%E6%B8%B8%E6%88%8F%28%E7%BA%BF%E4%B8%8A%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE%29.epub?format=raw)
+
+## EOS钱包实战开发
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/EOS%E9%92%B1%E5%8C%85%E5%AE%9E%E6%88%98%E5%BC%80%E5%8F%91.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/EOS%E9%92%B1%E5%8C%85%E5%AE%9E%E6%88%98%E5%BC%80%E5%8F%91.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/EOS%E9%92%B1%E5%8C%85%E5%AE%9E%E6%88%98%E5%BC%80%E5%8F%91.epub?format=raw)
+
+## FileCoin白皮书中文校正版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/FileCoin%E7%99%BD%E7%9A%AE%E4%B9%A6%E4%B8%AD%E6%96%87%E6%A0%A1%E6%AD%A3%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/FileCoin%E7%99%BD%E7%9A%AE%E4%B9%A6%E4%B8%AD%E6%96%87%E6%A0%A1%E6%AD%A3%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/FileCoin%E7%99%BD%E7%9A%AE%E4%B9%A6%E4%B8%AD%E6%96%87%E6%A0%A1%E6%AD%A3%E7%89%88.epub?format=raw)
+
+## Fiona 1.8 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Fiona%201.8%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Fiona%201.8%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Fiona%201.8%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Flutter 实战
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Flutter%20%E5%AE%9E%E6%88%98.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Flutter%20%E5%AE%9E%E6%88%98.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Flutter%20%E5%AE%9E%E6%88%98.epub?format=raw)
+
+## Folium 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Folium%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Folium%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Folium%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## GRASS GIS 中文教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/GRASS%20GIS%20%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/GRASS%20GIS%20%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/GRASS%20GIS%20%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## GeoPy 1.18 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/GeoPy%201.18%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/GeoPy%201.18%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/GeoPy%201.18%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Gin框架开发与实战
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Gin%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E5%AE%9E%E6%88%98.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Gin%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E5%AE%9E%E6%88%98.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Gin%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E5%AE%9E%E6%88%98.epub?format=raw)
+
+## GoWeb开发实战(Beego框架实现项目)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/GoWeb%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%28Beego%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%E9%A1%B9%E7%9B%AE%29.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/GoWeb%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%28Beego%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%E9%A1%B9%E7%9B%AE%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/GoWeb%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%28Beego%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%E9%A1%B9%E7%9B%AE%29.epub?format=raw)
+
+## Go语言入门指南
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Go%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Go%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Go%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.epub?format=raw)
+
+## Hibernate 5.4 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Hibernate%205.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Hibernate%205.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Hibernate%205.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Hyperledger Fabric源码深度解析
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Hyperledger%20Fabric%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Hyperledger%20Fabric%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Hyperledger%20Fabric%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.epub?format=raw)
+
+## IPFS + Ethereum（以太坊）入门经典教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/IPFS%20%2B%20Ethereum%EF%BC%88%E4%BB%A5%E5%A4%AA%E5%9D%8A%EF%BC%89%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/IPFS%20%2B%20Ethereum%EF%BC%88%E4%BB%A5%E5%A4%AA%E5%9D%8A%EF%BC%89%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/IPFS%20%2B%20Ethereum%EF%BC%88%E4%BB%A5%E5%A4%AA%E5%9D%8A%EF%BC%89%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## IPFS Weekly
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/IPFS%20Weekly.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/IPFS%20Weekly.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/IPFS%20Weekly.epub?format=raw)
+
+## IPFS一问一答
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/IPFS%E4%B8%80%E9%97%AE%E4%B8%80%E7%AD%94.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/IPFS%E4%B8%80%E9%97%AE%E4%B8%80%E7%AD%94.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/IPFS%E4%B8%80%E9%97%AE%E4%B8%80%E7%AD%94.epub?format=raw)
+
+## IPFS操作学习教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/IPFS%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/IPFS%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/IPFS%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## JavaTutorialNetwork 中文系列教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/JavaTutorialNetwork%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/JavaTutorialNetwork%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/JavaTutorialNetwork%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## Jupyter Notebook 6.0 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Jupyter%20Notebook%206.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Jupyter%20Notebook%206.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Jupyter%20Notebook%206.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## LaTeX排版心得（李东风）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/LaTeX%E6%8E%92%E7%89%88%E5%BF%83%E5%BE%97%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/LaTeX%E6%8E%92%E7%89%88%E5%BF%83%E5%BE%97%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/LaTeX%E6%8E%92%E7%89%88%E5%BF%83%E5%BE%97%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf?format=raw)
+
+## Learning Spark 中文版 3-8 章
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Learning%20Spark%20%E4%B8%AD%E6%96%87%E7%89%88%203-8%20%E7%AB%A0.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Learning%20Spark%20%E4%B8%AD%E6%96%87%E7%89%88%203-8%20%E7%AB%A0.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Learning%20Spark%20%E4%B8%AD%E6%96%87%E7%89%88%203-8%20%E7%AB%A0.pdf?format=raw)
+
+## Log4j2 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Log4j2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Log4j2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Log4j2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Logback 1.3.0-alpha4 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Logback%201.3.0-alpha4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Logback%201.3.0-alpha4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Logback%201.3.0-alpha4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## MapServer 7.2 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/MapServer%207.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/MapServer%207.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/MapServer%207.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Mapproxy 1.12 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Mapproxy%201.12%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Mapproxy%201.12%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Mapproxy%201.12%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Maxima 介绍（李东风）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Maxima%20%E4%BB%8B%E7%BB%8D%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Maxima%20%E4%BB%8B%E7%BB%8D%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Maxima%20%E4%BB%8B%E7%BB%8D%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf?format=raw)
+
+## MongoDB 3.6 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/MongoDB%203.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/MongoDB%203.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/MongoDB%203.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## MySQL 5.7 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/MySQL%205.7%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/MySQL%205.7%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/MySQL%205.7%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.7z?format=raw)
+
+## NetworkX 2.2 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/NetworkX%202.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/NetworkX%202.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/NetworkX%202.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Nginx 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Nginx%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Nginx%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Nginx%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## NumPy 1.16 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/NumPy%201.16%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/NumPy%201.16%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/NumPy%201.16%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## OGC 标准规范 
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/OGC%20%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83%20.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/OGC%20%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83%20.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/OGC%20%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83%20.epub?format=raw)
+
+## OpenGIS 1.0 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/OpenGIS%201.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/OpenGIS%201.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/OpenGIS%201.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## OpenPyXL 2.6.1 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/OpenPyXL%202.6.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/OpenPyXL%202.6.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/OpenPyXL%202.6.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## OpenTSDB 2.3 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/OpenTSDB%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/OpenTSDB%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/OpenTSDB%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Peewee 3.9.2 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Peewee%203.9.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Peewee%203.9.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Peewee%203.9.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Pillow 5.4.1 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pillow%205.4.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pillow%205.4.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Pillow%205.4.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## PostgreSQL 11.2 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PostgreSQL%2011.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PostgreSQL%2011.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/PostgreSQL%2011.2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## PyCodeStyle 2.5.0 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PyCodeStyle%202.5.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PyCodeStyle%202.5.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/PyCodeStyle%202.5.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## PyCurl 7.43 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PyCurl%207.43%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PyCurl%207.43%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/PyCurl%207.43%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## PyQuery 1.4.1 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PyQuery%201.4.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PyQuery%201.4.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/PyQuery%201.4.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## PyTest 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PyTest%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/PyTest%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/PyTest%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Pygments 2.3 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pygments%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pygments%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Pygments%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Pyproj 2.1 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pyproj%202.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pyproj%202.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Pyproj%202.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Pyramid 1.10 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pyramid%201.10%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pyramid%201.10%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Pyramid%201.10%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Pyramid Cookbook 中文版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pyramid%20Cookbook%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Pyramid%20Cookbook%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Pyramid%20Cookbook%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
+
+## Python+OpenCV实用教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Python%2BOpenCV%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Python%2BOpenCV%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Python%2BOpenCV%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## Python语法基础快速入门
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Python%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Python%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Python%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.epub?format=raw)
+
+## QGIS 中文文档 
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/QGIS%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3%20.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/QGIS%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3%20.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/QGIS%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3%20.epub?format=raw)
+
+## QGIS教程：入门与进阶
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/QGIS%E6%95%99%E7%A8%8B%EF%BC%9A%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/QGIS%E6%95%99%E7%A8%8B%EF%BC%9A%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/QGIS%E6%95%99%E7%A8%8B%EF%BC%9A%E5%85%A5%E9%97%A8%E4%B8%8E%E8%BF%9B%E9%98%B6.epub?format=raw)
+
+## R语言教程（李东风）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/R%E8%AF%AD%E8%A8%80%E6%95%99%E7%A8%8B%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/R%E8%AF%AD%E8%A8%80%E6%95%99%E7%A8%8B%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/R%E8%AF%AD%E8%A8%80%E6%95%99%E7%A8%8B%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf?format=raw)
+
+## SAS软件统计（李东风）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/SAS%E8%BD%AF%E4%BB%B6%E7%BB%9F%E8%AE%A1%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/SAS%E8%BD%AF%E4%BB%B6%E7%BB%9F%E8%AE%A1%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/SAS%E8%BD%AF%E4%BB%B6%E7%BB%9F%E8%AE%A1%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf?format=raw)
+
+## SQLAlchemy 1.3 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/SQLAlchemy%201.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/SQLAlchemy%201.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/SQLAlchemy%201.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Sanic 19.3 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Sanic%2019.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Sanic%2019.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Sanic%2019.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Scapy 2.4 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Scapy%202.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Scapy%202.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Scapy%202.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Scrapy 1.6 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Scrapy%201.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Scrapy%201.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Scrapy%201.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Shapely 1.6 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Shapely%201.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Shapely%201.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Shapely%201.6%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring AMQP 2.1.2.RELEASE 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20AMQP%202.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20AMQP%202.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20AMQP%202.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring Batch 4.1 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Batch%204.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Batch%204.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20Batch%204.1%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring Boot 2.1.1.RELEASE 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Boot%202.1.1.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Boot%202.1.1.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20Boot%202.1.1.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring Cloud Finchley.SR2 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Cloud%20Finchley.SR2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Cloud%20Finchley.SR2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20Cloud%20Finchley.SR2%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring Data JDBC 1.0.5.RELEASE 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Data%20JDBC%201.0.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Data%20JDBC%201.0.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20Data%20JDBC%201.0.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring Data JPA 2.1.5.RELEASE 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Data%20JPA%202.1.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Data%20JPA%202.1.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20Data%20JPA%202.1.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring Data Redis 2.1.5.RELEASE 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Data%20Redis%202.1.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Data%20Redis%202.1.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20Data%20Redis%202.1.5.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring Security 5.1.2.RELEASE 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Security%205.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Security%205.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20Security%205.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Spring Session 2.1.2.RELEASE 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Session%202.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Spring%20Session%202.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Spring%20Session%202.1.2.RELEASE%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Thymeleaf 3.0 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Thymeleaf%203.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Thymeleaf%203.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Thymeleaf%203.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## V 谱与 Vocaloid 的基础应用
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/V%20%E8%B0%B1%E4%B8%8E%20Vocaloid%20%E7%9A%84%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/V%20%E8%B0%B1%E4%B8%8E%20Vocaloid%20%E7%9A%84%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/V%20%E8%B0%B1%E4%B8%8E%20Vocaloid%20%E7%9A%84%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8.pdf?format=raw)
+
+## Vocaloid3 初级使用教程（acgmiku）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Vocaloid3%20%E5%88%9D%E7%BA%A7%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88acgmiku%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Vocaloid3%20%E5%88%9D%E7%BA%A7%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88acgmiku%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Vocaloid3%20%E5%88%9D%E7%BA%A7%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88acgmiku%EF%BC%89.pdf?format=raw)
+
+## Vocaloid3 翻唱高级教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Vocaloid3%20%E7%BF%BB%E5%94%B1%E9%AB%98%E7%BA%A7%E6%95%99%E7%A8%8B.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Vocaloid3%20%E7%BF%BB%E5%94%B1%E9%AB%98%E7%BA%A7%E6%95%99%E7%A8%8B.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Vocaloid3%20%E7%BF%BB%E5%94%B1%E9%AB%98%E7%BA%A7%E6%95%99%E7%A8%8B.pdf?format=raw)
+
+## Vocaloid：五线谱扒谱基础教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Vocaloid%EF%BC%9A%E4%BA%94%E7%BA%BF%E8%B0%B1%E6%89%92%E8%B0%B1%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Vocaloid%EF%BC%9A%E4%BA%94%E7%BA%BF%E8%B0%B1%E6%89%92%E8%B0%B1%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Vocaloid%EF%BC%9A%E4%BA%94%E7%BA%BF%E8%B0%B1%E6%89%92%E8%B0%B1%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf?format=raw)
+
+## Whoosh 2.7.4 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Whoosh%202.7.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/Whoosh%202.7.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/Whoosh%202.7.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## etcd
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/etcd.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/etcd.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/etcd.epub?format=raw)
+
+## golang实现网络爬虫
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/golang%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/golang%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/golang%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.epub?format=raw)
+
+## mappyfile 0.8 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/mappyfile%200.8%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/mappyfile%200.8%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/mappyfile%200.8%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## pycsw  2.3 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/pycsw%20%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/pycsw%20%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/pycsw%20%202.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## 「帅张和他的朋友们」第二期精华电子书
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E3%80%8C%E5%B8%85%E5%BC%A0%E5%92%8C%E4%BB%96%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E3%80%8D%E7%AC%AC%E4%BA%8C%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E3%80%8C%E5%B8%85%E5%BC%A0%E5%92%8C%E4%BB%96%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E3%80%8D%E7%AC%AC%E4%BA%8C%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E3%80%8C%E5%B8%85%E5%BC%A0%E5%92%8C%E4%BB%96%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E3%80%8D%E7%AC%AC%E4%BA%8C%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf?format=raw)
+
+## 中文 Vocaloid 创作入门教程 v1.1.0.DG
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%B8%AD%E6%96%87%20Vocaloid%20%E5%88%9B%E4%BD%9C%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%20v1.1.0.DG.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%B8%AD%E6%96%87%20Vocaloid%20%E5%88%9B%E4%BD%9C%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%20v1.1.0.DG.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%B8%AD%E6%96%87%20Vocaloid%20%E5%88%9B%E4%BD%9C%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%20v1.1.0.DG.pdf?format=raw)
+
+## 二十四小时玩转比特币钱包开发
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B0%8F%E6%97%B6%E7%8E%A9%E8%BD%AC%E6%AF%94%E7%89%B9%E5%B8%81%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B0%8F%E6%97%B6%E7%8E%A9%E8%BD%AC%E6%AF%94%E7%89%B9%E5%B8%81%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B0%8F%E6%97%B6%E7%8E%A9%E8%BD%AC%E6%AF%94%E7%89%B9%E5%B8%81%E9%92%B1%E5%8C%85%E5%BC%80%E5%8F%91.epub?format=raw)
+
+## 人脸识别综述（Austinla 译）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%BB%BC%E8%BF%B0%EF%BC%88Austinla%20%E8%AF%91%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%BB%BC%E8%BF%B0%EF%BC%88Austinla%20%E8%AF%91%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%BB%BC%E8%BF%B0%EF%BC%88Austinla%20%E8%AF%91%EF%BC%89.pdf?format=raw)
+
+## 从0到1：Hyperledger Fabric开发精要
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E0%E5%88%B01%EF%BC%9AHyperledger%20Fabric%E5%BC%80%E5%8F%91%E7%B2%BE%E8%A6%81.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E0%E5%88%B01%EF%BC%9AHyperledger%20Fabric%E5%BC%80%E5%8F%91%E7%B2%BE%E8%A6%81.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BB%8E0%E5%88%B01%EF%BC%9AHyperledger%20Fabric%E5%BC%80%E5%8F%91%E7%B2%BE%E8%A6%81.epub?format=raw)
+
+## 从零到壹实现Marbles资产管理系统 （Fabric-SDK-Node）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E5%AE%9E%E7%8E%B0Marbles%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20%EF%BC%88Fabric-SDK-Node%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E5%AE%9E%E7%8E%B0Marbles%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20%EF%BC%88Fabric-SDK-Node%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E5%AE%9E%E7%8E%B0Marbles%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20%EF%BC%88Fabric-SDK-Node%EF%BC%89.epub?format=raw)
+
+## 从零到壹构建基于 Fabric-SDK-Go 的Web应用
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%9E%84%E5%BB%BA%E5%9F%BA%E4%BA%8E%20Fabric-SDK-Go%20%E7%9A%84Web%E5%BA%94%E7%94%A8.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%9E%84%E5%BB%BA%E5%9F%BA%E4%BA%8E%20Fabric-SDK-Go%20%E7%9A%84Web%E5%BA%94%E7%94%A8.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%9E%84%E5%BB%BA%E5%9F%BA%E4%BA%8E%20Fabric-SDK-Go%20%E7%9A%84Web%E5%BA%94%E7%94%A8.epub?format=raw)
+
+## 从零到壹构建基于fabric-sdk-node的项目开发实战
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%9E%84%E5%BB%BA%E5%9F%BA%E4%BA%8Efabric-sdk-node%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%9E%84%E5%BB%BA%E5%9F%BA%E4%BA%8Efabric-sdk-node%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%9E%84%E5%BB%BA%E5%9F%BA%E4%BA%8Efabric-sdk-node%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.epub?format=raw)
+
+## 从零到壹深入学习区块链共识机制
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E5%8C%BA%E5%9D%97%E9%93%BE%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E5%8C%BA%E5%9D%97%E9%93%BE%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E5%8C%BA%E5%9D%97%E9%93%BE%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6.epub?format=raw)
+
+## 从零到壹深入学习区块链密码学
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AF%86%E7%A0%81%E5%AD%A6.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AF%86%E7%A0%81%E5%AD%A6.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BB%8E%E9%9B%B6%E5%88%B0%E5%A3%B9%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AF%86%E7%A0%81%E5%AD%A6.epub?format=raw)
+
+## 信安之路 2017 年刊
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BF%A1%E5%AE%89%E4%B9%8B%E8%B7%AF%202017%20%E5%B9%B4%E5%88%8A.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E4%BF%A1%E5%AE%89%E4%B9%8B%E8%B7%AF%202017%20%E5%B9%B4%E5%88%8A.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E4%BF%A1%E5%AE%89%E4%B9%8B%E8%B7%AF%202017%20%E5%B9%B4%E5%88%8A.pdf?format=raw)
+
+## 地理信息系统基础原理 
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86%20.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86%20.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86%20.epub?format=raw)
+
+## 基于EOS-Node.js的DApp工程项目实战---去中心化交易所
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%9F%BA%E4%BA%8EEOS-Node.js%E7%9A%84DApp%E5%B7%A5%E7%A8%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98---%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%BA%A4%E6%98%93%E6%89%80.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%9F%BA%E4%BA%8EEOS-Node.js%E7%9A%84DApp%E5%B7%A5%E7%A8%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98---%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%BA%A4%E6%98%93%E6%89%80.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E5%9F%BA%E4%BA%8EEOS-Node.js%E7%9A%84DApp%E5%B7%A5%E7%A8%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98---%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%BA%A4%E6%98%93%E6%89%80.epub?format=raw)
+
+## 基于ethereum的五种链环境搭建方式
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%9F%BA%E4%BA%8Eethereum%E7%9A%84%E4%BA%94%E7%A7%8D%E9%93%BE%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E6%96%B9%E5%BC%8F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%9F%BA%E4%BA%8Eethereum%E7%9A%84%E4%BA%94%E7%A7%8D%E9%93%BE%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E6%96%B9%E5%BC%8F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E5%9F%BA%E4%BA%8Eethereum%E7%9A%84%E4%BA%94%E7%A7%8D%E9%93%BE%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E6%96%B9%E5%BC%8F.epub?format=raw)
+
+## 基于区块链技术实现的学历信息征信系统
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%9F%BA%E4%BA%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%AD%A6%E5%8E%86%E4%BF%A1%E6%81%AF%E5%BE%81%E4%BF%A1%E7%B3%BB%E7%BB%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%9F%BA%E4%BA%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%AD%A6%E5%8E%86%E4%BF%A1%E6%81%AF%E5%BE%81%E4%BF%A1%E7%B3%BB%E7%BB%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E5%9F%BA%E4%BA%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%AD%A6%E5%8E%86%E4%BF%A1%E6%81%AF%E5%BE%81%E4%BF%A1%E7%B3%BB%E7%BB%9F.epub?format=raw)
+
+## 奇安信：紫队视角下的实战攻防演习组织
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E7%B4%AB%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E5%AE%9E%E6%88%98%E6%94%BB%E9%98%B2%E6%BC%94%E4%B9%A0%E7%BB%84%E7%BB%87.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E7%B4%AB%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E5%AE%9E%E6%88%98%E6%94%BB%E9%98%B2%E6%BC%94%E4%B9%A0%E7%BB%84%E7%BB%87.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E7%B4%AB%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E5%AE%9E%E6%88%98%E6%94%BB%E9%98%B2%E6%BC%94%E4%B9%A0%E7%BB%84%E7%BB%87.pdf?format=raw)
+
+## 奇安信：红队视角下的防御体系突破
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E7%BA%A2%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E9%98%B2%E5%BE%A1%E4%BD%93%E7%B3%BB%E7%AA%81%E7%A0%B4.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E7%BA%A2%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E9%98%B2%E5%BE%A1%E4%BD%93%E7%B3%BB%E7%AA%81%E7%A0%B4.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E7%BA%A2%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E9%98%B2%E5%BE%A1%E4%BD%93%E7%B3%BB%E7%AA%81%E7%A0%B4.pdf?format=raw)
+
+## 奇安信：蓝队视角下的防御体系构建
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E8%93%9D%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E9%98%B2%E5%BE%A1%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E8%93%9D%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E9%98%B2%E5%BE%A1%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E5%A5%87%E5%AE%89%E4%BF%A1%EF%BC%9A%E8%93%9D%E9%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E9%98%B2%E5%BE%A1%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA.pdf?format=raw)
+
+## 应用时间序列分析（李东风）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%BA%94%E7%94%A8%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E5%BA%94%E7%94%A8%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E5%BA%94%E7%94%A8%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf?format=raw)
+
+## 手把手教你实现简易比特币（Golang版）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%88Golang%E7%89%88%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%88Golang%E7%89%88%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%88Golang%E7%89%88%EF%BC%89.epub?format=raw)
+
+## 手把手教你实现简易比特币（Java版）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%88Java%E7%89%88%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%88Java%E7%89%88%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%88Java%E7%89%88%EF%BC%89.epub?format=raw)
+
+## 有三AI 视觉算法工程师成长指导手册 20190812
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%9C%89%E4%B8%89AI%20%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%88%90%E9%95%BF%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C%2020190812.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%9C%89%E4%B8%89AI%20%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%88%90%E9%95%BF%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C%2020190812.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E6%9C%89%E4%B8%89AI%20%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%88%90%E9%95%BF%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C%2020190812.pdf?format=raw)
+
+## 概率统计与R软件（李东风）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%8ER%E8%BD%AF%E4%BB%B6%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%8ER%E8%BD%AF%E4%BB%B6%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%8ER%E8%BD%AF%E4%BB%B6%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf?format=raw)
+
+## 波场Tron-极速环境搭建的实战工程模板
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%B3%A2%E5%9C%BATron-%E6%9E%81%E9%80%9F%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E7%9A%84%E5%AE%9E%E6%88%98%E5%B7%A5%E7%A8%8B%E6%A8%A1%E6%9D%BF.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E6%B3%A2%E5%9C%BATron-%E6%9E%81%E9%80%9F%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E7%9A%84%E5%AE%9E%E6%88%98%E5%B7%A5%E7%A8%8B%E6%A8%A1%E6%9D%BF.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E6%B3%A2%E5%9C%BATron-%E6%9E%81%E9%80%9F%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E7%9A%84%E5%AE%9E%E6%88%98%E5%B7%A5%E7%A8%8B%E6%A8%A1%E6%9D%BF.epub?format=raw)
+
+## 牛客校招面试题 C++、Java、前端、测试 2019
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%89%9B%E5%AE%A2%E6%A0%A1%E6%8B%9B%E9%9D%A2%E8%AF%95%E9%A2%98%20C%2B%2B%E3%80%81Java%E3%80%81%E5%89%8D%E7%AB%AF%E3%80%81%E6%B5%8B%E8%AF%95%202019.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%89%9B%E5%AE%A2%E6%A0%A1%E6%8B%9B%E9%9D%A2%E8%AF%95%E9%A2%98%20C%2B%2B%E3%80%81Java%E3%80%81%E5%89%8D%E7%AB%AF%E3%80%81%E6%B5%8B%E8%AF%95%202019.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%89%9B%E5%AE%A2%E6%A0%A1%E6%8B%9B%E9%9D%A2%E8%AF%95%E9%A2%98%20C%2B%2B%E3%80%81Java%E3%80%81%E5%89%8D%E7%AB%AF%E3%80%81%E6%B5%8B%E8%AF%95%202019.7z?format=raw)
+
+## 牛客网名企春招实习备战攻略 产品运营篇 2019
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0%E5%A4%87%E6%88%98%E6%94%BB%E7%95%A5%20%E4%BA%A7%E5%93%81%E8%BF%90%E8%90%A5%E7%AF%87%202019.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0%E5%A4%87%E6%88%98%E6%94%BB%E7%95%A5%20%E4%BA%A7%E5%93%81%E8%BF%90%E8%90%A5%E7%AF%87%202019.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0%E5%A4%87%E6%88%98%E6%94%BB%E7%95%A5%20%E4%BA%A7%E5%93%81%E8%BF%90%E8%90%A5%E7%AF%87%202019.pdf?format=raw)
+
+## 牛客网名企校招笔试真题精选 技术篇 2018
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%A0%A1%E6%8B%9B%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98%E7%B2%BE%E9%80%89%20%E6%8A%80%E6%9C%AF%E7%AF%87%202018.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%A0%A1%E6%8B%9B%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98%E7%B2%BE%E9%80%89%20%E6%8A%80%E6%9C%AF%E7%AF%87%202018.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%A0%A1%E6%8B%9B%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98%E7%B2%BE%E9%80%89%20%E6%8A%80%E6%9C%AF%E7%AF%87%202018.pdf?format=raw)
+
+## 犹他州立大学 Python GDAL 课程笔记 
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%8A%B9%E4%BB%96%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%20Python%20GDAL%20%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0%20.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%8A%B9%E4%BB%96%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%20Python%20GDAL%20%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0%20.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%8A%B9%E4%BB%96%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%20Python%20GDAL%20%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0%20.epub?format=raw)
+
+## 玩转Python热门库
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%8E%A9%E8%BD%ACPython%E7%83%AD%E9%97%A8%E5%BA%93.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%8E%A9%E8%BD%ACPython%E7%83%AD%E9%97%A8%E5%BA%93.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%8E%A9%E8%BD%ACPython%E7%83%AD%E9%97%A8%E5%BA%93.epub?format=raw)
+
+## 百页机器学习小书
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%99%BE%E9%A1%B5%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B0%8F%E4%B9%A6.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%99%BE%E9%A1%B5%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B0%8F%E4%B9%A6.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%99%BE%E9%A1%B5%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B0%8F%E4%B9%A6.pdf?format=raw)
+
+## 神经机器翻译综述（李亚超等）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%A5%9E%E7%BB%8F%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E7%BB%BC%E8%BF%B0%EF%BC%88%E6%9D%8E%E4%BA%9A%E8%B6%85%E7%AD%89%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%A5%9E%E7%BB%8F%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E7%BB%BC%E8%BF%B0%EF%BC%88%E6%9D%8E%E4%BA%9A%E8%B6%85%E7%AD%89%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%A5%9E%E7%BB%8F%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E7%BB%BC%E8%BF%B0%EF%BC%88%E6%9D%8E%E4%BA%9A%E8%B6%85%E7%AD%89%EF%BC%89.pdf?format=raw)
+
+## 简单粗暴 TensorFlow 2.0
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4%20TensorFlow%202.0.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4%20TensorFlow%202.0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%AE%80%E5%8D%95%E7%B2%97%E6%9A%B4%20TensorFlow%202.0.epub?format=raw)
+
+## 精读以太坊源码
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%B2%BE%E8%AF%BB%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%BA%90%E7%A0%81.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%B2%BE%E8%AF%BB%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%BA%90%E7%A0%81.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%B2%BE%E8%AF%BB%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%BA%90%E7%A0%81.epub?format=raw)
+
+## 统计计算第二版（李东风）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%88%E6%9D%8E%E4%B8%9C%E9%A3%8E%EF%BC%89.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1806
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201806.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201806.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201806.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1812
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201812.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201812.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201812.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1901
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201901.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201901.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201901.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1904
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201904.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201904.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201904.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1906
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201906.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201906.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201906.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1907
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201907.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201907.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201907.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1908
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201908.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201908.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201908.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1909
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201909.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201909.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201909.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1910
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201910.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201910.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201910.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书 1911
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201911.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201911.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6%201911.pdf?format=raw)
+
+## 计算思维导论（陆朝俊）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%E5%AF%BC%E8%AE%BA%EF%BC%88%E9%99%86%E6%9C%9D%E4%BF%8A%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%E5%AF%BC%E8%AE%BA%EF%BC%88%E9%99%86%E6%9C%9D%E4%BF%8A%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%E5%AF%BC%E8%AE%BA%EF%BC%88%E9%99%86%E6%9C%9D%E4%BF%8A%EF%BC%89.pdf?format=raw)
+
+## 谷歌计算思维课程（中文版）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E8%B0%B7%E6%AD%8C%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E8%B0%B7%E6%AD%8C%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E8%B0%B7%E6%AD%8C%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%E8%AF%BE%E7%A8%8B%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf?format=raw)
+
+## 预测：方法与实践 中文第二版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E9%A2%84%E6%B5%8B%EF%BC%9A%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-extra1/raw/master/%E9%A2%84%E6%B5%8B%EF%BC%9A%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-extra1/code/ci/master/tree/%E9%A2%84%E6%B5%8B%EF%BC%9A%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.epub?format=raw)
