@@ -1,0 +1,896 @@
+---
+title: 计算机电子书 2019 归档
+date: 2020-01-01 00:00:00
+---
+
+&zwj;
+
+<!--more-->
+
+## 2017 运营技能成长地图
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/2017%20%E8%BF%90%E8%90%A5%E6%8A%80%E8%83%BD%E6%88%90%E9%95%BF%E5%9C%B0%E5%9B%BE.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/2017%20%E8%BF%90%E8%90%A5%E6%8A%80%E8%83%BD%E6%88%90%E9%95%BF%E5%9C%B0%E5%9B%BE.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/2017%20%E8%BF%90%E8%90%A5%E6%8A%80%E8%83%BD%E6%88%90%E9%95%BF%E5%9C%B0%E5%9B%BE.pdf?format=raw)
+
+## 5 分钟商学院精细笔记 000_185
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/5%20%E5%88%86%E9%92%9F%E5%95%86%E5%AD%A6%E9%99%A2%E7%B2%BE%E7%BB%86%E7%AC%94%E8%AE%B0%20000_185.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/5%20%E5%88%86%E9%92%9F%E5%95%86%E5%AD%A6%E9%99%A2%E7%B2%BE%E7%BB%86%E7%AC%94%E8%AE%B0%20000_185.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/5%20%E5%88%86%E9%92%9F%E5%95%86%E5%AD%A6%E9%99%A2%E7%B2%BE%E7%BB%86%E7%AC%94%E8%AE%B0%20000_185.epub?format=raw)
+
+## A Comprehensive Guide to Machine Learning (UCB CS189)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/A%20Comprehensive%20Guide%20to%20Machine%20Learning%20%28UCB%20CS189%29.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/A%20Comprehensive%20Guide%20to%20Machine%20Learning%20%28UCB%20CS189%29.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/A%20Comprehensive%20Guide%20to%20Machine%20Learning%20%28UCB%20CS189%29.pdf?format=raw)
+
+## Algorithms (Jeff Erickson)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Algorithms%20%28Jeff%20Erickson%29.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Algorithms%20%28Jeff%20Erickson%29.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/Algorithms%20%28Jeff%20Erickson%29.pdf?format=raw)
+
+## Concise Machine Learning (UCB CS189)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Concise%20Machine%20Learning%20%28UCB%20CS189%29.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Concise%20Machine%20Learning%20%28UCB%20CS189%29.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/Concise%20Machine%20Learning%20%28UCB%20CS189%29.pdf?format=raw)
+
+## Flink 1.7-SNAPSHOT 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Flink%201.7-SNAPSHOT%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Flink%201.7-SNAPSHOT%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/Flink%201.7-SNAPSHOT%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Git 命令大全
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Git%20%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Git%20%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/Git%20%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.epub?format=raw)
+
+## GrowingIO 产品经理数据分析手册
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/GrowingIO%20%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C.pdf?format=raw)
+
+## GrowingIO 增长黑客手册
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2%E6%89%8B%E5%86%8C.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2%E6%89%8B%E5%86%8C.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/GrowingIO%20%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2%E6%89%8B%E5%86%8C.pdf?format=raw)
+
+## GrowingIO 提升流量转化率
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E6%8F%90%E5%8D%87%E6%B5%81%E9%87%8F%E8%BD%AC%E5%8C%96%E7%8E%87.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E6%8F%90%E5%8D%87%E6%B5%81%E9%87%8F%E8%BD%AC%E5%8C%96%E7%8E%87.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/GrowingIO%20%E6%8F%90%E5%8D%87%E6%B5%81%E9%87%8F%E8%BD%AC%E5%8C%96%E7%8E%87.pdf?format=raw)
+
+## GrowingIO 数据运营手册 
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E6%95%B0%E6%8D%AE%E8%BF%90%E8%90%A5%E6%89%8B%E5%86%8C%20.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E6%95%B0%E6%8D%AE%E8%BF%90%E8%90%A5%E6%89%8B%E5%86%8C%20.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/GrowingIO%20%E6%95%B0%E6%8D%AE%E8%BF%90%E8%90%A5%E6%89%8B%E5%86%8C%20.pdf?format=raw)
+
+## GrowingIO 渠道流量分析手册
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E6%B8%A0%E9%81%93%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/GrowingIO%20%E6%B8%A0%E9%81%93%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/GrowingIO%20%E6%B8%A0%E9%81%93%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C.pdf?format=raw)
+
+## PyTorch 0.3 中文文档 & 教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/PyTorch%200.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3%20%26%20%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/PyTorch%200.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3%20%26%20%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/PyTorch%200.3%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3%20%26%20%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## PyTorch 0.4 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/PyTorch%200.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/PyTorch%200.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/PyTorch%200.4%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Python 2018 年度报告完整版（麻瓜编程译）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Python%202018%20%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%88%E9%BA%BB%E7%93%9C%E7%BC%96%E7%A8%8B%E8%AF%91%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Python%202018%20%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%88%E9%BA%BB%E7%93%9C%E7%BC%96%E7%A8%8B%E8%AF%91%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/Python%202018%20%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%88%E9%BA%BB%E7%93%9C%E7%BC%96%E7%A8%8B%E8%AF%91%EF%BC%89.pdf?format=raw)
+
+## Selenium 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Selenium%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Selenium%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/Selenium%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.pdf?format=raw)
+
+## Stackoverflow 上关于 Python 的问题
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Stackoverflow%20%E4%B8%8A%E5%85%B3%E4%BA%8E%20Python%20%E7%9A%84%E9%97%AE%E9%A2%98.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Stackoverflow%20%E4%B8%8A%E5%85%B3%E4%BA%8E%20Python%20%E7%9A%84%E9%97%AE%E9%A2%98.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/Stackoverflow%20%E4%B8%8A%E5%85%B3%E4%BA%8E%20Python%20%E7%9A%84%E9%97%AE%E9%A2%98.epub?format=raw)
+
+## Statistical Thinking for the 21st Century
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Statistical%20Thinking%20for%20the%2021st%20Century.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/Statistical%20Thinking%20for%20the%2021st%20Century.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/Statistical%20Thinking%20for%20the%2021st%20Century.epub?format=raw)
+
+## 《穿越债务危机》Part1 v4.0
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E3%80%8A%E7%A9%BF%E8%B6%8A%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E3%80%8BPart1%20v4.0.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E3%80%8A%E7%A9%BF%E8%B6%8A%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E3%80%8BPart1%20v4.0.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E3%80%8A%E7%A9%BF%E8%B6%8A%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E3%80%8BPart1%20v4.0.pdf?format=raw)
+
+## 「帅张和他的朋友们」第一期精华电子书
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E3%80%8C%E5%B8%85%E5%BC%A0%E5%92%8C%E4%BB%96%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E3%80%8D%E7%AC%AC%E4%B8%80%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E3%80%8C%E5%B8%85%E5%BC%A0%E5%92%8C%E4%BB%96%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E3%80%8D%E7%AC%AC%E4%B8%80%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E3%80%8C%E5%B8%85%E5%BC%A0%E5%92%8C%E4%BB%96%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E3%80%8D%E7%AC%AC%E4%B8%80%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf?format=raw)
+
+## 产品经理数据分析手册（于晓松）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C%EF%BC%88%E4%BA%8E%E6%99%93%E6%9D%BE%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C%EF%BC%88%E4%BA%8E%E6%99%93%E6%9D%BE%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%89%8B%E5%86%8C%EF%BC%88%E4%BA%8E%E6%99%93%E6%9D%BE%EF%BC%89.pdf?format=raw)
+
+## 传智扫地僧 C、C++、数据结构、设计模式
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%89%AB%E5%9C%B0%E5%83%A7%20C%E3%80%81C%2B%2B%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%89%AB%E5%9C%B0%E5%83%A7%20C%E3%80%81C%2B%2B%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E4%BC%A0%E6%99%BA%E6%89%AB%E5%9C%B0%E5%83%A7%20C%E3%80%81C%2B%2B%E3%80%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.7z?format=raw)
+
+## 传智播客 Android 面试题精编第四版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Android%20%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E7%BC%96%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Android%20%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E7%BC%96%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Android%20%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E7%BC%96%E7%AC%AC%E5%9B%9B%E7%89%88.pdf?format=raw)
+
+## 传智播客 Android、C++、Java、PHP、大数据面试宝典
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Android%E3%80%81C%2B%2B%E3%80%81Java%E3%80%81PHP%E3%80%81%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Android%E3%80%81C%2B%2B%E3%80%81Java%E3%80%81PHP%E3%80%81%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Android%E3%80%81C%2B%2B%E3%80%81Java%E3%80%81PHP%E3%80%81%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8.7z?format=raw)
+
+## 传智播客 Qt5 教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Qt5%20%E6%95%99%E7%A8%8B.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Qt5%20%E6%95%99%E7%A8%8B.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Qt5%20%E6%95%99%E7%A8%8B.pdf?format=raw)
+
+## 传智播客 Spring、SpringMVC、Hibernate、MyBatis、Struts、Maven、SVN、大数据讲义
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Spring%E3%80%81SpringMVC%E3%80%81Hibernate%E3%80%81MyBatis%E3%80%81Struts%E3%80%81Maven%E3%80%81SVN%E3%80%81%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%AE%B2%E4%B9%89.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Spring%E3%80%81SpringMVC%E3%80%81Hibernate%E3%80%81MyBatis%E3%80%81Struts%E3%80%81Maven%E3%80%81SVN%E3%80%81%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%AE%B2%E4%B9%89.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%20Spring%E3%80%81SpringMVC%E3%80%81Hibernate%E3%80%81MyBatis%E3%80%81Struts%E3%80%81Maven%E3%80%81SVN%E3%80%81%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%AE%B2%E4%B9%89.7z?format=raw)
+
+## 传智播客轻松搞定系列 C、C++、Linux、设计模式
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E8%BD%BB%E6%9D%BE%E6%90%9E%E5%AE%9A%E7%B3%BB%E5%88%97%20C%E3%80%81C%2B%2B%E3%80%81Linux%E3%80%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E8%BD%BB%E6%9D%BE%E6%90%9E%E5%AE%9A%E7%B3%BB%E5%88%97%20C%E3%80%81C%2B%2B%E3%80%81Linux%E3%80%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E8%BD%BB%E6%9D%BE%E6%90%9E%E5%AE%9A%E7%B3%BB%E5%88%97%20C%E3%80%81C%2B%2B%E3%80%81Linux%E3%80%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.7z?format=raw)
+
+## 原则 · 中文版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E5%8E%9F%E5%88%99%20%C2%B7%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E5%8E%9F%E5%88%99%20%C2%B7%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E5%8E%9F%E5%88%99%20%C2%B7%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
+
+## 坐享其成
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E5%9D%90%E4%BA%AB%E5%85%B6%E6%88%90.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E5%9D%90%E4%BA%AB%E5%85%B6%E6%88%90.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E5%9D%90%E4%BA%AB%E5%85%B6%E6%88%90.epub?format=raw)
+
+## 寒冬里的炭火：机器之心2018高分教程合集
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E5%AF%92%E5%86%AC%E9%87%8C%E7%9A%84%E7%82%AD%E7%81%AB%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%832018%E9%AB%98%E5%88%86%E6%95%99%E7%A8%8B%E5%90%88%E9%9B%86.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E5%AF%92%E5%86%AC%E9%87%8C%E7%9A%84%E7%82%AD%E7%81%AB%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%832018%E9%AB%98%E5%88%86%E6%95%99%E7%A8%8B%E5%90%88%E9%9B%86.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E5%AF%92%E5%86%AC%E9%87%8C%E7%9A%84%E7%82%AD%E7%81%AB%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%832018%E9%AB%98%E5%88%86%E6%95%99%E7%A8%8B%E5%90%88%E9%9B%86.epub?format=raw)
+
+## 把时间当做朋友
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E5%81%9A%E6%9C%8B%E5%8F%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E5%81%9A%E6%9C%8B%E5%8F%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E5%81%9A%E6%9C%8B%E5%8F%8B.epub?format=raw)
+
+## 数据科学和人工智能技术笔记
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0.epub?format=raw)
+
+## 新生
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E6%96%B0%E7%94%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E6%96%B0%E7%94%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E6%96%B0%E7%94%9F.epub?format=raw)
+
+## 深入理解 TypeScript
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20TypeScript.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20TypeScript.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20TypeScript.epub?format=raw)
+
+## 牛客网名企春招实习备战攻略 技术篇 2019
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0%E5%A4%87%E6%88%98%E6%94%BB%E7%95%A5%20%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0%E5%A4%87%E6%88%98%E6%94%BB%E7%95%A5%20%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0%E5%A4%87%E6%88%98%E6%94%BB%E7%95%A5%20%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf?format=raw)
+
+## 知乎问答：为什么感觉现在全中国都在加班，到底都在加什么？
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E7%8E%B0%E5%9C%A8%E5%85%A8%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%9C%A8%E5%8A%A0%E7%8F%AD%EF%BC%8C%E5%88%B0%E5%BA%95%E9%83%BD%E5%9C%A8%E5%8A%A0%E4%BB%80%E4%B9%88%EF%BC%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E7%8E%B0%E5%9C%A8%E5%85%A8%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%9C%A8%E5%8A%A0%E7%8F%AD%EF%BC%8C%E5%88%B0%E5%BA%95%E9%83%BD%E5%9C%A8%E5%8A%A0%E4%BB%80%E4%B9%88%EF%BC%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E7%8E%B0%E5%9C%A8%E5%85%A8%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%9C%A8%E5%8A%A0%E7%8F%AD%EF%BC%8C%E5%88%B0%E5%BA%95%E9%83%BD%E5%9C%A8%E5%8A%A0%E4%BB%80%E4%B9%88%EF%BC%9F.epub?format=raw)
+
+## 知乎问答：为华为工作几年之后华为会卸磨杀驴是真的吗？
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E5%8D%8E%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%87%A0%E5%B9%B4%E4%B9%8B%E5%90%8E%E5%8D%8E%E4%B8%BA%E4%BC%9A%E5%8D%B8%E7%A3%A8%E6%9D%80%E9%A9%B4%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E5%8D%8E%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%87%A0%E5%B9%B4%E4%B9%8B%E5%90%8E%E5%8D%8E%E4%B8%BA%E4%BC%9A%E5%8D%B8%E7%A3%A8%E6%9D%80%E9%A9%B4%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E5%8D%8E%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%87%A0%E5%B9%B4%E4%B9%8B%E5%90%8E%E5%8D%8E%E4%B8%BA%E4%BC%9A%E5%8D%B8%E7%A3%A8%E6%9D%80%E9%A9%B4%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%EF%BC%9F.epub?format=raw)
+
+## 知乎问答：如何看待 42 岁中兴网信研发负责人欧建新被辞退后坠亡？
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%2042%20%E5%B2%81%E4%B8%AD%E5%85%B4%E7%BD%91%E4%BF%A1%E7%A0%94%E5%8F%91%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%AC%A7%E5%BB%BA%E6%96%B0%E8%A2%AB%E8%BE%9E%E9%80%80%E5%90%8E%E5%9D%A0%E4%BA%A1%EF%BC%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%2042%20%E5%B2%81%E4%B8%AD%E5%85%B4%E7%BD%91%E4%BF%A1%E7%A0%94%E5%8F%91%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%AC%A7%E5%BB%BA%E6%96%B0%E8%A2%AB%E8%BE%9E%E9%80%80%E5%90%8E%E5%9D%A0%E4%BA%A1%EF%BC%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%2042%20%E5%B2%81%E4%B8%AD%E5%85%B4%E7%BD%91%E4%BF%A1%E7%A0%94%E5%8F%91%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%AC%A7%E5%BB%BA%E6%96%B0%E8%A2%AB%E8%BE%9E%E9%80%80%E5%90%8E%E5%9D%A0%E4%BA%A1%EF%BC%9F.epub?format=raw)
+
+## 知乎问答：如何看待 IBM 裁减 40 岁以上员工，聘用年轻员工，目标是实现创新？
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%20IBM%20%E8%A3%81%E5%87%8F%2040%20%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%91%98%E5%B7%A5%EF%BC%8C%E8%81%98%E7%94%A8%E5%B9%B4%E8%BD%BB%E5%91%98%E5%B7%A5%EF%BC%8C%E7%9B%AE%E6%A0%87%E6%98%AF%E5%AE%9E%E7%8E%B0%E5%88%9B%E6%96%B0%EF%BC%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%20IBM%20%E8%A3%81%E5%87%8F%2040%20%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%91%98%E5%B7%A5%EF%BC%8C%E8%81%98%E7%94%A8%E5%B9%B4%E8%BD%BB%E5%91%98%E5%B7%A5%EF%BC%8C%E7%9B%AE%E6%A0%87%E6%98%AF%E5%AE%9E%E7%8E%B0%E5%88%9B%E6%96%B0%EF%BC%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%20IBM%20%E8%A3%81%E5%87%8F%2040%20%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%91%98%E5%B7%A5%EF%BC%8C%E8%81%98%E7%94%A8%E5%B9%B4%E8%BD%BB%E5%91%98%E5%B7%A5%EF%BC%8C%E7%9B%AE%E6%A0%87%E6%98%AF%E5%AE%9E%E7%8E%B0%E5%88%9B%E6%96%B0%EF%BC%9F.epub?format=raw)
+
+## 知乎问答：如何看待「不接受 996 就是吃不了苦」的论调？
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E4%B8%8D%E6%8E%A5%E5%8F%97%20996%20%E5%B0%B1%E6%98%AF%E5%90%83%E4%B8%8D%E4%BA%86%E8%8B%A6%E3%80%8D%E7%9A%84%E8%AE%BA%E8%B0%83%EF%BC%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E4%B8%8D%E6%8E%A5%E5%8F%97%20996%20%E5%B0%B1%E6%98%AF%E5%90%83%E4%B8%8D%E4%BA%86%E8%8B%A6%E3%80%8D%E7%9A%84%E8%AE%BA%E8%B0%83%EF%BC%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E4%B8%8D%E6%8E%A5%E5%8F%97%20996%20%E5%B0%B1%E6%98%AF%E5%90%83%E4%B8%8D%E4%BA%86%E8%8B%A6%E3%80%8D%E7%9A%84%E8%AE%BA%E8%B0%83%EF%BC%9F.epub?format=raw)
+
+## 知乎问答：没有导师的指导，研究生如何阅读文献、提出创见、写论文？
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%AF%BC%E5%B8%88%E7%9A%84%E6%8C%87%E5%AF%BC%EF%BC%8C%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E6%96%87%E7%8C%AE%E3%80%81%E6%8F%90%E5%87%BA%E5%88%9B%E8%A7%81%E3%80%81%E5%86%99%E8%AE%BA%E6%96%87%EF%BC%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%AF%BC%E5%B8%88%E7%9A%84%E6%8C%87%E5%AF%BC%EF%BC%8C%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E6%96%87%E7%8C%AE%E3%80%81%E6%8F%90%E5%87%BA%E5%88%9B%E8%A7%81%E3%80%81%E5%86%99%E8%AE%BA%E6%96%87%EF%BC%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E7%9F%A5%E4%B9%8E%E9%97%AE%E7%AD%94%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%AF%BC%E5%B8%88%E7%9A%84%E6%8C%87%E5%AF%BC%EF%BC%8C%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E6%96%87%E7%8C%AE%E3%80%81%E6%8F%90%E5%87%BA%E5%88%9B%E8%A7%81%E3%80%81%E5%86%99%E8%AE%BA%E6%96%87%EF%BC%9F.epub?format=raw)
+
+## 腾讯 2019 中国互联网趋势报告
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%85%BE%E8%AE%AF%202019%20%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%85%BE%E8%AE%AF%202019%20%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%85%BE%E8%AE%AF%202019%20%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A.pdf?format=raw)
+
+## 达内 AJAX 和 JQuery_扫描版_2.11M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20AJAX%20%E5%92%8C%20JQuery_%E6%89%AB%E6%8F%8F%E7%89%88_2.11M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20AJAX%20%E5%92%8C%20JQuery_%E6%89%AB%E6%8F%8F%E7%89%88_2.11M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20AJAX%20%E5%92%8C%20JQuery_%E6%89%AB%E6%8F%8F%E7%89%88_2.11M.pdf?format=raw)
+
+## 达内 HTML 和 CSS_扫描版_2.23M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20HTML%20%E5%92%8C%20CSS_%E6%89%AB%E6%8F%8F%E7%89%88_2.23M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20HTML%20%E5%92%8C%20CSS_%E6%89%AB%E6%8F%8F%E7%89%88_2.23M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20HTML%20%E5%92%8C%20CSS_%E6%89%AB%E6%8F%8F%E7%89%88_2.23M.pdf?format=raw)
+
+## 达内 Hibernate 核心_扫描版_2.46M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Hibernate%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_2.46M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Hibernate%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_2.46M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Hibernate%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_2.46M.pdf?format=raw)
+
+## 达内 Java 企业及互联网项目 NetCTOSS_扫描版_2.98M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E4%BC%81%E4%B8%9A%E5%8F%8A%E4%BA%92%E8%81%94%E7%BD%91%E9%A1%B9%E7%9B%AE%20NetCTOSS_%E6%89%AB%E6%8F%8F%E7%89%88_2.98M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E4%BC%81%E4%B8%9A%E5%8F%8A%E4%BA%92%E8%81%94%E7%BD%91%E9%A1%B9%E7%9B%AE%20NetCTOSS_%E6%89%AB%E6%8F%8F%E7%89%88_2.98M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Java%20%E4%BC%81%E4%B8%9A%E5%8F%8A%E4%BA%92%E8%81%94%E7%BD%91%E9%A1%B9%E7%9B%AE%20NetCTOSS_%E6%89%AB%E6%8F%8F%E7%89%88_2.98M.pdf?format=raw)
+
+## 达内 Java 企业面试题精选_扫描版_3.24M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E9%80%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.24M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E9%80%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.24M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Java%20%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E9%80%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.24M.pdf?format=raw)
+
+## 达内 Java 数据库编程_扫描版_2.1M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B_%E6%89%AB%E6%8F%8F%E7%89%88_2.1M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B_%E6%89%AB%E6%8F%8F%E7%89%88_2.1M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Java%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B_%E6%89%AB%E6%8F%8F%E7%89%88_2.1M.pdf?format=raw)
+
+## 达内 Java 核心 API（上）_扫描版_3.05M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E6%A0%B8%E5%BF%83%20API%EF%BC%88%E4%B8%8A%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.05M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E6%A0%B8%E5%BF%83%20API%EF%BC%88%E4%B8%8A%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.05M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Java%20%E6%A0%B8%E5%BF%83%20API%EF%BC%88%E4%B8%8A%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.05M.pdf?format=raw)
+
+## 达内 Java 核心 API（下）_扫描版_3.04M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E6%A0%B8%E5%BF%83%20API%EF%BC%88%E4%B8%8B%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.04M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E6%A0%B8%E5%BF%83%20API%EF%BC%88%E4%B8%8B%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.04M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Java%20%E6%A0%B8%E5%BF%83%20API%EF%BC%88%E4%B8%8B%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_3.04M.pdf?format=raw)
+
+## 达内 Java 经典项目集锦_扫描版_3.14M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E7%BB%8F%E5%85%B8%E9%A1%B9%E7%9B%AE%E9%9B%86%E9%94%A6_%E6%89%AB%E6%8F%8F%E7%89%88_3.14M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E7%BB%8F%E5%85%B8%E9%A1%B9%E7%9B%AE%E9%9B%86%E9%94%A6_%E6%89%AB%E6%8F%8F%E7%89%88_3.14M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Java%20%E7%BB%8F%E5%85%B8%E9%A1%B9%E7%9B%AE%E9%9B%86%E9%94%A6_%E6%89%AB%E6%8F%8F%E7%89%88_3.14M.pdf?format=raw)
+
+## 达内 Java 语言基础_扫描版_2.4M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80_%E6%89%AB%E6%8F%8F%E7%89%88_2.4M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80_%E6%89%AB%E6%8F%8F%E7%89%88_2.4M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Java%20%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80_%E6%89%AB%E6%8F%8F%E7%89%88_2.4M.pdf?format=raw)
+
+## 达内 Java 面向对象_扫描版_1.75M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1_%E6%89%AB%E6%8F%8F%E7%89%88_1.75M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Java%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1_%E6%89%AB%E6%8F%8F%E7%89%88_1.75M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Java%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1_%E6%89%AB%E6%8F%8F%E7%89%88_1.75M.pdf?format=raw)
+
+## 达内 JavaScript_扫描版_3.21M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20JavaScript_%E6%89%AB%E6%8F%8F%E7%89%88_3.21M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20JavaScript_%E6%89%AB%E6%8F%8F%E7%89%88_3.21M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20JavaScript_%E6%89%AB%E6%8F%8F%E7%89%88_3.21M.pdf?format=raw)
+
+## 达内 MyBatis 核心_扫描版_2.42M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20MyBatis%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_2.42M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20MyBatis%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_2.42M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20MyBatis%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_2.42M.pdf?format=raw)
+
+## 达内 Oracle 数据库基础_扫描版_2.71M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Oracle%20%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80_%E6%89%AB%E6%8F%8F%E7%89%88_2.71M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Oracle%20%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80_%E6%89%AB%E6%8F%8F%E7%89%88_2.71M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Oracle%20%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80_%E6%89%AB%E6%8F%8F%E7%89%88_2.71M.pdf?format=raw)
+
+## 达内 SSH 开发实战_扫描版_1.95M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20SSH%20%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98_%E6%89%AB%E6%8F%8F%E7%89%88_1.95M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20SSH%20%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98_%E6%89%AB%E6%8F%8F%E7%89%88_1.95M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20SSH%20%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98_%E6%89%AB%E6%8F%8F%E7%89%88_1.95M.pdf?format=raw)
+
+## 达内 Servlet 和 JSP（上）_扫描版_2.84M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Servlet%20%E5%92%8C%20JSP%EF%BC%88%E4%B8%8A%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_2.84M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Servlet%20%E5%92%8C%20JSP%EF%BC%88%E4%B8%8A%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_2.84M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Servlet%20%E5%92%8C%20JSP%EF%BC%88%E4%B8%8A%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_2.84M.pdf?format=raw)
+
+## 达内 Servlet 和 JSP（下）_扫描版_2M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Servlet%20%E5%92%8C%20JSP%EF%BC%88%E4%B8%8B%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_2M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Servlet%20%E5%92%8C%20JSP%EF%BC%88%E4%B8%8B%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_2M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Servlet%20%E5%92%8C%20JSP%EF%BC%88%E4%B8%8B%EF%BC%89_%E6%89%AB%E6%8F%8F%E7%89%88_2M.pdf?format=raw)
+
+## 达内 Spring 核心_扫描版_3.61M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Spring%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_3.61M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Spring%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_3.61M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Spring%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_3.61M.pdf?format=raw)
+
+## 达内 Spring+MyBatis 开发实战_扫描版_2.42M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Spring%2BMyBatis%20%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98_%E6%89%AB%E6%8F%8F%E7%89%88_2.42M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Spring%2BMyBatis%20%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98_%E6%89%AB%E6%8F%8F%E7%89%88_2.42M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Spring%2BMyBatis%20%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98_%E6%89%AB%E6%8F%8F%E7%89%88_2.42M.pdf?format=raw)
+
+## 达内 Struts 核心_扫描版_4.15M
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Struts%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_4.15M.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E8%BE%BE%E5%86%85%20Struts%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_4.15M.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E8%BE%BE%E5%86%85%20Struts%20%E6%A0%B8%E5%BF%83_%E6%89%AB%E6%8F%8F%E7%89%88_4.15M.pdf?format=raw)
+
+## 通往财富自由之路精细笔记
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E9%80%9A%E5%BE%80%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF%E7%B2%BE%E7%BB%86%E7%AC%94%E8%AE%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-01to02/raw/master/%E9%80%9A%E5%BE%80%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF%E7%B2%BE%E7%BB%86%E7%AC%94%E8%AE%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-01to02/code/ci/master/tree/%E9%80%9A%E5%BE%80%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF%E7%B2%BE%E7%BB%86%E7%AC%94%E8%AE%B0.epub?format=raw)
+
+## AAAI 2019 Notes
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/AAAI%202019%20Notes.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/AAAI%202019%20Notes.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/AAAI%202019%20Notes.pdf?format=raw)
+
+## AMiner 报告 2018
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/AMiner%20%E6%8A%A5%E5%91%8A%202018.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/AMiner%20%E6%8A%A5%E5%91%8A%202018.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/AMiner%20%E6%8A%A5%E5%91%8A%202018.7z?format=raw)
+
+## C++ STL快速入门（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/C%2B%2B%20STL%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/C%2B%2B%20STL%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/C%2B%2B%20STL%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## CSS3 教程，7 天快速入门（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/CSS3%20%E6%95%99%E7%A8%8B%EF%BC%8C7%20%E5%A4%A9%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/CSS3%20%E6%95%99%E7%A8%8B%EF%BC%8C7%20%E5%A4%A9%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/CSS3%20%E6%95%99%E7%A8%8B%EF%BC%8C7%20%E5%A4%A9%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Crypto101
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Crypto101.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Crypto101.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Crypto101.pdf?format=raw)
+
+## Deep Learning Super VIP Cheatsheet
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Deep%20Learning%20Super%20VIP%20Cheatsheet.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Deep%20Learning%20Super%20VIP%20Cheatsheet.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Deep%20Learning%20Super%20VIP%20Cheatsheet.pdf?format=raw)
+
+## Deep Learning with Keras and Tensorflow
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Deep%20Learning%20with%20Keras%20and%20Tensorflow.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Deep%20Learning%20with%20Keras%20and%20Tensorflow.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Deep%20Learning%20with%20Keras%20and%20Tensorflow.epub?format=raw)
+
+## Flask 入门教程（李辉）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Flask%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88%E6%9D%8E%E8%BE%89%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Flask%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88%E6%9D%8E%E8%BE%89%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Flask%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88%E6%9D%8E%E8%BE%89%EF%BC%89.epub?format=raw)
+
+## Flutter 完整开发实战详解系列
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Flutter%20%E5%AE%8C%E6%95%B4%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%A6%E8%A7%A3%E7%B3%BB%E5%88%97.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Flutter%20%E5%AE%8C%E6%95%B4%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%A6%E8%A7%A3%E7%B3%BB%E5%88%97.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Flutter%20%E5%AE%8C%E6%95%B4%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E8%AF%A6%E8%A7%A3%E7%B3%BB%E5%88%97.pdf?format=raw)
+
+## GCC 编译器 30 分钟入门教程（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/GCC%20%E7%BC%96%E8%AF%91%E5%99%A8%2030%20%E5%88%86%E9%92%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/GCC%20%E7%BC%96%E8%AF%91%E5%99%A8%2030%20%E5%88%86%E9%92%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/GCC%20%E7%BC%96%E8%AF%91%E5%99%A8%2030%20%E5%88%86%E9%92%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Go Mega 教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Go%20Mega%20%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Go%20Mega%20%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Go%20Mega%20%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## Go 专家编程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Go%20%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Go%20%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Go%20%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.epub?format=raw)
+
+## Go 语言入门教程（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Go%20%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Go%20%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Go%20%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Go 语言四十二章经
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Go%20%E8%AF%AD%E8%A8%80%E5%9B%9B%E5%8D%81%E4%BA%8C%E7%AB%A0%E7%BB%8F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Go%20%E8%AF%AD%E8%A8%80%E5%9B%9B%E5%8D%81%E4%BA%8C%E7%AB%A0%E7%BB%8F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Go%20%E8%AF%AD%E8%A8%80%E5%9B%9B%E5%8D%81%E4%BA%8C%E7%AB%A0%E7%BB%8F.epub?format=raw)
+
+## ICLR 2019 Notes
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/ICLR%202019%20Notes.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/ICLR%202019%20Notes.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/ICLR%202019%20Notes.pdf?format=raw)
+
+## ICML 2019 Notes
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/ICML%202019%20Notes.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/ICML%202019%20Notes.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/ICML%202019%20Notes.pdf?format=raw)
+
+## JSP 教程：1 天玩转 JSP 网站开发技术（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/JSP%20%E6%95%99%E7%A8%8B%EF%BC%9A1%20%E5%A4%A9%E7%8E%A9%E8%BD%AC%20JSP%20%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/JSP%20%E6%95%99%E7%A8%8B%EF%BC%9A1%20%E5%A4%A9%E7%8E%A9%E8%BD%AC%20JSP%20%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/JSP%20%E6%95%99%E7%A8%8B%EF%BC%9A1%20%E5%A4%A9%E7%8E%A9%E8%BD%AC%20JSP%20%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Java Swing 教程：30 分钟玩转 Swing 界面设计（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Java%20Swing%20%E6%95%99%E7%A8%8B%EF%BC%9A30%20%E5%88%86%E9%92%9F%E7%8E%A9%E8%BD%AC%20Swing%20%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Java%20Swing%20%E6%95%99%E7%A8%8B%EF%BC%9A30%20%E5%88%86%E9%92%9F%E7%8E%A9%E8%BD%AC%20Swing%20%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Java%20Swing%20%E6%95%99%E7%A8%8B%EF%BC%9A30%20%E5%88%86%E9%92%9F%E7%8E%A9%E8%BD%AC%20Swing%20%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Java 基础教程（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Java%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Java%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Java%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Java 设计模式：23 种设计模式全面解析（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%9A23%20%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%9A23%20%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%9A23%20%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Keras Tutorials (tgjeon)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Keras%20Tutorials%20%28tgjeon%29.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Keras%20Tutorials%20%28tgjeon%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Keras%20Tutorials%20%28tgjeon%29.epub?format=raw)
+
+## Keras 教程（xingkongliang）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Keras%20%E6%95%99%E7%A8%8B%EF%BC%88xingkongliang%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Keras%20%E6%95%99%E7%A8%8B%EF%BC%88xingkongliang%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Keras%20%E6%95%99%E7%A8%8B%EF%BC%88xingkongliang%EF%BC%89.epub?format=raw)
+
+## Linux Basics for Hackers 中文版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Linux%20Basics%20for%20Hackers%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Linux%20Basics%20for%20Hackers%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Linux%20Basics%20for%20Hackers%20%E4%B8%AD%E6%96%87%E7%89%88.pdf?format=raw)
+
+## Linux vi 命令 30 分钟入门教程（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Linux%20vi%20%E5%91%BD%E4%BB%A4%2030%20%E5%88%86%E9%92%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Linux%20vi%20%E5%91%BD%E4%BB%A4%2030%20%E5%88%86%E9%92%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Linux%20vi%20%E5%91%BD%E4%BB%A4%2030%20%E5%88%86%E9%92%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Natural Language Processing with PyTorch 中文版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Natural%20Language%20Processing%20with%20PyTorch%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Natural%20Language%20Processing%20with%20PyTorch%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Natural%20Language%20Processing%20with%20PyTorch%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
+
+## Practical Cryptography for Developers
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Practical%20Cryptography%20for%20Developers.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Practical%20Cryptography%20for%20Developers.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Practical%20Cryptography%20for%20Developers.epub?format=raw)
+
+## Python 基础教程（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Python%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Python%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Python%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## Python 机器学习在线指南
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Python%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9C%A8%E7%BA%BF%E6%8C%87%E5%8D%97.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Python%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9C%A8%E7%BA%BF%E6%8C%87%E5%8D%97.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Python%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9C%A8%E7%BA%BF%E6%8C%87%E5%8D%97.epub?format=raw)
+
+## Python 知识手册 v2018
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Python%20%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C%20v2018.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Python%20%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C%20v2018.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Python%20%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C%20v2018.pdf?format=raw)
+
+## PythonBasics 中文系列教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/PythonBasics%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/PythonBasics%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/PythonBasics%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## PythonSpot 中文系列教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/PythonSpot%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/PythonSpot%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/PythonSpot%20%E4%B8%AD%E6%96%87%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## Qt5 编程入门教程（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Qt5%20%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Qt5%20%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Qt5%20%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## RLDM 2019 Notes
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/RLDM%202019%20Notes.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/RLDM%202019%20Notes.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/RLDM%202019%20Notes.pdf?format=raw)
+
+## Seaborn 0.9 中文文档
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Seaborn%200.9%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Seaborn%200.9%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Seaborn%200.9%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub?format=raw)
+
+## Speech and Language Processing 2e (SLP2e)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Speech%20and%20Language%20Processing%202e%20%28SLP2e%29.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/Speech%20and%20Language%20Processing%202e%20%28SLP2e%29.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/Speech%20and%20Language%20Processing%202e%20%28SLP2e%29.pdf?format=raw)
+
+## TOEFL iBT 高分作文
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/TOEFL%20iBT%20%E9%AB%98%E5%88%86%E4%BD%9C%E6%96%87.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/TOEFL%20iBT%20%E9%AB%98%E5%88%86%E4%BD%9C%E6%96%87.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/TOEFL%20iBT%20%E9%AB%98%E5%88%86%E4%BD%9C%E6%96%87.epub?format=raw)
+
+## TensorFlow 快速入门教程（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/TensorFlow%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/TensorFlow%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/TensorFlow%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## TensorFlow2 深度学习 20191108
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/TensorFlow2%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%2020191108.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/TensorFlow2%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%2020191108.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/TensorFlow2%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%2020191108.pdf?format=raw)
+
+## The Great CEO Within
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/The%20Great%20CEO%20Within.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/The%20Great%20CEO%20Within.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/The%20Great%20CEO%20Within.epub?format=raw)
+
+## UCSD COGS108 数据科学实战中文笔记
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/UCSD%20COGS108%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%9E%E6%88%98%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/UCSD%20COGS108%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%9E%E6%88%98%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/UCSD%20COGS108%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%9E%E6%88%98%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub?format=raw)
+
+## USF MSDS501 计算数据科学中文讲义
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/USF%20MSDS501%20%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E4%B8%AD%E6%96%87%E8%AE%B2%E4%B9%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/USF%20MSDS501%20%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E4%B8%AD%E6%96%87%E8%AE%B2%E4%B9%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/USF%20MSDS501%20%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E4%B8%AD%E6%96%87%E8%AE%B2%E4%B9%89.epub?format=raw)
+
+## YC 创业课 2018 中文笔记
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/YC%20%E5%88%9B%E4%B8%9A%E8%AF%BE%202018%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/YC%20%E5%88%9B%E4%B8%9A%E8%AF%BE%202018%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/YC%20%E5%88%9B%E4%B8%9A%E8%AF%BE%202018%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub?format=raw)
+
+## YC 创业课 2019 中文笔记
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/YC%20%E5%88%9B%E4%B8%9A%E8%AF%BE%202019%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/YC%20%E5%88%9B%E4%B8%9A%E8%AF%BE%202019%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/YC%20%E5%88%9B%E4%B8%9A%E8%AF%BE%202019%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0.epub?format=raw)
+
+## ai各个方向知识体系-julyedu
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/ai%E5%90%84%E4%B8%AA%E6%96%B9%E5%90%91%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB-julyedu.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/ai%E5%90%84%E4%B8%AA%E6%96%B9%E5%90%91%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB-julyedu.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/ai%E5%90%84%E4%B8%AA%E6%96%B9%E5%90%91%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB-julyedu.7z?format=raw)
+
+## effective java 3rd 中文版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/effective%20java%203rd%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/effective%20java%203rd%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/effective%20java%203rd%20%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
+
+## microsoft partner playbook 20190319
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/microsoft%20partner%20playbook%2020190319.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/microsoft%20partner%20playbook%2020190319.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/microsoft%20partner%20playbook%2020190319.7z?format=raw)
+
+## 《On Java 8》中文版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E3%80%8AOn%20Java%208%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E3%80%8AOn%20Java%208%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E3%80%8AOn%20Java%208%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.epub?format=raw)
+
+## 「就聊挣钱」第一期精华电子书
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E3%80%8C%E5%B0%B1%E8%81%8A%E6%8C%A3%E9%92%B1%E3%80%8D%E7%AC%AC%E4%B8%80%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E3%80%8C%E5%B0%B1%E8%81%8A%E6%8C%A3%E9%92%B1%E3%80%8D%E7%AC%AC%E4%B8%80%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E3%80%8C%E5%B0%B1%E8%81%8A%E6%8C%A3%E9%92%B1%E3%80%8D%E7%AC%AC%E4%B8%80%E6%9C%9F%E7%B2%BE%E5%8D%8E%E7%94%B5%E5%AD%90%E4%B9%A6.pdf?format=raw)
+
+## 一亩三分地留学申请手册、北美就业手册、留学学习手册 2012
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%B8%80%E4%BA%A9%E4%B8%89%E5%88%86%E5%9C%B0%E7%95%99%E5%AD%A6%E7%94%B3%E8%AF%B7%E6%89%8B%E5%86%8C%E3%80%81%E5%8C%97%E7%BE%8E%E5%B0%B1%E4%B8%9A%E6%89%8B%E5%86%8C%E3%80%81%E7%95%99%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C%202012.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%B8%80%E4%BA%A9%E4%B8%89%E5%88%86%E5%9C%B0%E7%95%99%E5%AD%A6%E7%94%B3%E8%AF%B7%E6%89%8B%E5%86%8C%E3%80%81%E5%8C%97%E7%BE%8E%E5%B0%B1%E4%B8%9A%E6%89%8B%E5%86%8C%E3%80%81%E7%95%99%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C%202012.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E4%B8%80%E4%BA%A9%E4%B8%89%E5%88%86%E5%9C%B0%E7%95%99%E5%AD%A6%E7%94%B3%E8%AF%B7%E6%89%8B%E5%86%8C%E3%80%81%E5%8C%97%E7%BE%8E%E5%B0%B1%E4%B8%9A%E6%89%8B%E5%86%8C%E3%80%81%E7%95%99%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C%202012.7z?format=raw)
+
+## 一亩三分地美国大学院系专业信息精选 206 篇 2015 版
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%B8%80%E4%BA%A9%E4%B8%89%E5%88%86%E5%9C%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%BF%A1%E6%81%AF%E7%B2%BE%E9%80%89%20206%20%E7%AF%87%202015%20%E7%89%88.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%B8%80%E4%BA%A9%E4%B8%89%E5%88%86%E5%9C%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%BF%A1%E6%81%AF%E7%B2%BE%E9%80%89%20206%20%E7%AF%87%202015%20%E7%89%88.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E4%B8%80%E4%BA%A9%E4%B8%89%E5%88%86%E5%9C%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%BF%A1%E6%81%AF%E7%B2%BE%E9%80%89%20206%20%E7%AF%87%202015%20%E7%89%88.7z?format=raw)
+
+## 专为程序员编写的英语学习指南
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%B8%93%E4%B8%BA%E7%A8%8B%E5%BA%8F%E5%91%98%E7%BC%96%E5%86%99%E7%9A%84%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%B8%93%E4%B8%BA%E7%A8%8B%E5%BA%8F%E5%91%98%E7%BC%96%E5%86%99%E7%9A%84%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E4%B8%93%E4%B8%BA%E7%A8%8B%E5%BA%8F%E5%91%98%E7%BC%96%E5%86%99%E7%9A%84%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97.epub?format=raw)
+
+## 中国各大学飞跃手册 x16
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%B8%AD%E5%9B%BD%E5%90%84%E5%A4%A7%E5%AD%A6%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C%20x16.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%B8%AD%E5%9B%BD%E5%90%84%E5%A4%A7%E5%AD%A6%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C%20x16.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E4%B8%AD%E5%9B%BD%E5%90%84%E5%A4%A7%E5%AD%A6%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C%20x16.7z?format=raw)
+
+## 人人都能用英语
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%94%A8%E8%8B%B1%E8%AF%AD.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%94%A8%E8%8B%B1%E8%AF%AD.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%94%A8%E8%8B%B1%E8%AF%AD.epub?format=raw)
+
+## 传智播客安卓基础、谷歌电子市场、智慧北京、QQ 5.0、360 安全卫士
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E5%AE%89%E5%8D%93%E5%9F%BA%E7%A1%80%E3%80%81%E8%B0%B7%E6%AD%8C%E7%94%B5%E5%AD%90%E5%B8%82%E5%9C%BA%E3%80%81%E6%99%BA%E6%85%A7%E5%8C%97%E4%BA%AC%E3%80%81QQ%205.0%E3%80%81360%20%E5%AE%89%E5%85%A8%E5%8D%AB%E5%A3%AB.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E5%AE%89%E5%8D%93%E5%9F%BA%E7%A1%80%E3%80%81%E8%B0%B7%E6%AD%8C%E7%94%B5%E5%AD%90%E5%B8%82%E5%9C%BA%E3%80%81%E6%99%BA%E6%85%A7%E5%8C%97%E4%BA%AC%E3%80%81QQ%205.0%E3%80%81360%20%E5%AE%89%E5%85%A8%E5%8D%AB%E5%A3%AB.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E5%AE%89%E5%8D%93%E5%9F%BA%E7%A1%80%E3%80%81%E8%B0%B7%E6%AD%8C%E7%94%B5%E5%AD%90%E5%B8%82%E5%9C%BA%E3%80%81%E6%99%BA%E6%85%A7%E5%8C%97%E4%BA%AC%E3%80%81QQ%205.0%E3%80%81360%20%E5%AE%89%E5%85%A8%E5%8D%AB%E5%A3%AB.7z?format=raw)
+
+## 传智播客崔希凡 Java Web 讲义 day01~17
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E5%B4%94%E5%B8%8C%E5%87%A1%20Java%20Web%20%E8%AE%B2%E4%B9%89%20day01~17.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E5%B4%94%E5%B8%8C%E5%87%A1%20Java%20Web%20%E8%AE%B2%E4%B9%89%20day01~17.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2%E5%B4%94%E5%B8%8C%E5%87%A1%20Java%20Web%20%E8%AE%B2%E4%B9%89%20day01~17.pdf?format=raw)
+
+## 前端小课 第一、二期
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%89%8D%E7%AB%AF%E5%B0%8F%E8%AF%BE%20%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E6%9C%9F.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%89%8D%E7%AB%AF%E5%B0%8F%E8%AF%BE%20%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E6%9C%9F.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E5%89%8D%E7%AB%AF%E5%B0%8F%E8%AF%BE%20%E7%AC%AC%E4%B8%80%E3%80%81%E4%BA%8C%E6%9C%9F.epub?format=raw)
+
+## 区块链技术快速入门教程（C 语言中文网）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%96%87%E7%BD%91%EF%BC%89.epub?format=raw)
+
+## 南理工高等工程数学讲义
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%8D%97%E7%90%86%E5%B7%A5%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6%E8%AE%B2%E4%B9%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%8D%97%E7%90%86%E5%B7%A5%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6%E8%AE%B2%E4%B9%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E5%8D%97%E7%90%86%E5%B7%A5%E9%AB%98%E7%AD%89%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6%E8%AE%B2%E4%B9%89.pdf?format=raw)
+
+## 可能是让你受益匪浅的英语进阶指南
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%8F%AF%E8%83%BD%E6%98%AF%E8%AE%A9%E4%BD%A0%E5%8F%97%E7%9B%8A%E5%8C%AA%E6%B5%85%E7%9A%84%E8%8B%B1%E8%AF%AD%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%8F%AF%E8%83%BD%E6%98%AF%E8%AE%A9%E4%BD%A0%E5%8F%97%E7%9B%8A%E5%8C%AA%E6%B5%85%E7%9A%84%E8%8B%B1%E8%AF%AD%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E5%8F%AF%E8%83%BD%E6%98%AF%E8%AE%A9%E4%BD%A0%E5%8F%97%E7%9B%8A%E5%8C%AA%E6%B5%85%E7%9A%84%E8%8B%B1%E8%AF%AD%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97.epub?format=raw)
+
+## 大数据入门指南 2019
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%202019.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%202019.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%202019.epub?format=raw)
+
+## 廖雪峰 Java 教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%BB%96%E9%9B%AA%E5%B3%B0%20Java%20%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%BB%96%E9%9B%AA%E5%B3%B0%20Java%20%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E5%BB%96%E9%9B%AA%E5%B3%B0%20Java%20%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## 廖雪峰 SQL 教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%BB%96%E9%9B%AA%E5%B3%B0%20SQL%20%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E5%BB%96%E9%9B%AA%E5%B3%B0%20SQL%20%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E5%BB%96%E9%9B%AA%E5%B3%B0%20SQL%20%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## 我也有话要说——普通人的当众讲话技能
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%88%91%E4%B9%9F%E6%9C%89%E8%AF%9D%E8%A6%81%E8%AF%B4%E2%80%94%E2%80%94%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%93%E4%BC%97%E8%AE%B2%E8%AF%9D%E6%8A%80%E8%83%BD.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%88%91%E4%B9%9F%E6%9C%89%E8%AF%9D%E8%A6%81%E8%AF%B4%E2%80%94%E2%80%94%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%93%E4%BC%97%E8%AE%B2%E8%AF%9D%E6%8A%80%E8%83%BD.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E6%88%91%E4%B9%9F%E6%9C%89%E8%AF%9D%E8%A6%81%E8%AF%B4%E2%80%94%E2%80%94%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%93%E4%BC%97%E8%AE%B2%E8%AF%9D%E6%8A%80%E8%83%BD.epub?format=raw)
+
+## 数字极权时代生存手记 v1.0
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E6%97%B6%E4%BB%A3%E7%94%9F%E5%AD%98%E6%89%8B%E8%AE%B0%20v1.0.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E6%97%B6%E4%BB%A3%E7%94%9F%E5%AD%98%E6%89%8B%E8%AE%B0%20v1.0.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E6%97%B6%E4%BB%A3%E7%94%9F%E5%AD%98%E6%89%8B%E8%AE%B0%20v1.0.7z?format=raw)
+
+## 数据科学 IPython 笔记本
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20IPython%20%E7%AC%94%E8%AE%B0%E6%9C%AC.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20IPython%20%E7%AC%94%E8%AE%B0%E6%9C%AC.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20IPython%20%E7%AC%94%E8%AE%B0%E6%9C%AC.epub?format=raw)
+
+## 斯坦福 CS224n 中文笔记 2017
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%96%AF%E5%9D%A6%E7%A6%8F%20CS224n%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0%202017.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%96%AF%E5%9D%A6%E7%A6%8F%20CS224n%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0%202017.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E6%96%AF%E5%9D%A6%E7%A6%8F%20CS224n%20%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0%202017.epub?format=raw)
+
+## 渗透测试实战第三版(红队版)
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88%28%E7%BA%A2%E9%98%9F%E7%89%88%29.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88%28%E7%BA%A2%E9%98%9F%E7%89%88%29.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88%28%E7%BA%A2%E9%98%9F%E7%89%88%29.epub?format=raw)
+
+## 牛客网名企笔试面试求职攻略技术篇 2019
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf?format=raw)
+
+## 牛客网名企笔试面试求职攻略非技术篇 2019
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5%E9%9D%9E%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5%E9%9D%9E%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%89%9B%E5%AE%A2%E7%BD%91%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5%E9%9D%9E%E6%8A%80%E6%9C%AF%E7%AF%87%202019.pdf?format=raw)
+
+## 王峰十问 11~20
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%2011~20.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%2011~20.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%2011~20.epub?format=raw)
+
+## 王峰十问 1~10
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%201~10.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%201~10.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%201~10.epub?format=raw)
+
+## 王峰十问 21~30
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%2021~30.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%2021~30.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%8E%8B%E5%B3%B0%E5%8D%81%E9%97%AE%2021~30.epub?format=raw)
+
+## 现代 JavaScript 教程
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%8E%B0%E4%BB%A3%20JavaScript%20%E6%95%99%E7%A8%8B.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%8E%B0%E4%BB%A3%20JavaScript%20%E6%95%99%E7%A8%8B.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%8E%B0%E4%BB%A3%20JavaScript%20%E6%95%99%E7%A8%8B.epub?format=raw)
+
+## 生财有术知识星球整理 20190928
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%94%9F%E8%B4%A2%E6%9C%89%E6%9C%AF%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%2020190928.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%94%9F%E8%B4%A2%E6%9C%89%E6%9C%AF%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%2020190928.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%94%9F%E8%B4%A2%E6%9C%89%E6%9C%AF%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%2020190928.epub?format=raw)
+
+## 知识图谱发展报告 2018
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A%202018.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A%202018.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A%202018.pdf?format=raw)
+
+## 知识图谱构建技术综述（刘峤）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%9E%84%E5%BB%BA%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0%EF%BC%88%E5%88%98%E5%B3%A4%EF%BC%89.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%9E%84%E5%BB%BA%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0%EF%BC%88%E5%88%98%E5%B3%A4%EF%BC%89.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%9E%84%E5%BB%BA%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0%EF%BC%88%E5%88%98%E5%B3%A4%EF%BC%89.pdf?format=raw)
+
+## 神经网络与深度学习（复旦邱锡鹏）2019.4.6
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%A4%8D%E6%97%A6%E9%82%B1%E9%94%A1%E9%B9%8F%EF%BC%892019.4.6.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%A4%8D%E6%97%A6%E9%82%B1%E9%94%A1%E9%B9%8F%EF%BC%892019.4.6.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%A4%8D%E6%97%A6%E9%82%B1%E9%94%A1%E9%B9%8F%EF%BC%892019.4.6.pdf?format=raw)
+
+## 程序员的自我修养（LeoHui）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%EF%BC%88LeoHui%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%EF%BC%88LeoHui%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%EF%BC%88LeoHui%EF%BC%89.epub?format=raw)
+
+## 笨办法学 Git
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6%20Git.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6%20Git.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6%20Git.epub?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书180710
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6180710.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6180710.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6180710.pdf?format=raw)
+
+## 缘梦项目笔记——网赚掘金实操项目电子书190530
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6190530.pdf)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6190530.pdf)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E7%BC%98%E6%A2%A6%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%BD%91%E8%B5%9A%E6%8E%98%E9%87%91%E5%AE%9E%E6%93%8D%E9%A1%B9%E7%9B%AE%E7%94%B5%E5%AD%90%E4%B9%A6190530.pdf?format=raw)
+
+## 超智能体（YJango）
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E8%B6%85%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88YJango%EF%BC%89.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E8%B6%85%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88YJango%EF%BC%89.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E8%B6%85%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88YJango%EF%BC%89.epub?format=raw)
+
+## 软件工程师软技能之语法俱乐部
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AF%E6%8A%80%E8%83%BD%E4%B9%8B%E8%AF%AD%E6%B3%95%E4%BF%B1%E4%B9%90%E9%83%A8.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AF%E6%8A%80%E8%83%BD%E4%B9%8B%E8%AF%AD%E6%B3%95%E4%BF%B1%E4%B9%90%E9%83%A8.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AF%E6%8A%80%E8%83%BD%E4%B9%8B%E8%AF%AD%E6%B3%95%E4%BF%B1%E4%B9%90%E9%83%A8.epub?format=raw)
+
+## 运营技能地图 1.0+2.0
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E8%BF%90%E8%90%A5%E6%8A%80%E8%83%BD%E5%9C%B0%E5%9B%BE%201.0%2B2.0.7z)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E8%BF%90%E8%90%A5%E6%8A%80%E8%83%BD%E5%9C%B0%E5%9B%BE%201.0%2B2.0.7z)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E8%BF%90%E8%90%A5%E6%8A%80%E8%83%BD%E5%9C%B0%E5%9B%BE%201.0%2B2.0.7z?format=raw)
+
+## 韭菜的自我修养
+
++   [Gitee 下载](https://gitee.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.epub)
++   [Github 下载](https://github.com/it-ebooks/it-ebooks-2019-03to12/raw/master/%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.epub)
++   [SourceForge 下载](https://sourceforge.net/p/it-ebooks-2019-03to12/code/ci/master/tree/%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.epub?format=raw)
