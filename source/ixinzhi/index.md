@@ -39,7 +39,7 @@ bdex download <link>
 +   [儿童性教育 - 程序媛计划](https://www.cxy61.com/girl/child_sexual_education/index.html)
 +   PUA 经典书籍
     +   [Github 下载](https://github.com/it-ebooks/pua-books)
-    +   [BiliDrive](http://flygon.net/pua-books/)
+    +   [BiliDrive](http://it-ebooks.flygon.net/pua-books/)
 +   [日语语法指南（Tae Kim）](http://res.wokanxing.info/jpgramma/)
 +   [好和弦乐理课](https://space.bilibili.com/320772967/#/channel/detail?cid=48421)
 +   1960 年民兵手册（PDF 格式）
@@ -50,29 +50,29 @@ bdex download <link>
 +   知识星球精华整理
     +   [坚果云下载](https://www.jianguoyun.com/p/DQpJInIQxrzlBxii5s8C)
     +   [MEGA 下载](https://mega.nz/#F!GREXQaLb!9X0Fw5BQXZVb2UUj8kBBRg)
-    +   [Github 下载](http://flygon.net/zsxq/)
-    +   [BiliDrive](http://flygon.net/zsxq-bilidrive/)
-+   [唯库课程整理](http://flygon.net/%E5%94%AF%E5%BA%93/)
-+   [十点课堂课程整理](http://flygon.net/%E5%8D%81%E7%82%B9%E8%AF%BE%E5%A0%82/)
+    +   [Github 下载](http://it-ebooks.flygon.net/zsxq/)
+    +   [BiliDrive](http://it-ebooks.flygon.net/zsxq-bilidrive/)
++   [唯库课程整理](http://it-ebooks.flygon.net/%E5%94%AF%E5%BA%93/)
++   [十点课堂课程整理](http://it-ebooks.flygon.net/%E5%8D%81%E7%82%B9%E8%AF%BE%E5%A0%82/)
 +   得到课程整理（图文）
     +   [坚果云下载](https://www.jianguoyun.com/p/DT3lFq0QxrzlBxjOntEC)
     +   [MEGA 下载](https://mega.nz/#F!SdFBVI4a!HZUl5GLpkZrRC7vs1DXRaw)
-    +   [Github 下载](http://flygon.net/igetget/)
-    +   [BiliDrive](http://flygon.net/igetget-bilidrive/)
+    +   [Github 下载](http://it-ebooks.flygon.net/igetget/)
+    +   [BiliDrive](http://it-ebooks.flygon.net/igetget-bilidrive/)
 
 ## ACG 资源
 
 +   轻小说归档 2018
-    +   [仓库](http://flygon.net/lightnovel-2018/)
-    +   [BiliDrive](http://flygon.net/lightnovel-2018-bilidrive/)
+    +   [仓库](http://it-ebooks.flygon.net/lightnovel-2018/)
+    +   [BiliDrive](http://it-ebooks.flygon.net/lightnovel-2018-bilidrive/)
 +   轻小说归档 2014~2017
-    +   [仓库](http://flygon.net/lightnovel-2014-2017/)
-    +   [BiliDrive](http://flygon.net/lightnovel-2014-2017-bilidrive/)
+    +   [仓库](http://it-ebooks.flygon.net/lightnovel-2014-2017/)
+    +   [BiliDrive](http://it-ebooks.flygon.net/lightnovel-2014-2017-bilidrive/)
 +   轻小说归档 2009~2013
-    +   [仓库](http://flygon.net/lightnovel-2009-2013/)
-    +   [BiliDrive](http://flygon.net/lightnovel-2009-2013-bilidrive/)
+    +   [仓库](http://it-ebooks.flygon.net/lightnovel-2009-2013/)
+    +   [BiliDrive](http://it-ebooks.flygon.net/lightnovel-2009-2013-bilidrive/)
 +   日漫归档 2018
-    +   [BiliDrive](http://flygon.net/comic-2018-bilidrive)
+    +   [BiliDrive](http://it-ebooks.flygon.net/comic-2018-bilidrive)
 
 <!--endixinzhi-->
 
