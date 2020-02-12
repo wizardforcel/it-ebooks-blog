@@ -5,6 +5,8 @@ date: 2016-01-28 22:28:47
 
 不便于单独列出的教程收录在这里。
 
+<!--more-->
+
 ## Android
 
 + [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
