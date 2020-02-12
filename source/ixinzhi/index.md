@@ -24,8 +24,6 @@ pip install BiliDriveEx
 bdex download <link>
 ```
 
-## 通识类学习资源
-
 +   Kiwix：离线的维基百科
     +   [阅读器](https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip)
     +   [英文数据包](http://download.kiwix.org/zim/wikipedia_zh_all.zim)
@@ -60,24 +58,11 @@ bdex download <link>
     +   [Github 下载](http://it-ebooks.flygon.net/igetget/)
     +   [BiliDrive](http://it-ebooks.flygon.net/igetget-bilidrive/)
 
-## ACG 资源
-
-+   轻小说归档 2018
-    +   [仓库](http://it-ebooks.flygon.net/lightnovel-2018/)
-    +   [BiliDrive](http://it-ebooks.flygon.net/lightnovel-2018-bilidrive/)
-+   轻小说归档 2014~2017
-    +   [仓库](http://it-ebooks.flygon.net/lightnovel-2014-2017/)
-    +   [BiliDrive](http://it-ebooks.flygon.net/lightnovel-2014-2017-bilidrive/)
-+   轻小说归档 2009~2013
-    +   [仓库](http://it-ebooks.flygon.net/lightnovel-2009-2013/)
-    +   [BiliDrive](http://it-ebooks.flygon.net/lightnovel-2009-2013-bilidrive/)
-+   日漫归档 2018
-    +   [BiliDrive](http://it-ebooks.flygon.net/comic-2018-bilidrive)
-
 <!--endixinzhi-->
 
 ## 其它资源
 
++   [ACG 资源](https://it-ebooks.flygon.net/acg/)
 +   [华为做过哪些恶](https://github.com/evil-huawei/evil-huawei)
 +   [老实人报](https://zhuanlan.zhihu.com/plain-dealer)
 +   [翻译/校对/笔记整理活动](https://home.apachecn.org/translate/)
