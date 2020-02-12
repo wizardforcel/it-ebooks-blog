@@ -3,7 +3,24 @@ title: 关于
 date: 2016-01-29 08:28:45
 ---
 
-在2016年到来之际，我做了一个非常艰难的决定。以后，它的发展方向是发掘优质的计算机开放电子书，之前的所有非开放电子书（约为90%）全部会移除。
+布客新知是一个整理和开放知识的计划。
+
+布客新知打算做知识付费领域的[破晓](https://tieba.baidu.com/f?kw=%E7%A0%B4%E6%99%93%E6%9B%B4%E6%96%B0%E7%BB%84)或[轻国](https://www.lightnovel.cn/forum.php)。
+
+我们打算使用三个渠道来备份和分发知识：
+
+1.  代码仓库，例如 Github 和 Gitee
+1.  CDN，例如各大平台的图床
+1.  区块链，例如 IPFS 和 ZeroNet
+
+你们就尽管删吧，副本是删不完的，知识共享的脚步是挡不住的！
+
+部分资源使用 [BiliDriveEx](https://github.com/apachecn/BiliDriveEx) 维护，执行以下命令来下载它们：
+
+```
+pip install BiliDriveEx
+bdex download <link>
+```
 
 ## 为什么专注于开放电子书
 
