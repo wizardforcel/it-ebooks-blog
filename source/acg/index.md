@@ -14,6 +14,7 @@ date: 2018-08-28 11:39:58
     +   [BiliDrive](http://it-ebooks.flygon.net/lightnovel-2009-2013-bilidrive/)
 +   日漫归档 2018
     +   [BiliDrive](http://it-ebooks.flygon.net/comic-2018-bilidrive)
++   [C97 本子合集](http://it-ebooks.flygon.net/c97/)
 +   [C96 本子合集](http://it-ebooks.flygon.net/c96/)
 +   [C95 本子合集](http://it-ebooks.flygon.net/c95/)
 +   [C94 本子合集](http://it-ebooks.flygon.net/c94/)
