@@ -17,7 +17,7 @@ date: 2018-08-28 11:39:58
 +   [默沙东诊疗手册（大众版）](https://www.msdmanuals.cn/%E9%A6%96%E9%A1%B5)
 +   [儿童性教育 - 程序媛计划](https://www.cxy61.com/girl/child_sexual_education/index.html)
 +   PUA 经典书籍
-    +   [Github 下载](https://github.com/it-ebooks/pua-books)
+    +   [Github 下载](https://github.com/ixinzhi/pua-books)
     +   [BiliDrive](http://it-ebooks.flygon.net/pua-books/)
 +   [日语语法指南（Tae Kim）](http://res.wokanxing.info/jpgramma/)
 +   [好和弦乐理课](https://space.bilibili.com/320772967/#/channel/detail?cid=48421)
