@@ -41,6 +41,13 @@ date: 2018-08-28 11:39:58
 
 <!--endixinzhi-->
 
+部分资源使用 [BiliDriveEx](https://github.com/apachecn/BiliDriveEx) 维护，执行以下命令来下载它们：
+
+```
+pip install BiliDriveEx
+bdex download <link>
+```
+
 ## 其它资源
 
 +   [ACG 资源](https://it-ebooks.flygon.net/acg/)
