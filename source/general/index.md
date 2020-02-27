@@ -21,9 +21,6 @@ date: 2018-08-28 11:39:58
     +   [BiliDrive](http://it-ebooks.flygon.net/pua-books/)
 +   [日语语法指南（Tae Kim）](http://res.wokanxing.info/jpgramma/)
 +   [好和弦乐理课](https://space.bilibili.com/320772967/#/channel/detail?cid=48421)
-+   1960 年民兵手册（PDF 格式）
-    +   [Github 下载](https://github.com/wizardforcel/data-science-notebook/files/2327105/1960.zip)
-    +   BiliDrive：`bdex://59770ef26340fa4a6f2ef522d7fc27cbd5c2f422`
 +   军地两用人才之友（PDF 格式）（`bdex://df2b1c9e5306d936210497aa8020ca2bc42bf262`）
 +   军地两用人才之友续编本（PDF 格式）（`bdex://424be45d222028d3ce548ec82a4b0adc90189446`）
 +   知识星球精华整理
@@ -38,6 +35,8 @@ date: 2018-08-28 11:39:58
     +   [MEGA 下载](https://mega.nz/#F!SdFBVI4a!HZUl5GLpkZrRC7vs1DXRaw)
     +   [Github 下载](http://it-ebooks.flygon.net/igetget/)
     +   [BiliDrive](http://it-ebooks.flygon.net/igetget-bilidrive/)
++   杂项
+    +   [Github 下载](https://github.com/ixinzhi/misc)
 
 <!--endixinzhi-->
 
