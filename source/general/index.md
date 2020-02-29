@@ -37,6 +37,7 @@ date: 2018-08-28 11:39:58
     +   [BiliDrive](http://it-ebooks.flygon.net/igetget-bilidrive/)
 +   杂项
     +   [Github 下载](https://github.com/ixinzhi/misc)
+    +   [BiliDrive](http://it-ebooks.flygon.net/genenral-misc-bilidrive/)
 
 <!--endixinzhi-->
 
