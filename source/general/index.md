@@ -13,13 +13,11 @@ date: 2018-08-28 11:39:58
     +   [其他语言的数据包](https://wiki.kiwix.org/wiki/Content_in_all_languages/zh-cn)
 +   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
 +   [费曼物理学讲义（英文）](http://www.feynmanlectures.caltech.edu/)
-+   [可能是让你受益匪浅的英语进阶指南](https://legacy.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details)
 +   [默沙东诊疗手册（大众版）](https://www.msdmanuals.cn/%E9%A6%96%E9%A1%B5)
 +   [儿童性教育 - 程序媛计划](https://www.cxy61.com/girl/child_sexual_education/index.html)
 +   PUA 经典书籍
     +   [Github 下载](https://github.com/ixinzhi/pua-books)
     +   [BiliDrive](http://it-ebooks.flygon.net/pua-books/)
-+   [日语语法指南（Tae Kim）](http://res.wokanxing.info/jpgramma/)
 +   [好和弦乐理课](https://space.bilibili.com/320772967/#/channel/detail?cid=48421)
 +   军地两用人才之友（PDF 格式）（`bdex://df2b1c9e5306d936210497aa8020ca2bc42bf262`）
 +   军地两用人才之友续编本（PDF 格式）（`bdex://424be45d222028d3ce548ec82a4b0adc90189446`）
