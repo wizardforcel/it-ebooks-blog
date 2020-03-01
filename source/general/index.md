@@ -19,8 +19,6 @@ date: 2018-08-28 11:39:58
     +   [Github 下载](https://github.com/ixinzhi/pua-books)
     +   [BiliDrive](http://it-ebooks.flygon.net/pua-books/)
 +   [好和弦乐理课](https://space.bilibili.com/320772967/#/channel/detail?cid=48421)
-+   军地两用人才之友（PDF 格式）（`bdex://df2b1c9e5306d936210497aa8020ca2bc42bf262`）
-+   军地两用人才之友续编本（PDF 格式）（`bdex://424be45d222028d3ce548ec82a4b0adc90189446`）
 +   知识星球精华整理
     +   [坚果云下载](https://www.jianguoyun.com/p/DQpJInIQxrzlBxii5s8C)
     +   [MEGA 下载](https://mega.nz/#F!GREXQaLb!9X0Fw5BQXZVb2UUj8kBBRg)
