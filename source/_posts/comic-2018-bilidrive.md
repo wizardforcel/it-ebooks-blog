@@ -2410,7 +2410,6 @@ bdex download <link>
 | 打工吸血鬼雾岛君 - 第05话 - 20180817.epub (766.25 KB) | bdex://036338886ce7fb3c54c5aed97a954f65018816c9 |
 | 异卵性双胞胎之吻 - 全一话 - 20180527.epub (117.64 KB) | bdex://08ed80538a825cebdbe0d8835f14faf927fbec1f |
 | 太随便啦！休刊小姐 - 第1.1话 - 20180613.epub (832.77 KB) | bdex://3b61a245e66f9ce1ab3f9fa09e6674053a00d31e |
-| 怪人丽孃 - 第02话 - 20200204.epub (3.76 MB) | bdex://c07d7608a0620c5a426a18d85fa11af03b2ea451 |
 | 杀戮share life - 第13话 - 20180429.epub (961.04 KB) | bdex://208f59ca6592661f716ec3456f64f6d243dbc820 |
 | 孤身只影的天子 - 全一话 - 20180420.epub (6.02 MB) | bdex://826550c6ec686d626d36e42c5c6448cca3ee71f1 |
 | 世界第八大不可思议 - 第03话 - 20180815.epub (1.62 MB) | bdex://a88ccf2d08cd157b991deb121bd176a603ff60b4 |
@@ -2719,7 +2718,6 @@ bdex download <link>
 | 想被女子高中生杀掉 - 第13话 - 20180713.epub (3.21 MB) | bdex://b6511c8cf10718bb45307dade6620cc69961c352 |
 | 干支大乱斗 - 第02话 - 20180806.epub (4.32 MB) | bdex://f8b1524562a5a9392537b3ac3305c754c3678573 |
 | 碳酸水与巧克力 - 第01话 - 20180708.epub (6.33 MB) | bdex://15a9a7d62e70ddc064f496e2c53e51cfd5ad4573 |
-| 怪人丽孃 - 第01话 - 20200204.epub (10.95 MB) | bdex://72c8ac63e48e71013764dad577a5406b4a86e306 |
 | 亚鲁欧似乎继承了蓝血 - 第003话 - 20180501.epub (904.01 KB) | bdex://1b4594f8a6a18b6a9c8bbe692a0fd472c522ea17 |
 | Alice or Alice~妹控哥哥与双子姐妹~ - 第09话 - 20180628.epub (931.83 KB) | bdex://c332017c2c3a444e61f9b55f420a0c55b6850bf0 |
 | 神大人的日常 - 第01话 - 20180702.epub (750.88 KB) | bdex://9427442673531413e8c96ff7aa822d74b9819822 |
@@ -2775,7 +2773,6 @@ bdex download <link>
 | 被厌恶者的回忆屋 - 全一话 - 20180814.epub (2.23 MB) | bdex://ef447e1a3334dff2436d40cbf7a3eef4b0835d51 |
 | 太阳在看着呢 - 第02话 - 20180806.epub (6.11 MB) | bdex://ebb3d04abaea1ddd2dbe91e68987961ad8b29636 |
 | 少女与战车 艾丽卡篇 - 第02话 - 20180721.epub (2.28 MB) | bdex://8a12e88d1038532973299f5ab61633b3100133d6 |
-| pixiv精彩漫画合集 - Fate - 20190728.epub (379.54 KB) | bdex://3b81bcf3d8bf996545c3628e268cc164f7aff8cf |
 | TRANSNAUTS！ - 第05话 - 20180506.epub (3.05 MB) | bdex://295e47afc5079165cb48ec1e0e95a75d3f59dc0e |
 | 驱逐舰的命运 - 第15-34话 - 20180705.epub (722.12 KB) | bdex://688ed6d9650ec4523abc32284abd0a90cfaffb60 |
 | PSO2 es 第一部 - 第07话里 - 20180506.epub (109.38 KB) | bdex://dfcab9364828b22b6e84457d9924cecd9eb69220 |
@@ -2819,7 +2816,6 @@ bdex download <link>
 | 将去未去才是最棒的感觉 - 全一话 - 20180720.epub (1.96 MB) | bdex://7c599c7ae2aa93c640f8ca209c6f142cc2f680ab |
 | 兽耳少女与主人 - 第06话 - 20180520.epub (2.52 MB) | bdex://dd80c2f370ee9d14c061daf13ad3c3a39eacc496 |
 | 平成project-Imitation Hero- - 第03话 - 20180622.epub (1.42 MB) | bdex://a4f2c8a5ac6227005dd1f85b1b2d3fa772703a80 |
-| 怪人丽孃 - 第03话 - 20200204.epub (5.78 MB) | bdex://7decaa0e59a83254db6b638720dabfef621bc65e |
 | 野良与皇女与流浪猫之心 小辣椒勇者信千奈 - 第02话 - 20180810.epub (1.64 MB) | bdex://d2502de9f179184d45752baa40bfc0fdd743378d |
 | 月哭 - 全一话 - 20180530.epub (4.13 MB) | bdex://472b3aa2088fd7cc4ed80f4e0af0269a8554636e |
 | 跑女战国行 - 第05话 - 20180421.epub (2.57 MB) | bdex://12df61a99d7a8569cb86238811f9f002a6a63e96 |
@@ -2949,7 +2945,6 @@ bdex download <link>
 | 栉山石尾的凶器录 - 第01话 - 20180803.epub (4.68 MB) | bdex://49e20e7f0cbaa28c0a9d44579212a919544cecd5 |
 | 一千零一夜十六夜咲夜 - 第01话 - 20180622.epub (4.71 MB) | bdex://53d0d70cdbe5a92ef95d3cefb1cf8cd8f00faa3b |
 | farce - 短篇 - 20180615.epub (2.07 MB) | bdex://7ba10dae348acf3353122549b912e7b65119c681 |
-| 怪人丽孃 - 第2.5话 - 20200204.epub (3.90 MB) | bdex://fa28cc62d7db0c5cb9865602d2dc008d505ff7b2 |
 | 咲夜的尿液有点独角仙的味道 - 全一话 - 20180505.epub (1.47 MB) | bdex://4a3b04e8bf619970241e8c9bc1465c4df2db7ae2 |
 | 掠夺者剥夺者 - 第01话 - 20180521.epub (1.28 MB) | bdex://3df4c51211191aa45ef2d716a92adf2526a44fd5 |
 | 熊和狸猫 - 第02话 - 20180817.epub (2.19 MB) | bdex://e2163447c0efb726f376cc099ae87e03536f2ea4 |
@@ -2988,7 +2983,6 @@ bdex download <link>
 | 小镇行星 - 第01话 - 20180723.epub (70.99 KB) | bdex://f9f85fdb96efdf6202dd7cff9797f3cc7a8472fe |
 | 男友变青蛙 - 第05话 - 20180814.epub (2.69 MB) | bdex://63e40ea85a55c651788a3482ee73daca306c54d3 |
 | 太阳在看着呢 - 第12话 - 20180806.epub (6.71 MB) | bdex://fec5625c32e8699cd3dc98c2d80c81130d3824cf |
-| pixiv精彩漫画合集 - 姐姐X猫の百合日常 - 20190728.epub (441.93 KB) | bdex://63057ec9a423688d9e8ed340793b03b6f1da1e20 |
 | 三个人的秘封俱乐部 - 短篇 - 20180712.epub (4.38 MB) | bdex://52a1e1c7531b7c1710f885d2d1dc113cb80a20c6 |
 | 干支大乱斗 - 第01话 - 20180806.epub (5.70 MB) | bdex://a1a95dbf1b2ed246ca7a91680e216c318071770a |
 | 拉帕斯主题公园 - 第13话 - 20180603.epub (4.94 MB) | bdex://3f890382ec0a082a8c74552cfa50a6c41a6f27d0 |
@@ -3179,7 +3173,6 @@ bdex download <link>
 | 美少女是我♂ - 第01话 - 20180422.epub (2.41 MB) | bdex://8c7cf4fb6d8bb6325fe12974695a0ae111f85a75 |
 | 不活动的大图书馆 - 全一话 - 20180705.epub (2.08 MB) | bdex://641bae126bd5abe1a0119e8fae0c8739444e4bcb |
 | 绝对的孤独者 - 第04话 - 20180618.epub (3.02 MB) | bdex://6286ad554b2d86bdc7056e8540b6caf99c0ba9c2 |
-| pixiv精彩漫画合集 - 童话之孙01 - 20190728.epub (659.06 KB) | bdex://b6870dcfd1420dfb9c10a377bdffbae4f73a74d2 |
 | 心机话剧部 - 短篇 - 20180625.epub (3.16 MB) | bdex://1406303de1a2dda40ebebd51d7ce4951bbb2dd6a |
 | (C94)FateGO／scribble - C94画集 - 20180815.epub (777.27 KB) | bdex://79af23292b4a00306dd1ad9234107e001cf3020b |
 | 少女编号 - 第04话 - 20180810.epub (2.42 MB) | bdex://3b25e3759ac1bc3400ea7ce47ce0afe6effb5dac |
@@ -3909,7 +3902,6 @@ bdex download <link>
 | 破镜重圆 - 第07话 - 20180519.epub (2.41 MB) | bdex://c69e63cb0467fda82437de56fe0aaeabf03f5fdf |
 | 绝对的孤独者 - 第01话 - 20180618.epub (3.52 MB) | bdex://c6d0eb0e24473584e2491cf1c7fb431b6c1a577c |
 | 樱桃花开了 - 第01卷 - 20180605.epub (26.19 KB) | bdex://cf77811f46dc0375dc098dd2c35b8923bb27259b |
-| pixiv精彩漫画合集 - 刀剑乱舞 - 20190728.epub (459.75 KB) | bdex://6690871a3a3d64ea79b796104b10c508287e03af |
 | 生下来性别就搞错了 - 第8.1话 - 20180713.epub (605.91 KB) | bdex://30634bfb91d5d08417852dacc40d5372ef9310c6 |
 | Re：CREATORS ONE MORE - 第03话 - 20180520.epub (2.81 MB) | bdex://3ea9fb55ee74446ae819cbf8c2a139c5f8887b48 |
 | SERVANTxSERVICE - 第12话 - 20180506.epub (567.85 KB) | bdex://2ba55aa086da740585b72385925b767f7243a879 |
@@ -4030,3 +4022,1243 @@ bdex download <link>
 | 自动人偶与爱丽丝的故事 - 短篇 - 20180815.epub (437.92 KB) | bdex://e7c91793ecbe99fc5029b0eeece7f859187040fc |
 | 兹加ZIGA - 第07话 - 20180708.epub (2.62 MB) | bdex://b49d02129818a3f5d4f82fd5ba512cf4d42d3a0c |
 | 深海鱼的鮟鱇小姐 - 第05话 - 20180806.epub (1.61 MB) | bdex://e64e16c113ef3ea72df50498708222f5ba52ffe0 |
+| 乃木若叶是勇者 - 第03话 - 20180218.epub (2.70 MB) | bdex://dd66dd58a694721b2ae4b271932046b68d3ce7a2 |
+| ʎɓoloǝpI ǝsɹǝʌǝᴚ - 全一话 - 20180303.epub (6.20 MB) | bdex://64e43f6a11259362101e0cbdfd51f6510ae92726 |
+| legend魔兽师传说 - 第08话 - 20180127.epub (1.34 MB) | bdex://075e0408cbb0db0a4c7b152616a84c82bd2d21ca |
+| 圣母蕾米莉亚 - 第01话 - 20180303.epub (2.04 MB) | bdex://b0ee4fc12afa59e37497f50283bceb4520a4b65a |
+| 白色相簿2 - 第01话 - 20180214.epub (4.23 MB) | bdex://8ea0e620416144b9f214ddfac60456a8d72b41ee |
+| 不管多少次我的初恋都是你 - 第06话 - 20180407.epub (2.28 MB) | bdex://783974b928897dba60eea469ee0a6238843fc732 |
+| (C93)崩坏的世界 - 全一话 - 20180113.epub (2.12 MB) | bdex://3642e219fc427eb1d5d0d49afd181dd39864beef |
+| 吃草少年 - 第09话 - 20180114.epub (424.07 KB) | bdex://6cb4059d66ac597136efd232dbb82c2904711b31 |
+| 宅男身份被部下给发现了 - 第02话 - 20180319.epub (1.48 MB) | bdex://1d7e9174dc34b07eedf3f698739f5cb4ed7d86cc |
+| 幻想圣诞商战 - 短篇 - 20180129.epub (3.55 MB) | bdex://aa2b6f7d1a87820e02fb51d14a039ab53e66517d |
+| 露露和她的小伙伴们 - 第02话 - 20180402.epub (717.99 KB) | bdex://21ccdabeb240431b14de1681a939023200aa91a6 |
+| 小熊面包房 - 第24话santa - 20180331.epub (52.40 KB) | bdex://81c5e3dcabf22ce41ec82575232ffa82fd99add3 |
+| 两根一千圆 - 全一话 - 20180222.epub (2.65 MB) | bdex://82945f25e32674158d4a1e146929775cb16a2591 |
+| 热情传说Tales of Zestiria - 02话 - 20180407.epub (4.67 MB) | bdex://a7a87081c4a8920c358fd6e94dae5c10e9a280da |
+| (C93)2017 ROUTE1 Portfolio - 画集 - 20180126.epub (651.43 KB) | bdex://65bc9c73b7ceb23120f28c07f3779156d341069d |
+| 艾莉的工作室 南国来的留学生 - 第10话 - 20180327.epub (484.14 KB) | bdex://1e833ad0edb7275965e73bdc35c6212d0a9f5e96 |
+| 血与巧克力 - 第03话 - 20180115.epub (2.36 MB) | bdex://f6e0b88e7570383c1dabfe58f2e869b28078ff9d |
+| 侦探的侦探 - 第17话 - 20180130.epub (2.22 MB) | bdex://d0eb0e85313e30bf98255b1682db6ad146294ce2 |
+| 非月面之兔和二十亿光年的恋人 - 全一话 - 20180416.epub (1.99 MB) | bdex://62d5bd7e26c80e30cd08e83d33496baef11e1f42 |
+| 永啼鸟 - 前篇 - 20180109.epub (4.57 MB) | bdex://6396aafa9320237fc36c14b9158b9ac4d19b5b1d |
+| 梦神墨菲斯的餐桌-异床同梦的鹭与貘 - 全一话 - 20180212.epub (1.07 MB) | bdex://6bbc468d8f86b932bda912cb4c8f521017bf05f2 |
+| 不管多少次我的初恋都是你 - 第09话 - 20180407.epub (1.82 MB) | bdex://ec80bfba0aef94c20d71508749f0432a0269048f |
+| 天津风害羞了 - 全一话 - 20180225.epub (2.20 MB) | bdex://04167a8cd7c5d2ad14adfb9ad2b1267951189d1b |
+| 吃草少年 - 第01话 - 20180114.epub (542.77 KB) | bdex://8742e65ccc060578fd1feb8c84b5534afbd61ab5 |
+| 白玉团子 - 番外 - 20180307.epub (683.00 KB) | bdex://6d92027e44c0152cc703d26bb35a8d74c32b4fde |
+| 尼采老师~领悟世代降临便利店 - 第05话 - 20180308.epub (1.83 MB) | bdex://b27375627f9b3196a4fdf04303f3dbed9527d486 |
+| MA COCOTTE - 全一话 - 20180118.epub (857.28 KB) | bdex://cd38be6c1c4d98e5a5029772572c3f4f5d731900 |
+| 怪诞银行 - 第6-1话 - 20180414.epub (1.85 MB) | bdex://20dfa9bc6b1603f766929d9f96bd899a7d38dd05 |
+| 四分钟的金盏菊 - 第11话 - 20180206.epub (1.41 MB) | bdex://bdfa9d42b043493dc5b5acf284eef3a49f535597 |
+| 转校生勇者某某某某 - 第04话 - 20180127.epub (1.38 MB) | bdex://9c36b8a10b4e92e809ca50802078e4ad79d758b4 |
+| CHALDEA Girls Collection - 画集 - 20180120.epub (845.27 KB) | bdex://20058547a04f70ca7b4cf2cd35364abdc2d3bee5 |
+| 以人狼之姿转生 - 第7.2话 - 20180126.epub (1.73 MB) | bdex://10f3e7ae10b970f533cd3f5c2d3834fa82461b9b |
+| 刃牙道 - 第01话 - 20180412.epub (1.29 MB) | bdex://f39c55e8be65053eedb34cbc7769e5cae11a2619 |
+| 埃及魔女逆袭谭 - 短篇 - 20180302.epub (360.55 KB) | bdex://1dca782b181aa9c2f47dab16747ea935599b2c04 |
+| El Shaddai ceta - 第03话 - 20180121.epub (3.56 MB) | bdex://1a2481c19729ed9bc4f0211967353712b0dc94c8 |
+| 俘获芳心的香霖堂 - 第01话 - 20180228.epub (2.58 MB) | bdex://4ad73e9afe7c96155f6d4a41d41807fd12b705e3 |
+| 怪诞银行 - 第05话 - 20180414.epub (2.97 MB) | bdex://d91289bc29893b2907cf5353428c3e17b7d34461 |
+| 变态没什么不可以 - 第01话 - 20180104.epub (2.04 MB) | bdex://145a94800f3d7ef4d1f04d46fb01b209c1472e8c |
+| Lingerie Girls - 画集 - 20180127.epub (783.79 KB) | bdex://50c905758445eae51c8907590dd1f15894adda89 |
+| 草根City Girl - 全一话 - 20180315.epub (3.79 MB) | bdex://4066794ce39662993b33466457c757ad3dd1c23f |
+| MOMOMO怪餐厅 - 第02话 - 20180120.epub (1.26 MB) | bdex://25914d51d54aed63168b4af95d854b85b6d33ccc |
+| 吃草少年 - 第20话 - 20180114.epub (855.63 KB) | bdex://c45177279114b34e589502e75d6a77ecefbfd87c |
+| 替身新娘的贵族生活～离婚成功就能一攫千金～ - 第01话 - 20180316.epub (3.82 MB) | bdex://b9051fff45711f6efe90da3010d9d9e2653de6ad |
+| 把我玩坏也没关系 - 第06话 - 20180314.epub (2.07 MB) | bdex://6abfbbe5ec2b7125b712fde4db537a5266b4a5e8 |
+| 请问您今天要来点AV吗？ - 短篇 - 20180201.epub (1.63 MB) | bdex://cfa58a278f7b0f56d747d76e24e19bf615abd657 |
+| 囚犯 - 短篇 - 20180104.epub (980.94 KB) | bdex://b32388a057b9f1bf8bae118c30d874211add5997 |
+| 变态一夏 - 全一话 - 20180201.epub (1.92 MB) | bdex://f449222b5c50b70bc51fd40aef6b74635915edfa |
+| 可爱的小梢 - 短篇 - 20180119.epub (1.07 MB) | bdex://2fe9616a52fa81a5ca8e9ca02affd52edcf64297 |
+| 夜魔 - 达贡 - 20180226.epub (3.30 MB) | bdex://0f3c6728e3a7a13a493a6ed8d7d751b02b52f169 |
+| 换装ROTATION - 全一话 - 20180403.epub (2.29 MB) | bdex://0d4dfb29d0caef3a96d2f18227f4d9328908f6db |
+| 野兽先生的女仆 - 第13话 - 20180127.epub (908.32 KB) | bdex://f845ee2907ff9b753f0f47dd9d15e175fa6eb037 |
+| 魔界的大叔 - 第14话 - 20180406.epub (48.18 KB) | bdex://c907effe26c64ffcda4e9c768d1b1bd04818adff |
+| 福本All Stars - 第01话 - 20180221.epub (795.62 KB) | bdex://97df617985b673635a8e4476e4caacbb78c94937 |
+| 吃草少年 - 第24话 - 20180114.epub (665.94 KB) | bdex://a8af78bb7196decdb0796e5b8a39f234219847bd |
+| 回归谈 - 全一话 - 20180216.epub (6.13 MB) | bdex://a53ee5967b4fa3e2d01c822f21d913fbf797ea9d |
+| 曙小姐和粪提督 - (c87)第03话 - 20180405.epub (3.75 MB) | bdex://9f0fdab7031bcec23759005e9bfd6d56da1f0787 |
+| 奇异果实 - 第03话 - 20180306.epub (3.21 MB) | bdex://b1487eeae3de9419cb85af2b6c332c4e4351b08e |
+| 由幻想编织而成的日子-风祝巫女 - 全一话 - 20180207.epub (1.76 MB) | bdex://81f658fd15a0fc78b3b75cbadc999c4d4fd2fd83 |
+| 黑之创造召唤师 - 第05话 - 20180126.epub (1.35 MB) | bdex://da175fbd4622afea94ab937bb71ee87d3ce9921f |
+| 雪纪你难道要坠入地狱了吗 - 第02话 - 20180218.epub (5.02 MB) | bdex://bb706804b5ee057e762f171eac23b5fdc976e2ad |
+| 侦探的侦探 - 第23话 - 20180130.epub (1.72 MB) | bdex://2d95a732c74756b0365e256a3463233cf5d2b3a7 |
+| 喵乐园！ - 第03话 - 20180123.epub (493.03 KB) | bdex://02e613f245291eef9e07b1bac0fa53cbb67bf6fe |
+| 寿 - 全一话 - 20180310.epub (2.97 MB) | bdex://89207449c85b0f67cb163035f1fee672f8462aff |
+| 提督不败先生的日常 - 第04话 - 20180225.epub (386.74 KB) | bdex://687bf0e127bfb96962474e45819267c9f984881d |
+| 向着深青色的约定 - 全一话 - 20180206.epub (6.44 MB) | bdex://a364e6893fe5e7a090af1f8c8b9a5d217e3a7261 |
+| 侦探的侦探 - 第16话 - 20180130.epub (2.07 MB) | bdex://4af6712d1e7180adae351a15bc4fddc2bd016a31 |
+| 爱上你的14个条件 - 短篇 - 20180112.epub (2.24 MB) | bdex://6ec49296c7c655efd41cd13dfc8d76da6b4545d5 |
+| (C93)只是克劳恩皮丝换衣服的本 - 全一话 - 20180126.epub (1.15 MB) | bdex://6fa7b46403c51b99148edb7bcb1c0285358f47dd |
+| 白鹿小径 - 第01话 - 20180125.epub (3.19 MB) | bdex://addb9a9b4e3cd58c61b3e40e32b67d05e5d7b083 |
+| Furi Furi Ribbon - 短篇 - 20180123.epub (1021.28 KB) | bdex://ae8cbbf8caec8ecc2e83850e77908fc912e8ca73 |
+| 青春波纹：罗蕾莱的少女们 - 第02话 - 20180227.epub (2.06 MB) | bdex://440222e31efd5e1d81e0087038906451d60d3f69 |
+| S佐渡小姐与M江村君 - 第06话试看 - 20180216.epub (1.15 MB) | bdex://218595feaf3541df5651417c4cdee23303dedd9e |
+| 高台家的成员 - 第09话 - 20180103.epub (3.02 MB) | bdex://89c82f0be8a85eb45a166608b009a45e92798ce6 |
+| 冬的此方 - 全一话 - 20180313.epub (2.36 MB) | bdex://6b462d79d9dd1d0ce6ef21543bb981b17fc11501 |
+| 福本All Stars - 第02话 - 20180221.epub (347.49 KB) | bdex://66419968ed5963783938905283f52766a3f57d27 |
+| S佐渡小姐与M江村君 - 第04话试看 - 20180216.epub (2.07 MB) | bdex://137fba0e078a16209c77d5357d08828803eef4a5 |
+| 喵乐园！ - 第06话 - 20180123.epub (549.16 KB) | bdex://e33eec701bf7d570a08bf75e581479c50d9ac92f |
+| 隐约美景 - 第02话 - 20180313.epub (2.34 MB) | bdex://4f280b866716805c78cb1f0870360db111a67d17 |
+| 一食昔话 - 第01话 - 20180223.epub (5.20 MB) | bdex://aecbf30da1eeea87e2c3f71587014d99b486236e |
+| 深海三姐妹～深海家～ - 短篇01 - 20180125.epub (2.67 MB) | bdex://699b5f0db31997b9fe4191f2400781051b55bc9b |
+| 落雨狂想曲 - 第03话 - 20180412.epub (2.29 MB) | bdex://6041673caab49f97bcb24d1ae2277a35511bdaf8 |
+| 宇宙尽头中央的 - 第02话 - 20180312.epub (3.31 MB) | bdex://175265fea2a6db082f0d494921a7b999ce6f535b |
+| 宇宙大帝 银河闪电的冒险 - 超疾走全灵兵器-己之拳 - 20180309.epub (4.97 MB) | bdex://5550523bf4cd1bf9583b1beb1fa815246aaecc1b |
+| 转校生勇者某某某某 - 第02话 - 20180127.epub (912.15 KB) | bdex://067ed8a603a97f275ff2bf5268f5955e5e227677 |
+| 森林里的熊先生 - 第01话 - 20180416.epub (5.40 MB) | bdex://0ffe27bcf0fd8551bcea645d4fb389f9dca6498a |
+| 交狂组曲 - 全一话 - 20180319.epub (1.32 MB) | bdex://811b447611cbc0242ee791aa6d2a8038656d8034 |
+| 小熊面包房 - 第03话 - 20180331.epub (36.75 KB) | bdex://836ed019fb298627aaf6577db0e30dfb7e801544 |
+| 魔界的大叔 - 第59话 - 20180406.epub (41.53 KB) | bdex://8ac9c0bb1ba5babdd9633178fea34aee42b9c004 |
+| 小熊面包房 - 第05话 - 20180331.epub (35.89 KB) | bdex://c2802a9325c9c8b168ff808af0a03a92c2144da1 |
+| 地下图书馆的小妖精 - 第02话 - 20180414.epub (6.21 MB) | bdex://706b9878b0dad4c8a364c07276a99a4008829b99 |
+| 可以看见舰娘经验人数的眼镜 - 第02话 - 20180118.epub (111.05 KB) | bdex://1fc859fad5a857f47d14e633875c04153018ec9d |
+| 雪莉·麦迪森 - 第07话 - 20180323.epub (2.03 MB) | bdex://7434d1aadf3a16922ed5d6c24f85c9928872bdc1 |
+| 10岁之后就没有家 - 第03话 - 20180228.epub (2.91 MB) | bdex://42d917b7a6b2891d3660049a27ca542c4534e17c |
+| I SPY - 后篇 - 20180216.epub (2.41 MB) | bdex://70c94e7c8ac1880824f47ee430332eaa465f1d8e |
+| 遮光 - 全一话 - 20180409.epub (1.29 MB) | bdex://43f14364203407dc8e34bc4cd2fbb915e4e610ee |
+| 超能少年之秘密 - 第01卷 - 20180122.epub (20.58 MB) | bdex://85003b0eabca93cadf26cc2192afa6dfd51fdfb5 |
+| Old Home的灰羽们 - 全一话 - 20180213.epub (1.77 MB) | bdex://c9130ff3eb0e854053de46371c5df22b26915ab5 |
+| 境界的轮回 - CH01 - 20180306.epub (4.18 MB) | bdex://a3f7ce528334cf0eac6df611addf8adbff590622 |
+| 雪纪你难道要坠入地狱了吗 - 第01话 - 20180218.epub (6.15 MB) | bdex://5fc4c37517dbf71e5e0f5000e70c14a485336865 |
+| 乃木若叶是勇者 - 第06话 - 20180218.epub (2.05 MB) | bdex://cb69c632bddad6197bb3bac7e488990c1f6bf2e5 |
+| 赤目姫的潮解 - 第05话 - 20180209.epub (1.46 MB) | bdex://2c9407dc01a2d6760a7b8ee754a7de774f534c95 |
+| 兽耳动物园 - 第01话 - 20180317.epub (1.86 MB) | bdex://930486d4d45b4f19198dbaeaaef7615564687815 |
+| 幸运之吻 - 第03话 - 20180214.epub (3.32 MB) | bdex://265f63bf1981e20e46f38547f9a8b095ae03412f |
+| 懒懒散散小爱丽丝 - 第01话 - 20180331.epub (1.13 MB) | bdex://6122552d940f3288cbaa87eedd162f41ebff122b |
+| 流星坠落之时 - 第02话 - 20180329.epub (5.07 MB) | bdex://b50e8c7038ac751343fae8e32ac1278e4ae56a49 |
+| 钩咸饵直 - 第04话 - 20180118.epub (449.57 KB) | bdex://a86598fb8e6f979e378e3b1806bfe8704f764922 |
+| 10岁之后就没有家 - 第04话 - 20180228.epub (3.24 MB) | bdex://871558a9efb9c6132c7139372078c8c194c4572f |
+| 社团破坏者 - 第02话 - 20180330.epub (586.93 KB) | bdex://3080928fe3449ff09d9cb2f8b42bbef086cb621e |
+| 魔界的大叔 - 第25话 - 20180406.epub (76.43 KB) | bdex://2593005e1b2beeb77c51f09d58a6882509f04b8a |
+| 乃木若叶是勇者 - 第05话 - 20180218.epub (2.44 MB) | bdex://183a02f55ce1cfa98f74838dda44e29059659d0a |
+| Blue Friend - 第02话 - 20180415.epub (2.38 MB) | bdex://ce5fa0bff2ccfe84a12d458837a8dbab442a4a22 |
+| 野兽先生的女仆 - 第21话 - 20180127.epub (737.91 KB) | bdex://0996003e8e0885242bfe9ea9701274007c631c8f |
+| 饿虎 - 全一话 - 20180120.epub (4.64 MB) | bdex://f388300478357aaf1d4a82a1f58c00fa01eac0c7 |
+| ナナロク きろくのーと - 短篇 - 20180215.epub (2.71 MB) | bdex://1be359fdf6e8fdb34433a10c6d421d17981672c1 |
+| 魔界的大叔 - 第46话 - 20180406.epub (91.37 KB) | bdex://885524351c6e929b6a30fb0c889e3463aa6f2588 |
+| (C93)亜図宇流恋 - 全一话 - 20180205.epub (2.85 MB) | bdex://8ee4d352c7e4d93b743acb26b0762dce5972df69 |
+| 幽幽子大人 这个不能吃啊~ - 全一话 - 20180213.epub (2.10 MB) | bdex://c5fb4693cad695d4da2d912b525b51fd2f3c5116 |
+| 星的一生 - 短篇 - 20180121.epub (4.15 MB) | bdex://5106d3fe8953d62865d6c0119f9108c507540cf8 |
+| 冈叔的奇妙冒险 - 绯色的幻影篇 - 20180102.epub (542.01 KB) | bdex://d0697c6daf4160c66bf34e7ea625b22d7a8ccc83 |
+| 吃草少年 - 第14话 - 20180114.epub (504.43 KB) | bdex://ba86eb2c61236457811f8f4b1048f15226d18e42 |
+| 憧萤向日葵 - 前篇 - 20180318.epub (12.34 MB) | bdex://e00bc46c391496b302f59b0324fb3d0c39990eed |
+| 不管多少次我的初恋都是你 - 第08话 - 20180407.epub (2.10 MB) | bdex://505560bd3fdf7dd945b28d5b071fe4b1f7183430 |
+| 不得不承认我很喜欢你 - 第03话 - 20180122.epub (4.69 MB) | bdex://5ccdb2ae43e1080c38db90fee30cbeb3695d409a |
+| 死傲娇女友萌奈美小姐 - 最终话 - 20180103.epub (189.23 KB) | bdex://b23bf4da3ca779e356ae63598499d2503866a58a |
+| 其实，我被男朋友误解了 - 短篇 - 20180322.epub (2.81 MB) | bdex://b43d8a45eafd73d0cff4b075f9825ba6b0bd497a |
+| 恋与弥生画作 - 全一话 - 20180120.epub (1.71 MB) | bdex://ccc01855c83420927811b8a4a293bbb8bed2dbed |
+| MS1.5 - 全一话 - 20180203.epub (1.93 MB) | bdex://0cd088491f6ce811bbeca6083b9ca84f4bb14ae6 |
+| 宇宙尽头中央的 - 第04话 - 20180312.epub (2.80 MB) | bdex://baeb02d37ce38a34347a154fbdd18fa9e872cb73 |
+| 阿燐小姐只是在为你掏耳朵而已 - 全一话 - 20180330.epub (1.50 MB) | bdex://1c767e336e5b06208bda4c2968cbf998cb3ee5e4 |
+| 你仍是笼中之鸟 - 全一话 - 20180321.epub (3.75 MB) | bdex://20b1de120c5659bdba211cd8a070479f71cea9de |
+| 野兽先生的女仆 - 第15话 - 20180127.epub (874.86 KB) | bdex://a9422315092804a60a7e618b31a73dd8a012fb46 |
+| DESIRE DOOR - 全一话 - 20180203.epub (3.41 MB) | bdex://22ee242983c749de3bc77ba1a7e7878ccce07357 |
+| レントゲンナイト - 全一话 - 20180214.epub (2.20 MB) | bdex://ee0c6e3025c6e333de427ad2f961869f96360a38 |
+| 服从本能 - 第04话 - 20180131.epub (1.84 MB) | bdex://375af0dead9575d20acfbf4d18e86eb0898bd087 |
+| 四分钟的金盏菊 - 第15话 - 20180206.epub (2.02 MB) | bdex://bcb12a90f96f89de0026bbe92a891583eb128837 |
+| THE TENKOMORI - 全一话 - 20180112.epub (7.52 MB) | bdex://1dbc3df0c4cdf919626c75df4c9db9afb7b4f33e |
+| 王子殿下的游戏 - 第02话 - 20180313.epub (5.02 MB) | bdex://23bf5cbf57bed190fe43461209b77ef3477d2bd6 |
+| CRIMSON’S CREED - 第03话 - 20180102.epub (6.94 MB) | bdex://9d4bbce64f4c32b17105f87e1b13f428706a49d5 |
+| Amour pur - 全一话 - 20180102.epub (2.83 MB) | bdex://83b81c48fb085083858dcc0ae7fad7593ca32afb |
+| 恋思美食家 - 电视剧版特别篇Ⅱ - 20180130.epub (4.48 MB) | bdex://8440f63d9b1a29113bd491d02e8483cf49ac424f |
+| 爱心制造厂 - 全一话 - 20180305.epub (3.10 MB) | bdex://637ec82a3f6882dc3c91998caf5e62f0be98c9f7 |
+| legend魔兽师传说 - 第05话 - 20180127.epub (1.29 MB) | bdex://aeef7d928dc6b2cad9cc0d139f9c69999e5d94f9 |
+| 恋思美食家 - 电视剧版特别篇4 - 20180130.epub (3.49 MB) | bdex://9e833ca0539c19e2f6f4188ed29559cf99cfe779 |
+| 夏空SherbetSnow - 全一话 - 20180306.epub (4.54 MB) | bdex://217a17a39b6057b6e1aa5b65aec2055e1fa07ee7 |
+| 落雨狂想曲 - 第04话 - 20180412.epub (2.38 MB) | bdex://584e7b9e4d6873eb291282383a631568105c832a |
+| 从零开始的魔法书 - 第04话 - 20180415.epub (4.05 MB) | bdex://4de6fd6811bd1678c44f98384a9d893abdfcc614 |
+| (C93)Feet Grand Order - 全一话 - 20180122.epub (3.48 MB) | bdex://d61e09ab9cfd584d88fcf0f919a46456c2e18c23 |
+| 幻想GO - 全一话 - 20180219.epub (2.85 MB) | bdex://cf782d62f20526fd623b4f1289606f1b3acf5cc6 |
+| 月光如丝 恋上你的唇 - 全一话 - 20180123.epub (2.88 MB) | bdex://f02949cabc92cb6d236cf0effe33d0c0d883564f |
+| 筋肉香霖摔跤 - 第02话 - 20180130.epub (1.21 MB) | bdex://1b454893f7cd8fafae746689ffc523cf4cf5c70d |
+| saitom Illustration Works - 全一卷 - 20180305.epub (6.38 MB) | bdex://f3ebcdb7fbf5f6455f7686bfb6af4c1a685f0e3e |
+| 为安杰利卡献歌 - 第00话 - 20180227.epub (426.97 KB) | bdex://ea800a0211a5b6a0c3f91d92dedc39c2e9bc469d |
+| 盖塔机器人 - 第01话 - 20180204.epub (6.39 MB) | bdex://41e1a6c884ec57eb67ee08f4d3342aceca8d1578 |
+| 铁假面的伊吹同学 - 第1卷03话 - 20180306.epub (409.38 KB) | bdex://71c860655b49d1a8a90e9d8c68082159cb9ec555 |
+| 诛诛lovely无理无理南无三！ - 全一话 - 20180413.epub (8.17 MB) | bdex://e604427e954dc4b7f1682c566e19e9ec8ec292b1 |
+| 青春波纹：罗蕾莱的少女们 - 第01话 - 20180227.epub (2.21 MB) | bdex://eb6928ac6b0d1d7c66cabe4cc1d4d02c88a570b0 |
+| 困惑的shadow wolf - 全一话 - 20180202.epub (1.32 MB) | bdex://01b9d1f6807d139bf8d45e3b8beab0c6e7051dd6 |
+| 好想被僵尸老师咬一口 - 第03话 - 20180114.epub (1.35 MB) | bdex://15c25b0323176747f68e9ea0205548777a63a4ed |
+| legend魔兽师传说 - 第07话 - 20180127.epub (1.46 MB) | bdex://d26faa862ed564ffe9f33af935e1e7ad3aa6d2e6 |
+| 命莲寺绘日记 - 全一话 - 20180127.epub (2.60 MB) | bdex://88bdb15807b772e875c9fc9cde3f3a977365954b |
+| 电脑格斗技 梅菲斯特圆舞曲 - 第03话 - 20180224.epub (1.19 MB) | bdex://d7e89fff7f163024c103024d13c7be90b14f09f0 |
+| 魔王与勇者的业余时间 - 第10话 - 20180127.epub (501.96 KB) | bdex://37d9289dd6b616f8d8b7ab019cd053caf17f9a5e |
+| Talk of little love - 全一话 - 20180319.epub (2.03 MB) | bdex://dbe4b36fe2cae706b46357635b3990081e172ad9 |
+| 贫民超人缺钱君 - 第03话 - 20180214.epub (825.50 KB) | bdex://ee92a26fd329f9e5742b730546acc36360824c2a |
+| 乃木若叶是勇者 - 第08话 - 20180218.epub (2.22 MB) | bdex://97680584b3bbbbba330404d2bf1fd73c8f966d50 |
+| 爱丽丝和魔理沙的恋爱教科书 - 全一话 - 20180208.epub (2.27 MB) | bdex://71432f62513ec0df200e80578d50041c4305e135 |
+| 温泉物语 - 第06话 - 20180330.epub (2.05 MB) | bdex://a7fd59f26fba769ca688f9ebd7246226d7e24c11 |
+| 小熊面包房 - 第21话法式布丁(pudding à la mode) - 20180331.epub (45.40 KB) | bdex://7d374ac7d9ffab63d1beeb6a395e34de044d99ab |
+| 羽黑酱无法告白 - 全一话 - 20180120.epub (3.12 MB) | bdex://64860a4b49b8ca87c2b614a62f6aaf2a51f0fe89 |
+| 恋思美食家 - 特别篇：运用月之都的科学技术制成的拉面 - 20180130.epub (1023.73 KB) | bdex://db208ce7eab156e5f4674dbe459d1e917547e6e7 |
+| 好想被僵尸老师咬一口 - 第02话 - 20180114.epub (1.20 MB) | bdex://5af0232fa59b01f49a952acfe6e698c1f6cdaf11 |
+| 俘获芳心的香霖堂 - 第02话 - 20180228.epub (2.86 MB) | bdex://8d6bd8f7b13b4fa80a70bdc691ce71243049da6a |
+| 麻烦孩子的百合故事 - 第12话 - 20180211.epub (70.77 KB) | bdex://7dae192cded590d7c8dd7e2f19cfc0e7836e111a |
+| 侦探的侦探 - 第19话 - 20180130.epub (1.93 MB) | bdex://679c77f04d3a267937ee725eba1bf72ba1fa3049 |
+| 涅拉乌欧似乎蹂躏圣杯战争 - 第06话 - 20180312.epub (622.30 KB) | bdex://98b88c63506c1c4370d2c254be215c0f9370a311 |
+| 穿着校服去结婚 - 第04话 - 20180131.epub (3.64 MB) | bdex://7ea6518add87fc7332255f6a60594364e5aa5f1f |
+| 泳装与忌雷与废材姐姐 - 短篇 - 20180325.epub (1.50 MB) | bdex://f2111ee0edef6f903276664a51f42647ff43cd4a |
+| 决一胜负吧 我欲成神！！ - 全一话 - 20180318.epub (1.09 MB) | bdex://574db0f8a74e5c959bfc2181da92f46467c1f529 |
+| 四分钟的金盏菊 - 第01话 - 20180206.epub (4.27 MB) | bdex://60b2900d31a9100ff17b8c00d611701698f2c6f6 |
+| 魔界的大叔 - 第13话 - 20180406.epub (61.44 KB) | bdex://44d5d76a187a190f0e3e1fe7a6e4714d87b3d0d3 |
+| 冈叔的奇妙冒险 - 贪婪大陆篇 - 20180102.epub (787.25 KB) | bdex://aa9d17db52a494d06910e6d66ceb2350002a0a1a |
+| 四分钟的金盏菊 - 第12话 - 20180206.epub (1.36 MB) | bdex://0999992aac24d56e7cf8364ac0b6725252c0af90 |
+| 魔界的大叔 - 第45话 - 20180406.epub (90.97 KB) | bdex://7879dc3f8c31080de22d4e3520cd547bfbdffdd3 |
+| 强袭魔女画集 - STRIKE WITCHES OFFICIAL VISUAL COMPLETE FILE - 20180402.epub (8.67 MB) | bdex://ebe1c980ea953abaaa6c4faaa37409bdaa6ee576 |
+| 魔界的大叔 - 第33话 - 20180406.epub (35.48 KB) | bdex://999a7cf8c863ef6a19815e56a17f308f1b4057ea |
+| BOKO POTATO - 全一话 - 20180401.epub (1.60 MB) | bdex://51658dc00b5acf4104a255d1980d9787d21ef98e |
+| 野兽先生的女仆 - 第10话 - 20180127.epub (832.12 KB) | bdex://784a694088e2ebc79593c1ee157f21dc07917953 |
+| 怪诞银行 - 第13话 - 20180414.epub (1.97 MB) | bdex://1c17af92238be12d274e869f030f8c802f22682c |
+| 恋色折纸 - 第01话 - 20180325.epub (4.53 MB) | bdex://b8b57d051d7950583d7757e1f2c36f2c5b47a824 |
+| 樱花狂 - 第02话 - 20180204.epub (2.05 MB) | bdex://7b9b1579aa3bd4769abb36248a7e366e4bff471c |
+| 以人狼之姿转生 - 第4.1话 - 20180126.epub (1.67 MB) | bdex://4e2d09cb47710c0deb6832e8996ad16c633e1dd8 |
+| 所谓乌鸦的存在理由 - 全一话 - 20180223.epub (4.73 MB) | bdex://2b1d947f284e7ce25ec2cdd4f88fe3f93eec8fab |
+| 阎魔独占 - 全一话 - 20180408.epub (2.11 MB) | bdex://2ef491e1c7d07a0e8e78e2a2653682802f37424e |
+| 野兽先生的女仆 - 第02话 - 20180127.epub (718.80 KB) | bdex://78588aa4e026aa9c6fd49548f9dc562bddc2da99 |
+| 绅士不知淑女所想 - 短篇 - 20180109.epub (2.69 MB) | bdex://531404661486dd04dbb97471839f1f42e00e2918 |
+| WILD WIGHT WEST - 第01话 - 20180323.epub (4.78 MB) | bdex://eaed030e48ab79c870c398e59c09fb07a56877c0 |
+| 少女collective - 全一话 - 20180317.epub (3.76 MB) | bdex://c4d6885f843235c314f11f565c4af46c76c14cdc |
+| MOMOMO怪餐厅 - 第04话 - 20180120.epub (1.13 MB) | bdex://09b541003b00bc8fbfb6ec029a7c2b545cbfb8df |
+| 宇宙大帝 银河闪电的冒险 - 香巴拉的小画家-奈露 - 20180309.epub (3.57 MB) | bdex://79b2ae2f42990941c820f085c6e58a474e98a58a |
+| 侦探的侦探 - 第12话 - 20180130.epub (1.84 MB) | bdex://d520a14788d7ceba76cc41989ec31aa8035d39d0 |
+| 有看到我家的阿燐吗 - 短篇 - 20180331.epub (1.04 MB) | bdex://6026addb70e7bdf7d29537f90861de4652d8348b |
+| 魔王与勇者的业余时间 - 第09话 - 20180127.epub (764.79 KB) | bdex://06380a7729fcbe226ad30357b317ef16a6ee969c |
+| 冈叔的奇妙冒险 - p站连载版加笔 - 20180102.epub (362.40 KB) | bdex://84ef003b3137e7fc220299ed37c8a55bfb53f835 |
+| 死亡棒球 - 第01话 - 20180126.epub (2.14 MB) | bdex://707fb2902441642c53c9f6e131752b1cfa9aedd3 |
+| 咱们LGBT - 第01话 - 20180308.epub (2.03 MB) | bdex://d3659ce2a2a38ac93680ccba4ae11fffad9c0152 |
+| 温泉物语 - 第02话 - 20180330.epub (1.80 MB) | bdex://a804255651d65d9c460ae0d3cdede24513fccc38 |
+| 异种百合恋 - 第01话 - 20180207.epub (3.71 MB) | bdex://9efb929fa974a8b310b633a9423ca9d5cea64b53 |
+| (C93)花露约会 - 全一话 - 20180118.epub (4.36 MB) | bdex://3abe94f4d4784bd37622e349a31519c22373f7e8 |
+| Arnval日和 - 全一话 - 20180306.epub (1.76 MB) | bdex://9bc3938c579760ee16e3b5509c1f0091dbdf2c22 |
+| 比我年幼的姐姐 - 全一话 - 20180325.epub (2.52 MB) | bdex://66d7b22ad7ee0bfcc2a4884b074bc954ddc99791 |
+| 温暖一刻 - 全一话 - 20180221.epub (1.82 MB) | bdex://759bcc91ee4672376f976f4c611de9af5a3a3128 |
+| 无法相容的两人 - 第01话笨蛋吗 - 20180414.epub (975.60 KB) | bdex://f5625c1242a66ba6f38813ac7ba42241e5e35fea |
+| 四分钟的金盏菊 - 第04话 - 20180206.epub (1.29 MB) | bdex://9f85a4b4418df080ebee0a5883b77fafe68f9dd8 |
+| 高台家的成员 - 第12话 - 20180103.epub (1.15 MB) | bdex://08d2451109674bf5b6a6a47ef10c37f9baa3f483 |
+| 野兽先生的女仆 - 第03话 - 20180127.epub (756.89 KB) | bdex://d9eb9cf13d759fb49ac139137ee8f0ac9167ce0b |
+| MOMOMO怪餐厅 - 第01话 - 20180120.epub (1.58 MB) | bdex://ed1e93a1f56e6479e68cc1168d160dded89ceee5 |
+| 铁假面的伊吹同学 - 第1卷01话 - 20180306.epub (517.15 KB) | bdex://33ecd745ebca169128b56fc734c695816e7d9202 |
+| 东方灵魔小秘密 - 全一话 - 20180207.epub (2.04 MB) | bdex://46884925da7e3b85c2594a537e448aae6871789b |
+| 七拉八扯 - 全一话 - 20180311.epub (2.23 MB) | bdex://17a2210442b9462150be7fef8153a1e0f4996d7b |
+| 野兽先生的女仆 - 第17话 - 20180127.epub (797.28 KB) | bdex://67865e06d95b316db97bac87cb5d4ac57397e99d |
+| 怪诞银行 - 第01话 - 20180414.epub (9.04 MB) | bdex://aaab73fea6b82790b901b6e6651d6f6d84ac7504 |
+| 中二病是必经之路！ - 全一话 - 20180329.epub (1.69 MB) | bdex://86f932d2ad110842508c3dd2cf0bc740fd71738a |
+| 吾妻同学和板仓学姐的恋爱故事 - Another Story - 20180104.epub (3.82 MB) | bdex://908516734b5ef855a2c449e34cc49f792000c122 |
+| 民法改正 - 第03话 - 20180306.epub (2.90 MB) | bdex://e0ae4d19e437ab9e5c9c7c986f008c9f80dd22c1 |
+| 傲娇娇娇 - 第01话 - 20180320.epub (608.61 KB) | bdex://bbc00fb9a607c5cda157d9f47307959035181f80 |
+| 野兽先生的女仆 - 第20话 - 20180127.epub (914.41 KB) | bdex://c4053245bf23aa7eec9c39d98c66ef45ea0779ad |
+| 盂兰盆国 - 第06话 - 20180127.epub (1.74 MB) | bdex://e0a1959b98677596abe3318166f87b62f7c85465 |
+| 社团破坏者 - 第03话 - 20180330.epub (607.65 KB) | bdex://fc310b997a303a119d0d208ffe719d01a744b4ba |
+| 吃草少年 - 第16话 - 20180114.epub (984.90 KB) | bdex://ecb6eff71a4445245cf8ac499179ccbc24e5e310 |
+| 野兽先生的女仆 - 第18话 - 20180127.epub (1.02 MB) | bdex://a853214c230f00bb7bf7d968132fa83312a5d05c |
+| 魔法少女奈叶 Material女孩 -INNOCENT- - 第01话 - 20180221.epub (951.65 KB) | bdex://71dce32dc938358e162c4420176ea0ae0861b27a |
+| 贪吃猫 - 第01话 - 20180408.epub (1.05 MB) | bdex://47cf311bde377ace7318d4171e200991516bf00a |
+| 怪诞银行 - 第09话 - 20180414.epub (2.44 MB) | bdex://1241405eab7b9f326f03675c2e5192d504a22088 |
+| 以人狼之姿转生 - 第7.1话 - 20180126.epub (1.16 MB) | bdex://17d550b1f79da410dbd6a47dccab010c48a59af3 |
+| 东方搞笑大战同人志地狱 - 全一话 - 20180410.epub (4.42 MB) | bdex://4a5384f2746f5e5e79525bf1645029c721aef92c |
+| 转校生勇者某某某某 - 第03话 - 20180127.epub (1.07 MB) | bdex://44244d96b102294ddd3625d67376074e9e22b807 |
+| 麻烦孩子的百合故事 - 第11话 - 20180211.epub (229.74 KB) | bdex://a8740b409dee93b9960b02860d03a492c6ef49c3 |
+| 涅拉乌欧似乎蹂躏圣杯战争 - 第04话 - 20180312.epub (502.53 KB) | bdex://c18af17026a6d6106f71b28f4b2b38260351ec23 |
+| 贫民超人缺钱君 - 第02话 - 20180214.epub (747.16 KB) | bdex://70fab5d8ec2660e18782f2e3c2b13117a1b4f09e |
+| 百货店圆舞曲 - 第01话 - 20180121.epub (2.08 MB) | bdex://da79b04b27dea955d767ab352b43d9471efbbc37 |
+| 魔界的大叔 - 第15话 - 20180406.epub (51.13 KB) | bdex://75914b948de09d39bacb37069ec645a575aa63d6 |
+| 麻烦孩子的百合故事 - 第06话 - 20180211.epub (107.86 KB) | bdex://934fa6aac4c4e3bd5770794932b8d03291766983 |
+| JK与幼女的百合物语 - 第08话 - 20180201.epub (870.31 KB) | bdex://6a93ca212a1e3d03ff5ab39c884b969e4177e55b |
+| 琴浦小姐 - 第03卷 - 20180301.epub (7.49 MB) | bdex://809609c33c652ece11fa6766c36fa859ec8835be |
+| 铁假面的伊吹同学 - 第1卷04话 - 20180306.epub (388.84 KB) | bdex://aa279df18f3cd632c91499300bdfe0c82c8f83ee |
+| 吃草少年 - 第32话 - 20180114.epub (1.29 MB) | bdex://b313498925b33937c599d5820ef6a4d8ba66d4ce |
+| 指尖相接的喜欢 - 第01话 - 20180319.epub (3.88 MB) | bdex://5826d7d88a8be911cbda196772df58914f697a24 |
+| 悠哉茶室 - 第05话 - 20180202.epub (681.08 KB) | bdex://96006230335f638edbf09156da8dd3a0fb8c2ed7 |
+| 冈叔的奇妙冒险 - 幻影旅团篇 - 20180102.epub (478.99 KB) | bdex://8e75ba763114f41e439ff7aed642dc3c08a182a1 |
+| 银火 - 全一话 - 20180228.epub (4.17 MB) | bdex://bbbb183930f623303e5bd1266e324a81302a2886 |
+| 夜魔 - 夜魔01 - 20180226.epub (2.89 MB) | bdex://259b4a50818d679361777a372e27cf487441a141 |
+| 长门小姐出场咯 - 全一话 - 20180308.epub (3.79 MB) | bdex://a52556ccbceed469edd77388c85cc534ede4b8e5 |
+| 我们就是魔法少年 - 第01话伪 - 20180319.epub (485.83 KB) | bdex://19e2f4395a7e9714d1e3477e4f7596890c2b89ae |
+| 伊卡洛斯 - 全一话 - 20180115.epub (5.70 MB) | bdex://3430bbf8ce828dff97a504bc9c28e4e153d20bcf |
+| 猫侦探 - 第02话 - 20180130.epub (1.17 MB) | bdex://014f9cf00875d95af01326e106dd26aa18d7f84e |
+| 做梦的果实 - 全一话 - 20180412.epub (2.42 MB) | bdex://a9035b42cfafd67b78f63fe985f1336d22918f50 |
+| 孤独的天下第一互相秒了 - 第01话 - 20180123.epub (1.75 MB) | bdex://daee40d6a795c08c58de3b1f281961cdabd38a0e |
+| 零落 - 第05话 - 20180219.epub (2.56 MB) | bdex://cd74a2520ea41d1599606fd6010be0fb709d2654 |
+| 镇呼剑 - 第01话 - 20180402.epub (2.16 MB) | bdex://86791f5dd234ea5d76681417c087ffb30cad0dfa |
+| 傲首热舞 欢迎光临鹿高竞技舞蹈部 - 第01话 - 20180208.epub (6.04 MB) | bdex://8243f97128ef7b6c2021b263366ce719c5c0f618 |
+| 在拂晓升腾 - 全一话 - 20180321.epub (4.25 MB) | bdex://ebeaac282100dcec29e2314647108f0b5ca2c972 |
+| 能拍100条内裤吗？ - 全一话 - 20180406.epub (3.49 MB) | bdex://145538d52250d2dff7bb17652a357647d9349e80 |
+| 灵乌路附属装备 - 全一话 - 20180326.epub (1.98 MB) | bdex://257b787bf3368b9e277d2b3dc5e84fc65306ed6e |
+| 美味的妖怪 - 第01话 - 20180122.epub (1.19 MB) | bdex://b80f45823ea89ea2d109bbd6ea8daaaad38204fa |
+| 无名的花语 - 短篇 - 20180307.epub (869.73 KB) | bdex://9aa5a47d9cfe8ab0f930da674d1633db27b3f2af |
+| 正义与吉他 - 全一话 - 20180112.epub (950.31 KB) | bdex://a417c170a3c5eb514c80f81b35093fe1d1f11fa2 |
+| 小熊面包房 - 第09话店长 - 20180331.epub (38.59 KB) | bdex://5959bab91fc1c9dbf3f39c61dc5b00062cd6f3c9 |
+| 偶像大师画集 - 全一话 - 20180319.epub (1.44 MB) | bdex://e87067b3d15fdaba7091d84f8ef9ce30fed429e0 |
+| 转校生勇者某某某某 - 第01话 - 20180127.epub (1.53 MB) | bdex://d98d2d668c834e2acbb6f81f3aef21c4440d9781 |
+| (C93)喂喂恋恋 - 全一话 - 20180126.epub (2.21 MB) | bdex://fa80a53e10687f1070ba0a40abe2ffed32291606 |
+| 钩咸饵直 - 第02话 - 20180118.epub (414.34 KB) | bdex://3f5521a0dc2d521ef67a45b1b52d4132ee9d85f4 |
+| 把我玩坏也没关系 - 第02话 - 20180314.epub (2.02 MB) | bdex://e78eec416788cc9ea8701079e2468843cd21a880 |
+| 四分钟的金盏菊 - 第10话修 - 20180206.epub (1.61 MB) | bdex://01c261000a0ed3f1afb622b688c5e362d06beffd |
+| 艾莉的工作室 南国来的留学生 - 第04话 - 20180327.epub (470.76 KB) | bdex://0310b196bed0d8c182e5eaa06da02e05e66d4c36 |
+| Preserved flower - 全一话 - 20180221.epub (3.09 MB) | bdex://20a994c991926e06fc693bc89cf516c998aec9e9 |
+| 吃掉姐姐 - 全一话 - 20180214.epub (3.34 MB) | bdex://c2f269e0d43312a60face87a535ad171432bd227 |
+| 野兽先生的女仆 - 第24话 - 20180127.epub (874.69 KB) | bdex://858c14ec78b75befacb3b83210eb454e692843bf |
+| 风夏 - 第02话 - 20180408.epub (2.35 MB) | bdex://09330b5dddfda5757c5d1937ee539ea9eb93c443 |
+| 宇宙尽头中央的 - 第05话 - 20180312.epub (2.84 MB) | bdex://718de28a861280807095d4122aa4be8c6a3e74e8 |
+| 血与巧克力 - 第04话 - 20180115.epub (1.94 MB) | bdex://a13244910fe8918c35f4662465d04909e149cc22 |
+| 锵锵锵锵——！ - 第01话 - 20180307.epub (959.00 KB) | bdex://f2f8f1827d5a2fb6fd1f0bd3bccaffea7848058a |
+| 写实报道 - 全一话 - 20180302.epub (5.79 MB) | bdex://2a42d3061e56a5a05033711ff77f3d9f69dc53bc |
+| 古明地姐妹的4格漫画 嘎嘣脆，鸡肉味 - 全一话 - 20180301.epub (889.91 KB) | bdex://c44fd61539e3ae95e1fbee2ab994d2ce2c39c527 |
+| 四分钟的金盏菊 - 第09话 - 20180206.epub (1.31 MB) | bdex://8be61971961d12ced5b557d4f645f1c7e32af109 |
+| 雪莉·麦迪森 - 第06话 - 20180323.epub (2.67 MB) | bdex://31fffe579128168b98db975151765e350dfddc83 |
+| 没有雾气的淡定 可是会把持不住的哦 - 全一话 - 20180131.epub (2.22 MB) | bdex://0495796967da77bd86a3bc0291797828c1de5ee5 |
+| 网罗兔材 - 全一话 - 20180218.epub (3.95 MB) | bdex://c51a6a5cf938f34754f15c5141ed81f94bad2740 |
+| 心之庵 - 全一话 - 20180220.epub (1.00 MB) | bdex://be5d89e33c8a969e07bb3ba437a8b4bcb048fa20 |
+| 繁结 - 第01卷 - 20180327.epub (16.45 MB) | bdex://27c0c2770d6d2e2d7d9baa220fbd32fbd757bcfb |
+| 秘封BL - 全一话 - 20180309.epub (1.68 MB) | bdex://64eb6a55007a1207924c795cf953109af0244029 |
+| 因为今夜的月色真美啊 - 全一话 - 20180120.epub (2.03 MB) | bdex://c5b4b7eea1213b171566ca4612157a9bc322adfb |
+| (C93)偶像们的竞泳水着 - 画集 - 20180310.epub (1.30 MB) | bdex://a8ccff8b5a50dcd32f5dd8cc5054ebc0a58f66eb |
+| 退治天狗 - 全一话 - 20180123.epub (1.39 MB) | bdex://2a39a861b0a26ad04cb4e5234765c1a4e945d2c1 |
+| 加油吧！中村君！！ - 第01话 - 20180213.epub (1.03 MB) | bdex://223de063458cd73b80b3b42bcf459b1859dc9d70 |
+| 派遣新嫁娘 - 第05话 - 20180222.epub (2.72 MB) | bdex://9e6b48849a645459aaa8d78a22a92aff5e96e036 |
+| 早安 求生 - 第01话 - 20180107.epub (6.82 MB) | bdex://42e72f4c36304856ce97dace5610637743ef5ff6 |
+| 新年比起荞麦还是鸡素烧更好 - 短篇 - 20180106.epub (1.70 MB) | bdex://a97c563486aa8a9d39ce40b4ee2c7e8631a85918 |
+| 美味的妖怪 - 第06话 - 20180122.epub (697.25 KB) | bdex://92e1c1c6a98eba0146404b96e68908d613450c0c |
+| 蜜味之血 - 第08话 - 20180407.epub (1.11 MB) | bdex://f2b7b975ef0ddcc374e4503a7b8d90b12e3d101c |
+| 布偶最强魔法师的隐遁生活 - 第01话 - 20180127.epub (498.62 KB) | bdex://14930abce76ccd25b9a3169ee236b573833f2756 |
+| 二本松兄妹与木造溪谷的冒险 - 第01话 - 20180122.epub (4.46 MB) | bdex://04cd4ff9b2170a4549f2d54d8aaa3f6a8db71a63 |
+| 魔界的大叔 - 第19话 - 20180406.epub (45.17 KB) | bdex://a71ee69c79dd7c33b34e6bb7247cb1dc3aa53438 |
+| 黑之创造召唤师 - 第02话 - 20180126.epub (1.57 MB) | bdex://ecd7899c0a30bd7637b8b2dc1610e2b7094b9e5b |
+| 社团破坏者 - 第04话 - 20180330.epub (524.42 KB) | bdex://c20025d0cd4cfa9ee5adad04f7d3c6e47e6a0f9e |
+| 一之宫同学有点问题 - 短篇 - 20180119.epub (2.04 MB) | bdex://84c93018cd9f3ef13442c7d8e023f300c6f82334 |
+| 奇迹召唤星辰 - 全一话 - 20180207.epub (901.53 KB) | bdex://1c8f234a3661f5dac7f92a2f40b2f4cf2d85f734 |
+| 猫侦探 - 第01话 - 20180130.epub (1.37 MB) | bdex://3479d190ff86556dcef0592e61609fd4207ccfdd |
+| 满溢着温柔的世界 - 第02话 - 20180214.epub (733.35 KB) | bdex://75be92bce268483f6356fb87ecb812936af3a9c6 |
+| 魔王社长 - 3／27正式出书确认 - 20180226.epub (93.85 KB) | bdex://95f4e1a641a52225703b0e4f5a8f451494dc9dc7 |
+| 古明地式充电法 - 短篇 - 20180109.epub (292.17 KB) | bdex://1d1daa5b3bb562eeda67a8c49ecb0a6e1455d3fb |
+| 吃草少年 - 第28话 - 20180114.epub (1.96 MB) | bdex://581e02037c3cb32bdc3fe099c363327d96eb13e0 |
+| 悠哉茶室 - 第04话 - 20180202.epub (551.53 KB) | bdex://50a8d1b4f14f8ffbbf14925863f6e91eba7caca6 |
+| 尼采老师~领悟世代降临便利店 - 第01话 - 20180308.epub (1.48 MB) | bdex://73a065a3046eb1bd787fde0ab72c09d2777a5f75 |
+| 贫民超人缺钱君 - 第04话 - 20180214.epub (816.74 KB) | bdex://557e6d7dfe4bd1b68c00bbc77db8d9290360e17d |
+| 4月的恋爱与发圈 - 短篇 - 20180210.epub (1.51 MB) | bdex://11f8efd63db456d876da5f333f73f7584483f424 |
+| JK与幼女的百合物语 - 第05话 - 20180201.epub (815.84 KB) | bdex://1fb8a34b86f3ece9306ba6306c74ed36fb3eddab |
+| (C93)omomiruk vol.17 - 画集 - 20180101.epub (581.26 KB) | bdex://cf5f39d403cdbeecf6aa39a2b5424702c4081ed8 |
+| 吃草少年 - 第18话 - 20180114.epub (1000.72 KB) | bdex://aaaedf4001a3ade1f684e98f6a8be2e91ec04352 |
+| 白玉团子 - 白玉团子2 - 20180307.epub (1.81 MB) | bdex://ead0da9dedea281034772a5d3153c0b1cd8741d6 |
+| 温泉物语 - 第03话 - 20180330.epub (2.46 MB) | bdex://9f7ba3e3f2c3c84121abf42e5e29f3515d0a158c |
+| 怪诞银行 - 第14话 - 20180414.epub (5.54 MB) | bdex://501e1285f9ffe298c2194743d4a2f389e1445570 |
+| 美少女战士 - 2 - 20180114.epub (14.73 MB) | bdex://cac42e822c3c1673f52a14843a025022d2ff0bad |
+| 埃罗芒阿老师-E-Manga Sensei Unofficial Fanbook(c92) - 全一卷 - 20180121.epub (1.58 MB) | bdex://70218289bd0e161697c90872b5d618b543f10bfb |
+| 魔法地藏和魔法人类的魔法宴会 - 全一话 - 20180118.epub (1.58 MB) | bdex://d02bd210356b5c6f4eef9eb1e1d8e9f1990f58f2 |
+| 侦探的侦探 - 第20话 - 20180130.epub (1.43 MB) | bdex://e1119eccb399e87f97caaaa0fdeb71368baa08d8 |
+| 加油（泣）小伞酱！！—突击！旁边的红魔馆 - 全一话 - 20180122.epub (3.99 MB) | bdex://d2ef5c6b87f76de08752af3cd7b6a0452dac1d98 |
+| legend魔兽师传说 - 第4-2话 - 20180127.epub (600.22 KB) | bdex://b6fe1bd009223f9f04d9192b699d69bca4646048 |
+| 红魔馆尚在蝌蚪期时的故事 - 第02话 - 20180210.epub (1.31 MB) | bdex://d8139a367ff921c75337354ef5c773c02bb727bf |
+| 钱谷君的恋爱由钱决定 - 第01话 - 20180122.epub (1.26 MB) | bdex://5bbd66104d9e7c509640eb6111ab0af63d1e5df1 |
+| 背之眼 - 第01话 - 20180326.epub (2.90 MB) | bdex://5998bd456645ca413076f743b6c79fd7ac7f1c46 |
+| 精灵宝可梦究极之日／究极之月 游戏日记 - 第00话 准备篇 - 20180115.epub (358.11 KB) | bdex://35f2b4e8bbf494c9bfc7e0d3e3c8dde4c545a9e0 |
+| 学生会长开始了女装 - 第03话 - 20180108.epub (554.07 KB) | bdex://3da51ba1254ebb76a84f2f5755fb701887bcca39 |
+| 分裂动物 魔理沙笔记 - 全一话 - 20180320.epub (3.33 MB) | bdex://f8f5ed3fdf86362ad341191d1090c9c7413a6c89 |
+| 恋思美食家 - 电视剧版特别篇Ⅲ - 20180130.epub (3.64 MB) | bdex://eb59026481399fa1cdad31cc5f5e2e3f8f6406bf |
+| 小熊面包房 - 第04话 - 20180331.epub (43.30 KB) | bdex://45aeee71ca9e7685db2fe0e584cbdc24ff8c8636 |
+| 月下的公主 - 第02话 - 20180205.epub (3.16 MB) | bdex://a04cab023f4582ff54f2177c754f91693ba5706b |
+| 魔界的大叔 - 第49话 - 20180406.epub (42.78 KB) | bdex://2da2ae70fbfac47837008a67a71b3a49dae4cde3 |
+| 天使不会在耳边低语 - 全一话 - 20180207.epub (1.55 MB) | bdex://560af5ac211f11b4ee57ed166a214f1a282ada3a |
+| 梅比斯超人力霸王&奥特兄弟、然后、我们 - 短篇 - 20180201.epub (866.61 KB) | bdex://ad05fee3da5603677be1d287c0623d87d0e59e2a |
+| 可以看见舰娘经验人数的眼镜 - 第01话 - 20180118.epub (79.52 KB) | bdex://359d973c4794e43fb4e570a8e4110e66fddead88 |
+| 野兽先生的女仆 - 第04话 - 20180127.epub (912.05 KB) | bdex://29963e0876bd6e0e4f2825014aa163550240093a |
+| Indigo - 全一话 - 20180204.epub (2.17 MB) | bdex://06c8679d9dbe1c69dc4cb66cabf0953afb472024 |
+| 东方青帖·厚貌深情 - 全一话 - 20180116.epub (2.72 MB) | bdex://1172474f9e66ffe891163849f9dbe5ee866f2937 |
+| 忧郁夏日 - 全一话 - 20180413.epub (5.14 MB) | bdex://3754efa35601762ad58ed6ba7c520b1310b1bbd0 |
+| 小熊面包房 - 第11话金色 - 20180331.epub (47.21 KB) | bdex://dad4c8fb7290fc897a8b5278e664a1a314ba549d |
+| 侦探的侦探 - 第11话 - 20180130.epub (1.81 MB) | bdex://d9d7d8cc04e0d5046f2e7675e733d3eb7f9d0019 |
+| 堕天子 - 全一话 - 20180109.epub (5.88 MB) | bdex://5148a502f96f78fa16bd125b86ffc97bff347b1c |
+| 魔界的大叔 - 第48话 - 20180406.epub (49.85 KB) | bdex://0a8a1091d9e1cee29c50ccae015c4ace912dd4ef |
+| PATCHOULIS - 全一话 - 20180217.epub (4.80 MB) | bdex://f59691f25a4aa1bbea3c6cb38bbb567ff3c02a2e |
+| 白鹿小径 - 第05话 - 20180125.epub (1.57 MB) | bdex://ad8422a52f31ec8935c33adb80dd3a8ddab8c213 |
+| 真实发生过的红魔馆鬼故事 - 全一话 - 20180115.epub (1.65 MB) | bdex://8ba96d793a0421eac750ed47304ac7baa675c46f |
+| REMIND ME - 全一话 - 20180206.epub (1.71 MB) | bdex://5f90ba617ba3088369335da76aee79b5a3d85ab8 |
+| 吃草少年 - 第26话 - 20180114.epub (520.77 KB) | bdex://9c789f9950f8b4ed9cc7b5be3220d5ca498b7a48 |
+| 高台家的成员 - 第13话 - 20180103.epub (2.22 MB) | bdex://82f13cf7f66a4514e7e9b87389a67eb243ac550a |
+| 露露和她的小伙伴们 - 第01话 - 20180402.epub (878.42 KB) | bdex://025ab45aac4730a07b8bf3936ee3bbc795481f0e |
+| 自卑恋 - 第03话 - 20180319.epub (2.63 MB) | bdex://ab5cdeb414b5d29ab25a02f546cf91c3a1efbd06 |
+| 在咲夜小姐的洗澡水里面煮的乌冬绝对很好吃 - 短篇 - 20180305.epub (2.97 MB) | bdex://3f452d134703ed66e98a410ed546ec79b795329d |
+| 洩矢绘草子 - 全一话 - 20180409.epub (1.37 MB) | bdex://6b4562b5ae7caab6182d72c2118cee3de776f495 |
+| 东方青帖·枠外 - 全一话 - 20180118.epub (1.71 MB) | bdex://68339f0c33688de7456d1f26495ab62fd6f6eb5b |
+| 青春波纹：罗蕾莱的少女们 - 第00话 - 20180227.epub (575.54 KB) | bdex://5b1e84324b6708c18bda0f722d170f29d6102d10 |
+| legend魔兽师传说 - 第03话上 - 20180127.epub (847.69 KB) | bdex://bef7ff8057bdeb2a738386c01f99130b0e924ce8 |
+| 民法改正 - 第06话 - 20180306.epub (3.24 MB) | bdex://f3d1fda2cb17000c209efa9038540423ac730d8e |
+| 盂兰盆国 - 第05话 - 20180127.epub (3.61 MB) | bdex://a113b3967414c662c5b7f79300d91d41e993d8c3 |
+| 金鱼钵 - 全一话 - 20180114.epub (4.18 MB) | bdex://6cb56b3e42d4066bcfab347ba6a72340a2fad3d9 |
+| 梦寐梦魅勿为其魅 - 全一话 - 20180117.epub (4.39 MB) | bdex://fd2f27cc438f0c8093b3ef4b6b0c7f44a049328f |
+| 魔界的大叔 - 第52话 - 20180406.epub (39.64 KB) | bdex://0d271c1e456f134079b4eb170862a38c8fa5de4a |
+| 赌博 - 第01话 - 20180306.epub (1.61 MB) | bdex://50ad693453aa24855feefbb804223898e38dafc1 |
+| 白狼的巫女 - 全一话 - 20180403.epub (4.08 MB) | bdex://e10c50a6ee53d5c6bc8aac326f8f08cc0ba9da60 |
+| 在星之旅程的终点 - 全一话 - 20180114.epub (3.75 MB) | bdex://8c7c012b5b58a6762108a9304e91e632be385568 |
+| 雪莉·麦迪森 - 高跟鞋篇 - 20180323.epub (1.86 MB) | bdex://9d9dba960e6d6e46fa999e27bf520d0fe50ab3a3 |
+| 名叫海贼的男人 - 第01卷 - 20180308.epub (22.22 MB) | bdex://1dc1ffcf885010a97cdee7d061c7ac2c1fca4362 |
+| 侦探的侦探 - 第01话 - 20180130.epub (5.39 MB) | bdex://758ed8f8eb4983ab7e47bd747bea82d88cf2f23c |
+| 结城友奈所属的勇者部 - 第02话 - 20180225.epub (981.30 KB) | bdex://f6336606684efd962531eeeab9da20e786aaebd3 |
+| 野兽先生的女仆 - 第05话 - 20180127.epub (889.05 KB) | bdex://8f2f78785edba032e42a87d1c799e13bc80597a3 |
+| 侦探的侦探 - 第02话 - 20180130.epub (2.38 MB) | bdex://3d8c81d4d82ea6e52915dd47df40f7478666f5b4 |
+| 龙樱2 - 第01话 - 20180222.epub (4.91 MB) | bdex://72e89fceebd7668d505e78770196957dc4b5745a |
+| 与美妙早晨一同开始的是！！ - 全一话 - 20180225.epub (3.86 MB) | bdex://a479ca612bb8239cd25ebd775fbfcfb5ee6ad6fe |
+| 露米娅vs幽香 - 全一话 - 20180307.epub (411.86 KB) | bdex://6dcc97fae098bb351e4087dc2fb9c215b5b12a3d |
+| I do - 全一话 - 20180131.epub (2.95 MB) | bdex://d56668b135d400aa9566bcaecc0ce702442be2e2 |
+| 龙杀 - 短篇 - 20180111.epub (6.08 MB) | bdex://78cad4b588ef668b56b2d68c7bd6983f39b58df6 |
+| 吾妻同学和板仓学姐的恋爱故事 - 雪中恋花 - 20180104.epub (847.83 KB) | bdex://9631cade1807b982181537735c958e68dc13fee9 |
+| Living Dead Kitchen - 第01话 - 20180319.epub (748.73 KB) | bdex://ac32afd85ca836295e9a2715428ae437420270c9 |
+| lonely planet - 全一话 - 20180314.epub (1.96 MB) | bdex://b654af0fb02791456cf97cf7d4121327c6cc4327 |
+| Melty Blood - 第01话 - 20180222.epub (3.70 MB) | bdex://9d2ba8e83caefa5f546094c7e769bef3ce40c861 |
+| 侦探的侦探 - 第04话 - 20180130.epub (2.13 MB) | bdex://e3e14078b6f7d1b6db3502393faa838a8d8ac63f |
+| 零之使魔幼儿园nano - 第08话 - 20180318.epub (499.43 KB) | bdex://a4ff6f4d6965321a299b81a1bb903eb456d46961 |
+| legend魔兽师传说 - 第03话下 - 20180127.epub (827.22 KB) | bdex://bb11e993412b3d263ef6273f0c1a2872de774a0d |
+| 樱花狂 - 第01话 - 20180204.epub (1.64 MB) | bdex://e93baca0b2983e29044853169e58d5f893aea8f2 |
+| 野兽先生的女仆 - 第08话 - 20180127.epub (889.52 KB) | bdex://5aea02a436a4a455b16cb02df4b7dd5a9280bba1 |
+| 黑之创造召唤师 - 第10话 - 20180126.epub (909.95 KB) | bdex://cb4e4b05c34fddadbdd9c02f5eec50d4bce49c72 |
+| 冰冷的残像 - 第01话 - 20180227.epub (1.64 MB) | bdex://f2764534569ee70a161e705e64fa80d045d7f666 |
+| 四分钟的金盏菊 - 第18话 - 20180206.epub (1.30 MB) | bdex://85eab82d5bb22a6a2961504397c47c9c6f40a581 |
+| 傲首热舞 欢迎光临鹿高竞技舞蹈部 - 第03话 - 20180208.epub (1.05 MB) | bdex://834d5521a5e4aa5187e629867e1e7174d1a3ab96 |
+| 魔界的大叔 - 第54话 - 20180406.epub (127.28 KB) | bdex://fa38ee5419c8c6884128d5f77458075aa7a93fb9 |
+| 从零开始的魔法书 - 第05话 - 20180415.epub (4.63 MB) | bdex://620b464589177c552a99f8e9267f91ffce0c751e |
+| 咲夜小姐失物记 - 全一话 - 20180201.epub (2.89 MB) | bdex://6f6e6d5f6a13d22c7ccc967790e80d0dfeb71115 |
+| 冰公主与贴身女仆 - 第01话 - 20180204.epub (5.29 MB) | bdex://5797ce7d1b09e99b2bccedf3a15716c7cff89134 |
+| CRIMSON’S CREED - 第02话 - 20180102.epub (7.18 MB) | bdex://f332651590e1bc081b3bc99c2675839ee6fef565 |
+| 魔法少女奈叶 Material女孩 -INNOCENT- - 第02话 - 20180221.epub (1.88 MB) | bdex://900e6baf08ea4977d4238f8f10005f42a2f4a544 |
+| 部cap百合同人 - 一如既往 - 20180317.epub (755.53 KB) | bdex://a5dcd6635db7e17fcbcd7f86a58ad4b6f8f1ed3e |
+| 野兽先生的女仆 - 第11话 - 20180127.epub (949.72 KB) | bdex://2bf260438e6ae5c31b5ec0f5f98ff9da966699ea |
+| 学生会长开始了女装 - 第04话 - 20180108.epub (574.95 KB) | bdex://d1982308727081649e7e5f4646e5a358aa4dc164 |
+| 雪纪你难道要坠入地狱了吗 - 第03话 - 20180218.epub (5.54 MB) | bdex://b5ed359e40cc7db1551ed9d1a8473246e6663d61 |
+| S佐渡小姐与M江村君 - 第05话试看 - 20180216.epub (2.69 MB) | bdex://fe9245278e0b6c47ea21484adb21d2643c794aaf |
+| 侦探的侦探 - 第14话 - 20180130.epub (2.96 MB) | bdex://26ac68a38286e6e5825a19e686ca17fa7ee8e9f1 |
+| Love Letter From… - 短篇 - 20180220.epub (7.12 MB) | bdex://f1c926b359959ec1df5e276a5fa383b1a3855f55 |
+| 和本小姐在下雨天买东西 - 短篇 - 20180209.epub (2.66 MB) | bdex://a942d3c7a4e1f3c17c825051d930786bceb28851 |
+| 吃草少年 - 第04话 - 20180114.epub (805.81 KB) | bdex://ff1587935d819fee61775d9934ec332a9cc639b2 |
+| 涅拉乌欧似乎蹂躏圣杯战争 - 第01话 - 20180312.epub (318.36 KB) | bdex://ef4409f670f7abffb39e6590c8e072127b7f8665 |
+| 黑之创造召唤师 - 第09话 - 20180126.epub (756.97 KB) | bdex://94600073c8e07fb3d1ab622b812ab545b9a7d9ae |
+| 魔法少女奈叶 Material女孩 -INNOCENT- - 第04话 - 20180221.epub (1.73 MB) | bdex://387c155d89e8244f176a2521996b70c4ac0adc3f |
+| 魔界的大叔 - 第56话 - 20180406.epub (86.83 KB) | bdex://b55ac105b520b1f5df59829b71bc119ff26669d8 |
+| 高台家的成员 - 第11话 - 20180103.epub (2.34 MB) | bdex://47b338d31c386d9283ae21d4fbb7607f53b268c2 |
+| 想起之途 - 全一话 - 20180208.epub (5.06 MB) | bdex://a6ca7a264d73aab3240d05e4d83f160de04374be |
+| 不管多少次我的初恋都是你 - 第10话 - 20180407.epub (2.11 MB) | bdex://b5bbaf470332b4421b7cbf1832c6d7b9b5dc83e1 |
+| 冈叔的奇妙冒险 - 第11话 - 20180102.epub (192.96 KB) | bdex://0b8cd639f7a0c9ed48f5fbc846ccfc1d8ad733cf |
+| 涩谷金鱼 - 第00话 - 20180409.epub (6.06 MB) | bdex://d39aabf3b7b8e8158aae0e0fa92658adc18482c3 |
+| Fate GO MEMO - 第02卷 - 20180118.epub (1.88 MB) | bdex://cfcc6332c4326c4b2fb398fb31177f0931c39aeb |
+| 寝屋物语 - 第01话 - 20180219.epub (3.34 MB) | bdex://d15fd9c3aecc1717f16dc6b021daaacad37b773b |
+| 四分钟的金盏菊 - 第13话 - 20180206.epub (1.33 MB) | bdex://4a9005dc23dfe66085dc9f145fe67908d77aaf97 |
+| 脱衣幽香 - 全一话 - 20180120.epub (2.08 MB) | bdex://d054542291d7f4d38a57151147651e1257dd7bcf |
+| 终结与起始之音 - 全一话 - 20180323.epub (5.97 MB) | bdex://35362cab86b26ab24f957898400a4aa3cef8dfa2 |
+| Jackie Chen什么的 - 短篇 - 20180412.epub (664.22 KB) | bdex://fd9c280a19609b693cdbe2371cd2bded1c6e6423 |
+| 无法相容的两人 - 第06话 - 20180414.epub (1.56 MB) | bdex://078b738b0f7e27da88a200809b65c9e138864bdd |
+| 没有稻米了！ - 第02话 - 20180308.epub (3.00 MB) | bdex://9c6f2897bc149e39d33fd043bc0ce79c8c492180 |
+| 遵守约定的温泉约会 - 全一话 - 20180205.epub (1.64 MB) | bdex://6d9e842c5f82cce0749c1241836eb8adc0b265c4 |
+| 生之重 - 全一话 - 20180310.epub (2.31 MB) | bdex://0a1ae2f8a4ae1478a15900cd28aaefaa93ae7d90 |
+| 学生会长开始了女装 - 第05话 - 20180108.epub (584.72 KB) | bdex://81603b5811451e75f2f9f6f7730470f46fb44da5 |
+| Wake Up，Girls！ - 第01话 - 20180122.epub (2.46 MB) | bdex://c67e930072b3bca0cbae273c851e4e5a294d5cbf |
+| 不得不承认我很喜欢你 - 第02话 - 20180122.epub (4.92 MB) | bdex://33cb51765e7286f17e3f2b8be25aede526baa8be |
+| 吃草少年 - 第02话 - 20180114.epub (813.05 KB) | bdex://b31b48fa55b01fde3702d640252b52196fb4a7bb |
+| 吃草少年 - 第31话 - 20180114.epub (735.48 KB) | bdex://b96870de614a8317410df51b8c6bcb8974f26f26 |
+| 魔界的大叔 - 第27话 - 20180406.epub (40.19 KB) | bdex://6244038df2c483acf0c49971072b8084de05f378 |
+| 和老婆浦风一起的生活 - 第01话 - 20180112.epub (2.25 MB) | bdex://f8463fcc4b2f6efb74a8d18ae0f3cdf76cf16ef1 |
+| 魔界的大叔 - 第51话 - 20180406.epub (47.69 KB) | bdex://062d3644dd06b093be6c2447ebc703b17e323000 |
+| 吃草少年 - 第15话 - 20180114.epub (603.73 KB) | bdex://3567e265cfd258c7ec19465a3997a10d16af0f85 |
+| 绕着太阳转的花 - 全一话 - 20180202.epub (2.43 MB) | bdex://fba403a257422dd91210460e794d272acbe06711 |
+| 侦探的侦探 - 第03话 - 20180130.epub (2.16 MB) | bdex://2a41bdbf95b568ed04972a60155aec6234c1906a |
+| 机长爱丽丝 - 第01卷 - 20180327.epub (25.23 MB) | bdex://e0d36a19364833b757d6c1e8eee8e3a803848bd4 |
+| 魔王与勇者的业余时间 - 第07话 - 20180127.epub (703.24 KB) | bdex://57cbe3459ba7e5431bbecce34a54307d15d2ff76 |
+| 魔界的大叔 - 第16话 - 20180406.epub (45.94 KB) | bdex://6fc38c45cf0e4d17e15c9273014306d223b31939 |
+| VAMPIRE Kiss - 全一话 - 20180326.epub (1.57 MB) | bdex://d57064170e90f841d9af1909134ab2346b48f11d |
+| 还记得那个旋律 - 全一话 - 20180319.epub (3.73 MB) | bdex://9f4ea92acff3facba9a110d6823732a377771d77 |
+| 部cap百合同人 - Braid - 20180317.epub (846.50 KB) | bdex://ac3fb2c61ebb0ac6e8fe95951539dd1f3bd3adf2 |
+| 吃草少年 - 第11话 - 20180114.epub (208.73 KB) | bdex://5072a963a304c5a10b7dc7b90336f6d18a18ef36 |
+| 小熊面包房 - 第18话混乱 - 20180331.epub (44.11 KB) | bdex://a06c84ed3869375b1dedd5e385117086ebd4fc1a |
+| 自卑恋 - 第01话 - 20180319.epub (5.74 MB) | bdex://7f393e00f0493a6c73cc89543a388152bacfd5b4 |
+| 琴浦小姐 - 第02卷 - 20180301.epub (14.73 MB) | bdex://6cb1acfc79c646193349f178d95117ece24a96cc |
+| 偶像事变 Idol Incidents - 第01话 - 20180204.epub (2.01 MB) | bdex://be6fdf7e64e75b490c4cc6d21849c13213ae764c |
+| 我与吹雪的开始 - 短篇 - 20180119.epub (3.37 MB) | bdex://125dbea52439e46c5b32aaa05449139c6844129c |
+| 认真恋爱heart change - 第02话 - 20180329.epub (1.65 MB) | bdex://5c1ac0ca668fd5c596613df755d78b7b6fd66c71 |
+| 恐怖的绝望的令人难以置信的深灰色 - 全一话 - 20180102.epub (2.55 MB) | bdex://ffafd567813a47df1f26b0dd56906c79318c3429 |
+| 高台家的成员 - 第15话 - 20180103.epub (2.30 MB) | bdex://91a200bbde751e3f1ab6e1f314f9ad773d518c78 |
+| 零之使魔幼儿园nano - 第09话 - 20180318.epub (430.63 KB) | bdex://ee9da2751260575e893dc99e8ff2222e71b50615 |
+| JK与幼女的百合物语 - 第01话 - 20180201.epub (861.03 KB) | bdex://b5bedfe3c63f80c5352be24b2c0bac86c6077677 |
+| happy flame time - 全一话 - 20180408.epub (4.79 MB) | bdex://3cd5c09030036adb1c059e5f9c3d88c8dbe1ff06 |
+| 吃草少年 - 第12话 - 20180114.epub (729.04 KB) | bdex://6d6a683e6079c124b7de0ac6e6ec7bfba0376cd2 |
+| 麻烦孩子的百合故事 - 第08话 - 20180211.epub (60.49 KB) | bdex://a165c1f3d542b68eb3ed7f80ab5e49a64538df17 |
+| 魔界的大叔 - 第29话 - 20180406.epub (44.94 KB) | bdex://31f7ad901dceec37aa8ae6c95975ffe0b1d47448 |
+| 俘获芳心的香霖堂—超级影像特典 - 全一话 - 20180301.epub (2.88 MB) | bdex://c8f0225abb21699c1062acedac0a8fcc57934c20 |
+| 落雨狂想曲 - 第02话 - 20180412.epub (2.13 MB) | bdex://9f061b754749d0a801022e34b1b96870142adfa7 |
+| 试着让女高中生强行恋爱 - 第01话 - 20180219.epub (737.34 KB) | bdex://7e83580d29c04b99484120e4a941b4fd33c1baa3 |
+| (C93)CINDERELLA LINGERIE - (C93)画集 - 20180118.epub (1.04 MB) | bdex://1e9832c896b9b66eb897fcb1a868dff492c050b5 |
+| 日晒沙龙：探寻HAKUREI之谜吧！ - 短篇 - 20180331.epub (1.95 MB) | bdex://208f3640a914dcf14432ff92eef5bdb76124d565 |
+| 以人狼之姿转生 - 第03话 - 20180126.epub (2.81 MB) | bdex://a88fbf7c40668ed4373c34b677c88626a57678c2 |
+| 魔界的大叔 - 第20话 - 20180406.epub (44.44 KB) | bdex://ba6829c532caf14450820f5d42720d8b6705a08f |
+| 悠哉茶室 - 第01话 - 20180202.epub (751.33 KB) | bdex://044a93a10d34c057f10eabc718277d53824193c6 |
+| 野兽先生的女仆 - 第16话 - 20180127.epub (863.84 KB) | bdex://747db011a252d476db099ac5f22e4cfd00f178c2 |
+| 尼采老师~领悟世代降临便利店 - 第04话 - 20180308.epub (1.15 MB) | bdex://b8dad1f17b37b7bd069b0ea3a9f7d51482839abf |
+| 雪莉·麦迪森 - 第05话 - 20180323.epub (3.25 MB) | bdex://27aa6e06c78e8c4291f9a5a551e5a0c329ba9d5e |
+| 如无可救药一般 - 全一话 - 20180203.epub (3.67 MB) | bdex://4e729fa81b6bc8c8c2ebe34852432fccea6aa26b |
+| 场面控制不住啦 - 全一话 - 20180227.epub (1.78 MB) | bdex://3488baaf553706a7cf37600197732ca0c31ac64c |
+| 东方宝可梦 - 第02话 - 20180312.epub (1.08 MB) | bdex://b4dc60b8121a92ad56816c49ee7b7ff06e3d537b |
+| 失去血气 - 第01话 - 20180306.epub (537.94 KB) | bdex://946d572d76423445e3a2e8dcb84e68acc0f6fd8e |
+| 怪诞银行 - 第12话 - 20180414.epub (2.27 MB) | bdex://08e8293df75dad843e551f103a6a15890ac94367 |
+| 黑之创造召唤师 - 第07话 - 20180126.epub (1.19 MB) | bdex://2d54cbf84842d6df4d03cd6c11e6dc8d635e16ee |
+| 不得不承认我很喜欢你 - 第01话 - 20180122.epub (6.05 MB) | bdex://c35fd02bb91f333cd30d115bbae563ae47990f9d |
+| 怪诞银行 - 第6-2话 - 20180414.epub (1.96 MB) | bdex://94ee116054b2ed01049dc4147a9596cbbeaddae5 |
+| 两人间的无言 - 短篇 - 20180220.epub (1.45 MB) | bdex://fa6cc0c18175ae951e3a2a797cce05e6cabb7825 |
+| 交错账号 - 第02话 - 20180308.epub (2.81 MB) | bdex://2e9a309c513f51e0c1fc032726916152f07ce57b |
+| 喵乐园！ - 第01话 - 20180123.epub (619.17 KB) | bdex://5a3d59a0862574f564ac2bf6f90610c6df59e731 |
+| 吃草少年 - 第25话 - 20180114.epub (339.55 KB) | bdex://010889297350d83048f320443fbe571bf2c4bc48 |
+| 以人狼之姿转生 - 第02话 - 20180126.epub (2.83 MB) | bdex://0d2993905ec72a929164534e05122eb532eecea6 |
+| 境界的轮回 - CH02 - 20180306.epub (2.44 MB) | bdex://e9d3b37d898e1b5ade89573dc0e210b1fad0f7dc |
+| (C93)小武画集 Series-3 - 画集 - 20180126.epub (1.88 MB) | bdex://2f311db2f8b7d8de25697d144002179cfaa070e0 |
+| 我家的圣不可能这么糟糕 - 全一话 - 20180328.epub (2.68 MB) | bdex://6c3fc0075559b644f93c7bd0b27c811515c08cac |
+| 福本All Stars - 第04话 - 20180221.epub (222.19 KB) | bdex://c47a96196075b9a0e12b432edf2980f173c84898 |
+| 露露和她的小伙伴们 - 第04话 - 20180402.epub (739.54 KB) | bdex://8eb88fb9b0d2413c9d842750113035d06b963a4f |
+| (C93)喝酒会 秘封俱乐部 - 全一话 - 20180205.epub (1.69 MB) | bdex://6e2c1f1ba9528200992e16d3abaa806ddceab035 |
+| MOMOMO怪餐厅 - 第06话 - 20180120.epub (1.38 MB) | bdex://873e40da48b29d23f02a0ae9c7bb6c81c39fd16b |
+| 夜幕的守护者 - 全一话 - 20180410.epub (8.37 MB) | bdex://62b0421f4f97309df445feec893b7b5438fef8b8 |
+| 电脑格斗技 梅菲斯特圆舞曲 - 第01话 - 20180224.epub (1.61 MB) | bdex://ca092fd1f4274e55608495b5d18d023c79931f26 |
+| MOMOMO怪餐厅 - 第05话 - 20180120.epub (1.34 MB) | bdex://720a527afdd8b0b8c18cc77532a37dde22521b13 |
+| PACHECK×LOGIC - 解答篇 - 20180111.epub (1.47 MB) | bdex://1c9d474936620f1c147c1f0f445d05964447e5ce |
+| 魔界的大叔 - 第53话 - 20180406.epub (69.49 KB) | bdex://8ed020e504c4c82194260517c53f4cc5e05e758a |
+| 铁假面的伊吹同学 - 第1卷11话 - 20180306.epub (725.14 KB) | bdex://6d459945aa6078119b60d594e2ce08288f2186c7 |
+| 魔界的大叔 - 第26话 - 20180406.epub (44.68 KB) | bdex://d316ff7589a3f244c30ce618c3fb94acdf5d14e7 |
+| 盂兰盆国 - 第04话 - 20180127.epub (2.73 MB) | bdex://232ec80f71ed5819f197f86ae6570fd2646755c0 |
+| 杀人犯对神父一见钟情 - 第01话 - 20180129.epub (1.41 MB) | bdex://bfef671f66284c7c9dd8599385e1ac099ebd7c36 |
+| 他变成帅哥的理由 - 全一话 - 20180309.epub (1.60 MB) | bdex://456c19a17dbab405dbb14766a8a464ba9402b531 |
+| 吃草少年 - 第10话 - 20180114.epub (553.06 KB) | bdex://d2e1607386d455866c7e8929363b823ad2effa11 |
+| 白玉团子 - 第06话 - 20180307.epub (1.45 MB) | bdex://f1acf6adb409488270830d82ba33873a19f5c36c |
+| 我的姐姐候补们！！ - 全一话 - 20180412.epub (1.49 MB) | bdex://61e962108641f901a3233ef72e2485f11a48fb48 |
+| 魔界的大叔 - 第21话 - 20180406.epub (26.91 KB) | bdex://5f446a428a8055b6126b8a379f97ca6e9ab8fbd0 |
+| 吾妻同学和板仓学姐的恋爱故事 - 短篇 - 20180104.epub (2.57 MB) | bdex://95323cd663de039648c79332a10c253b85bffd1c |
+| 艾莉的工作室 南国来的留学生 - 第02话 - 20180327.epub (429.54 KB) | bdex://fd7f4f9588d3e75e79c1ac0dc19fa2f0ed1cf6fb |
+| 恶魔先生与歌 - 短篇 - 20180302.epub (647.47 KB) | bdex://7fd499d377f7134a8835eed4d9021c122988a231 |
+| 喵乐园！ - 第05话 - 20180123.epub (489.31 KB) | bdex://39eb2d721db6430ad269e4fd55b5280eb4a046d7 |
+| 魔界的大叔 - 第43话 - 20180406.epub (43.44 KB) | bdex://bd7fc498775fc93c465a1841067c5f54e983b577 |
+| 冈叔的奇妙冒险 - p站连载版加笔(考試篇—揍敌客篇) - 20180102.epub (239.78 KB) | bdex://383427f1f94db4168310b34b1ab0672ba85a35bd |
+| 吃草少年 - 第23话 - 20180114.epub (528.10 KB) | bdex://08b8a0263756cf3d994ba3b8c7df981f739a6382 |
+| 森林里的熊先生 - 第02话 - 20180416.epub (2.53 MB) | bdex://e58b7453c6c7e5ab0e02b35799a524fb3dc9f861 |
+| 把我玩坏也没关系 - 第01话 - 20180314.epub (2.27 MB) | bdex://11554e2856f553e9ba022b804afddfc9bf80beab |
+| 精灵宝可梦究极之日／究极之月 游戏日记 - 第01话 决定就是你了！ - 20180115.epub (342.06 KB) | bdex://01143dab8e1b7b6dabbbe53ffcbadab916bf1f75 |
+| 爱激辣！ - 第02话 - 20180407.epub (2.24 MB) | bdex://5a045fce0a32a58c186dc65bf4917ac14c51355b |
+| 最速结界G Free - 全一话 - 20180223.epub (3.84 MB) | bdex://e9c461f121fa315f84e6c8aa7ac20fe198a37fe6 |
+| 赤目姫的潮解 - 第04话 - 20180209.epub (2.71 MB) | bdex://59336146227191865445b541ea1095ad0b98c785 |
+| 魔界的大叔 - 第35话 - 20180406.epub (21.35 KB) | bdex://77553a6616bd010315999f54a981fcf09d1824ae |
+| 〇〇〇〇女装少年和被缠上的常识人 - 第02话 - 20180224.epub (508.40 KB) | bdex://6117fe42a7a6087c67bb1649a0b1486b09b61268 |
+| 吃草少年 - 第29话 - 20180114.epub (1.44 MB) | bdex://05943dfaa5de48bd817b20877b9052db4884eacd |
+| 替身新娘的贵族生活～离婚成功就能一攫千金～ - 第03话 - 20180316.epub (2.92 MB) | bdex://0804a2a4a6073698ef488f59e299626201cfc18e |
+| 天狗日和 - 全一话 - 20180126.epub (1.65 MB) | bdex://d3880989b7eca730c3283d4b5426d1405be36ee6 |
+| 侦探的侦探 - 第10话 - 20180130.epub (1.69 MB) | bdex://b9507203459ce4edfaaae6e069f108b5f7e21cf3 |
+| 悠哉茶室 - 第03话 - 20180202.epub (501.62 KB) | bdex://cbfe35dc908a5ed4f809a0e85ac1a3cb0e50a66a |
+| 走向电车之国 - 短篇 - 20180111.epub (2.34 MB) | bdex://714ac428965d4d1971e61a569ae1ac555a286953 |
+| 魔王与勇者的业余时间 - 第03话 - 20180127.epub (814.15 KB) | bdex://6a35422c1b4da6f0868dcddb774843485d66c125 |
+| 蜜味之血 - 第04话 - 20180407.epub (2.08 MB) | bdex://92fa7c9c11cbabc9bf8c797605be1d131dcc57f3 |
+| 佐世镇百景活动记录 - 短篇 - 20180112.epub (1.90 MB) | bdex://b8a4c689927ad2808803c15a5dc92b8e397fdf8b |
+| 恋心Dark Spark - 全一话 - 20180221.epub (2.79 MB) | bdex://6fb713d8d5f8c5cafe66904bb6b91809bbc722ba |
+| 婚后之恋 - 第01话 - 20180304.epub (1.47 MB) | bdex://31e0846b372ec010b0488dbf3e902578f8f0e13e |
+| 零之使魔幼儿园nano - 第10话 - 20180318.epub (497.55 KB) | bdex://3bf98add2215122a0c863c25dd470c184c65bca0 |
+| 野兽先生的女仆 - 第09话 - 20180127.epub (909.22 KB) | bdex://561b0c7c50b883b602b66d6bea7614befb4bb78a |
+| 美味的妖怪 - 第05话 - 20180122.epub (1.23 MB) | bdex://cfb0efc14c00ff67fa88fe6fd0165f945016b77a |
+| 和谐 - 第02话 - 20180127.epub (2.47 MB) | bdex://e6decc8666e0f59dd95c4223bbff320f758b8720 |
+| 涩谷金鱼 - 第01话 - 20180409.epub (8.78 MB) | bdex://0e8c0980b94e5d0c6b47b76df28c23422c54a024 |
+| 花与恶魔 - 短篇 - 20180305.epub (568.64 KB) | bdex://5344c6e6a0a7a28241897c9248b0ce8e7baef942 |
+| 种姐姐 - 全一话 - 20180301.epub (1.89 MB) | bdex://07aa7a031d80727a30ca7969dd247585a89d2346 |
+| 曙小姐和粪提督 - (c90)第05话 - 20180405.epub (2.21 MB) | bdex://b25eb26c8d24f2196964cd38bb12ad097af7049f |
+| 想和你泡温泉 - 全一话 - 20180411.epub (2.23 MB) | bdex://df44fd7ca233ffa8852efec4c952550b5f39ba1f |
+| 喵乐园！ - 第02话 - 20180123.epub (486.92 KB) | bdex://34cc462c9aeac737e0fa06898f3111923fa9a56f |
+| 魔王与勇者的业余时间 - 第04话 - 20180127.epub (804.62 KB) | bdex://6c2c42ff1af1375b06799879fc18b36f63b3edaa |
+| 学生会长就算是百合也没有关系 - 第01话 - 20180211.epub (981.94 KB) | bdex://cdcc359f60b37da3fefd6fbfa50010da5ad44356 |
+| 宇宙大帝 银河闪电的冒险 - 恋之铃鸣响百鬼镇 - 20180309.epub (2.68 MB) | bdex://216890f9681fa5480fabd6321e854d1ad7b6c490 |
+| 小熊面包房 - 第13话可可粉 - 20180331.epub (45.78 KB) | bdex://f76502a439f10e7cf72f0505ff4949ece315a785 |
+| 雷鼓小姐想喝啤酒 - 全一话 - 20180205.epub (3.06 MB) | bdex://346fb1041f16763ab2f09cb18fc6e9fbae5d1ec6 |
+| 魔界的大叔 - 第24话 - 20180406.epub (43.75 KB) | bdex://8fdc2da4bf5a8450be0b57a80fb475911d329b64 |
+| 蚯蚓 - 短篇 - 20180326.epub (870.84 KB) | bdex://0704a89c57e23226cbe938178aca94486883ffd4 |
+| 冈叔的奇妙冒险 - 天空竞技场篇 - 20180102.epub (333.11 KB) | bdex://6eebc8f008f567871606534a1c51c8b261c65085 |
+| 腐了才叫女孩子嘛 - 全一话 - 20180416.epub (4.08 MB) | bdex://85fd8389343482cf590cf3a9106fc537bc893e28 |
+| 东方温泉 - 全一话 - 20180222.epub (3.84 MB) | bdex://12f747095fbfb5397b0cd65cafa6790acaf642f7 |
+| 战争衣玖 - 全一话 - 20180410.epub (2.49 MB) | bdex://f19ab8f595d0c1b6514250cafab168cce0e18fc7 |
+| 冈叔的奇妙冒险 - 猎人考试篇 - 20180102.epub (464.58 KB) | bdex://734668afddb41142fcd62a242d387ae9a48aa8ce |
+| 侦探的侦探 - 第08话 - 20180130.epub (2.17 MB) | bdex://8707fa1931ec8fc5a15034b8107ba7d2fb30730c |
+| 某巫女的传统 - 短篇 - 20180403.epub (216.87 KB) | bdex://cc00af2775838754a628a5e1a21828b53b83aaff |
+| Magic Set Up - 全一话 - 20180225.epub (1.18 MB) | bdex://7522e4942250f61e313fa54dd2c65bfffbdf3d39 |
+| 怪诞银行 - 第07话 - 20180414.epub (2.89 MB) | bdex://658d02391d523d8b64a2ebd0b6f5777032015145 |
+| 镇呼剑 - 第02话 - 20180402.epub (415.71 KB) | bdex://31b9190c58cf739bbd678e9436af0432c92b577d |
+| (C93)BLACK&WHITE - 画集 - 20180122.epub (1.28 MB) | bdex://bdab2d3d52623ba5c9bf351ac33e6f8b54fc7c6b |
+| 以人狼之姿转生 - 第0话 - 20180126.epub (2.50 MB) | bdex://d58d051a22481144a8eb334d95dc6d776036cabe |
+| 四分钟的金盏菊 - 第02话 - 20180206.epub (2.08 MB) | bdex://cbdc42f29f3dd3cd1cf3a8345ba53131f3d2168c |
+| 小熊面包房 - 第15话逞强 - 20180331.epub (86.90 KB) | bdex://2b238a815a186a420e6d240c4711159e2de68627 |
+| 小熊面包房 - 第17话灯泡 - 20180331.epub (105.84 KB) | bdex://6eaa9c0568709f4e3d49bd97841bde9b3e146d6c |
+| 月下的公主 - 第03话 - 20180205.epub (4.81 MB) | bdex://52f2a0d4bdfba6aa16178798d4e054aea0455e43 |
+| 艾莉的工作室 南国来的留学生 - 第03话 - 20180327.epub (518.36 KB) | bdex://d8b287a4bad2b9afbffd3e05dbe155d964675c76 |
+| 露露和她的小伙伴们 - 第05话 - 20180402.epub (696.34 KB) | bdex://fc7a34f0e25f03d2850afaf15a1888b166318d27 |
+| 花和太阳和 - 全一话 - 20180306.epub (3.05 MB) | bdex://d06d037a599348a3b3bc5f687681716b3e8bc672 |
+| 野兽先生的女仆 - 第23话 - 20180127.epub (658.92 KB) | bdex://df85364fdded1d0ffda38f33f50381012c2fc0f5 |
+| 西尾铁也画集 - 全一卷 - 20180308.epub (14.94 MB) | bdex://5522ce88b925a28441c4fcd08aee681374dd010a |
+| 艾莉的工作室 南国来的留学生 - 第11话 - 20180327.epub (1.81 MB) | bdex://5c78b15ec661ccaa751bd430b56a2e32db48e0dd |
+| 侦探的侦探 - 第05话 - 20180130.epub (2.19 MB) | bdex://b622ac80c5243e21c255490deda4103d85bf82c2 |
+| 麻烦孩子的百合故事 - 第09话 - 20180211.epub (62.10 KB) | bdex://073832178fc25261f69073320aded864df70a622 |
+| memento blue - 短篇 - 20180127.epub (3.02 MB) | bdex://9b584d2c7c02ef9392e4513d5a71a8e817056c03 |
+| 大小姐想要晒黑！ - 全一话 - 20180404.epub (2.49 MB) | bdex://196d722a3616609fb97f82f753d484c6c33c584c |
+| 死傲娇女友萌奈美小姐 - 第03话 - 20180103.epub (241.31 KB) | bdex://f10f82c37c9d798a16811da92bc9da70408d25c6 |
+| 野兽先生的女仆 - 第07话 - 20180127.epub (889.99 KB) | bdex://b2c5a7b0da0035ae1d88f214d3a9760e44b0072f |
+| 白鹿小径 - 第02话 - 20180125.epub (2.29 MB) | bdex://ed3c6c55f526c02ac95c6e099816e583333e78e1 |
+| 小熊面包房 - 第23话成长 - 20180331.epub (43.51 KB) | bdex://9a8592fe38aa095029f74bafdab0fe6b34c5b4a5 |
+| 魔界的大叔 - 第42话 - 20180406.epub (38.14 KB) | bdex://39763b399b7c3e1c1b7c974e885c78ebbc018c0c |
+| 我的索菲亚 - 短篇 - 20180317.epub (4.97 MB) | bdex://54bd8376640f7303098c6cc2ded6bb83a2b6a3f8 |
+| 小熊面包房 - 第19话马虎 - 20180331.epub (44.32 KB) | bdex://d23219d7466bbfb31c530cfc78590eab2c4ab86c |
+| 侦探的侦探 - 第07话 - 20180130.epub (2.35 MB) | bdex://726c8a97fdf2cfe835f34c94e768b8bd58e0724a |
+| 麻烦孩子的百合故事 - 第05话 - 20180211.epub (63.57 KB) | bdex://3b8afce5d5ec4a7a556656f1d39da1bfa2f4022c |
+| 东方×水果 - 全一话 - 20180109.epub (601.51 KB) | bdex://6342869b82b9451a1d36f52b54e0cb04fb21a75b |
+| 布偶最强魔法师的隐遁生活 - 第03话 - 20180127.epub (630.49 KB) | bdex://42a1a5e76c9c302f39427588e6d89f86c988e442 |
+| 帕秋莉诺蕾姬欲求不满吗？？ - 全一话 - 20180212.epub (1.46 MB) | bdex://51258af77daa97c072b7d8e4242c77a2983ef926 |
+| 学校教师 - 第1话 - 20180210.epub (1.57 MB) | bdex://fc03a6f4246d8656e2f710145f239e652b40d159 |
+| 恋愿成真LoveSick - 第01话 - 20180108.epub (1.46 MB) | bdex://fa28bcf1fc781bdc990a91f888354031f99e042c |
+| REVERENCE - 全一话 - 20180131.epub (1.62 MB) | bdex://dbbf55f3d0198085639382742aeb04d9df05bb3c |
+| 幸运之吻 - 第02话 - 20180214.epub (3.03 MB) | bdex://9af1022a39b7bc2273416501227f785fdf3c53c3 |
+| 任性的爱丽丝和胆小的白兔先生 - 短篇 - 20180214.epub (4.57 MB) | bdex://a26ad28d0440c49d1fc2c32952ef446157a71452 |
+| S佐渡小姐与M江村君 - 第02话 - 20180216.epub (2.24 MB) | bdex://4fad8f16b3830115c2830b1a209afa2701392e4a |
+| 隐约美景 - 第01话 - 20180313.epub (2.48 MB) | bdex://c781dee557e8ce657e64b0c664deb7bd3e3604df |
+| 艾莉的工作室 南国来的留学生 - 第05话 - 20180327.epub (444.64 KB) | bdex://199cd3009c5d11c5783c013175b8ef3ed5f96bda |
+| 穿着校服去结婚 - 第01话 - 20180131.epub (6.35 MB) | bdex://f58539e6ee3d32d98d034b974202876f4aa662d3 |
+| 乃木若叶是勇者 - 第02话 - 20180218.epub (1.92 MB) | bdex://f447b6eada6cdfc1fd9c035fded05d4ad9f54dd8 |
+| 花与谎言与真实 - 第01话 - 20180305.epub (644.43 KB) | bdex://bbbf46ad28a8a5d0baa2c03889cb36e54c387348 |
+| 恋之道 - 全一话 - 20180408.epub (2.08 MB) | bdex://13087e1f3d2d88ea8d61dfd4193b13b1b9306666 |
+| 和你度过的每个365天 - 全一话 - 20180124.epub (3.39 MB) | bdex://2993473c312ffe354320d7cddb51ea87373f2074 |
+| 派遣新嫁娘 - 第02话 - 20180222.epub (697.75 KB) | bdex://4f32db0e6b64f11355aa0b38e7077e3284946e15 |
+| 幸运之吻 - 第01话 - 20180214.epub (4.62 MB) | bdex://92810fcc07e3c5d91d19bf1bf9098197e2a50f20 |
+| 思乡单品菜单 - 全一话 - 20180112.epub (4.15 MB) | bdex://18b3a38dffdcd58d28218f9c40a6e7aa3a9b48d4 |
+| 月下的公主 - 第01话 - 20180205.epub (4.79 MB) | bdex://8010bc2a7a5de539c0eeb63db8bf154d0926df4e |
+| 生命☆人生 - 全一卷 - 20180125.epub (23.16 MB) | bdex://b2545b75f588510c62b5bcac8dc27eb80822b5dd |
+| 盂兰盆国 - 第07话 - 20180127.epub (2.44 MB) | bdex://d16ae00f9ec72bd4ae89b33a2b258bb1be20f8c6 |
+| 你的膜法 - 短篇 - 20180220.epub (467.60 KB) | bdex://a2e91e4bee2f7b8c722f03038f3021695d0f120a |
+| 东方宝可梦 - 第03话 - 20180312.epub (986.25 KB) | bdex://6f2a58ff176f67be96a4040e8174124ccabdbd07 |
+| 风的行踪 - 死神君Ⅱ - 20180215.epub (407.61 KB) | bdex://aea43df36ec2bb9a49d225a1bf54f2e42074dfae |
+| 侦探的侦探 - 第21话 - 20180130.epub (1.54 MB) | bdex://0356928b8047afd537af6dc7981f0aa44b5f0934 |
+| 不管多少次我的初恋都是你 - 第03话 - 20180407.epub (2.45 MB) | bdex://a6955dcdf3c768d26955121e27f8c98275585208 |
+| 舰队忍者大战 不知火忍法贴 - 全一话 - 20180305.epub (1.69 MB) | bdex://e4ce17d4da0814fc24bf0b7a1460fd6a4340fde4 |
+| 死傲娇女友萌奈美小姐 - 第04话 - 20180103.epub (210.37 KB) | bdex://8ad5b501aaf67a8014041ac10b8239d28b1f9bf4 |
+| 无法相容的两人 - 第04话过暑假的方法 - 20180414.epub (993.90 KB) | bdex://f6c683c97d59bf419bd39b978b656613959ed334 |
+| 有你而幸福 - 短篇 - 20180103.epub (2.59 MB) | bdex://b0a67f0cefb3476b28dd47f6d39f8a7d0eb2a5aa |
+| 零之使魔幼儿园nano - 第07话 - 20180318.epub (471.39 KB) | bdex://fe0351383b571f1d3e2fe1a3aba7644406810deb |
+| 赤目姫的潮解 - 第02话 - 20180209.epub (2.11 MB) | bdex://5c9e8f5237e7cc16427e7cc2c2ee5f551b31ed90 |
+| BLOSSOM - 全一话 - 20180112.epub (759.43 KB) | bdex://3956a44a77d1f58755da7e820679932c38a5ba7e |
+| Will you marry me？ - 第02话 - 20180317.epub (1.36 MB) | bdex://5b5fdaacb6bd6b233fa8ea2cee486f8f96cbd3ee |
+| MOMOMO怪餐厅 - 第03话 - 20180120.epub (1.51 MB) | bdex://9852e5df4475884b7a709cd7d3ad981c41e8aff2 |
+| 花与谎言与真实 - 第04话 - 20180305.epub (658.47 KB) | bdex://54ebb3e0ecafcab584752617d36cefd6a15a6c81 |
+| 〇〇〇〇女装少年和被缠上的常识人 - 第01话 - 20180224.epub (598.40 KB) | bdex://f60444d4fe99bc03e9e79b3e425918f616362ea7 |
+| PTSD - 全一话 - 20180225.epub (440.21 KB) | bdex://70a48045fe28830babd7899cef5da6e1cd24e4f2 |
+| 变成男友 - 短篇 - 20180405.epub (3.23 MB) | bdex://f3cbe0b99f1660ae30bc0a414e55e068fee03821 |
+| 从零开始的魔法书 - 第03话 - 20180415.epub (4.95 MB) | bdex://d18f91fc0d0325e52c90b9e1f0040a2dc49e8168 |
+| 怪诞银行 - 第08话 - 20180414.epub (2.08 MB) | bdex://86d226c0d44a180309dc9d4f6bafc93605468587 |
+| 核融合啥的太可怕了呀 - 全一话 - 20180404.epub (1.28 MB) | bdex://af6dc6b7144122d369a490a26d7a0d959cea2369 |
+| (C93)祈愿掉落UP本 - 画集 - 20180119.epub (1.16 MB) | bdex://a5bd7d6a6892fdf84053b7fa59bb8ffdae357274 |
+| 与君相约梦境中 - 全一话 - 20180409.epub (3.24 MB) | bdex://e46b3a710359552a437c3aa70242de3bb238527d |
+| 猫侦探 - 第04话 - 20180130.epub (1.37 MB) | bdex://e958be105ab17cc30f59bdc9443c0d10689135f8 |
+| 今年也请多多关照 - 短篇 - 20180101.epub (3.49 MB) | bdex://7e6fd41574fca439460520fd698f7942086cd052 |
+| 美味的妖怪 - 第02话 - 20180122.epub (1.01 MB) | bdex://7ac1e698b3d51b3b3ad2bde00b4db61efba8ce4c |
+| 麻烦孩子的百合故事 - 第02话 - 20180211.epub (59.05 KB) | bdex://80e5c3739609216439f14d983541410f7aae3f94 |
+| 麻烦孩子的百合故事 - 第07话 - 20180211.epub (61.21 KB) | bdex://e94e6d8cc198aecb6bf18ecd5b298f5dc475c545 |
+| 风翔万里 - 第01话 - 20180324.epub (5.67 MB) | bdex://7b01a00c2b28d23b079cfbdc408f81663536e59b |
+| 飘上月球 - 全一话 - 20180327.epub (3.27 MB) | bdex://990f74cd541fa04dfaa8a14f1cc3f6a9e9900bf4 |
+| Idola - 全一话 - 20180201.epub (2.17 MB) | bdex://cb09637b8b1fe89441cbc13b8d76959c5868e5f5 |
+| 魔王与勇者的业余时间 - 第05话 - 20180127.epub (798.96 KB) | bdex://a6f12eaf5c187cb6ebfed8c855a15c7ca04f2bdf |
+| 机动战士高达SEED Astray：天空的皇女 - 第02话 - 20180407.epub (1.23 MB) | bdex://4714665747a557ceb06422a72a4ab6629cdd40bd |
+| 东方宝可梦 - 第01话 - 20180312.epub (1003.42 KB) | bdex://7f6460fc2c322eb11449272ffebedac76043dff5 |
+| 贪吃猫 - 第02话 - 20180408.epub (911.95 KB) | bdex://2120f861efbb9b81440f09ebdad7abc038feef3b |
+| 悠哉茶室 - 第02话 - 20180202.epub (565.32 KB) | bdex://de04e9d54d6279de030baa37ee3063665c98f3d9 |
+| (C93)迦勒底！！麻烦制造者 - 全一话 - 20180119.epub (2.74 MB) | bdex://f76d1a18bed5cd635c9a78cc51b2b9239b0b2f98 |
+| 我哥是怪物 - 第01话 - 20180308.epub (1.79 MB) | bdex://ea912604f1b993e94dda8b6ca8b08a3ed099b849 |
+| 魔界的大叔 - 第47话 - 20180406.epub (49.61 KB) | bdex://f6e183fe426030846729554f42178705ee25ddc6 |
+| 不得不承认我很喜欢你 - 最终话 - 20180122.epub (4.38 MB) | bdex://7e589758fca8a52c0be85cd95886330e05b1658f |
+| 教教我吧！妖梦老师 - 短篇 - 20180216.epub (2.44 MB) | bdex://977936faece29cd4e6f17f7498288c99948e8d2c |
+| 结城友奈所属的勇者部 - 特别篇 - 20180225.epub (391.88 KB) | bdex://cf35a2704ef31a4acf2e48532fa3ad73e0bcf566 |
+| 幽香的花店 - 世纪末编 - 20180211.epub (3.11 MB) | bdex://8d5ae7526afa6a5dc2c034580f883c719387a9cf |
+| 和谐 - 第01话 - 20180127.epub (3.54 MB) | bdex://9353eabb204f2c518ef2cfcb68e73323b8968d7b |
+| 幻想乡大逃杀 - 全一话 - 20180216.epub (3.03 MB) | bdex://91d58693fb0bdc82ede75f30721978256cef895a |
+| 麻烦孩子的百合故事 - 第04话 - 20180211.epub (101.45 KB) | bdex://84f2c7517e167cecf3e21d4dcb0b9688d1d9e8a1 |
+| 铁假面的伊吹同学 - 第1卷12话 - 20180306.epub (472.15 KB) | bdex://44cbd0fb032e9d0ebe3d86cca686cffbb975a8d4 |
+| 热情传说Tales of Zestiria - 01话 - 20180407.epub (6.56 MB) | bdex://5ff2cd7f2eefb840b182fcca45063aed1a7b0122 |
+| 以人狼之姿转生 - 第09话 - 20180126.epub (1.83 MB) | bdex://138e438f2a26d5c8703ae42680477e37e17dde59 |
+| 东方女子高中~冬日餐桌 - 全一话 - 20180122.epub (1.94 MB) | bdex://55116e221c31c3405f0cfff729faf4ef139c7da0 |
+| 妄想改造人改藏 特别篇 - 全一话 - 20180215.epub (1005.13 KB) | bdex://5f32efb675aa50213563c20a6aa3521f1e67b4a2 |
+| 魔界的大叔 - 第18话 - 20180406.epub (59.26 KB) | bdex://0d615ebf4b59bc21fe49c1a72056bac96cee16cf |
+| 怎么会让你离开我 - 全一话 - 20180218.epub (4.78 MB) | bdex://6feb6e796a2f6e0217184d3cf3f78d2b1811188e |
+| 四分钟的金盏菊 - 第07话 - 20180206.epub (1.75 MB) | bdex://faad0abdd4ce819409407582f460c1d51cbf6d3b |
+| Lunatic Drops - 全一话 - 20180218.epub (3.98 MB) | bdex://839db18553441e090c3dab236d2d4a338fcac2d7 |
+| 加油吧！中村君！！ - 第03话 - 20180213.epub (1.25 MB) | bdex://a84c44e00844ba62321dee41a288ceb619997ebb |
+| 以人狼之姿转生 - 番外 - 20180126.epub (1.18 MB) | bdex://cbf5fa99799c82a242ae400aed4db3cbf2c4605a |
+| 派遣新嫁娘 - 第04话 - 20180222.epub (1.27 MB) | bdex://1f03d51a4b39e88dec12f8be60a43f05d7bd954c |
+| 白鹭恋想梦 - 全一话 - 20180121.epub (3.87 MB) | bdex://ac58d83bd6b4bf8400f797eaecc20f372195c48b |
+| 不管多少次我的初恋都是你 - 第04话 - 20180407.epub (2.21 MB) | bdex://927779b28d774974840610fad090a67872987db8 |
+| 我的他是披羊皮的大野狼 - 第01话 - 20180315.epub (1.13 MB) | bdex://a2e338a3c8c6a99b2ad0649ca7c0f5cd6e095657 |
+| 魔界的大叔 - 第41话 - 20180406.epub (113.26 KB) | bdex://8c30f868172f0f95358cccd81d52be83bf427da4 |
+| 吃草少年 - 第06话 - 20180114.epub (544.01 KB) | bdex://a2630a0e354a063c91b1a9ef116aca8425fdb5e6 |
+| 为安杰利卡献歌 - 第01话 - 20180227.epub (2.50 MB) | bdex://c9665150f7e61d8a58432435b0585360fc546da2 |
+| legend魔兽师传说 - 第09话 - 20180127.epub (1.30 MB) | bdex://d0e149200a90203db8b137e0e56f5bfa84ce774e |
+| 诛灭强迫症 - 全一话 - 20180123.epub (3.57 MB) | bdex://c7f7e45d9f0d241e14c2628b29c141cc46453738 |
+| (C93)ARCHiVES - 短篇 - 20180108.epub (954.61 KB) | bdex://a330a49e01948256a1c72780ca50afa8db558f0e |
+| 吃草少年 - 第22话 - 20180114.epub (370.81 KB) | bdex://70295caac98e6056339cdce00224fa5b03a7e818 |
+| 血与巧克力 - 第01话 - 20180115.epub (4.08 MB) | bdex://a9eca891d6ab78a485346873ea31654b00fcf744 |
+| 伊甸园之东 - 全一话 - 20180311.epub (4.44 MB) | bdex://5fb3fbb0ff80c5c521bf7ee957c87e039c8b89c0 |
+| 偶像事变 Idol Incidents - 第02话 - 20180204.epub (2.50 MB) | bdex://136e02480d99778d15dbfcee8f6d250486d19f62 |
+| 白玉团子 - 白玉团子5 - 20180307.epub (2.54 MB) | bdex://874e14f81580c7f10b816f8b798204cd1215a678 |
+| 好朋友同人 ~东方感情破裂~ - 全一话 - 20180209.epub (4.34 MB) | bdex://abd1413049624ff7ac287cae97c774d66832f8d3 |
+| 蜜味之血 - 第06话 - 20180407.epub (1.33 MB) | bdex://ea092222170c8fee74329b777282dff597a414c4 |
+| (C93)PEROPERO UNICORN - 画集 - 20180122.epub (664.72 KB) | bdex://70330e37c71ab8c1006b73f6d7f73a0dbe38dce1 |
+| 青春涩女俱乐部 - 第01话 - 20180204.epub (4.40 MB) | bdex://0e0fe6bb5b2c25afc46bf9a50a3bef3df9be8895 |
+| 恋愿成真LoveSick - 第02话 - 20180108.epub (1.31 MB) | bdex://ff18cc1c889c3675eb1d63b19e8079ed686bb047 |
+| 乃木若叶是勇者 - 第04话 - 20180218.epub (2.21 MB) | bdex://e651a9526f9af23521790afd47f911382a5c9385 |
+| 少女reset - 全一话 - 20180411.epub (4.51 MB) | bdex://b47ab2aac43640e8d5b961858a34fa40b8d0f66b |
+| 恋爱吧 - 短篇 - 20180125.epub (2.97 MB) | bdex://aa4dd66dae38924ee49c5493cf2e5046bb987acd |
+| 高台家的成员 - 第07话 - 20180103.epub (2.33 MB) | bdex://d274f75fd426150e916acab9760730385d0f5b06 |
+| 零之使魔幼儿园nano - 第02话 - 20180318.epub (673.45 KB) | bdex://18bd39ed06ad10006852cd0cc9d4dc72326f1e24 |
+| 地狱中间管理录利根川 - 全一话 - 20180407.epub (4.25 MB) | bdex://10fc777248fe92d7feed860d6a7078e89e38ac9b |
+| 冈叔的奇妙冒险 - 第12话 - 20180102.epub (1.21 MB) | bdex://81fe7798a6a3eb5dc6406da31982d8e719fca149 |
+| 艾莉的工作室 南国来的留学生 - 第01话 - 20180327.epub (475.30 KB) | bdex://11f52ce8ca97fec5d917f6d6863e3802141f65c9 |
+| 赌博 - 第02话 - 20180306.epub (918.23 KB) | bdex://5feb0005196946cfd6b6b515cfb4a60265396a1c |
+| 秘密的故事 - 全一话 - 20180201.epub (2.32 MB) | bdex://b1c458cacb8d293934c91b749a2e428183d037df |
+| 秘密的圣诞礼物 - 全一话 - 20180416.epub (2.11 MB) | bdex://9645eea2bfd668853a097d9f3f5acaf1daf64d9b |
+| Blue Friend - 第01话 - 20180415.epub (2.34 MB) | bdex://c5ae3b4e98cde3df5ab786b208c2495c1d753588 |
+| 东方青帖·关鸠的恋心 - 全一话 - 20180104.epub (2.44 MB) | bdex://63cd8a94992c21cb9e1e5688352dc9204ed4b2f6 |
+| 肉呼呼谢肉祭 - 全一话 - 20180125.epub (4.89 MB) | bdex://3261d08c812e05ca6d14958236e32aee45d6a4cc |
+| 左门君是召唤术士 - 第01话 - 20180316.epub (4.86 MB) | bdex://1c6a289466389ebc585f236bb0d67cba58a7ecf4 |
+| 夜虫就认主角！ - 全一话 - 20180305.epub (2.69 MB) | bdex://2d18c9f2faa176aaa85aad7f1e917ae96fe1b9fe |
+| 赌博 - 第03话 - 20180306.epub (714.73 KB) | bdex://739c83fe8d67dc25d7fe8d31850cbf50d5b48f20 |
+| 没有稻米了！ - 第01话 - 20180308.epub (4.47 MB) | bdex://b8902b7527df7bddc915fedf952c4784c69c8abb |
+| 请多关照离家出走的妖梦！！ - 全一话 - 20180217.epub (3.42 MB) | bdex://d731e6dcfe11c2f469e2f09f85572591bf649fac |
+| 风夏 - 第01话 - 20180408.epub (3.87 MB) | bdex://ab45ee6964a26b5885d7766bf10d961745fe34d5 |
+| (C93)妖怪也想谈恋爱 - 全一话 - 20180126.epub (4.63 MB) | bdex://d87ede23b8e7927b09cdf420b6c7e3c54d70581b |
+| 风夏 - 第03话 - 20180408.epub (1.92 MB) | bdex://176f57f16c79b7ea0ae35298bfeff438ed419f2b |
+| 把主人的那啥找出来 - 全一话 - 20180329.epub (4.07 MB) | bdex://1086bdfa57f070ccf93a0f44b53dbc207052ae7f |
+| 直到何时两个人都是 - 全一话 - 20180306.epub (2.61 MB) | bdex://25697a042414b1a919e47b956a77724c327a3476 |
+| 小熊面包房 - 第02话 - 20180331.epub (47.14 KB) | bdex://2c6830616fd186a27c8df9a9d9acb526a978b5aa |
+| Will you marry me？ - 第01话 - 20180317.epub (1.12 MB) | bdex://b4cee7272a551de3f6278dca9bec05721854363f |
+| 学生会长开始了女装 - 第02话 - 20180108.epub (552.74 KB) | bdex://5e40718dd7e09e893469ca3f319060bf83e62211 |
+| 沉溺于爱 - 第01话 - 20180127.epub (2.41 MB) | bdex://9ab46e7c5d88ecceafad19a0e425a741e1ea797a |
+| 冈叔的奇妙冒险 - p站连载版加笔(天空竞技场篇—幻影旅团篇&绯色的幻影篇) - 20180102.epub (664.53 KB) | bdex://022fb0452e75904553f1aa4b5c21b5ae08680e12 |
+| 白鹿小径 - 第03话 - 20180125.epub (2.42 MB) | bdex://b2117d7f5312bb322ad162b59a3db1e12c3648ac |
+| 零之使魔幼儿园nano - 第01话 - 20180318.epub (1.49 MB) | bdex://2ddafc9e01ea19f680f75637da39cce7950c915f |
+| 10岁之后就没有家 - 第05话 - 20180228.epub (2.83 MB) | bdex://4eae4d457c4cddcb7e9704b5ae45ab8f1d8ec918 |
+| 吃点心的时间 - 全一话 - 20180129.epub (1.13 MB) | bdex://22d1976dfb6ca4c152dff4e61addd32df98a247e |
+| legend魔兽师传说 - 第02话上 - 20180127.epub (531.69 KB) | bdex://438280ddfffc626caa8d67062b4be7629c3a14c4 |
+| (C93)请爱上我吧！酒吞小姐 - 短篇 - 20180108.epub (2.04 MB) | bdex://59d8597c8e93c47644a14b6cda79a1f44d7850bb |
+| 莉奈 - 第01卷 - 20180308.epub (16.82 MB) | bdex://f254fff54c337cef4e84e40b24d8ad8859bbae73 |
+| 要保密哦(c91) - 全一话 - 20180120.epub (1.13 MB) | bdex://facd964d810d6fef2ccfaaa9c0eef837dfed576d |
+| 黑之创造召唤师 - 第06话 - 20180126.epub (1.04 MB) | bdex://b0ead128c69a302184b4692fc490a9400f8bda70 |
+| 雨之谣 - 全一话 - 20180103.epub (1.51 MB) | bdex://9e8ec987b03edd2b1b4407dfe5b0ecf8a42a073e |
+| 金黄色的你 - 全一话 - 20180124.epub (2.25 MB) | bdex://bbbace9bb3e99da121c01b848c7c763305fb782d |
+| 刃牙道 - 第03话 - 20180412.epub (3.21 MB) | bdex://357702adb5fc27bd38aa4e0692f29cd1ef30f43d |
+| 恋爱是无敌的！ - 短篇 - 20180215.epub (1.88 MB) | bdex://e65dd5cc492173e6004d7cb59c4cb97b1341b3eb |
+| 盖塔机器人 - 第02话 - 20180204.epub (5.72 MB) | bdex://6900be19fe11846cbadf0268d338f3cef16636e1 |
+| 失掉的七草 - 全一话 - 20180319.epub (2.06 MB) | bdex://0fa1271ddde9f23c908c5936e5c7924386c03608 |
+| 幻想乡怀古 - 全一话 - 20180407.epub (965.03 KB) | bdex://8987f2c932582e738055c4ad6503ca9b5f948c49 |
+| 结城友奈所属的勇者部 - 第04话 - 20180225.epub (919.33 KB) | bdex://195cd1d58d0bd7a7b35301a394797f4e0527e957 |
+| MISERBLE - 全一话 - 20180104.epub (4.35 MB) | bdex://48e337b682fc7ffdb1a88eba8baa89fd8220e009 |
+| 我用一年一万日元卖掉寿命 - 第03话 - 20180417.epub (3.28 MB) | bdex://aa16958c099fa0b593abb95b4b000b6c04beb448 |
+| 小熊面包房 - 第01话 - 20180331.epub (36.65 KB) | bdex://9bf7969ae7f0cf3573cca002ebde4b98cb2c8615 |
+| 好想被僵尸老师咬一口 - 第01话 - 20180114.epub (1.31 MB) | bdex://f73452e953b865716bbf589c571a32dacc799711 |
+| 冈叔的奇妙冒险 - 番外篇02 - 20180102.epub (166.69 KB) | bdex://c0af1614f2c92c6cf73ebf49321731f9906e73ee |
+| ETERNAL MEEK - 全一话 - 20180325.epub (1.48 MB) | bdex://13c56dce5797cbfa025ca651ab19a89bbe2c9e54 |
+| 一如既往 - 全一话 - 20180402.epub (2.67 MB) | bdex://1009345ca870a4a5fd34d46d05f724e5e8117057 |
+| 无法飞翔的金丝雀 - 全一话 - 20180228.epub (1.82 MB) | bdex://d808789e5c897c8c953511d397b1cde76efffbf9 |
+| 零之使魔幼儿园nano - 第03话 - 20180318.epub (598.14 KB) | bdex://219d6a4e182e8e91a2995f133f7313240b561dc3 |
+| 怪诞银行 - 第15话 - 20180414.epub (2.50 MB) | bdex://7985e7435eac1c58047c81c8b6dc0959c5b0b78b |
+| complementary colors - 全一话 - 20180324.epub (1.95 MB) | bdex://f9e32f89e2b11c1c802771c9c2aab726b785da69 |
+| 守护吧！！铁壁玛修酱 - 全一话 - 20180213.epub (1.47 MB) | bdex://325c664783730b7db13c9ab18d8371ca89d78675 |
+| 我的他是披羊皮的大野狼 - 第02话 - 20180315.epub (1.34 MB) | bdex://b5d3649d35172ffa1e29196ed415dd1e15542a3e |
+| 兽耳动物园 - 第03话 - 20180317.epub (1.30 MB) | bdex://6993b40562df2ea90d52e0b1ee452b8f04dab5a8 |
+| 妹红与柴犬与偶尔出现的辉夜 - 全一话 - 20180325.epub (5.80 MB) | bdex://25ec9187ddde5212858518b0405b6478ffbd73b0 |
+| 露露和她的小伙伴们 - 第03话 - 20180402.epub (659.63 KB) | bdex://1ec1879cfa4bddf1ac7146f29bf66e5adbf396bb |
+| COLLATERAL JUNKIE - 全一话 - 20180113.epub (3.16 MB) | bdex://d9d4c6c447735f182fdd46d1082748399bc2bbf5 |
+| 十六夜咲夜想要平静地生活 - 第01话 - 20180117.epub (4.36 MB) | bdex://a6b86fc9b14ec16ae6665725b92898a3bd8d6a6c |
+| 魅魔女友 - 第01-12话 - 20180203.epub (3.02 MB) | bdex://c8b09d7da419593faf3bcea1871ffbe50a560b81 |
+| 秘封旅行记 雪山的怪物 - 短篇 - 20180123.epub (2.63 MB) | bdex://2268bb014de73b6198bad68b1dab9e566243aa62 |
+| してんの！(华扇的快乐生活？) - 总集 - 20180208.epub (1.66 MB) | bdex://89ef15ffb1dd403af5fdd7b1801da33083c1ac87 |
+| 遗忘之物与废品之镇 - 短篇 - 20180208.epub (3.11 MB) | bdex://43d39527eae11f779bf12d1ea866c7f6cc56bbe5 |
+| 赤目姫的潮解 - 第06话 - 20180209.epub (2.18 MB) | bdex://7b40e79118cb84b2715b2367161d138f54396d62 |
+| 白玉团子 - 白玉团子3 - 20180307.epub (1.90 MB) | bdex://48c2712e463a3d1bb17e22c9c512b82e0e1119ac |
+| 默默爱着你 - 全一卷 - 20180125.epub (20.97 MB) | bdex://005d13a629383af0c8c81c1bb0d7054f17e49782 |
+| 祈愿之所在 - 全一话 - 20180107.epub (2.74 MB) | bdex://a36636c54cb746b54d6035cbd05e5dd3a33fcb8f |
+| 镇呼剑 - 第03话 - 20180402.epub (428.80 KB) | bdex://69fee65d183e93b00e20b9226cf1da33f8183472 |
+| (C93)CINDERELLA LINGERIE - (C92)画集 - 20180118.epub (478.90 KB) | bdex://2b7caba6682a09df97c3d9e4d08c2c3e7cb3a2b5 |
+| 在燃烧中闪耀的尽头 - 全一话 - 20180120.epub (1.68 MB) | bdex://838a1c8b5619db697aa69ba278518edd86bf6774 |
+| 想要巧克力 - 全一话 - 20180101.epub (1.41 MB) | bdex://2282c4a66f3f8423a8d5c7d71459b19bd3e16c08 |
+| 尼采老师~领悟世代降临便利店 - 第02话 - 20180308.epub (1.41 MB) | bdex://f60aa764ad3def0b0a72d5e7a49f8983c052c453 |
+| C＊2魔理沙酱 - 全一话 - 20180212.epub (1.70 MB) | bdex://07f94228c744a6301f20e12ea3708119c8f2a6c0 |
+| 曙小姐和粪提督 - (c86)第02话 - 20180405.epub (2.50 MB) | bdex://13cf134bab7391372ebaaf6a3a509ed2b9cf07a5 |
+| 工作的川内型-初夏編- - 全一话 - 20180106.epub (1.03 MB) | bdex://8b75c0bf78e5d59f6d85dea75a8895651faf4d15 |
+| 白玉团子 - 白玉团子4 - 20180307.epub (1.62 MB) | bdex://9e8639ba31d3e67b21206092dcdc36905787d977 |
+| 秘封俱乐部部员募集中 - 全一话 - 20180207.epub (2.37 MB) | bdex://2118defe49025e27c799b94e543406ad15c5dc27 |
+| 焦距是求英尺 - 全一话 - 20180306.epub (3.23 MB) | bdex://fba15a54c8b674cae8ed04a253633944565b8a14 |
+| legend魔兽师传说 - 第4-1话 - 20180127.epub (562.93 KB) | bdex://fcaac7ed3dbfed189388fe6d2f284d89c3f31989 |
+| 秘封尻 - 全一话 - 20180206.epub (1.95 MB) | bdex://e74821bd329b5fec5e6febca50ccee68cd14b016 |
+| (C93)KURIMOMO 10th Aniversary Book - 画集 - 20180101.epub (1.28 MB) | bdex://5a53b0e09638347504f43bfd67b5a8ca1a4d80ac |
+| 美味的妖怪 - 第04话 - 20180122.epub (1.14 MB) | bdex://d71f47d4ebd5a646014a17eda3e616905afb27f7 |
+| 冈叔的奇妙冒险 - 第10话 - 20180102.epub (313.78 KB) | bdex://046251f818b5bea1e7c4e82a0db6eff9b56b9c67 |
+| 怪诞银行 - 第10话 - 20180414.epub (2.44 MB) | bdex://a4f2139ca0cdeedd6ca994a323d80fb720bd24eb |
+| 猫耳莲子要好好宠爱才怪！！ - 全一话 - 20180329.epub (1.54 MB) | bdex://ddb751a70c45647ef22ed9539058856e7d43d61d |
+| 女剑士和魔女之书 - 全一话 - 20180210.epub (2.96 MB) | bdex://9452a85c102ab55b2ba2bd6bf6a4168c97e38826 |
+| 铁假面的伊吹同学 - 第1卷09话 - 20180306.epub (442.35 KB) | bdex://bc15f6379ba93847e68a5c0a8c0b12ba5394eb27 |
+| 魔界的大叔 - 第32话 - 20180406.epub (46.04 KB) | bdex://fafbfd726dc64c90003a45be9d202da9116eff3f |
+| 两人间的无言 - 第02话 - 20180220.epub (1.17 MB) | bdex://77ad4e50a04c6b1fa6c6d77b9bf4c515e92e890b |
+| 狐与狸 - 第01话 - 20180214.epub (967.66 KB) | bdex://67c4a7e5948ab700770728572a96f8dd2f4a4674 |
+| 斯纳库纯狐 - 全一话 - 20180416.epub (2.71 MB) | bdex://08b7773dd3e24a04585837b2b288a800a930c5db |
+| 以人狼之姿转生 - 第4.2话 - 20180126.epub (1.50 MB) | bdex://ca28fdf5275b4dfddf64097a64ce92dd062f5393 |
+| FGO幼稚园 - (C93)第03话 - 20180310.epub (3.60 MB) | bdex://8bf81edc1c82f9744e863d626424139f269f205c |
+| 赤目姫的潮解 - 第03话 - 20180209.epub (1.57 MB) | bdex://89d3f5d3760d35f94d089c449797df228d0055b1 |
+| 东方青帖·拾遗 藤鼠 - 全一话 - 20180222.epub (2.06 MB) | bdex://efd1016dd0115a0200fe487e7fe519db6ca1574f |
+| 穿着校服去结婚 - 第02话 - 20180131.epub (4.89 MB) | bdex://a0fc5ff1abb13a32cdae454ea3c8f5ee886dd964 |
+| 四分钟的金盏菊 - 第14话 - 20180206.epub (2.38 MB) | bdex://d100116f1c1b6dce6210f31fe6f8a6f266dd9be5 |
+| (c93)余 - 01 - 20180204.epub (2.21 MB) | bdex://1dd16e9d334f563406abaa3b1dfe476328e39d39 |
+| (C93)WHITE ALBUM2 Heroine's Book - 画集 - 20180115.epub (817.81 KB) | bdex://0bdcd77730dd7d0a4225aff973b9559fc947a5b6 |
+| 〔舞台〕少女歌剧RevueStarlight―The LIVE―The Show Must Go On！！ - 第01话 - 20180117.epub (4.60 MB) | bdex://8666089d6a133d875dba009b6489c32c35091802 |
+| 吃草少年 - 第30话 - 20180114.epub (1.59 MB) | bdex://dbb00ea117938bfae220f26a681ece5aa13dbe53 |
+| JK与幼女的百合物语 - 第02话 - 20180201.epub (779.92 KB) | bdex://9d5841772cedd08a92f6604920a2a050f7682c43 |
+| 事到如今才开始FGO - 短篇 - 20180302.epub (1.40 MB) | bdex://38969e130e908bd6e245c483cbb1ddcf4ee1e5de |
+| 吃草少年 - 第17话 - 20180114.epub (1.01 MB) | bdex://a734bbc2c2cd92edb8e78a3d09c7905d31bd1fe3 |
+| 舰队收藏staurant - 第02话 - 20180312.epub (2.22 MB) | bdex://4a10030eea905606f659899dabead1b307e84cb5 |
+| 温泉物语 - 第05话 - 20180330.epub (2.61 MB) | bdex://da21508410a47a6bb01ec1d428c103d3fed04e25 |
+| 麻烦孩子的百合故事 - 第01话 - 20180211.epub (86.85 KB) | bdex://63dea4064bcc7a55ba3eb5db9fc1153675304500 |
+| 京都秘封神话大系 - 第01话 - 20180122.epub (1.52 MB) | bdex://731dc372714d49abd5cae83663212c42c27bf332 |
+| 10岁之后就没有家 - 第02话 - 20180228.epub (2.98 MB) | bdex://b147ce50db746807f2b2fbf0cb582b1fa9614d13 |
+| 白鹿小径 - 第04话 - 20180125.epub (1.91 MB) | bdex://99662f877aaa7eb59d3cd6f427ca18e25e7d29a6 |
+| 干的放学后 - 第01话 - 20180313.epub (1.05 MB) | bdex://9faf9af311744f211913b14c7ff3e98980ef7a4a |
+| 魔界的大叔 - 第31话 - 20180406.epub (45.88 KB) | bdex://0711829d67f1854d98b5ba6382392fe7301c9e0d |
+| 花赠汝名 - 短篇 - 20180413.epub (6.29 MB) | bdex://88c9d68f46e55fb50681179a52fc936371684130 |
+| 乃木若叶是勇者 - 第01话 - 20180218.epub (3.09 MB) | bdex://2c3541588b23df8f90dc4c4ce36d1be8b406f66c |
+| 东方青帖·曲径通幽 - 全一话 - 20180115.epub (4.51 MB) | bdex://dd2ee14dc496237bccf0e7da9ff62b1da4255c74 |
+| 盂兰盆国 - 第01话 - 20180127.epub (2.89 MB) | bdex://00199e8291b43a3b8d82f0f678150852c62fd9ae |
+| 吃草少年 - 第07话 - 20180114.epub (527.44 KB) | bdex://70b5e81b47e7f240b1ac3cb7c3ea4aae6168af81 |
+| 樱花狂 - 第03话 - 20180204.epub (1.87 MB) | bdex://27889ecd7f3bb0fb017514d36fff8f4347ef57b6 |
+| 四分钟的金盏菊 - 第06话 - 20180206.epub (2.02 MB) | bdex://963eaf1ae3c2549ce517642466846d4628a8d9cf |
+| 比一厘米更近 - 第01话 - 20180404.epub (5.83 MB) | bdex://a5e48a0477d43157263e61494f2732a5ff7ad093 |
+| 部cap百合同人 - 20100321 - 20180317.epub (954.39 KB) | bdex://b3926e87599fade5f4923e73af1ac4bbc6790e09 |
+| 钩咸饵直 - 第01话 - 20180118.epub (542.17 KB) | bdex://99f80671b64a99e8ef5450ac34235e2c48aa3e34 |
+| 流星坠落之时 - 第01话 - 20180329.epub (2.04 MB) | bdex://898e47b7d2acf8979a623ce43ff0f5d64e2bff69 |
+| 魔界的大叔 - 第11话 - 20180406.epub (92.94 KB) | bdex://b93ed764344f010f341826e04ba3e88e3d32dc57 |
+| 麻烦孩子的百合故事 - 第03话 - 20180211.epub (55.43 KB) | bdex://a694dd5aaba99b478b34a5a377b99bb075e353d3 |
+| 幸运之吻 - 第05话 - 20180214.epub (2.65 MB) | bdex://b664a694c2b07d45cb8d2e42e06e781712e365df |
+| 魔界的大叔 - 第22话 - 20180406.epub (80.05 KB) | bdex://f83536477829d7041b4cfa381785f6f78060952b |
+| 魔界的大叔 - 第58话 - 20180406.epub (45.86 KB) | bdex://731c578dc0396ea9d1ba89c2f964324fb9689eb8 |
+| 赤目姫的潮解 - 第07话 - 20180209.epub (2.14 MB) | bdex://c651cb06828a19c517e9376c69423fe9532c0f7d |
+| 小熊面包房 - 第06话 - 20180331.epub (34.80 KB) | bdex://ae6837bc0fd192158ca476abc270145ce662da00 |
+| 我哥是怪物 - 第02话 - 20180308.epub (1.52 MB) | bdex://cc6330e26152bb2f926d14a880ddc0ac11ba5a97 |
+| 服从本能 - 第03话 - 20180131.epub (1.91 MB) | bdex://1041db3f2e5e324f14faec507803182cd8644217 |
+| 365 End Roll - 全一话 - 20180217.epub (4.07 MB) | bdex://92e0927f7578d0cd533d431b2527e3f9ec47bbe8 |
+| 黑之创造召唤师 - 第08话 - 20180126.epub (651.77 KB) | bdex://e62b527172a39af872b2e63267d41bd4c7e8ac4c |
+| 蛮酌 - 第01话 - 20180414.epub (3.40 MB) | bdex://e88049d15984e7335b5b80ffe07d368ad0da9da8 |
+| 无法相容的两人 - 第02话还是夏日的心情 - 20180414.epub (916.12 KB) | bdex://0fb6ccef40cdfe3d1baed818c82924b09fd37d24 |
+| 黑白忿姳 - 短篇 - 20180311.epub (2.28 MB) | bdex://13cff0ad916138af7d1947580394d47589a17ffc |
+| 利己主义者的高杨枝 - 全一话 - 20180406.epub (850.17 KB) | bdex://954c2a866b7a62f086bd460cd19140ac3fca2bf4 |
+| 我还活着，真是抱歉。 - 全一话 - 20180306.epub (1.93 MB) | bdex://b601c1e5226847e5b66b406052d338ecef7c4be4 |
+| 妖猫话 - 第01话 - 20180123.epub (1.05 MB) | bdex://0830bbbc75a4f1debb691f9c5b93f4be05e5f712 |
+| 魔法少女？紫☆MAGICA - 全一话 - 20180122.epub (3.56 MB) | bdex://b4cc7f6168b45794d640d7e9223082e291320d56 |
+| 不管多少次我的初恋都是你 - 第11话 - 20180407.epub (2.10 MB) | bdex://d5f9d05a71e98d242669609265d520df86e575c4 |
+| 满溢着温柔的世界 - 第01话 - 20180214.epub (1.22 MB) | bdex://8c9000f7116e190ca7aeda885b974152306ddcd4 |
+| 地下图书馆的小妖精 - 第01话 - 20180414.epub (4.94 MB) | bdex://f665cf530297adbe283968ea06f8b8ab7ae0787a |
+| 侦探的侦探 - 第09话 - 20180130.epub (1.95 MB) | bdex://26cc0400e390e10a60b3d86e02ae41c8442da592 |
+| 智者千虑 必有一失 - 全一话 - 20180121.epub (1.39 MB) | bdex://97e6f7a4b55c96cb218ecbdf17c179058b775d35 |
+| 民法改正 - 第05话 - 20180306.epub (2.98 MB) | bdex://40ad6cd42979c6f8a9d65f3427c50c6351440971 |
+| 魔王与勇者的业余时间 - 第02话 - 20180127.epub (682.73 KB) | bdex://d054a20d84dc54b61638c01f76aba992cb64b7ce |
+| 阿莱桑与小小动物 - 全一话 - 20180131.epub (1.62 MB) | bdex://5293966e3bf1477f4e1d127612032c32cfce2dfd |
+| 怪物猎人琪露诺 - 全一话 - 20180128.epub (1.17 MB) | bdex://b9d1146133360b7a7a758498c2727b88709eb79c |
+| 衣玖大灾变 - 全一话 - 20180128.epub (6.57 MB) | bdex://835c7b9b990cd0f4c61d90e87ebbab663f17f3dc |
+| 夜鸟饲育计画 - 短篇 - 20180215.epub (3.05 MB) | bdex://671eb5728cfb54e5331710ae7628139c3ecee9e4 |
+| 艾莉的工作室 南国来的留学生 - 第09话 - 20180327.epub (528.06 KB) | bdex://1ba49920b76bf0e6934a8f1a057aabdd44a63249 |
+| 蜜味之血 - 第07话 - 20180407.epub (3.45 MB) | bdex://4e644bf1927e853b5e3c0fc536ecdf5ce0fe532a |
+| 花与谎言与真实 - 第02话 - 20180305.epub (594.46 KB) | bdex://1e4b19d181968bc48860bcde69aca5f3f4cbfc6f |
+| (C93)Hot Winter - 全一话 - 20180102.epub (791.83 KB) | bdex://1fe9a138c642885ece253a55e5a4695cbc8d5ecb |
+| 零落 - 第06话 - 20180219.epub (2.72 MB) | bdex://c95d3192bd7ae3edc354d6bc073a45f54e424b37 |
+| 社团破坏者 - 第05话 - 20180330.epub (612.38 KB) | bdex://ab334d12dfca43da521e75c32b2a77982a79c216 |
+| 三魔女之宝藏猎人 - 全一话 - 20180303.epub (1.08 MB) | bdex://a8588ab1cf8cfd2167abca5e081e2c7eaaac4b4b |
+| 零之使魔幼儿园nano - 第06话 - 20180318.epub (537.48 KB) | bdex://5dbeb9b18efe08900d779a48317ba9c9398d27dc |
+| 血与巧克力 - 第02话 - 20180115.epub (2.25 MB) | bdex://43097001af356658dcabec8ebea553773738fe03 |
+| 哎呀，是正太 - 全一话 - 20180129.epub (2.38 MB) | bdex://4fb78bb7b9d5d26fb1254a51e49cc38e1580d379 |
+| 结城友奈所属的勇者部 - 第03话 - 20180225.epub (986.54 KB) | bdex://99d08de2e7a1769f2f65bba4c7404a65b8176f2e |
+| (C93)MUNEMOSYUNE - 画集 - 20180122.epub (2.36 MB) | bdex://01cf3df3549fca16da384a206d1f6a1a9325bbb3 |
+| 花儿为谁开放 - 全一话 - 20180319.epub (2.92 MB) | bdex://3d621557537c2248a44ad81a9acc9f3062acc847 |
+| 魔界的大叔 - 第28话 - 20180406.epub (47.30 KB) | bdex://cb52d9dc8e999f79cd8cfc956e87a19240e23908 |
+| 同你相伴直至将来 - 全一话 - 20180117.epub (10.25 MB) | bdex://71830d5fd3562caca4d84b8fbfbc0b3effc76eb3 |
+| 魔界的大叔 - 第50话 - 20180406.epub (61.53 KB) | bdex://fb2e439b827bfbf034129a0a46ac70cb9274d865 |
+| 为安杰利卡献歌 - 第02.5话 - 20180227.epub (974.69 KB) | bdex://2b0e220abcd7888b886feef062b81c121e4d3466 |
+| 黑之创造召唤师 - 第04话 - 20180126.epub (1.49 MB) | bdex://4c547dac17340201147fa66bd9d899bd2aa5affe |
+| 高台家的成员 - 第14话 - 20180103.epub (1.79 MB) | bdex://4bbf8f75674b9d477527b642eb130b88e61d7b07 |
+| 吃草少年 - 第08话 - 20180114.epub (554.16 KB) | bdex://ff477aacf6d8704b276375f03c1c16551a219df0 |
+| 美少女战士 - 1 - 20180114.epub (16.06 MB) | bdex://8c1204ca1be6690648168b461585fa44775f9b08 |
+| 视宇宙之死的不老不死 - 第01话 - 20180131.epub (1.46 MB) | bdex://ede650e660aa59ac5a2b5adca60163887a8ffc3e |
+| 从零开始的魔法书 - 第01话 - 20180415.epub (7.06 MB) | bdex://479569b8bf8b706df0e1ddf6455956878205950d |
+| Teaching Eating - 短篇 - 20180402.epub (3.44 MB) | bdex://fdfb9c5708f9cd1ab4e0c9342d941e0ccd815987 |
+| (C93)圣雄change☆……之后！？ - 全一话 - 20180116.epub (2.11 MB) | bdex://e2f8512f39a96f7c8e47629656d8fce8ea2f6f8a |
+| 月之兔 - 全一话 - 20180402.epub (1.56 MB) | bdex://49e568ed758cbec113611d3151b55809e3b58786 |
+| 东方青帖·邂逅 - 短篇 - 20180103.epub (4.27 MB) | bdex://c947d72732d446a6e246c61dffc4250cbc34a370 |
+| 四分钟的金盏菊 - 第16话 - 20180206.epub (1.33 MB) | bdex://feb878a1c3483e12d49b76d7adae4e90a9c613a9 |
+| (C93)可以再多多的撒娇呦 - 画集 - 20180121.epub (1.35 MB) | bdex://c76f743ae0485c47b818101f237d66b1d0da2889 |
+| 铁假面的伊吹同学 - 第1卷07话 - 20180306.epub (475.65 KB) | bdex://d2a4557c6fc32a368d47325ff7452498b7e9c594 |
+| 不管多少次我的初恋都是你 - 第02话 - 20180407.epub (1.68 MB) | bdex://0448bbaffb4d065f441200d72f0ba1bdf16450a7 |
+| 把我玩坏也没关系 - 第03话 - 20180314.epub (1.40 MB) | bdex://7e16fb721f483edf291008bfa7d21d5cab78ab77 |
+| 啊，去泡温泉吧 - 全一话 - 20180201.epub (3.09 MB) | bdex://7abdfeb5c0255e9325302f6d4d5e1a5ec39f6099 |
+| 幸运之吻 - 第06话 - 20180214.epub (2.68 MB) | bdex://ee64a4d47462e34012fa477548ad91cc3b423b55 |
+| 派遣新嫁娘 - 第03话 - 20180222.epub (713.65 KB) | bdex://57fca3067f5c29b73632cb8a921cae2aecc68a67 |
+| 东方青帖·相隔的彼端 - 全一话 - 20180106.epub (5.06 MB) | bdex://e62ec61a4bdba57a2a533b24e7a263d6cc2ed4d6 |
+| 魔王与勇者的业余时间 - 第06话 - 20180127.epub (1.19 MB) | bdex://0b74bb9ba71e6711b8df3dfe23507bd013f232a0 |
+| 怪诞银行 - 第03话 - 20180414.epub (3.45 MB) | bdex://6458e4fdeaff1bf22f0ff9449b625080d8e71af6 |
+| 机动战士高达SEED Astray：天空的皇女 - 第01话 - 20180407.epub (2.05 MB) | bdex://795e97604ce444b023157b87c021ba0430cdd94b |
+| LOSER No.1 - 短篇 - 20180218.epub (1.46 MB) | bdex://647a9acf42aa21b4285958a5911a17ee95b505fc |
+| 小熊面包房 - 第16话学习 - 20180331.epub (40.53 KB) | bdex://362d0b82611735f74651c5887aaa4fbca107070b |
+| legend魔兽师传说 - 第06话 - 20180127.epub (1.22 MB) | bdex://8bda55a49616f414505cee887dda5bdcb9fd0609 |
+| ilya-伊利亚 - 全一话 - 20180416.epub (3.19 MB) | bdex://385f50d211eecdb7260e3da2bbe4b6c9501437ee |
+| 和老婆浦风一起的生活 - 第02话 - 20180112.epub (1.33 MB) | bdex://751d3708c61e0aa2fa1e0072524106f5a7782822 |
+| 辛巴达的冒险 - 序章 - 20180223.epub (356.87 KB) | bdex://3338580fb51adaeda91031480ebaa05b2632c048 |
+| 盂兰盆国 - 第02话 - 20180127.epub (1.70 MB) | bdex://fcd7d517754022ddd0625ed0cbd2ac4ebea7c91e |
+| 好多南无三白莲小姐 - 全一话 - 20180328.epub (1.83 MB) | bdex://634244a1e79b0540190cc626f3f009248bf7fd32 |
+| 觉醒!红美铃!!——魔女仆VS睡拳门番 - 短篇 - 20180206.epub (2.28 MB) | bdex://45f27687cf97e189d89da268569a3f1c3eba5ec8 |
+| 铁假面的伊吹同学 - 第1卷08话 - 20180306.epub (433.50 KB) | bdex://79f2d441c82ccefd767879e57d5d255cc07b1daa |
+| 无法相容的两人 - 第03话 - 20180414.epub (756.29 KB) | bdex://933b91b140bbcb3f8276a1d2a0281e5e324f0513 |
+| 亲密的兴奋采访 平热大陆 - 全一话 - 20180206.epub (1.13 MB) | bdex://36b2226a2c4baa57cc2ee31ac4d2908bfc2db4fb |
+| SLC／SOUL LIQUID CHAMBERS - 第02话 - 20180301.epub (4.81 MB) | bdex://1143fc5720203ab23ed2b06837690065c8ae3567 |
+| 魔界的大叔 - 第34话 - 20180406.epub (81.31 KB) | bdex://3e17b71dc26687dcf2e631d497f27638c9385697 |
+| 家里的蜜糖陷阱 - 短篇 - 20180130.epub (4.13 MB) | bdex://239dc6f7057d348546119c704c8fcc9eaa04f873 |
+| 永远和你在一起 - 短篇 - 20180402.epub (3.16 MB) | bdex://d2fd53571818deafcbc3a1649a7a18740dd57103 |
+| 把我玩坏也没关系 - 第04话 - 20180314.epub (1.99 MB) | bdex://6e57dd0339784ddf63160d0ec125e257a536ef91 |
+| 穿着校服去结婚 - 第05话 - 20180131.epub (4.91 MB) | bdex://fae67f480f45ac0afdfeb29ffc4add860e6a8577 |
+| 贫民超人缺钱君 - 第01话 - 20180214.epub (773.84 KB) | bdex://52c9bc61e0f1c7c07de4dbbe3dc4223717f1f14b |
+| (C93)NONSTOP！日照酱 - 全一话 - 20180119.epub (1.46 MB) | bdex://c78fea9a42d1f2cc342f67fa8ec341a96a2a2311 |
+| 幻想乡真实性格王决定战 - 全一话 - 20180311.epub (2.57 MB) | bdex://dd9089aa6a6660f4bfd6650d546d57f39c2a3da5 |
+| 替身新娘的贵族生活～离婚成功就能一攫千金～ - 第02话 - 20180316.epub (3.51 MB) | bdex://d9ba50ffbe9a9a58828ad4561e5a3f2c111704aa |
+| 宅男身份被部下给发现了 - 第03话 - 20180319.epub (1.74 MB) | bdex://dbdcdf9ef24a3479e0496bb15120c6145d92c3c4 |
+| 克劳恩皮丝的double peace合同 - 短篇 - 20180331.epub (2.61 MB) | bdex://714f7879bc701db18107124dd4f7c037e8027198 |
+| 涅拉乌欧似乎蹂躏圣杯战争 - 第05话 - 20180312.epub (378.45 KB) | bdex://f3856024b67961e36018401a5a3f9f14fea076a0 |
+| 舰队收藏staurant - 第01话 - 20180312.epub (2.98 MB) | bdex://b7e0ba1fcfbff6478a5b5e2b1ef66eb377bd764f |
+| 四分钟的金盏菊 - 第03话 - 20180206.epub (1.40 MB) | bdex://f725e6babafd042ee79aa82b9844315d7e673f54 |
+| 无法相容的两人 - 第05话雨天 - 20180414.epub (2.78 MB) | bdex://a22c8d2b458e53c006750f29b3137410d2a038cd |
+| 吃草少年 - 第03话 - 20180114.epub (582.27 KB) | bdex://b11cc3c10ba1fafccbeea623d8a5681dd4b8203b |
+| 雪莉·麦迪森 - 第01-02话 - 20180323.epub (4.92 MB) | bdex://0236ee793abed07f29c8db9527ce6fcf5a6d4cd5 |
+| 魔界的大叔 - 第39话 - 20180406.epub (48.71 KB) | bdex://9b3c6f05d3aeff08406b4b3469858872c7e11fe2 |
+| CHARM - 短篇 - 20180301.epub (1.29 MB) | bdex://c1a1412496aebc25e912782f0764c7d0ed60407a |
+| 把我玩坏也没关系 - 第05话 - 20180314.epub (2.25 MB) | bdex://6bc5988642c3002329f6968db1f0c57f2724c7ed |
+| 手牵手 - 全一话 - 20180313.epub (2.61 MB) | bdex://18caf3a9c6f454c9b6e0549fbbc0f7abaf837e8a |
+| Hungry Wolf - 全一话 - 20180227.epub (2.83 MB) | bdex://7807aeb4086b0caf6cab630855af73a149fe0830 |
+| 你可以让我幸福 - 短篇 - 20180326.epub (4.12 MB) | bdex://416b97f0e55d08b4ce985d768696b33854f457ed |
+| 麻烦孩子的百合故事 - 第10话 - 20180211.epub (54.28 KB) | bdex://d4646f58e21c0f81c484832437838e0690b244c1 |
+| 野兽先生的女仆 - 第22话 - 20180127.epub (766.82 KB) | bdex://58e0d334ffdba36d372a0a1c555c4a33b99debf4 |
+| 爱似百汇 - 第01卷 - 20180413.epub (12.58 MB) | bdex://ff742e7fcc6cdcb895f0c25011ad650a715f4287 |
+| 如果注定是无法结果的恋情 我变成男人又何尝不可 - 全一话 - 20180321.epub (2.13 MB) | bdex://254475546cb5d21b943e0d60a3e953c6a2d9912b |
+| 晚夏的水母 - 短篇 - 20180119.epub (1.51 MB) | bdex://8e47279ca85aa1c8f251d108b861ea70509f420c |
+| 零之使魔幼儿园nano - 第04话 - 20180318.epub (560.13 KB) | bdex://1d629c5499678015a0f77c32d4c96878bd1204bf |
+| 侦探的侦探 - 第06话 - 20180130.epub (1.84 MB) | bdex://472f8dc8949d02ebf1225a9d7810faeb680ccf49 |
+| JK与幼女的百合物语 - 第03话 - 20180201.epub (1.08 MB) | bdex://a80a7a40951616a8b1afb3189dfcd2a35d65b287 |
+| 侵略，封兽酱R - 全一话 - 20180321.epub (3.80 MB) | bdex://86711ffea2e2be9a70874043ce44c7caaed7435d |
+| 黑之创造召唤师 - 第01话 - 20180126.epub (1.96 MB) | bdex://a3fdfc365b031b1e1827c9caaaf67aaf7b1173da |
+| 赤目姫的潮解 - 第01话 - 20180209.epub (1.47 MB) | bdex://8dd83186772ca4e003b429dcf187359a2202d49f |
+| 交错账号 - 第01话 - 20180308.epub (6.56 MB) | bdex://50a04fa29598f17c75070e68cde89cc4c8d7889a |
+| 侦探的侦探 - 第18话 - 20180130.epub (2.30 MB) | bdex://7d96026f9256eb17c353481f25171108d1b2be04 |
+| 曙小姐和粪提督 - 第01话 - 20180405.epub (2.44 MB) | bdex://bd6852f3651c66a51f873a76df134e0b96aa1bfd |
+| 花与谎言与真实 - 第03话 - 20180305.epub (563.47 KB) | bdex://b9ec08dce842b5e1395c1d91e3b5e30a4faf971e |
+| STREET MONSTER魔物霸王 - 全一话 - 20180205.epub (2.37 MB) | bdex://e589ee6dfca85d2799d608107310ee764621abd6 |
+| 被虐的诺艾尔 - 第01话 - 20180211.epub (4.57 MB) | bdex://70373d436c29e769f315c8d377271b5d835afffc |
+| 我的小黑 - 短篇 - 20180206.epub (3.10 MB) | bdex://1e08e381e3e5f3508810c1b4c10e419447481d30 |
+| 虚空之空 - 第02话黑点之光 - 20180416.epub (5.59 MB) | bdex://e9a3ae5797a047dc20e5008b949b57585f4cd3f8 |
+| 白玉团子 - 白玉团子1 - 20180307.epub (956.18 KB) | bdex://dc5dc42a72db3419b98de65eac20c885d00fb573 |
+| 落雨狂想曲 - 第05话 - 20180412.epub (2.87 MB) | bdex://31722531694219eb953ecf1da169c0f49283b496 |
+| 王子殿下的游戏 - 第01话 - 20180313.epub (5.23 MB) | bdex://54377713c907d1be7e451e89d5236e2c70576afa |
+| 傲娇娇娇 - 第02话 - 20180320.epub (531.18 KB) | bdex://0da1e327f30e66a64cfd8575f53a787a9472fb7c |
+| 风水轮流转 - 短篇 - 20180109.epub (2.29 MB) | bdex://e405b9e4da81bd0a70a28c5213a46fec0db98823 |
+| E-hunter's - 全一话 - 20180127.epub (1.51 MB) | bdex://0149ef7a34fd5c5b0d7f6b7ac68bf87cf5ba4b12 |
+| 一发一吻 - 全一话 - 20180302.epub (3.25 MB) | bdex://ec8d6d8462c068a346609f79f065af54a6a6a82d |
+| (C89)语言能改变世界 - 全一话 - 20180325.epub (1.87 MB) | bdex://8d4562d8fc770d766331338d1375d5585c16a11e |
+| 美味的妖怪 - 第03话 - 20180122.epub (1.06 MB) | bdex://e22f85bcbb897fd47d088b8622e18e389cbda528 |
+| (C93)REM×FGO - 画集 - 20180126.epub (2.03 MB) | bdex://b6f839e3fb79cbb805df953f196409a136200248 |
+| 我想做新娘 - 短篇 - 20180308.epub (3.91 MB) | bdex://c9a36e61ba3526ab52668268f5eb7e5a7eabfe03 |
+| 艾莉的工作室 南国来的留学生 - 第08话 - 20180327.epub (472.54 KB) | bdex://45727b8b2c2e499cf3ebcc488ade2a8449b5fd09 |
+| 魔界的大叔 - 第38话 - 20180406.epub (52.24 KB) | bdex://9c61e72f629cdbeb79d289828de39369e901a9f5 |
+| super lovers - 第02话 - 20180101.epub (5.56 MB) | bdex://d15adf527467d1abaa3c70136c90c8fddde18069 |
+| 辣妹骑士安杰丽卡 - 第01话 - 20180417.epub (2.42 MB) | bdex://47eac37aa1ac8ef6ea951d4d6f7f6c981368cf76 |
+| 喵乐园！ - 第04话 - 20180123.epub (547.44 KB) | bdex://5319a2fbd7408387c3149cda9b83cb2797dbb854 |
+| 魔王与勇者的业余时间 - 第01话 - 20180127.epub (708.55 KB) | bdex://a5454358a0e439d72cd58d54fc940bcd2a9efaff |
+| 除灵百合 - 短篇 - 20180401.epub (428.82 KB) | bdex://ba0e1a11c4f59c8f5863c2c54b0fb2aac7de40c2 |
+| S佐渡小姐与M江村君 - 第07话 - 20180216.epub (2.05 MB) | bdex://7c516561629d241f62164f5dadaba2e8625eb24f |
+| 魔理沙凭依到人偶身上了！？ - 全一话 - 20180306.epub (3.08 MB) | bdex://92513f657ccfdfff8e196638acda718cf8204725 |
+| 零之使魔幼儿园nano - 第05话 - 20180318.epub (470.56 KB) | bdex://727740c8910e954b2a27d6eee613ddc1881044e6 |
+| 兽耳动物园 - 第02话 - 20180317.epub (1.01 MB) | bdex://4db8b98048f4e0404ba21e9407ddfebaa54fc848 |
+| 变幻自在 - 全一话 - 20180318.epub (211.85 KB) | bdex://a2fce8eaecf236d497fae50ddf36331e862ecf02 |
+| 民法改正 - 第02话 - 20180306.epub (3.40 MB) | bdex://70a26a0ff402844f88fd1530b607023918c68e04 |
+| 风的行踪 - 死神君 - 20180215.epub (246.17 KB) | bdex://ac243f48b95d5d680c4454d7edebc6bdf299b408 |
+| 黑之创造召唤师 - 第03话 - 20180126.epub (1.35 MB) | bdex://bbd4ffc386219d6f03b4c69c4685ef2daa9b0310 |
+| 锵锵锵锵——！ - 第03话 - 20180307.epub (836.56 KB) | bdex://b7cad0969a66c70cd622fd708f97ba709625b8f5 |
+| 死傲娇女友萌奈美小姐 - 第02话 - 20180103.epub (248.00 KB) | bdex://eb611e6be7a499c14d4f7062fb4138fd2fde0264 |
+| 朱红诅咒 - 全一话 - 20180117.epub (3.20 MB) | bdex://e980694c40eb5387a501bd180ce217189fb8b40a |
+| 樱花狂 - 第04话 - 20180204.epub (1.98 MB) | bdex://80df35230d7977312f64d181811a5dcc314cec68 |
+| 雪莉·麦迪森 - 第03话 - 20180323.epub (3.72 MB) | bdex://9d4493597d8fdaa5cc627697edf7166675886b5b |
+| 盂兰盆国 - 第03话 - 20180127.epub (2.01 MB) | bdex://57c2d0ec17fd47e06b9109ed1667c28f2e1bb2f3 |
+| 社团破坏者 - 第01话 - 20180330.epub (599.95 KB) | bdex://26162d54b6dd0cff4590ddfff6c4f93ae266f5ad |
+| 不管多少次我的初恋都是你 - 第07话 - 20180407.epub (2.00 MB) | bdex://9b1cff31cc618deae279c43a566c78b4db0bca5a |
+| 凌晨3点的街道 - 全一话 - 20180107.epub (3.38 MB) | bdex://a08f1195bb0b340f98d07bb4de1cba15d00a9aca |
+| 东方Battle Royal - 全一话 - 20180201.epub (1.57 MB) | bdex://efc3ab28345fae454c7b0402a9b7fce736e40625 |
+| 野兽先生的女仆 - 第12话 - 20180127.epub (820.88 KB) | bdex://c95585c866c29c9ac4b6ca99804db2e8db4aba3c |
+| 将回忆燃成灰烬吧 - 全一话 - 20180122.epub (700.14 KB) | bdex://4ba3fb155d6455b4e4da7209f24fe4afb9ded36e |
+| 圣人游戏 - 全一话 - 20180328.epub (1.27 MB) | bdex://117490300058847f1554b0ee2e3ebd12e50ffd3f |
+| 服从本能 - 第02话 - 20180131.epub (1.44 MB) | bdex://b98dbf16654a2eb9ef54a748efe8908af88af172 |
+| 吾辈的男友是笨蛋 - 第01话 - 20180401.epub (4.11 MB) | bdex://be0aa7677144c39244fd694807e41e549040bca0 |
+| I SPY - 前篇 - 20180216.epub (2.99 MB) | bdex://6b87d538bae8c32c8361a4a95c04083aa2c4f9a7 |
+| El Shaddai ceta - 第02话 - 20180121.epub (2.97 MB) | bdex://534a96397f969084673daaafe76b84d62b1bdc94 |
+| 蜜味之血 - 第05话 - 20180407.epub (1.88 MB) | bdex://ab5dabdb5b77101e6cca1187150d56cdda2f315a |
+| 10岁之后就没有家 - 第01话 - 20180228.epub (3.25 MB) | bdex://8fc1b7cd5005ca7ebe5fa6c9c9b6e0a140ca3519 |
+| 贪吃猫 - 第03话 - 20180408.epub (920.53 KB) | bdex://9f719b9be4ceb0a1abad14e7e761381172111c10 |
+| 炮声之下的少女 - 全一话 - 20180225.epub (2.15 MB) | bdex://ab1fa2a559ac8d7a36557a61d7fdae920278f7a2 |
+| JK与幼女的百合物语 - 第06话 - 20180201.epub (647.42 KB) | bdex://1ead52af30b1d1f6d1f3f33da2a5f4027bc82777 |
+| 野兽先生的女仆 - 第06话 - 20180127.epub (878.31 KB) | bdex://a3eeadde3c78432373a81e72d06b0fa01fa02536 |
+| 我用一年一万日元卖掉寿命 - 第01话 - 20180417.epub (2.79 MB) | bdex://b97235c569681bd9720d519334485aa396358f28 |
+| 吃草少年 - 第21话 - 20180114.epub (408.07 KB) | bdex://20b5ff0c9f84af53068f56b6c1e4d432a6b96b64 |
+| 不管多少次我的初恋都是你 - 第01话 - 20180407.epub (2.58 MB) | bdex://8fe6d6a8d6326c2204ac9b9c8aa73d396eee533b |
+| 系上、松开、再亲吻。 - 第01话 - 20180319.epub (3.90 MB) | bdex://671edac3574bc328a661351f145e74ca03871d52 |
+| 魔界的大叔 - 第36话 - 20180406.epub (41.21 KB) | bdex://7cc1d67ad9f50fac4d3b928e5c92faa9a68bc996 |
+| 虚空之空 - 第01话虚假的太阳 - 20180416.epub (2.43 MB) | bdex://5bf6d71458e7fbf17c959b4cc19b8bef3521a172 |
+| 恋人在前 情敌在后 - 第02话 - 20180414.epub (1.71 MB) | bdex://07950f4148959fb01d11713e210eda5af308323a |
+| (C93)DD's gems - 全一话 - 20180103.epub (1.24 MB) | bdex://dbd1889587ee3163f71826d3ebd6f5c96bd11348 |
+| 宅男身份被部下给发现了 - 第01话 - 20180319.epub (1.35 MB) | bdex://5e2d03ab6d1ca56356ee6628d43e174a2a301762 |
+| 奇异果实 - 第01话 - 20180306.epub (4.81 MB) | bdex://34bd41b008cd2d3e022af0b64a8ad09c32a59198 |
+| 怪诞银行 - 第04话 - 20180414.epub (2.46 MB) | bdex://fd00f0cbfe00ca0084e8680620420028d62bb898 |
+| 背之眼 - 第02话 - 20180326.epub (2.87 MB) | bdex://ebb0cf790bfd328a49a92092abb55ea224eb4fcf |
+| 温泉物语 - 第01话 - 20180330.epub (3.17 MB) | bdex://ff6d1d30144574375b30fa042831159dfe75676b |
+| 幽香的花店 - 幽×爱编 - 20180211.epub (1.49 MB) | bdex://081630483cd5c70096033e4fec3caff2641ddd7a |
+| S佐渡小姐与M江村君 - 第01话 - 20180216.epub (2.79 MB) | bdex://d352d7a0f114a77cb71da345a80a3893c957497b |
+| 吃草少年 - 第27话 - 20180114.epub (555.99 KB) | bdex://b5e6e51dab9a285bd162f3f1b3d9aef5b84b38de |
+| 钩咸饵直 - 第03话 - 20180118.epub (269.33 KB) | bdex://f0a62316f47e86a256b33c48f11155f8168e003e |
+| 排队少女 - 第01话 - 20180318.epub (3.19 MB) | bdex://f0e05012664e81a11d97fd807a402f8cb43995c1 |
+| 闪光的吉赛尔 - 短篇 - 20180101.epub (5.44 MB) | bdex://a1e60390275a70dd262270218a036adf925a8b2c |
+| (C93)AZUCOLLE - 全一话 - 20180103.epub (791.49 KB) | bdex://1dca33c9602867da0f07ba1e057acbd5f91164d7 |
+| 在永远之后 - 全一话 - 20180214.epub (11.26 MB) | bdex://e6e19e66df80fa00d75e0cabab37e17e2043e231 |
+| Melty Blood - 第02话 - 20180222.epub (5.50 MB) | bdex://30999635bba5af8e859fa5a010c3dee23256697f |
+| PLAY ME - 全一话 - 20180206.epub (1.45 MB) | bdex://eceb7d5d1f4486e71a120419752b4a739c2748e0 |
+| 试着让女高中生强行恋爱 - 第02话 - 20180219.epub (739.15 KB) | bdex://ec90312a58a08a7f6d43eff35237917fadbacdda |
+| 甜若糖精之吻 - 全一话 - 20180302.epub (4.98 MB) | bdex://f0f4a033bd6c359dc840315568d512fa88d1271d |
+| 铁假面的伊吹同学 - 第1卷10话 - 20180306.epub (475.57 KB) | bdex://76bbcf71022106a662fb7b803d8b728ffa43179a |
+| 涅拉乌欧似乎蹂躏圣杯战争 - 第07话 - 20180312.epub (249.74 KB) | bdex://2435182adf9766694992b90d7c667ab51222fe21 |
+| 怪诞银行 - 第11话 - 20180414.epub (2.36 MB) | bdex://8cf974c18b55472172efc4232ef1bac29f963284 |
+| 兽耳动物园 - 第04话 - 20180317.epub (1.41 MB) | bdex://92eb546d95e0b436b770d09971218ef4ecab5dbc |
+| E的原点 - 短篇 - 20180107.epub (4.25 MB) | bdex://65701ed0efa94f1b94a1077b4e2960ac05b92dd9 |
+| 小熊面包房 - 第10话食谱 - 20180331.epub (44.59 KB) | bdex://38f3deb616f82fe97d3425bd7bdaa5c9a3009cb4 |
+| Tiger Install - 全一话 - 20180415.epub (7.71 MB) | bdex://379c79ed2a155c0809a33ce4121df69694b8f1a6 |
+| 冈叔的奇妙冒险 - 揍敌客家族篇 - 20180102.epub (222.28 KB) | bdex://dc5e9f31271bee05bb21dc2d059ac6a021147505 |
+| 吃草少年 - 第05话 - 20180114.epub (771.39 KB) | bdex://c1ce5db9ac8c5e7d3dde1e5859a6630f8b17328a |
+| 学校教师 - 第3话 - 20180210.epub (1.36 MB) | bdex://e5c4ca52db2f6d66a438e6b490b8e997fe7ba214 |
+| 宇宙尽头中央的 - 第03话 - 20180312.epub (3.03 MB) | bdex://7988673f54075ba070992f01a302ead80e665319 |
+| 铁假面的伊吹同学 - 第1卷06话 - 20180306.epub (450.35 KB) | bdex://ad9a654f713ee0ae440a26cfa22edeebaa622c03 |
+| 银色二人 - 后篇 - 20180224.epub (4.28 MB) | bdex://1d78cfbc8a6bde8b5ad35b3cc6cabcec7ee5ffc4 |
+| 走狗之牙 - 全一话 - 20180108.epub (6.38 MB) | bdex://dc17f700d5f42202bbd2b0aff07227d7a56b32b5 |
+| super lovers - 第01话 - 20180101.epub (8.44 MB) | bdex://921ec9627fbdd60c08bd0fde70ca5cdfb6cac300 |
+| 请按照用法用量 正确地表达爱意 - 全一话 - 20180219.epub (3.77 MB) | bdex://f2771698e620881b6e11bffd465837995184914d |
+| 死傲娇女友萌奈美小姐 - 第01话 - 20180103.epub (279.90 KB) | bdex://47b860a4a5f42c6e4ca8c87c298e339a57c47709 |
+| 雪月花 - 全一话 - 20180316.epub (1.33 MB) | bdex://940dc2c4aa2831b7084945630b51127774d1c856 |
+| 和谐 - 第03话 - 20180127.epub (2.14 MB) | bdex://b79c161a2cf2901f91c2b220428c5304673516d4 |
+| 蜜味之血 - 第02话 - 20180407.epub (2.91 MB) | bdex://2d9cbfeabd71ae9f06f647035cb32dbcdef86d66 |
+| 高台家的成员 - 第10话 - 20180103.epub (3.12 MB) | bdex://5ad9c5ad32dc0d3ea646d363a8882ad3397fd85a |
+| 魔法少女梓 - 全一话 - 20180319.epub (2.19 MB) | bdex://a20ad9a0e6cc59e4512e6889da28ffa2a0bc6742 |
+| 野兽先生的女仆 - 番外篇 - 20180127.epub (388.42 KB) | bdex://9f92e6e53aec53fa2526f88fce9610d832a9330b |
+| PACHECK×LOGIC - 全一话 - 20180111.epub (2.99 MB) | bdex://2b546ea312cde6b5a5f83ead8ff5fb59ee085e82 |
+| 吃草少年 - 第19话 - 20180114.epub (409.86 KB) | bdex://30e2826d65691a86887dbd29ea0658bf86170d39 |
+| 宇宙尽头中央的 - 第01话 - 20180312.epub (3.84 MB) | bdex://400c32d5f10d753f16b326359d587824aed400d6 |
+| 侦探的侦探 - 第22话 - 20180130.epub (2.27 MB) | bdex://adeec42db6f44874ccabebf35f61535ee5f49bc0 |
+| Fate Sketch3 - 画集 - 20180310.epub (880.98 KB) | bdex://dc878a30447cdf18a0699321eff5ca70294c6754 |
+| 小熊面包房 - 第12话烤红薯 - 20180331.epub (66.59 KB) | bdex://c4ea2ba372f1ce47abb5ec97a7ef2fef55fc8e27 |
+| 提督不败先生的日常 - 第01-03话 - 20180225.epub (1.04 MB) | bdex://d04870aecd1be9be1191a0291b84f87fb05b9071 |
+| 艾莉的工作室 南国来的留学生 - 第07话 - 20180327.epub (477.65 KB) | bdex://f8cd9d08b2bd0397c54ae58c50fb42b1cedd4c6b |
+| 民法改正 - 第07话 - 20180306.epub (1.98 MB) | bdex://958e75d4221920d4c4b089496eec05ef6855a09f |
+| 魔王社长 - 第01话 - 20180226.epub (407.19 KB) | bdex://f1cde588ce2dadd30389220d5d2173d8a0b5d8bc |
+| 以人狼之姿转生 - 第08话 - 20180126.epub (2.46 MB) | bdex://67f2e6047eb61102e4fd675f73f5b460aff3f623 |
+| 崇山祟短篇作品集 - 我的姐姐是家里蹲 - 20180108.epub (1.98 MB) | bdex://9a4fb2853bbb65e789db77c5bdbb8dee824d41d6 |
+| 镇呼剑 - 第04话 - 20180402.epub (616.33 KB) | bdex://9b70092a3495e2426e897c1541dc0b380c6ab977 |
+| JK与幼女的百合物语 - 第04话 - 20180201.epub (877.98 KB) | bdex://baee56e391e3d5c782c8f886e3021bbfa3d0e139 |
+| 我的主人很喜欢惩罚我 - 全一话 - 20180206.epub (1.63 MB) | bdex://851b8bef3bf9c524a2f9bdc3cb92d2ad39120d3a |
+| 学校教师 - 第2话 - 20180210.epub (1.15 MB) | bdex://add91d009045162c34c77cd0c71d024d456ddfb7 |
+| 圣殿里盛放的无果之花 - 第01话 - 20180128.epub (8.36 MB) | bdex://0211ff67ad2a86f9fe7aecff02f0c970ae4e5f6b |
+| 魔界的大叔 - 第30话 - 20180406.epub (51.59 KB) | bdex://544b1a2e51c6db2cb8119042c0c8a2b922d21ff1 |
+| 布偶最强魔法师的隐遁生活 - 第02话 - 20180127.epub (615.92 KB) | bdex://cf99f958dc87ef5f6441ee13fcd545aae6677357 |
+| 小熊面包房 - 第20话魔术 - 20180331.epub (44.48 KB) | bdex://4486cfd4033149a150cb0e06e19debf0d090ca25 |
+| 魔界的大叔 - 第17话 - 20180406.epub (45.91 KB) | bdex://2df4e80c7ae5c91a84ba103b67e6720a33bdc0b9 |
+| 小熊面包房 - 第08话帮手 - 20180331.epub (38.97 KB) | bdex://eaf89babb16b1ffa104867ef118f5e568b399df6 |
+| 加油吧！中村君！！ - 第02话 - 20180213.epub (949.82 KB) | bdex://90d6fb98e046fb79f0d735d724f90484d0120ac1 |
+| Admiral Requiem - 全一话 - 20180129.epub (2.26 MB) | bdex://2d913f97b64254c6405f727dade0d27dce417997 |
+| 见魅于左 - 全一话 - 20180116.epub (8.04 MB) | bdex://677c2d1f15c373a76596d89c83682d6f024d94ab |
+| super lovers - 第03话 - 20180101.epub (9.16 MB) | bdex://03090df3d083e20055ff6bd5e81d592b179e1839 |
+| 傲首热舞 欢迎光临鹿高竞技舞蹈部 - 第02话 - 20180208.epub (2.34 MB) | bdex://f527e2eb3592182d40389ab7cf6ff3cf7f3ff1f9 |
+| 赌博默示录·恋 - 全一话 - 20180406.epub (4.22 MB) | bdex://47f5f5ca93ef62245bf9842be90d7ef7cd9e5adc |
+| 吃草少年 - 第13话 - 20180114.epub (520.22 KB) | bdex://06a90be4b51936035298c2bd0e8918500e3e0a88 |
+| JK与幼女的百合物语 - 第00话 - 20180201.epub (422.76 KB) | bdex://aa15c7cb4dae518c6ca3204c6df0b99e0190bf72 |
+| legend魔兽师传说 - 第01话下 - 20180127.epub (962.19 KB) | bdex://48954216e5148a9bdffe8d7bcaec4f22b3b46340 |
+| 加油吧！中村君！！ - 第04话 - 20180213.epub (815.91 KB) | bdex://79a898389cfd5dc775b0466821b15bdec0926e33 |
+| 想要疼爱诹访子 - 全一话 - 20180103.epub (3.16 MB) | bdex://21a8544173ff6bc723bf66c5feabce26bf4bdb3b |
+| 小畑健画集 Blanc et Noir - 全一卷 - 20180221.epub (10.06 MB) | bdex://9b7a5cb7e50310b6bc2d40c1a3c674e7d8ecc7d3 |
+| 穿着校服去结婚 - 第03话 - 20180131.epub (3.79 MB) | bdex://2d65b1e5c53d7662e7ec5d4423db7388f89a3110 |
+| 妖猫传 - 第01话 - 20180126.epub (2.36 MB) | bdex://273ab4386e211d97cb2988ac20ed379a221feb4b |
+| 指挥官请告诉我 我还要刷几回图 - 全一话 - 20180109.epub (3.30 MB) | bdex://5787c04e56fd4b81de682556dba4cd38ee2d4dfe |
+| 零落 - 第04话 - 20180219.epub (2.43 MB) | bdex://c339526319c26cae0361da8ca349965f66f8e03f |
+| 爱激辣！ - 第01话 - 20180407.epub (3.68 MB) | bdex://6d33a8569f659f318f121113b766ba6459452571 |
+| 雪莉·麦迪森 - 第04话 - 20180323.epub (1.20 MB) | bdex://6c18deb023d0428ef6f831132f313d2842fef099 |
+| 可爱的恋恋因为恋上了你而来到你身边了 - 全一话 - 20180327.epub (1.72 MB) | bdex://6238ffade1e8b166a542382e7e114464a147dd76 |
+| 学生会长开始了女装 - 第01话 - 20180108.epub (557.85 KB) | bdex://7bc35a1a8e2140d98f3a54c00a246f8cc52dd7d4 |
+| 贫民超人缺钱君 - 第05话 - 20180214.epub (785.73 KB) | bdex://5e627861588abc1c8d6987d1e9e25c478bbb7a3b |
+| 危险的不良同学 - 全一话 - 20180305.epub (3.11 MB) | bdex://3b5a36af6b21bbaa8fcde47c0e5327b873ea81ae |
+| El Shaddai ceta - 第01话 - 20180121.epub (2.89 MB) | bdex://f9941ccdd481659a098d1118942453e42203365b |
+| 魔王与勇者的业余时间 - 第08话 - 20180127.epub (779.80 KB) | bdex://2605c3f70706288fbfa0a09d2202d10a87d0fe88 |
+| AIURA - 第01卷 - 20180412.epub (6.74 MB) | bdex://791104850f4de88bed9db042ce6b70a9cff834f3 |
+| 猫侦探 - 第03话 - 20180130.epub (1.47 MB) | bdex://9b1f2ffde6238fdca4e3bb3fa0ea7343847a1176 |
+| Blue Friend - 第03话 - 20180415.epub (2.50 MB) | bdex://b377f419708a2487ff4adaa2b821c0269b61e8c7 |
+| 涅拉乌欧似乎蹂躏圣杯战争 - 第02话 - 20180312.epub (567.56 KB) | bdex://ba511824eb29dc6090d484978eceb0a1db62bc7f |
+| 尼采老师~领悟世代降临便利店 - 第03话 - 20180308.epub (1.69 MB) | bdex://1bdccc24607706aeb7e9678c8ecb9969838304fc |
+| 魔界的大叔 - 第55话 - 20180406.epub (60.11 KB) | bdex://65039e544efc71157fc000de47a26aa883eec78d |
+| FGO幼稚园 - 第02话 - 20180310.epub (3.60 MB) | bdex://59ef71f49c0b46bfae8aeefeac07c338dcfb906a |
+| 魔界的大叔 - 第12话 - 20180406.epub (57.13 KB) | bdex://bb9fc5c8c608957e57411a55914588c04121b73f |
+| 她是我的启迪者 - 全一话 - 20180317.epub (3.74 MB) | bdex://4bef244b5c17da2dd2c74b462fc78c9abb19aedd |
+| 隐约美景 - 第03话 - 20180313.epub (2.12 MB) | bdex://86bdc0157792df36c08dd0e6b3cd9ceba21fa601 |
+| 安魂曲 - 短篇 - 20180326.epub (2.72 MB) | bdex://92b580cef8ab265eaf295e2546bbb037af1e8c5d |
+| 吾妻同学和板仓学姐的恋爱故事 - 朋友游戏 - 20180104.epub (1.13 MB) | bdex://39d45595068e7554230744038c405c046042c4ea |
+| 红魔馆尚在蝌蚪期时的故事 - 第04话 - 20180210.epub (866.19 KB) | bdex://d542b92f9f298f661bec71b1b9f56f87cefbed22 |
+| Aigis饭 - 第01话 - 20180306.epub (2.74 MB) | bdex://b9310ce59c9ca00f78146f8cbddc44c413091bb4 |
+| JK与幼女的百合物语 - 第07话 - 20180201.epub (840.00 KB) | bdex://728d842a89d7311492fb199d3cb5785c4e7057b4 |
+| 白色相簿2 - 第02话 - 20180214.epub (3.57 MB) | bdex://e598a8c0d32c0c6ac189b9fef27954a3480a786b |
+| 穿越时间的少女 - 全一话 - 20180208.epub (563.18 KB) | bdex://80446ec361dcb1d13f2bd2e476b3a0f481f2a8cf |
+| 乃木若叶是勇者 - 预告篇 - 20180218.epub (672.55 KB) | bdex://7db1bca99bcc6f3e03de0ff1ee4772bd649bf906 |
+| 致绯红的告白 - 全一话 - 20180106.epub (6.54 MB) | bdex://0c790a682c633247221090c1deecc7467dd6977c |
+| 归路上 追寻着你的足迹 - 全一话 - 20180127.epub (1.80 MB) | bdex://547be575cad915cb0594a6870dda99e523f7b806 |
+| 两人感情非常要好 - 全一话 - 20180417.epub (1.61 MB) | bdex://5d5ef548f5f49fd8ddec8daa01a501b5ec11c003 |
+| 派遣新嫁娘 - 第01话 - 20180222.epub (713.12 KB) | bdex://640fa23ad67640e5bf1e7867af92e0c9bd083b9d |
+| 宇宙大帝 银河闪电的冒险 - 醒诞祭 - 20180309.epub (3.77 MB) | bdex://fa8f19e73da0ab8f5edaa6d747fd428cf2ca08d0 |
+| 东方青帖·梦结「小序」 - 全一话 - 20180225.epub (1.94 MB) | bdex://537520e8c5685e343cb4cf162608247c5b817d78 |
+| CRIMSON’S CREED - 第01话 - 20180102.epub (9.24 MB) | bdex://0c01b7dd44c4de9ecba8379df4e80359d7048266 |
+| 以人狼之姿转生 - 第05话 - 20180126.epub (2.71 MB) | bdex://8ccc0c5065ba199dacaaab0d3d798c3b45c62e2f |
+| 民法改正 - 第04话 - 20180306.epub (3.29 MB) | bdex://a503203b00eb3d388b5efe15f8d31cbd4fc61c6b |
+| 想要说出喜欢你！ - 全一话 - 20180204.epub (3.35 MB) | bdex://9b4a3dc1be3d3d6b4c68939626ca49533bae1835 |
+| 民法改正 - 第01话 - 20180306.epub (4.46 MB) | bdex://e76c1f9dff199ffff935013baef896897e1d2ba9 |
+| 人见人爱的农家香 - 工作吧  农家香 - 20180119.epub (1.87 MB) | bdex://47546f8d1fd0599e9fabed6ad02a1da1f95a2dee |
+| SLC／SOUL LIQUID CHAMBERS - 第01话 - 20180301.epub (6.75 MB) | bdex://a79c76ecdba1233dc6a57cb66fe529e2373e29ae |
+| 虎太郎与小雪 - 全一话 - 20180416.epub (1.17 MB) | bdex://787b6629c0f25e648e3d476560f43c4f5fb5ec26 |
+| 零落 - 第01话 - 20180219.epub (4.25 MB) | bdex://747e3614be6b56065ca8874b2870d5d7034293da |
+| 筋肉香霖摔跤 - 第01话 - 20180130.epub (802.42 KB) | bdex://70ce47ca5e8d8b9b6d3115bddbf32b6cf40f82c0 |
+| 名叫海贼的男人 - 第02卷 - 20180308.epub (18.54 MB) | bdex://49815090f4428988e87846b71efa1e37a2834455 |
+| FGO幼稚园 - 第01话 - 20180310.epub (2.97 MB) | bdex://4ea78b4366e1e6e0ae17c0cdb8ed5140a6347637 |
+| 乙女百合 - 全一话 - 20180224.epub (3.55 MB) | bdex://5c27d8c99a11205baf0dcf937dc3cd93880fea53 |
+| 幸运之吻 - 第07话 - 20180214.epub (5.24 MB) | bdex://20a4de2bde1e05ceef6b4a461cccd0e66123a1d6 |
+| 白色相簿2 - 第03话 - 20180214.epub (2.24 MB) | bdex://03eb12e5aa176fcc521e806156724ffcbe5f34ae |
+| 不知恐惧为何物 - 全一话 - 20180118.epub (2.62 MB) | bdex://29712fe8f919c24417e26e4a6ef2bc8f9a6f2579 |
+| 怪诞银行 - 第02话 - 20180414.epub (5.56 MB) | bdex://534022889b271b5f8a2db01a28b7b2809ebda3ac |
+| legend魔兽师传说 - 第01话上 - 20180127.epub (944.99 KB) | bdex://8ce729e6b09f64bd1bbc4d16d139a66d07d14208 |
+| 幸运之吻 - 第04话 - 20180214.epub (3.51 MB) | bdex://362654d0ced558cc5cba2ce471be28a1cf43178d |
+| 新幻想史 - 全一话 - 20180402.epub (4.08 MB) | bdex://53d18e40eb8c648d3896dea86016fb67eb580eb6 |
+| 落雨狂想曲 - 第01话 - 20180412.epub (3.28 MB) | bdex://d3432bf9d6502c8d69afb7f06a6ce8bc0d76c6b1 |
+| 艾莉的工作室 南国来的留学生 - 第00话 - 20180327.epub (2.66 MB) | bdex://f7eff12681222069f319495193e1ea687b06ef7c |
+| BBA - 全一话 - 20180114.epub (2.74 MB) | bdex://d3b3d5a2ff957edae13f61d2ae3e06dcf434aec4 |
+| 小熊面包房 - 第14话落叶 - 20180331.epub (40.29 KB) | bdex://0eb6fc128d46d32a532a156fc77f8aca523b515d |
+| GIRLS NEXT DOOR - 短篇 - 20180123.epub (1.99 MB) | bdex://27e135031fb1456ca90077b9a8ef39f2b1da0dfc |
+| 充满朝气的新年祝福 - 全一话 - 20180215.epub (1.30 MB) | bdex://0915e46363115cde3b4d5b0ffb83acb5144669c5 |
+| 野兽先生的女仆 - 第14话 - 20180127.epub (828.96 KB) | bdex://27f2838d98a5e79edb083f87fc72842566f1f15b |
+| 美味的妖怪 - 第07话 - 20180122.epub (906.80 KB) | bdex://becb828c92076b2c103fbb320d5ee300a135cd36 |
+| 温暖的地方 - 短篇 - 20180123.epub (2.20 MB) | bdex://d37c0aed55e10723921fa61fe639f4b289306128 |
+| 认真恋爱heart change - 第01话 - 20180329.epub (1.48 MB) | bdex://442edde24577fb847716fbfdc0a0495457222a19 |
+| (C93)莉莎友希那快乐漫画 - 全一话 - 20180109.epub (3.75 MB) | bdex://024fc8dff0cf7dbe43332e2087f7256186ceebd8 |
+| 精灵幻想记 - 第01话 - 20180113.epub (1.34 MB) | bdex://49bd2990a74283a444d8e506c3ea628936d41642 |
+| 以人狼之姿转生 - 第06话 - 20180126.epub (2.38 MB) | bdex://3ebd08b03b45db1c1e3eeeef0ef89154d882498c |
+| 以人狼之姿转生 - 第01话 - 20180126.epub (2.59 MB) | bdex://6d5f9afc2a8cb1acb26ee51758c3601f79ae6431 |
+| 服从本能 - 第05话 - 20180131.epub (1.17 MB) | bdex://993013ed46fcdba1ea9df0597495e025e91161d0 |
+| 蜜味之血 - 第01话 - 20180407.epub (3.97 MB) | bdex://3f5b147229635a89c8dede7fdb76fe425d6722ed |
+| 缪斐尔的日子 - 全一话 - 20180416.epub (3.64 MB) | bdex://288749535d27cdb2bdba80efba78465ed10e8902 |
+| 魔界的大叔 - 第44话 - 20180406.epub (46.49 KB) | bdex://2487f1fde316533bc37c1db9303cd647cb315aea |
+| 瓶中的光辉 - 全一话 - 20180320.epub (4.03 MB) | bdex://b70f6b695e2cdc81326f0662faa94f71ff7fa810 |
+| 四分钟的金盏菊 - 第08话 - 20180206.epub (1.45 MB) | bdex://f43bb8616b4d0ec57a75fe8fe7c9a952797755d2 |
+| 侦探的侦探 - 第13话 - 20180130.epub (1.78 MB) | bdex://1771c082c4b4ea70f7b126a32bdfc391b91da24a |
+| 奇异果实 - 第02话 - 20180306.epub (3.37 MB) | bdex://273f0338f89af669100a22f426beca3afd6ef5a9 |
+| 从零开始的魔法书 - 第02话 - 20180415.epub (4.58 MB) | bdex://a90c03a0a45b78cc89078f3634f5e5e1299205cf |
+| 琴浦小姐 - 第01卷 - 20180301.epub (7.68 MB) | bdex://4a3b792bd4c556d8995db67a63101e10f75d2b44 |
+| 沉睡之林的卡戎 - 第01话 - 20180320.epub (1.56 MB) | bdex://85028ae2c3b2ba156c5f7231cad9c383bc50e71a |
+| 恋思美食家 - 第01话 - 20180130.epub (3.00 MB) | bdex://e90122202527337975f5848e67aaeac29353e33e |
+| 少女与汪酱 - 全一话 - 20180313.epub (1.15 MB) | bdex://e29bcf50ff2c51adb5c50d9f6131845374200ae4 |
+| Blue Friend - 第04话 - 20180415.epub (2.27 MB) | bdex://cdd823a51a422c8fef4c62dada3ed8d456b9a713 |
+| 魔界的大叔 - 第40话 - 20180406.epub (109.49 KB) | bdex://7df74eaaec8f25fa21f5432da8307a5ece18a088 |
+| 高台家的成员 - 第08话 - 20180103.epub (2.77 MB) | bdex://93fc00b7e079b399159acbd9aae4921c93705d68 |
+| 刃牙道 - 第02话 - 20180412.epub (3.48 MB) | bdex://65b94e57c8d13372fc2ef59ce903552f8329f00a |
+| 擅长捉弄的西片同学 - 全一话 - 20180414.epub (2.19 MB) | bdex://c7f111f8a2d3b28c2236a3cd74a388aebdb1ee66 |
+| 太狡猾了！幽幽子大人 - 全一话 - 20180214.epub (3.28 MB) | bdex://58377ebb5b1fcd742c865107a13b00378dac1830 |
+| 0℃的魔法 - 短篇 - 20180218.epub (640.65 KB) | bdex://9d00b714bedc78484299ec55dd93f2f50d90b818 |
+| 四分钟的金盏菊 - 第17话 - 20180206.epub (1.29 MB) | bdex://fa1b760f23b6be3a84ed3faba7ab9e2f6a05c44a |
+| 红魔馆尚在蝌蚪期时的故事 - 第03话 - 20180210.epub (734.45 KB) | bdex://b41e230ecd3ee20a52a395f99dc3b049a25d4040 |
+| 献给大海的心灵之地 - 短篇 - 20180413.epub (5.44 MB) | bdex://343fd665f47d3877019a976e914eb688a1a6e3b5 |
+| 贪吃猫 - 第04话 - 20180408.epub (1.01 MB) | bdex://086fec12327afbe3b86f93bca635e24d1780fc63 |
+| 赤目姫的潮解 - 第0话 - 20180209.epub (726.05 KB) | bdex://5d56e0844ebbe8461ab6b68fde69187783297771 |
+| 山的天气容易变 - 全一话 - 20180110.epub (917.64 KB) | bdex://33a5acca66cba7fd12d32c44641ad87a85a98f30 |
+| 东方青帖·累日 - 全一话 - 20180117.epub (2.09 MB) | bdex://3b5e8b3b05c6d44d2ccc2e005a927448ce7bf2b9 |
+| 电脑格斗技 梅菲斯特圆舞曲 - 第02话 - 20180224.epub (2.08 MB) | bdex://94bbf3327543f2e7bd0ad301cbc8b773312a05e3 |
+| 善丸的黑魔术入欲(浴)时间 - 全一话 - 20180125.epub (2.13 MB) | bdex://86645376dfc54a4a4b4200384c9880ca18146d73 |
+| 羽立帖 - 全一话 - 20180413.epub (2.53 MB) | bdex://343761cb0f388070b3e40ea0306ae8f9e54ca4b4 |
+| S佐渡小姐与M江村君 - 第03话 - 20180216.epub (2.63 MB) | bdex://e64af61770123234efa86fe31c76f54419f0f6bc |
+| 我想去厕所 - 全一话 - 20180403.epub (3.19 MB) | bdex://7c92ee7990e387e8376efb871a95aab1f23ee762 |
+| 电话俱乐部的叮铃铃 - 全一话 - 20180415.epub (6.44 MB) | bdex://25e6f374580c02ee3bed5b50b914cb691aee3c44 |
+| 女孩子的友谊与肌肉 - 第01话 - 20180127.epub (1.00 MB) | bdex://7ba69abd0d000b353e3bf83193dc528fbe76cefc |
+| (C93)SSW vol.5 - 画集 - 20180101.epub (1.51 MB) | bdex://dd4bc04dbe4473b8cb2164d62b6835851f011c19 |
+| 银色二人 - 前篇 - 20180224.epub (3.91 MB) | bdex://222da02c855bb9d89ca864e9a734500c3a645230 |
+| 探女flag - 全一话 - 20180209.epub (3.02 MB) | bdex://a111731039c65a061631cbd8a0d202be47d8a35c |
+| 花岚 - 全一话 - 20180220.epub (3.60 MB) | bdex://3fc32ea33779e09dae6e6c56569b3aee40ff27a8 |
+| 冈叔的奇妙冒险 - p站连载版加笔(贪婪大陆篇) - 20180102.epub (284.94 KB) | bdex://6a264eeb6cf14a0403738dac56b6bfa9f074f8ea |
+| 铁假面的伊吹同学 - 第1卷05话 - 20180306.epub (427.59 KB) | bdex://1f4199a5744a2eab0107bbca85530a06927b792e |
+| 露米娅大家族 - 全一话 - 20180129.epub (3.50 MB) | bdex://bdcfe50e754e30adce4808eb1c112669015a1be9 |
+| 美味的妖怪 - 番外 - 20180122.epub (133.08 KB) | bdex://5073af00bdd679bb60784cfd8496199d62f53b6c |
+| 温泉物语 - 第04话 - 20180330.epub (1.90 MB) | bdex://a419a646764ebd6a469ee641b434739eab4385c4 |
+| 零落 - 第03话 - 20180219.epub (2.33 MB) | bdex://92328c2bb8baf7f998136019c83a3722dac5d554 |
+| 真实发生过的恐怖故事 - 短篇 - 20180413.epub (1.12 MB) | bdex://3b133fff63f4b950d5680792e58bec199c23c2a1 |
+| 服务区 - 全一话 - 20180404.epub (3.95 MB) | bdex://bb10a6f3b6b4ddad68919f6028920383664aff78 |
+| 不管多少次我的初恋都是你 - 第05话 - 20180407.epub (2.41 MB) | bdex://ac85d7280b2bf2c63f22d2b95cf1650e796a6f02 |
+| 机动战士高达SEED Astray：天空的皇女 - 第00话 - 20180407.epub (2.22 MB) | bdex://ca1761ba9892718c914bea28b95752028bbd9dea |
+| 小熊面包房 - 第07话新发明 - 20180331.epub (41.92 KB) | bdex://c7966d5c62855e63be561d5f0908485d99059a71 |
+| 魔法少女奈叶 Material女孩 -INNOCENT- - 第03话 - 20180221.epub (2.11 MB) | bdex://40e793250aa9eea1743beb9496822860073768e7 |
+| 锵锵锵锵——！ - 第02话 - 20180307.epub (811.89 KB) | bdex://cf447642a70534a2644d5af22ef28d6a688636a0 |
+| 狼与古龙水 - 全一话 - 20180312.epub (3.22 MB) | bdex://5b6fac747f0c92ec54139bafd04717a339f16120 |
+| 服从本能 - 第01话 - 20180131.epub (1.48 MB) | bdex://4f0927e5fae097fe37792351de91b4f777d8d4c9 |
+| 学生会长开始了女装 - 第06话 - 20180108.epub (533.53 KB) | bdex://989156e9ed12cc60355bf1c43c2cc2fcbced034e |
+| 魔界的大叔 - 第23话 - 20180406.epub (47.16 KB) | bdex://32a7fba13b1d18d390009398826e96553716fcc4 |
+| 雀蛋危险啦 - 短篇 - 20180311.epub (1.82 MB) | bdex://8daf2c38b6a387d640a8801f0d112f36ffe0d781 |
+| 早苗天国-华- - 画集 - 20180120.epub (1.16 MB) | bdex://6e60ff348458dc8cd3b769765ddf30afd4386794 |
+| 侦探的侦探 - 第15话 - 20180130.epub (1.82 MB) | bdex://cbefcbd8ffa6b3c2406e94f7b5b65a2e5bb97f9f |
+| 生日快乐 蕾米莉亚 - 全一话 - 20180119.epub (4.50 MB) | bdex://59d6fb70a96fe87ca5709edce124f620773b7fb9 |
+| 不管多少次我的初恋都是你 - 第12话 - 20180407.epub (2.34 MB) | bdex://0852140d15782b77494830d1e007b29ca1c707f3 |
+| 野兽先生的女仆 - 第01话 - 20180127.epub (944.45 KB) | bdex://753f86ac43a29f9e4bab5c00a31891caf1c5c61b |
+| 少女少年学级团 - 第01卷 - 20180413.epub (10.92 MB) | bdex://c1868387fe1bfd27cc65be5b367a73b52a751757 |
+| 幻想的迷途之子 - 全一话 - 20180109.epub (3.10 MB) | bdex://22de25593449b39b185387d0a32899f5ea482207 |
+| 魔女与女孩 - 全一话 - 20180220.epub (1.55 MB) | bdex://9ae483617619a0ec9a49b183a254e6f272295b5c |
+| 恋恋想要姐姐变得舒服本 - 全一话 - 20180401.epub (2.74 MB) | bdex://4c6cb117a6ba4652937386f0a70120a820b1d123 |
+| 魔界的大叔 - 第57话 - 20180406.epub (41.71 KB) | bdex://f5c380e99b3a30d1db02c28da4e9b2d23845f3a6 |
+| 风前灯火 - 短篇 - 20180109.epub (1.51 MB) | bdex://974e7486a6a0b2b15911a7ad7ffa0757e373e1cb |
+| 短篙 - 短篙 - 20180216.epub (468.95 KB) | bdex://54ef88a86aa4d11ccd3625b813c242707270e3ae |
+| 人见人爱的农家香 - 人见人爱的农家香 - 20180119.epub (3.90 MB) | bdex://a138668ff62ef456d6c43b37ad0912b2696822c3 |
+| 福本All Stars - 第03话 - 20180221.epub (588.25 KB) | bdex://00716bc2b2d0de5ecf6dbf71a3a84a3dfe7c584c |
+| 魔界的大叔 - 第37话 - 20180406.epub (39.86 KB) | bdex://6b7228c9f9a7682083605631d2d6389bcf604097 |
+| 自卑恋 - 第02话 - 20180319.epub (3.40 MB) | bdex://7174ec6e19d8ba7f6bd2151a831736ed13fdf783 |
+| 魔女菲利帕的约定 - 第01话 - 20180309.epub (3.58 MB) | bdex://4cd903ed6e83b3e0e220d7913791c7217999ffd7 |
+| 就是只猫！ - 第01话 - 20180303.epub (1.35 MB) | bdex://bb199589800ff085fe838b38af0652eb2c6e6fa0 |
+| 魅魔女友 - 第13-17话 - 20180203.epub (1.78 MB) | bdex://3a56a9f7bf294f33cb2e88eac3b4fa1b7aa82c60 |
+| 红魔馆尚在蝌蚪期时的故事 - 第01话 - 20180210.epub (1.25 MB) | bdex://8f08a7e0e9d6d4160b2e2958fe5a190b52ff16e3 |
+| KOUMA - 全一话 - 20180212.epub (862.92 KB) | bdex://e774c3b34040ba2a8f33daf7e04cb483be2eaf6f |
+| 曙小姐和粪提督 - (c88)第04话 - 20180405.epub (1.50 MB) | bdex://aa301588bc4027038231e559e8904e276e2334ce |
+| 艾莉的工作室 南国来的留学生 - 第06话 - 20180327.epub (497.90 KB) | bdex://4d9fb5d1faeb51d2cc1a781273a10a3b08cf3c95 |
+| 恋人在前 情敌在后 - 第01话 - 20180414.epub (1.66 MB) | bdex://c37b12dbd744453913e54a09fcaf3a71a19ff07c |
+| 东方宝可梦 - 第04话 - 20180312.epub (833.04 KB) | bdex://9ecc2a922ddaebbb9ccf37f4e0fb4eddf0f0b099 |
+| MY琪露！ - 全一话 - 20180105.epub (959.79 KB) | bdex://90fac4fc3e0a77e5844875c0dc4ea07eedb7c691 |
+| 高台家的成员 - 第01卷 - 20180103.epub (12.43 MB) | bdex://3da111b7d98eadcde6d71e437064d6fcfb5295ba |
+| 红魔馆尚在蝌蚪期时的故事 - 第05话 - 20180210.epub (648.46 KB) | bdex://9793774734aab773c3749be2e335d8039b14378d |
+| 以人狼之姿转生 - 番外02 - 20180126.epub (631.42 KB) | bdex://31ec0bf77caaa853e5892fa8c180cd61dc776bd1 |
+| legend魔兽师传说 - 第02话下 - 20180127.epub (615.43 KB) | bdex://d2fd7e813052df568d12a33abdc4a0146c8a3b3b |
+| 铁假面的伊吹同学 - 第1卷02话 - 20180306.epub (440.15 KB) | bdex://277e5e500af71bd78ff1077312fd9b546d34ace0 |
+| 涅拉乌欧似乎蹂躏圣杯战争 - 第03话 - 20180312.epub (844.01 KB) | bdex://6670d542b291b88845222ef1449055da806698d4 |
+| 四分钟的金盏菊 - 第05话 - 20180206.epub (1.67 MB) | bdex://c56841991fb814fafebce9a5b4a88bb80d579768 |
+| 小熊面包房 - 第22话夕阳 - 20180331.epub (47.60 KB) | bdex://5ea855b62552e1f078a04d441c529792dc2b7260 |
+| 蜜味之血 - 第03话 - 20180407.epub (3.50 MB) | bdex://5bee414920cdc56c8579703536fa46f07e5bb193 |
+| 咱们LGBT - 第0话 - 20180308.epub (683.81 KB) | bdex://f8672c41d94e13180c311fa0acb6e9d6e67362ff |
+| 我之所以不吃「人」的理由 - 全一话 - 20180417.epub (4.26 MB) | bdex://d07ab732fd171e8e5f2b6e9a792b276530f39588 |
+| 零落 - 第02话 - 20180219.epub (2.43 MB) | bdex://c6c1057d35adf3af848b5fcd7c411b03e7bdd554 |
+| 沉睡之林的卡戎 - 第00话 - 20180320.epub (1.41 MB) | bdex://0358ca2eaadda50875dc122c135a0a2fe082360c |
+| 小恋恋的进击 - 全一话 - 20180225.epub (2.02 MB) | bdex://6be402a1a75f37fce70e9b7ecb4cdcd9dd1db43a |
+| 龙樱2 - 第02话 - 20180222.epub (4.98 MB) | bdex://5efa4241e9cc48079d7ede0e646af7582078c073 |
+| 恋思美食家 - 电视剧版特别篇Ⅰ - 20180130.epub (3.83 MB) | bdex://d8f8cf9ce2d23065275424549c031b819008486d |
+| 乃木若叶是勇者 - 第07话 - 20180218.epub (2.06 MB) | bdex://a2f32d1e941960a05aea10c43f76b5c8f7ca2624 |
+| 魔界的大叔 - 第1-10话 - 20180406.epub (558.87 KB) | bdex://9bf4d2f83f37258a0465357b1610919aaa26ffc9 |
+| 对大小姐来说太刺激了啦 - 短篇 - 20180105.epub (1.37 MB) | bdex://3c924037c1e5435e5561b1bc1659a2f988adc0b9 |
+| 我用一年一万日元卖掉寿命 - 第02话 - 20180417.epub (2.52 MB) | bdex://79d5157f08e672c03f62798270750e4a6bd1a530 |
+| 为安杰利卡献歌 - 第02话 - 20180227.epub (1.70 MB) | bdex://353de17aaf3669d93e0d4d8ecde405feeefa10ab |
+| 野兽先生的女仆 - 第19话 - 20180127.epub (907.23 KB) | bdex://b8c5d9a6ef4556fec366f7b90fd37bc1bbe19388 |
+| 极恶者的店员录 - 全一话 - 20180405.epub (1.53 MB) | bdex://7f245ed93408a2b9b8241f6f1a6bbe1c7e74e2e3 |
+| 结城友奈所属的勇者部 - 第01话 - 20180225.epub (1016.72 KB) | bdex://5b8f29bba2ce64b6a24aace055734e4f5684d5d4 |
+| 落第骑士的英雄谭 - 第01话 - 20171216.epub (6.10 MB) | bdex://c68553c42d08b2f6598f5b1ce237c333e4efb94a |
