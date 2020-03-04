@@ -6,8 +6,8 @@ date: 2019-01-01 00:00:00
 ## 下载方式
 
 ```
-pip install bilidrive
-bilidrive download <link>
+pip install BiliDriveEx
+bdex download <link>
 ```
 
 ## 链接
