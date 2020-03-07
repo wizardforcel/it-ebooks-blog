@@ -17,8 +17,9 @@ date: 2018-08-28 11:39:58
 +   日漫归档 2017
     +   [BiliDrive](http://it-ebooks.flygon.net/comic-2017-bilidrive)
 +   C97 本子合集
+    +   [MEGA](https://mega.nz/#F!HYlTkb5T!LYuH2BnpSl5TTcfIDen5Mg)
     +   [百度云](http://it-ebooks.flygon.net/cm-bdyun/)
-    +    [BiliDrive](http://it-ebooks.flygon.net/c97/)
+    +   [BiliDrive](http://it-ebooks.flygon.net/c97/)
 +   C96 本子合集
     +   [百度云](http://it-ebooks.flygon.net/cm-bdyun/)
     +   [BiliDrive](http://it-ebooks.flygon.net/c96/)
