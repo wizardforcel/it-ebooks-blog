@@ -19,6 +19,8 @@ date: 2016-01-29 08:28:45
 
 ```
 pip install BiliDriveEx
+# 或
+# pip install git+https://github.com/apachecn/BiliDriveEx
 bdex download <link>
 ```
 

@@ -8,6 +8,8 @@ tags:
 
 ```
 pip install BiliDriveEx
+# 或
+# pip install git+https://github.com/apachecn/BiliDriveEx
 bdex download <link>
 ```
 

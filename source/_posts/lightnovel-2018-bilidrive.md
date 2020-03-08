@@ -7,8 +7,10 @@ tags:
 ## 下载方式
 
 ```
-pip install bilidrive
-bilidrive download <link>
+pip install BiliDriveEx
+# 或
+# pip install git+https://github.com/apachecn/BiliDriveEx
+bdex download <link>
 ```
 
 <!--more-->

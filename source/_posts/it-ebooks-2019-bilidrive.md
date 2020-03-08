@@ -7,6 +7,8 @@ date: 2020-01-01 00:00:00
 
 ```
 pip install BiliDriveEx
+# 或
+# pip install git+https://github.com/apachecn/BiliDriveEx
 bdex download <link>
 ```
 
