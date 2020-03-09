@@ -2,6 +2,7 @@
 
 ![](source/img/repo-deployed.svg) ![](source/img/cdn-deployed.svg) ![](source/img/northpole-preparing.svg) ![](source/img/blockchain-preparing.svg)
 
++   [KSSD BiliDrive 备份](source/_posts/kssd-bilidrive.md)
 +   [TutorialsPoint 电子书 归档](source/_posts/tutorialspoint.md)
 +   [计算机电子书 2019 归档](source/_posts/it-ebooks-2019.md)
 +   [计算机电子书 2019 BiliDrive 备份](source/_posts/it-ebooks-2019-bilidrive.md)

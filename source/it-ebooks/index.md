@@ -7,25 +7,26 @@ date: 9999-12-31 23:59:59
 
 ## 代码仓库
 
-+   [TutorialsPoint 电子书 归档](source/_posts/tutorialspoint.md)
-+   [计算机电子书 2019 归档](source/_posts/it-ebooks-2019.md)
-+   [计算机电子书 2018 归档](source/_posts/it-ebooks-2018.md)
-+   [Syncfusion Succinctly 2017-2018 归档](source/_posts/syncfusion-succinctly-2017to2018.md)
-+   [计算机电子书 2017 归档](source/_posts/it-ebooks-2017.md)
-+   [计算机电子书 2016 归档](source/_posts/it-ebooks-2016.md)
-+   [Syncfusion Succinctly 2012-2016 归档](source/_posts/syncfusion-succinctly-2012to2016.md)
-+   [看云电子书归档 2016.4](source/_posts/kancloud-ebooks-201604.md)
-+   [安全参考和书安归档](source/_posts/hackcto-secbook.md)
++   [TutorialsPoint 电子书 归档](http://it-ebooks.flygon.net/tutorialspoint/)
++   [计算机电子书 2019 归档](http://it-ebooks.flygon.net/it-ebooks-2019/)
++   [计算机电子书 2018 归档](http://it-ebooks.flygon.net/it-ebooks-2018/)
++   [Syncfusion Succinctly 2017-2018 归档](http://it-ebooks.flygon.net/syncfusion-succinctly-2017to2018/)
++   [计算机电子书 2017 归档](http://it-ebooks.flygon.net/it-ebooks-2017/)
++   [计算机电子书 2016 归档](http://it-ebooks.flygon.net/it-ebooks-2016/)
++   [Syncfusion Succinctly 2012-2016 归档](http://it-ebooks.flygon.net/syncfusion-succinctly-2012to2016/)
++   [看云电子书归档 2016.4](http://it-ebooks.flygon.net/kancloud-ebooks-201604/)
++   [安全参考和书安归档](http://it-ebooks.flygon.net/hackcto-secbook/)
 
 ## BiliDrive
 
-+   [计算机电子书 2019 BiliDrive 备份](source/_posts/it-ebooks-2019-bilidrive.md)
-+   [达内 Java 全套教程 BiliDrive 备份](source/_posts/tarena-bilidrive.md)
-+   [计算机电子书 2018 BiliDrive 备份](source/_posts/it-ebooks-2018-bilidrive.md)
-+   [计算机电子书 2017 BiliDrive 备份](source/_posts/it-ebooks-2017-bilidrive.md)
-+   [计算机电子书 2016 BiliDrive 备份](source/_posts/it-ebooks-2016-bilidrive.md)
-+   [看云电子书归档 2016.4 BiliDrive 备份](source/_posts/kancloud-ebooks-201604-bilidrive.md)
-+   [安全参考和书安 BiliDrive 备份](source/_posts/hackcto-secbook-bilidrive.md)
++   [KSSD BiliDrive 备份](http://it-ebooks.flygon.net/kssd-bilidrive/)
++   [计算机电子书 2019 BiliDrive 备份](http://it-ebooks.flygon.net/it-ebooks-2019-bilidrive/)
++   [达内 Java 全套教程 BiliDrive 备份](http://it-ebooks.flygon.net/tarena-bilidrive/)
++   [计算机电子书 2018 BiliDrive 备份](http://it-ebooks.flygon.net/it-ebooks-2018-bilidrive/)
++   [计算机电子书 2017 BiliDrive 备份](http://it-ebooks.flygon.net/it-ebooks-2017-bilidrive/)
++   [计算机电子书 2016 BiliDrive 备份](http://it-ebooks.flygon.net/it-ebooks-2016-bilidrive/)
++   [看云电子书归档 2016.4 BiliDrive 备份](http://it-ebooks.flygon.net/kancloud-ebooks-201604-bilidrive/)
++   [安全参考和书安 BiliDrive 备份](http://it-ebooks.flygon.net/hackcto-secbook-bilidrive/)
 
 ## 网盘
 
