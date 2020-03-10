@@ -36,3 +36,6 @@ bdex download <link>
 | KSSD 第8篇 编程篇.epub (19.78 MB) | bdex://6938785f4415b5be27843585ad27afaaf8660ef8 |
 | KSSD 第9篇 病毒木马篇.epub (5.73 MB) | bdex://d56a5e1688256b6d27d30ae520e592f3617d802c |
 | KSSD 附录.epub (374.88 KB) | bdex://d2f5681bafc197584e81f7729a1e25c158193b1e |
+| KSSD 第4篇 调试篇：序列号保护实例分析 2000-2002.epub (3.37 MB) | bdex://3a1190b552cd01b82db133b4f274607d2e48494d |
+| KSSD 第4篇 调试篇：序列号保护实例分析 2003-2005.epub (6.64 MB) | bdex://e7870db2eb81fc959832517257de38f4e51c8958 |
+| KSSD 第4篇 调试篇：序列号保护实例分析 2006-2011.epub (6.98 MB) | bdex://ab25d800a1ed093e77b69285647bbc1db43e5084 |
