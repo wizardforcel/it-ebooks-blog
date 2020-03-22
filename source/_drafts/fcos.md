@@ -55,5 +55,5 @@ ISBN: 9780716782841
 ## 下载 ##
 
 + [PDF格式](http://www.ituring.com.cn/book/download/1be3ee51-b741-4f17-954e-8106d0001360)
-+ [EPUB格式](https://github.com/it-ebooks/ebooks/raw/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%9A%84%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.epub)
++ [EPUB格式](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%9A%84%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.epub)
 + [MOBI格式](http://www.ituring.com.cn/book/pushtokindle/1019)

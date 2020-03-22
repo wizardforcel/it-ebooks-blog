@@ -19,4 +19,4 @@ tags:
 ## 下载 ##
 
 + [CSDN下载](http://download.csdn.net/detail/u012550782/6455307)
-+ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/Octave%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.pdf)
++ [Github下载](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/Octave%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.pdf)

@@ -18,7 +18,7 @@ var coTemp = `
 ## {title}
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/{repo}/raw/master/{fname})
-+   [Github 下载](https://github.com/it-ebooks/{repo}/raw/master/{fname})
++   [Github 下载](https://cdn.jsdelivr.net/gh/it-ebooks/{repo}/{fname})
 +   [SourceForge 下载](https://sourceforge.net/p/{repo}/code/ci/master/tree/{fname}?format=raw)
 `
 

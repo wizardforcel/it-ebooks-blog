@@ -16,5 +16,5 @@ tags:
 
 ## 下载 ##
 
-+ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/jfinal-2.2-manual.pdf)
++ [Github下载](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/jfinal-2.2-manual.pdf)
 + [CSDN下载](http://download.csdn.net/download/meisoft2009/9420507)

@@ -15,4 +15,4 @@ tags:
 ## 下载 ##
 
 + [GoogleCode](https://code.google.com/p/boost-doc-zh/downloads/list)
-+ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/boost_1_41_0_doc.chm)
++ [Github下载](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/boost_1_41_0_doc.chm)

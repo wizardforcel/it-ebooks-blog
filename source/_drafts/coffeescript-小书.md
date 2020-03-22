@@ -22,4 +22,4 @@ tags:
 ## 下载 ##
 
 + [百度云下载](http://pan.baidu.com/s/1dDkUyCp)
-+ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/CoffeeScript%E5%B0%8F%E4%B9%A6.pdf)
++ [Github下载](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/CoffeeScript%E5%B0%8F%E4%B9%A6.pdf)

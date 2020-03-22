@@ -20,4 +20,4 @@ tags:
 ## 下载 ##
 
 + [原地址](http://web.stanford.edu/class/cs106b/textbook/CS106BX-Reader.pdf)
-+ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/Programming%20Abstractions%20in%20C%2B%2B.pdf)
++ [Github下载](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/Programming%20Abstractions%20in%20C%2B%2B.pdf)

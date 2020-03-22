@@ -17,4 +17,4 @@ tags:
 
 ## 下载 ##
 
-+ [PDF格式](https://github.com/it-ebooks/ebooks/raw/master/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E4%BB%A3%E7%A0%81.pdf)
++ [PDF格式](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E4%BB%A3%E7%A0%81.pdf)

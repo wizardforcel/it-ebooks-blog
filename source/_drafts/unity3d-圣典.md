@@ -20,4 +20,4 @@ tags:
 ## 下载 ##
 
 + [百度云下载](http://pan.baidu.com/s/1d3Sr6)
-+ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/Unity3D%E5%9C%A3%E5%85%B8%E4%B8%AD%E6%96%87%E8%84%9A%E6%9C%AC.chm)
++ [Github下载](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/Unity3D%E5%9C%A3%E5%85%B8%E4%B8%AD%E6%96%87%E8%84%9A%E6%9C%AC.chm)

@@ -18,4 +18,4 @@ tags:
 
 ## 下载 ##
 
-+ [Github下载](https://github.com/it-ebooks/ebooks/raw/master/Qt3%20%E4%B8%AD%E6%96%87%E5%8F%82%E8%80%83.chm)
++ [Github下载](https://cdn.jsdelivr.net/gh/it-ebooks/ebooks/Qt3%20%E4%B8%AD%E6%96%87%E5%8F%82%E8%80%83.chm)
