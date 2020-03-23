@@ -16,6 +16,8 @@ cdrive download <link>
 
 <!--more-->
 
+<!--bjdrive-->
+
 | 文档 | 链接 |
 | --- | --- |
 | Tutorialspoint .NET Core 教程.epub (3.96 MB) | bjdrive://e2934334b19f6e90e30dffcba19256b9 |
@@ -274,6 +276,8 @@ cdrive download <link>
 | Tutorialspoint 软件工程教程.epub (1.46 MB) | bjdrive://b97de2b2839bec117841f784a59c4e7a |
 | TutorialsPoint 软件测试教程.epub (327.76 KB) | bjdrive://a0954f84af2954112f80c3c6934013f6 |
 | TutorialsPoint 进程间通信教程.epub (105.83 KB) | bjdrive://722f5b6c807dd4590eda23e2606f2070 |
+
+<!--csdrive-->
 
 | 文档 | 链接 |
 | --- | --- |
@@ -534,6 +538,8 @@ cdrive download <link>
 | TutorialsPoint 软件测试教程.epub (327.76 KB) | csdrive://20200322235420933 |
 | TutorialsPoint 进程间通信教程.epub (105.83 KB) | csdrive://20200322235423239 |
 
+<!--jsdrive-->
+
 | 文档 | 链接 |
 | --- | --- |
 | Tutorialspoint .NET Core 教程.epub (3.96 MB) | jsdrive://118142-1f10b4e2ca466f69 |
@@ -793,6 +799,8 @@ cdrive download <link>
 | TutorialsPoint 软件测试教程.epub (327.76 KB) | jsdrive://118142-0bcd83417943ea62 |
 | TutorialsPoint 进程间通信教程.epub (105.83 KB) | jsdrive://118142-1c886afa97a7528f |
 
+<!--shdrive-->
+
 | 文档 | 链接 |
 | --- | --- |
 | Tutorialspoint .NET Core 教程.epub (3.96 MB) | shdrive://20200323/36546bc6d6d2492eba4c87cfb8def562 |
@@ -1051,6 +1059,8 @@ cdrive download <link>
 | Tutorialspoint 软件工程教程.epub (1.46 MB) | shdrive://20200323/1849fe4ebad34d4ca70d0f9a8d606fcf |
 | TutorialsPoint 软件测试教程.epub (327.76 KB) | shdrive://20200323/40a130806f8247c9b95db6c3b2df205a |
 | TutorialsPoint 进程间通信教程.epub (105.83 KB) | shdrive://20200323/fd582233adc74a2b94ffbdf9ab0d177b |
+
+<!--wbdrive-->
 
 | 文档 | 链接 |
 | --- | --- |
