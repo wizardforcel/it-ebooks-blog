@@ -16,6 +16,8 @@ bdex download <link>
 
 <!--more-->
 
+<script>location.href='tutorialspoint-cdndrive'</script>
+
 | 文档 | 链接 |
 | --- | --- |
 | Tutorialspoint Foundation 教程.epub (703.57 KB) | bdex://1586ed474750e255f8415902e49d0db58050302c |

@@ -18,6 +18,8 @@ bdex download <link>
 
 <!--more-->
 
+<script>location.href='igetget-cdndrive'</script>
+
 ### 第一批
 
 | 文档 | 链接 |

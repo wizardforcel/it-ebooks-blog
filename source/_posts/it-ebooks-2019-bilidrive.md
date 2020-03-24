@@ -16,6 +16,8 @@ bdex download <link>
 
 <!--more-->
 
+<script>location.href='it-ebooks-2019-cdndrive'</script>
+
 | 文档 | 链接 |
 | --- | --- |
 | 传智播客轻松搞定系列 C、C++、Linux、设计模式.7z (33.34 MB) | bdex://3e61aa15633455b6085369590be379ab74caea46 |
