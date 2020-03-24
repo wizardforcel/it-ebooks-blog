@@ -623,3 +623,44 @@ cdrive download <link>
 | 香帅的北大金融学课201804-06.pdf (12.70 MB) | wbdrive://841aea59ly1gd4o7sljlgg200s00sjr5 |
 
 ### 第三批
+
+<!--wbdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| 万维钢精英日课第三期201811-201902.pdf (13.67 MB) | wbdrive://841aea59ly1gd4ud1k0fkg200s00sjr5 |
+| 万维钢精英日课第三期201903-05.pdf (13.13 MB) | wbdrive://841aea59ly1gd4ud7iadwg200s00sjr5 |
+| 万维钢精英日课第三期201906-08.pdf (10.87 MB) | wbdrive://841aea59ly1gd4udcjheeg200p00pgld |
+| 万维钢精英日课第三期201909-12.pdf (13.12 MB) | wbdrive://841aea59ly1gd4udibxc9g200s00sjr5 |
+| 像高净值人群一样管钱.pdf (997.14 KB) | wbdrive://841aea59ly1gd4udjmpqwg200i00i3y9 |
+| 卓老板聊科技201610-12.pdf (6.16 MB) | wbdrive://841aea59ly1gd4udnaqlog200m00ma9t |
+| 卓老板聊科技201701-03.pdf (6.30 MB) | wbdrive://841aea59ly1gd4udqxh7pg200m00ma9t |
+| 卓老板聊科技201704-05.pdf (5.41 MB) | wbdrive://841aea59ly1gd4udu7pq6g200m00ma9t |
+| 吴伯凡认知方法论201804-06.pdf (7.74 MB) | wbdrive://841aea59ly1gd4udy8z7dg200m00ma9t |
+| 吴伯凡认知方法论201807-09.pdf (8.58 MB) | wbdrive://841aea59ly1gd4ue2dff3g200p00pdfl |
+| 吴伯凡认知方法论201810-12.pdf (8.67 MB) | wbdrive://841aea59ly1gd4ue6h4gwg200p00pdfl |
+| 吴伯凡认知方法论201901-04.pdf (9.64 MB) | wbdrive://841aea59ly1gd4vbsot71g200p00pdfl |
+| 如何做好孩子的情绪教养.pdf (778.16 KB) | wbdrive://841aea59ly1gd4vbu95a0g200i00i3y9 |
+| 如何培养受欢迎的孩子.pdf (704.93 KB) | wbdrive://841aea59ly1gd4vbvv1ywg200i00i3y9 |
+| 如何培养面向未来的孩子.pdf (790.51 KB) | wbdrive://841aea59ly1gd4vbxdpqxg200i00i3y9 |
+| 如何开发孩子的数学潜力.pdf (1.55 MB) | wbdrive://841aea59ly1gd4vc0eb96g200i00i3y9 |
+| 如何开发孩子的英语潜力.pdf (804.24 KB) | wbdrive://841aea59ly1gd4vc23y7hg200i00i3y9 |
+| 如何开发孩子的阅读潜力.pdf (1.31 MB) | wbdrive://841aea59ly1gd4vc4berrg200i00i3y9 |
+| 如何管好孩子的视力.pdf (590.95 KB) | wbdrive://841aea59ly1gd4vc662y5g200i00i3y9 |
+| 徐来给孩子的博物学201704-06.pdf (10.14 MB) | wbdrive://841aea59ly1gd4vccybl8g200p00pdfl |
+| 徐来给孩子的博物学201707-09.pdf (10.99 MB) | wbdrive://841aea59ly1gd4vcljdx8g200p00pdfl |
+| 徐来给孩子的博物学201710-12.pdf (9.94 MB) | wbdrive://841aea59ly1gd4vcsa9fyg200p00pdfl |
+| 徐来给孩子的博物学201801-04.pdf (11.81 MB) | wbdrive://841aea59ly1gd4vd0ydczg200p00pdfl |
+| 怎样快速搞懂一家公司.pdf (971.94 KB) | wbdrive://841aea59ly1gd4vd2mor3g200i00i3y9 |
+| 怎样成为带团队的高手.pdf (739.62 KB) | wbdrive://841aea59ly1gd4vd48qvkg200i00i3y9 |
+| 老浦识字201702-05.pdf (7.07 MB) | wbdrive://841aea59ly1gd4vd9eah0g200l00l741 |
+| 老浦识字201706-08.pdf (5.46 MB) | wbdrive://841aea59ly1gd4vdds2z7g200l00l741 |
+| 老浦识字201709-11.pdf (5.49 MB) | wbdrive://841aea59ly1gd4vdhvf0cg200l00l741 |
+| 老浦识字201712-201802.pdf (4.31 MB) | wbdrive://841aea59ly1gd4vdlj2x2g200m00ma9t |
+| 贾行家说武侠30讲.pdf (6.07 MB) | wbdrive://841aea59ly1gd4vdpq2kng200l00l741 |
+| 马徐俊新知报告201805-07.pdf (8.44 MB) | wbdrive://841aea59ly1gd4vdvbpmsg200p00pdfl |
+| 马徐俊新知报告201808-10.pdf (11.53 MB) | wbdrive://841aea59ly1gd4ve2m589g200p00pdfl |
+| 马徐俊新知报告201811-201901.pdf (11.24 MB) | wbdrive://841aea59ly1gd4ve99h12g200p00pdfl |
+| 马徐俊新知报告201902-05.pdf (14.43 MB) | wbdrive://841aea59ly1gd4veip5g7g200s00sjr5 |
+| 马徐骏世界名刊速读201804-07.pdf (11.25 MB) | wbdrive://841aea59ly1gd4vept34jg200p00pdfl |
+| 马徐骏世界名刊速读201808-11.pdf (15.21 MB) | wbdrive://841aea59ly1gd4vezvsxfg200s00sjr5 |
