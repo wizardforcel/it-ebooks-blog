@@ -13,9 +13,11 @@ pip install BiliDriveEx
 bdex download <link>
 ```
 
+## 链接
+
 <!--more-->
 
-## 链接
+<script>location.href='../lightnovel-2009-2013-cdndrive/'</script>
 
 | 小说 | 链接 |
 | --- | --- |
