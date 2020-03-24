@@ -16,7 +16,7 @@ bdex download <link>
 
 <!--more-->
 
-<script>location.href='zsxq-cdndrive'</script>
+<script>location.href='../zsxq-cdndrive/'</script>
 
 ### 第一批
 

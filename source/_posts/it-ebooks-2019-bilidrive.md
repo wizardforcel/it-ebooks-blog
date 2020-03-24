@@ -16,7 +16,7 @@ bdex download <link>
 
 <!--more-->
 
-<script>location.href='it-ebooks-2019-cdndrive'</script>
+<script>location.href='../it-ebooks-2019-cdndrive/'</script>
 
 | 文档 | 链接 |
 | --- | --- |

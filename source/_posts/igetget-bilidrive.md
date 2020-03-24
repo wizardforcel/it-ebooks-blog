@@ -18,7 +18,7 @@ bdex download <link>
 
 <!--more-->
 
-<script>location.href='igetget-cdndrive'</script>
+<script>location.href='../igetget-cdndrive/'</script>
 
 ### 第一批
 

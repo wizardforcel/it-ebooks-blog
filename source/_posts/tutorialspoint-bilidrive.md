@@ -16,7 +16,7 @@ bdex download <link>
 
 <!--more-->
 
-<script>location.href='tutorialspoint-cdndrive'</script>
+<script>location.href='../tutorialspoint-cdndrive/'</script>
 
 | 文档 | 链接 |
 | --- | --- |
