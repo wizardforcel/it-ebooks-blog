@@ -1291,3 +1291,258 @@ cdrive download <link>
 | 黑之夜刀神 - 手岛史词 - 20180917.epub (333.12 KB) | shdrive://20200325/b8165c1d9ea74b01af8a6f58297dfeb7 |
 | 黑崎麻由眼中的美丽世界 - 久远侑 - 20181106.epub (342.24 KB) | shdrive://20200325/b6928738e1b04edda37f8ac377e36fa5 |
 | 黑暗骑士不可脱 (不要脱人家的暗黑骑士啦) - 木村心一 - 20180527.epub (611.53 KB) | shdrive://20200325/27fa581a35f140f59fa9bbfb88ebd53c |
+
+<!--wbdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| 6天6人6把枪 CROCRO-CLOCK - 入间人间 - 20181012.epub (463.78 KB) | wbdrive://841aea59ly1gd5yr6mwq3g200i00i3y9 |
+| AI恋爱模拟游戏 - 土桥真二郎 - 20180802.epub (159.33 KB) | wbdrive://841aea59ly1gd5yr7rngtg200i00i3y9 |
+| AX杀手系列作 - 伊坂幸太郎 - 20180331.epub (201.60 KB) | wbdrive://841aea59ly1gd5yr8ybtyg200i00i3y9 |
+| BACCANO！大骚动(永生之酒) - 成田良悟 - 20180914.epub (2.65 MB) | wbdrive://841aea59ly1gd5yrbre4pg200j00j3y9 |
+| Chaos；Child Children＇s revive - 梅原英司 - 20180315.epub (176.47 KB) | wbdrive://841aea59ly1gd5yrcw4f4g200j00j3y9 |
+| Cheers!爱的鼓励 - 赤松中学 - 20180829.epub (218.15 KB) | wbdrive://841aea59ly1gd5yre43cpg200i00i3y9 |
+| Eirun Last Code~自架空世界至战场~ - 东龙乃助 - 20180401.epub (1.24 MB) | wbdrive://841aea59ly1gd5yrfvnq9g200j00j3y9 |
+| fate apocrypha - 东出佑一郎 - 20180830.epub (1.29 MB) | wbdrive://841aea59ly1gd5yrhjof6g200i00i3y9 |
+| GAMERS电玩咖！ - 葵关南 - 20181030.epub (1.83 MB) | wbdrive://841aea59ly1gd5yrj8i8ug200i00i3y9 |
+| Legend 魔兽师传说 - 神无月红 - 20180108.epub (998.50 KB) | wbdrive://841aea59ly1gd5yrl1kkgg200i00i3y9 |
+| LOVELIVE！School idol diary(校园偶像日记 μ’s活动日志) - 公野樱子 - 20180801.epub (610.60 KB) | wbdrive://841aea59ly1gd5yrn8cozg200k00k741 |
+| Moment - 本多孝好 - 20180623.epub (164.32 KB) | wbdrive://841aea59ly1gd5yroewjhg200i00i3y9 |
+| OBSTACLE Series 激战的魔女之夜 - 川上稔 - 20180628.epub (803.13 KB) | wbdrive://841aea59ly1gd5yrqcur4g200j00j3y9 |
+| Only Sense Online绝对神境 - アロハ座长 - 20180505.epub (2.15 MB) | wbdrive://841aea59ly1gd5yrsu7zcg200j00j3y9 |
+| Qualidea Code 心灵代码 - 渡航 - 20181106.epub (276.95 KB) | wbdrive://841aea59ly1gd5yru14x8g200i00i3y9 |
+| Realia大地女神传说 - 雪乃纱衣 - 20180320.epub (286.81 KB) | wbdrive://841aea59ly1gd5yrv832vg200i00i3y9 |
+| Re：Stage！ - team yoree. - 20180702.epub (185.25 KB) | wbdrive://841aea59ly1gd5yrw9hxag200i00i3y9 |
+| RISING RYDEEN异能对决 - 初美阳一 - 20180801.epub (1.35 MB) | wbdrive://841aea59ly1gd5yrxxy9lg200i00i3y9 |
+| SAO刀剑神域外传 Clover’s regret - 渡濑草一郎 - 20180830.epub (211.71 KB) | wbdrive://841aea59ly1gd5yrz1cvpg200j00j3y9 |
+| SAO刀剑神域外传 Gun Gale Online - 时雨泽惠一 - 20180827.epub (1.35 MB) | wbdrive://841aea59ly1gd5ys0ivmdg200j00j3y9 |
+| SE-X神秘档案 - 五十岚雄策 - 20180304.epub (160.09 KB) | wbdrive://841aea59ly1gd5ys1pbjlg200i00i3y9 |
+| silentworld - ごぉ - 20180806.epub (182.59 KB) | wbdrive://841aea59ly1gd5ys2zb5gg200i00i3y9 |
+| Wizard＇s brain - 三枝零一 - 20180227.epub (1.24 MB) | wbdrive://841aea59ly1gd5ys4pqa4g200i00i3y9 |
+| ※疼爱妹妹是编辑的第一要务。 - 弥生志郎 - 20181028.epub (196.92 KB) | wbdrive://841aea59ly1gd5ys5nd40g200j00j3y9 |
+| 一击绝顶除灵 - 赤城大空 - 20181030.epub (349.04 KB) | wbdrive://841aea59ly1gd5ys6qcctg200i00i3y9 |
+| 三国破谭 - 波口まにま - 20180407.epub (175.63 KB) | wbdrive://841aea59ly1gd5ys7ukwsg200i00i3y9 |
+| 三坪房间的侵略者！？ - 健速 - 20180403.epub (3.56 MB) | wbdrive://841aea59ly1gd5ysae5l3g200i00i3y9 |
+| 不付房租的魔王 - 伊藤ヒロ - 20180904.epub (723.46 KB) | wbdrive://841aea59ly1gd5ysbpkkwg200i00i3y9 |
+| 不分昼夜，恶女相伴(日夜相伴，恶女在身边) - 鸟村居子 - 20180521.epub (437.20 KB) | wbdrive://841aea59ly1gd5yscud1dg200j00j3y9 |
+| 不可以玩这种游戏！ - 岩波零 - 20180330.epub (546.89 KB) | wbdrive://841aea59ly1gd5yse29p4g200i00i3y9 |
+| 不可恋爱游戏、被甩了仍旧倾心于你 - 七乌未奏 - 20180710.epub (119.61 KB) | wbdrive://841aea59ly1gd5ysf55lhg200j00j3y9 |
+| 不法辩护人 - 师走透 - 20180124.epub (515.53 KB) | wbdrive://841aea59ly1gd5ysgca72g200i00i3y9 |
+| 不要叫我哥哥好不好！ - 桐山成人 - 20180426.epub (296.78 KB) | wbdrive://841aea59ly1gd5yshlvzeg200j00j3y9 |
+| 不起眼女主角培育法(路人女主的养成方法) - 丸户史明 - 20181123.epub (2.30 MB) | wbdrive://841aea59ly1gd5ysjdxp1g200j00j3y9 |
+| 不需要现代魔法的魔术师 和女仆一同开创第二次传说 - 三河ごーすと - 20180313.epub (176.56 KB) | wbdrive://841aea59ly1gd5yskfuzag200k00k741 |
+| 与佐伯同学同住一个屋檐下 I＇ll have Sherbet！ - 九曜 - 20181229.epub (470.01 KB) | wbdrive://841aea59ly1gd5yslkju3g200j00j3y9 |
+| 与你相伴直至腐朽未来 - 坊木椎哉 - 20181225.epub (192.44 KB) | wbdrive://841aea59ly1gd5ysmnf6hg200j00j3y9 |
+| 与你相约在未来的七月雪 - 五十岚雄策 - 20180908.epub (101.32 KB) | wbdrive://841aea59ly1gd5ysnoyjqg200j00j3y9 |
+| 与折原临也一起系列 - 成田良悟 - 20180914.epub (259.84 KB) | wbdrive://841aea59ly1gd5ysorswcg200i00i3y9 |
+| 世界之敌 - 细音启 - 20180926.epub (316.34 KB) | wbdrive://841aea59ly1gd5yspww9og200i00i3y9 |
+| 世界什么的怎样都好─Qualidea Code─ - 渡航 - 20181106.epub (290.67 KB) | wbdrive://841aea59ly1gd5ysqzkcmg200j00j3y9 |
+| 世界尽头的圣骑士 - 柳野かなた - 20180902.epub (926.56 KB) | wbdrive://841aea59ly1gd5yssdukxg200i00i3y9 |
+| 世界末日的世界录 - 细音启 - 20180201.epub (1.60 MB) | wbdrive://841aea59ly1gd5ysu6v63g200i00i3y9 |
+| 东京暗鸦(东京乌鸦) - 字野耕平 - 20180803.epub (2.66 MB) | wbdrive://841aea59ly1gd5ysw3bovg200i00i3y9 |
+| 为了扭转没落命运，迈向锻冶工匠之路 - CK - 20180725.epub (364.09 KB) | wbdrive://841aea59ly1gd5ysx8flyg200j00j3y9 |
+| 为了拯救世界的那一天─Qualidea Code─(为了终有一天能拯救世界) - 橘公司 - 20181106.epub (321.87 KB) | wbdrive://841aea59ly1gd5ysz7t97g200k00k741 |
+| 为这个世界献上i - 佐野彻夜 - 20181029.epub (123.03 KB) | wbdrive://841aea59ly1gd5yt0ausyg200i00i3y9 |
+| 书店的金狼 - 杉井光 - 20180915.epub (160.45 KB) | wbdrive://841aea59ly1gd5yt1bsadg200i00i3y9 |
+| 二重身恋人 - 唐边叶介 - 20181225.epub (180.85 KB) | wbdrive://841aea59ly1gd5yt2g0v1g200i00i3y9 |
+| 交叉连结 - 久追遥希 - 20181206.epub (196.51 KB) | wbdrive://841aea59ly1gd5yt3q65eg200i00i3y9 |
+| 今天开始靠萝莉吃软饭！(从今天起我就是萝莉的小白脸！) - 晓雪 - 20181105.epub (574.98 KB) | wbdrive://841aea59ly1gd5yt4yt9fg200k00k741 |
+| 从末日开始的世界延命法 - 秋月煌介 - 20180926.epub (363.07 KB) | wbdrive://841aea59ly1gd5yt6bwy5g200j00j3y9 |
+| 从零开始的魔法书(零之魔法书) - 虎走かける - 20181027.epub (1.48 MB) | wbdrive://841aea59ly1gd5yt7vhmjg200j00j3y9 |
+| 伪恋 幕后花絮 - 田中创 - 20180312.epub (233.85 KB) | wbdrive://841aea59ly1gd5yt8xsdhg200i00i3y9 |
+| 你好哇，暗杀者 - 大泽めぐみ - 20180531.epub (157.66 KB) | wbdrive://841aea59ly1gd5yta4e10g200i00i3y9 |
+| 便利店人间 - 村田沙耶香 - 20180520.epub (95.69 KB) | wbdrive://841aea59ly1gd5ytb7m7tg200i00i3y9 |
+| 公主心 - 高殿円 - 20180128.epub (1.89 MB) | wbdrive://841aea59ly1gd5ytcwtcug200i00i3y9 |
+| 公爵千金是62岁骑士团长的嫩妻(公爵千金是骑士团长(62)的幼妻) - 笕千里 - 20180717.epub (417.74 KB) | wbdrive://841aea59ly1gd5yte2c67g200k00k741 |
+| 关于人类是最强种族这件事 - 柑橘ゆすら - 20180811.epub (393.63 KB) | wbdrive://841aea59ly1gd5ytfahujg200j00j3y9 |
+| 凶手就是你？ - 黑沼升 - 20180117.epub (153.83 KB) | wbdrive://841aea59ly1gd5ytgebdtg200i00i3y9 |
+| 初恋 伤停补时 - 仁科裕贵 - 20180411.epub (116.02 KB) | wbdrive://841aea59ly1gd5ytho9fyg200i00i3y9 |
+| 剑神的继承者(剑神之继承者) - 镜游 - 20180706.epub (1.91 MB) | wbdrive://841aea59ly1gd5ytjcfz1g200j00j3y9 |
+| 勇者无犬子 - 和原聪司 - 20181223.epub (373.85 KB) | wbdrive://841aea59ly1gd5ytki2qig200i00i3y9 |
+| 北野坂侦探舍 - 河野裕 - 20180329.epub (162.66 KB) | wbdrive://841aea59ly1gd5ytlliieg200i00i3y9 |
+| 十二星座的魔女 ZODIAC WITCHES - 朱门优 - 20180509.epub (307.57 KB) | wbdrive://841aea59ly1gd5ytmtx17g200j00j3y9 |
+| 千年战争aigis 白之帝国篇 - 村崎幸也 - 20180915.epub (113.58 KB) | wbdrive://841aea59ly1gd5ytnwxr1g200j00j3y9 |
+| 午睡公主～不为人知的故事～ - 神山健治 - 20180606.epub (99.97 KB) | wbdrive://841aea59ly1gd5ytp65iag200j00j3y9 |
+| 博多豚骨拉面 - 木崎千秋 - 20180322.epub (381.39 KB) | wbdrive://841aea59ly1gd5ytqflbig200i00i3y9 |
+| 原来我家是魔力点~只是住在那里就变成世界最强~ - あまうい白一 - 20181003.epub (236.50 KB) | wbdrive://841aea59ly1gd5ytrvgf9g200k00k741 |
+| 反恋主义同盟！ - 椎田十三 - 20180415.epub (1023.79 KB) | wbdrive://841aea59ly1gd5ytt7mizg200i00i3y9 |
+| 口是心非的冰室同学 从好感度100％开始的毒舌女子追求法 - 広ノ祥人 - 20181202.epub (174.58 KB) | wbdrive://841aea59ly1gd5ytu93zhg200k00k741 |
+| 古书堂事件手帖(彼布利亚古书堂事件记事簿) - 三上延 - 20180805.epub (1020.31 KB) | wbdrive://841aea59ly1gd5ytvmfkhg200j00j3y9 |
+| 古典部系列(冰果) - 米泽穗信 - 20180909.epub (1.06 MB) | wbdrive://841aea59ly1gd5ytwz3slg200i00i3y9 |
+| 另一份生命 - 入间人间 - 20180901.epub (302.47 KB) | wbdrive://841aea59ly1gd5yty1o98g200i00i3y9 |
+| 只有我进入的隐藏地下城～悄悄锻炼成为世界最强～ - 濑户メグル - 20181215.epub (225.71 KB) | wbdrive://841aea59ly1gd5ytz31vwg200k00k741 |
+| 可以读档的旅店～听说能力值满点的转生冒险者在旅店开始培育新人～ - 稻荷龙 - 20180208.epub (145.57 KB) | wbdrive://841aea59ly1gd5yu05t6jg200k00k741 |
+| 听见未知的记忆 - 石井飒良 - 20181211.epub (162.20 KB) | wbdrive://841aea59ly1gd5yu180jjg200i00i3y9 |
+| 吹响吧！上低音号 欢迎来到立华高校舞奏队 - 武田绫乃 - 20180217.epub (315.48 KB) | wbdrive://841aea59ly1gd5yu2h9apg200j00j3y9 |
+| 告白预演系列 - 藤谷灯子 - 20180202.epub (716.66 KB) | wbdrive://841aea59ly1gd5yu3r7lxg200i00i3y9 |
+| 四季之后4 cours after - 水泽梦 - 20180623.epub (370.58 KB) | wbdrive://841aea59ly1gd5yu4s4crg200i00i3y9 |
+| 四月是你的谎言 六人的练习曲 - 时海结以 - 20180511.epub (113.07 KB) | wbdrive://841aea59ly1gd5yu5sa2mg200j00j3y9 |
+| 圣剑使的禁咒咏唱 - 淡群赤光 - 20180710.epub (1.79 MB) | wbdrive://841aea59ly1gd5yu7f2xjg200i00i3y9 |
+| 圣树之国的禁咒使 - 筱崎芳 - 20181030.epub (1.71 MB) | wbdrive://841aea59ly1gd5yu90qqyg200i00i3y9 |
+| 圣者无双～上班族、在异世界的存活之道 - ブロッコリーライオン - 20180729.epub (432.54 KB) | wbdrive://841aea59ly1gd5yua48bcg200k00k741 |
+| 在世界终焉的花园 - 入间人间 - 20181205.epub (175.48 KB) | wbdrive://841aea59ly1gd5yub7nsdg200i00i3y9 |
+| 在大国开外挂，轻松征服异世界！ - 棹末高彰 - 20181112.epub (173.33 KB) | wbdrive://841aea59ly1gd5yucd0v5g200j00j3y9 |
+| 堕落邪恶组织，拥抱美少女大胜利!(坠入邪道后左拥右抱成了赢家!!) - 冈泽六十四 - 20180126.epub (921.29 KB) | wbdrive://841aea59ly1gd5yudp2r7g200k00k741 |
+| 境域的伟大秘法(境域的Ars Magna) - 绘户太郎 - 20181025.epub (675.13 KB) | wbdrive://841aea59ly1gd5yufdko8g200j00j3y9 |
+| 境界迷宫与异界魔术师 - 小野崎えいじ - 20180502.epub (569.12 KB) | wbdrive://841aea59ly1gd5yugo66mg200j00j3y9 |
+| 壁橱中的地下城创造 - からて - 20180217.epub (159.37 KB) | wbdrive://841aea59ly1gd5yuhorzbg200i00i3y9 |
+| 大正空想魔法夜话 坠落少女异种灭绝 - 岬鹭宫 - 20181110.epub (141.40 KB) | wbdrive://841aea59ly1gd5yuiqnd8g200j00j3y9 |
+| 天使的3P！ - 苍山サグ - 20181108.epub (1.24 MB) | wbdrive://841aea59ly1gd5yuke47bg200i00i3y9 |
+| 天空之上的永恒约定 - こがらし轮音 - 20181205.epub (153.55 KB) | wbdrive://841aea59ly1gd5yulhhwvg200j00j3y9 |
+| 奇诺之旅 - 时雨泽惠一 - 20181012.epub (2.14 MB) | wbdrive://841aea59ly1gd5yun9c0fg200i00i3y9 |
+| 女孩不会对完美恋爱怦然心动的三个理由 - 土桥真二郎 - 20180123.epub (169.56 KB) | wbdrive://841aea59ly1gd5yuoagb1g200j00j3y9 |
+| 女装皇家教师(女装家教) - 野村美月 - 20180331.epub (1.18 MB) | wbdrive://841aea59ly1gd5yupoczjg200j00j3y9 |
+| 她与我的末日旅行 - ツカサ - 20180629.epub (216.16 KB) | wbdrive://841aea59ly1gd5yurolm1g200i00i3y9 |
+| 她是否一人独行？Does She Walk Alone？ - 森博嗣 - 20180123.epub (175.84 KB) | wbdrive://841aea59ly1gd5yusx4tsg200j00j3y9 |
+| 如果折断她的旗(如果她的旗帜被折断了) - 竹井10日 - 20180108.epub (2.33 MB) | wbdrive://841aea59ly1gd5yuut3izg200j00j3y9 |
+| 妖怪公主渴望爱 - 岸根红华 - 20180802.epub (313.10 KB) | wbdrive://841aea59ly1gd5yuvwhoxg200i00i3y9 |
+| 妹妹人生(妹与日) - 入间人间 - 20180205.epub (299.87 KB) | wbdrive://841aea59ly1gd5yuxqad7g200i00i3y9 |
+| 学年第一的千金大小姐在1年内成绩大幅下滑变成辣妹 - 朝野始 - 20180301.epub (329.64 KB) | wbdrive://841aea59ly1gd5yuyrzqdg200k00k741 |
+| 学战都市Asterisk(学战都市六芒星) - 三屋咲悠 - 20181001.epub (1.69 MB) | wbdrive://841aea59ly1gd5yv0ji0ng200j00j3y9 |
+| 宠溺任性可爱又病弱的她的方法 - 竹原汉字 - 20181008.epub (159.59 KB) | wbdrive://841aea59ly1gd5yv1ipg5g200j00j3y9 |
+| 对魔导学园35试验小队 - 柳实冬贵 - 20180925.epub (2.75 MB) | wbdrive://841aea59ly1gd5yv3mpcug200j00j3y9 |
+| 封神演戏 - 森田季节 - 20180223.epub (536.57 KB) | wbdrive://841aea59ly1gd5yv4xltjg200i00i3y9 |
+| 就算只是虚情假御也没关系 - 渡边恒彦 - 20180205.epub (315.95 KB) | wbdrive://841aea59ly1gd5yv631bbg200j00j3y9 |
+| 尼尔：自动人形 长话 - 映岛巡 - 20181003.epub (176.80 KB) | wbdrive://841aea59ly1gd5yv748yqg200i00i3y9 |
+| 希望庄 - 宫部美雪 - 20180801.epub (287.08 KB) | wbdrive://841aea59ly1gd5yv8qgyng200i00i3y9 |
+| 幸会，食人鬼。 - 大泽めぐみ - 20181207.epub (165.87 KB) | wbdrive://841aea59ly1gd5yv9qrrwg200i00i3y9 |
+| 幸存炼金术师想在城里静静生活 - のの原兔太 - 20181106.epub (248.55 KB) | wbdrive://841aea59ly1gd5yvb2bnag200j00j3y9 |
+| 幼女大人和零级守护者大人 - すかぢ - 20180718.epub (320.18 KB) | wbdrive://841aea59ly1gd5yvc80ulg200j00j3y9 |
+| 底层剑士与神兽〈女儿〉的日常生活 - 番棚葵 - 20180823.epub (354.18 KB) | wbdrive://841aea59ly1gd5yvdd7n1g200j00j3y9 |
+| 废柴勇者下克上 - 藤川恵蔵 - 20181206.epub (129.42 KB) | wbdrive://841aea59ly1gd5yvehuifg200i00i3y9 |
+| 异世界悠闲农家 - 内藤骑之介 - 20180708.epub (225.43 KB) | wbdrive://841aea59ly1gd5yvfkwjfg200i00i3y9 |
+| 异世界药局 - 高山理図 - 20180424.epub (472.70 KB) | wbdrive://841aea59ly1gd5yvgrzcag200i00i3y9 |
+| 异世界超商繁盛记 - 新木伸 - 20180501.epub (268.07 KB) | wbdrive://841aea59ly1gd5yvhxcigg200i00i3y9 |
+| 异世界食堂 - 犬冢惇平 - 20180601.epub (607.73 KB) | wbdrive://841aea59ly1gd5yvj9siig200i00i3y9 |
+| 异界转生强夺战(掠夺者 被掠夺者) - mino - 20180707.epub (931.91 KB) | wbdrive://841aea59ly1gd5yvkteslg200j00j3y9 |
+| 弗雷姆王国兴亡记 - 疏陀阳 - 20180219.epub (1.23 MB) | wbdrive://841aea59ly1gd5yvmc1bfg200i00i3y9 |
+| 弹丸论破 雾切 - 北山猛邦 - 20180425.epub (872.45 KB) | wbdrive://841aea59ly1gd5yvnobipg200i00i3y9 |
+| 弹丸论破十神 - 佐藤友哉 - 20180513.epub (452.12 KB) | wbdrive://841aea59ly1gd5yvovkrpg200i00i3y9 |
+| 归宅战争 - 鬼火あられ - 20180514.epub (166.27 KB) | wbdrive://841aea59ly1gd5yvq35ihg200i00i3y9 |
+| 当时的某人 - 东野圭吾 - 20180909.epub (160.55 KB) | wbdrive://841aea59ly1gd5yvr4s1lg200i00i3y9 |
+| 当蠢蛋FPS玩家误闯异世界之时 - 地雷原 - 20180923.epub (586.89 KB) | wbdrive://841aea59ly1gd5yvsw665g200j00j3y9 |
+| 心灵侦探八云 - 神永学 - 20180108.epub (1.64 MB) | wbdrive://841aea59ly1gd5yvuj0lig200i00i3y9 |
+| 忍者与龙究竟谁比较强 - 伊达康 - 20180204.epub (494.63 KB) | wbdrive://841aea59ly1gd5yvvq1uog200i00i3y9 |
+| 恋爱必胜女神！ - まほろ勇太 - 20181211.epub (186.01 KB) | wbdrive://841aea59ly1gd5yvwrsq7g200i00i3y9 |
+| 恋爱至上都市的双骑士 - 筱宫夕 - 20181201.epub (177.06 KB) | wbdrive://841aea59ly1gd5yvxxmi6g200i00i3y9 |
+| 悲鸣传(传说系列) - 西尾维新 - 20180427.epub (2.03 MB) | wbdrive://841aea59ly1gd5yw3afh9g200i00i3y9 |
+| 成为吸血鬼的你开始一段永恒的爱(化身吸血鬼的你开始永远的爱恋) - 野村美月 - 20181031.epub (932.19 KB) | wbdrive://841aea59ly1gd5yw4r7svg200k00k741 |
+| 成为魔导书作家吧！ - 岬鹭宫 - 20180123.epub (398.69 KB) | wbdrive://841aea59ly1gd5yw60tpug200i00i3y9 |
+| 我与她的游戏战争(我与她的战争游戏) - 师走透 - 20180510.epub (1014.21 KB) | wbdrive://841aea59ly1gd5yw8uwbgg200j00j3y9 |
+| 我与她的漫画萌战记(我和她的漫画萌战记) - 村上凛 - 20180508.epub (792.79 KB) | wbdrive://841aea59ly1gd5ywaaoysg200j00j3y9 |
+| 我在周末与龙冒险 - 星见圭 - 20180314.epub (340.88 KB) | wbdrive://841aea59ly1gd5ywblbr1g200i00i3y9 |
+| 我想吃掉你的胰脏(我想吃了，你的胰脏) - 住野夜 - 20181205.epub (192.63 KB) | wbdrive://841aea59ly1gd5ywclpkbg200j00j3y9 |
+| 我的妹妹哪有这么可爱(我的妹妹不可能那么可爱) - 伏见司 - 20180613.epub (2.16 MB) | wbdrive://841aea59ly1gd5yweida3g200j00j3y9 |
+| 我的小规模自杀 - 入间人间 - 20180628.epub (157.86 KB) | wbdrive://841aea59ly1gd5ywfl92fg200i00i3y9 |
+| 我的快转恋爱喜剧 - 樫本燕 - 20181207.epub (159.46 KB) | wbdrive://841aea59ly1gd5ywgnb5dg200i00i3y9 |
+| 我要成为双马尾 - 水泽梦 - 20181209.epub (2.96 MB) | wbdrive://841aea59ly1gd5ywirclpg200i00i3y9 |
+| 把洗发精放在喜欢与讨厌之间 - 濑那和章 - 20181203.epub (128.41 KB) | wbdrive://841aea59ly1gd5ywjus0qg200j00j3y9 |
+| 拔刀狂想曲 - 宫泽周 - 20180211.epub (366.81 KB) | wbdrive://841aea59ly1gd5ywl7c5ng200i00i3y9 |
+| 拜托，再给我五分钟！ - 境京亮 - 20180228.epub (519.32 KB) | wbdrive://841aea59ly1gd5ywmgfvzg200i00i3y9 |
+| 新妹魔王的契约者 - 上栖缀人 - 20181115.epub (2.00 MB) | wbdrive://841aea59ly1gd5ywof5jrg200i00i3y9 |
+| 无头骑士异闻录DuRaRaRa!! - 成田良悟 - 20180920.epub (2.60 MB) | wbdrive://841aea59ly1gd5ywqgpd5g200j00j3y9 |
+| 无属性魔法的救世主 - 武藤健太 - 20180111.epub (223.35 KB) | wbdrive://841aea59ly1gd5ywrianeg200i00i3y9 |
+| 无法成为神明的少女 - 入间人间 - 20181004.epub (171.88 KB) | wbdrive://841aea59ly1gd5ywsl6aeg200i00i3y9 |
+| 无罪之红 - 渡井亘 - 20180707.epub (267.51 KB) | wbdrive://841aea59ly1gd5ywtme8lg200i00i3y9 |
+| 日常生活中的异能战斗(日常系的异能战斗) - 望公太 - 20180629.epub (1.73 MB) | wbdrive://841aea59ly1gd5ywvqfptg200j00j3y9 |
+| 早安，愚者。晚安，我的世界 - 松村凉哉 - 20180417.epub (168.15 KB) | wbdrive://841aea59ly1gd5ywx9xv2g200j00j3y9 |
+| 明天，我要和昨天的你约会 - 七月隆文 - 20180808.epub (113.80 KB) | wbdrive://841aea59ly1gd5ywyhmmqg200j00j3y9 |
+| 曾几何时的天空、你与我的魔法 - 藤宫カズキ - 20180404.epub (149.86 KB) | wbdrive://841aea59ly1gd5ywzjch8g200j00j3y9 |
+| 最新的游戏太酷炫了吧 - 浮世草子 - 20180806.epub (1.04 MB) | wbdrive://841aea59ly1gd5yx19biug200j00j3y9 |
+| 月界金融末世录 - 支仓冻砂 - 20181107.epub (1.48 MB) | wbdrive://841aea59ly1gd5yx2tzfmg200i00i3y9 |
+| 月神与兔女的绯色记事 - 徒野けんしん - 20180730.epub (164.96 KB) | wbdrive://841aea59ly1gd5yx3ujv9g200j00j3y9 |
+| 未来的未来 - 细田守 - 20180727.epub (107.46 KB) | wbdrive://841aea59ly1gd5yx4w26xg200i00i3y9 |
+| 末日时在做什么？有没有空？可以来拯救吗？ - 枯野瑛 - 20181119.epub (919.22 KB) | wbdrive://841aea59ly1gd5yx6fllfg200j00j3y9 |
+| 机动战士高达W 冰结的泪滴(Frozen Teardrop) - 隅泽克之 - 20180417.epub (1.00 MB) | wbdrive://841aea59ly1gd5yx7vkogg200j00j3y9 |
+| 机动防卫者Dowl Masters - 佐岛勤 - 20181012.epub (666.93 KB) | wbdrive://841aea59ly1gd5yx9ggx9g200i00i3y9 |
+| 机器人笔记：濑乃宫美纱希的未发表手记 - 海法纪光 - 20180309.epub (133.47 KB) | wbdrive://841aea59ly1gd5yxafxmeg200j00j3y9 |
+| 机巧少女不会受伤 - 海冬零儿 - 20180509.epub (2.55 MB) | wbdrive://841aea59ly1gd5yxcdm2lg200i00i3y9 |
+| 来到异世界迷宫都市的我成了治愈魔法师 - 幼驯じみ - 20180710.epub (629.92 KB) | wbdrive://841aea59ly1gd5yxdk4y3g200j00j3y9 |
+| 某一天，炸弹从天而降 - 古桥秀之 - 20180629.epub (153.28 KB) | wbdrive://841aea59ly1gd5yxemgpag200j00j3y9 |
+| 横滨地下城 - 瀬尾つかさ - 20181119.epub (156.88 KB) | wbdrive://841aea59ly1gd5yxftqieg200i00i3y9 |
+| 武士狂躯 樱花杀阵 - 九冈望 - 20180403.epub (202.35 KB) | wbdrive://841aea59ly1gd5yxh558vg200i00i3y9 |
+| 武艺精研百余年 转世成精灵重拾武者修行 - 赤石赫々 - 20181007.epub (1.63 MB) | wbdrive://841aea59ly1gd5yxj4u2ug200j00j3y9 |
+| 残缺都市的机械月姬 - 永菜叶一 - 20180417.epub (135.00 KB) | wbdrive://841aea59ly1gd5yxkctaxg200i00i3y9 |
+| 比方说，这是个出身魔王关附近的少年在新手村生活的故事 - サトウとシオ - 20181216.epub (382.14 KB) | wbdrive://841aea59ly1gd5yxlkjsag200k00k741 |
+| 汤之国的公主 - 樋口直哉 - 20180422.epub (230.46 KB) | wbdrive://841aea59ly1gd5yxms4ujg200i00i3y9 |
+| 没有英雄的世界要靠最终头目们 - 柳实冬贵 - 20180510.epub (359.02 KB) | wbdrive://841aea59ly1gd5yxor3mhg200j00j3y9 |
+| 没路用的魔兽炼磨师 - 见波タクミ - 20180511.epub (562.93 KB) | wbdrive://841aea59ly1gd5yxq0p4og200j00j3y9 |
+| 涡森今日子对宇宙不抱有期待 - 最果タヒ - 20180519.epub (176.56 KB) | wbdrive://841aea59ly1gd5yxr0wing200j00j3y9 |
+| 渣熊出没！蜜糖女孩请注意！ - 乌川さいか - 20180808.epub (278.62 KB) | wbdrive://841aea59ly1gd5yxsovv9g200j00j3y9 |
+| 游戏人生No game No life - 榎宫佑 - 20180910.epub (2.14 MB) | wbdrive://841aea59ly1gd5yxuja8ug200i00i3y9 |
+| 满愿 - 米泽穗信 - 20180529.epub (225.26 KB) | wbdrive://841aea59ly1gd5yxvjqlig200i00i3y9 |
+| 灾厄战线的至高强者 - 日暮晶 - 20180928.epub (159.59 KB) | wbdrive://841aea59ly1gd5yxwqixig200i00i3y9 |
+| 爱上卡夫卡女孩 - 森晶麿 - 20181105.epub (165.77 KB) | wbdrive://841aea59ly1gd5yxxr26lg200i00i3y9 |
+| 爱原葻的秘密烦恼 如何战胜能暂停时间的超能力者？ - 雪瀬ひうろ - 20181026.epub (159.12 KB) | wbdrive://841aea59ly1gd5yxys5cyg200k00k741 |
+| 狼与羊皮纸：狼与辛香料新说 - 支仓冻砂 - 20180122.epub (557.05 KB) | wbdrive://841aea59ly1gd5yy0gbmgg200j00j3y9 |
+| 玉高社交舞社欢迎您 - 三萩せんや - 20180309.epub (161.91 KB) | wbdrive://841aea59ly1gd5yy1h67og200j00j3y9 |
+| 现实主义勇者的王国重建记 - どぜう丸 - 20180804.epub (243.36 KB) | wbdrive://841aea59ly1gd5yy2htj4g200j00j3y9 |
+| 瓦尔哈拉的晚餐(瓦尔哈拉的晚饭) - 三镜一敏 - 20181102.epub (924.15 KB) | wbdrive://841aea59ly1gd5yy3rsv4g200j00j3y9 |
+| 电气马戏团 - 唐边叶介 - 20180910.epub (423.20 KB) | wbdrive://841aea59ly1gd5yy4vteyg200i00i3y9 |
+| 电波女与青春男 - 入间人间 - 20180916.epub (1.49 MB) | wbdrive://841aea59ly1gd5yy71058g200i00i3y9 |
+| 百万王冠 - 龙之湖太郎 - 20180509.epub (197.56 KB) | wbdrive://841aea59ly1gd5yy81wnyg200i00i3y9 |
+| 皇帝圣印战记 - 水野良 - 20180528.epub (1002.42 KB) | wbdrive://841aea59ly1gd5yy9e56xg200i00i3y9 |
+| 真相的十公尺前 - 米泽穗信 - 20180809.epub (181.11 KB) | wbdrive://841aea59ly1gd5yyag3jgg200i00i3y9 |
+| 碧阳学园学生会议事录(学生会的一己之见) - 葵关南 - 20180722.epub (3.25 MB) | wbdrive://841aea59ly1gd5yycqf0xg200j00j3y9 |
+| 神的垃圾桶 - 入间人间 - 20180623.epub (207.61 KB) | wbdrive://841aea59ly1gd5yydvd5pg200i00i3y9 |
+| 神话传说英雄的异世界奇谭 - 奉 - 20180714.epub (2.03 MB) | wbdrive://841aea59ly1gd5yyhdruvg200j00j3y9 |
+| 禁止出借！玉响妖怪图书馆 - 一石月下 - 20180607.epub (337.01 KB) | wbdrive://841aea59ly1gd5yyih7dag200j00j3y9 |
+| 秋叶原地下城冒险奇谭 - 中野くみん - 20181119.epub (547.06 KB) | wbdrive://841aea59ly1gd5yyjo8uhg200j00j3y9 |
+| 空之境界 - 奈须蘑菇 - 20180925.epub (810.03 KB) | wbdrive://841aea59ly1gd5yyl058wg200i00i3y9 |
+| 突西亚战记 十二骑士团的反叛军师 - 大黑尚人 - 20180825.epub (202.10 KB) | wbdrive://841aea59ly1gd5yym3w3yg200j00j3y9 |
+| 精灵、比基尼与机关枪！ - 神野奥那 - 20181130.epub (174.48 KB) | wbdrive://841aea59ly1gd5yyn4i3og200j00j3y9 |
+| 精灵幻想记 - 北山结莉 - 20180518.epub (1.29 MB) | wbdrive://841aea59ly1gd5yypk61tg200i00i3y9 |
+| 精灵所爱的异世界不良少年 - 黑井へいほ - 20180116.epub (392.44 KB) | wbdrive://841aea59ly1gd5yyqnw68g200j00j3y9 |
+| 线上游戏的老婆不可能是女生？ - 听猫芝居 - 20180830.epub (2.29 MB) | wbdrive://841aea59ly1gd5yytg0tlg200j00j3y9 |
+| 绝对的孤独者 - 川原砾 - 20180326.epub (625.35 KB) | wbdrive://841aea59ly1gd5yyupc0cg200i00i3y9 |
+| 老师的新娘是16岁的合法萝莉？ - さくらいたろう - 20181206.epub (133.46 KB) | wbdrive://841aea59ly1gd5yyvpjkng200j00j3y9 |
+| 舞风的铠姬(风中起舞的铠甲姬) - 小山健 - 20180725.epub (596.38 KB) | wbdrive://841aea59ly1gd5yyxezzig200j00j3y9 |
+| 舰队Collection 瑞之海，凤之空 - 村崎幸也 - 20181218.epub (348.11 KB) | wbdrive://841aea59ly1gd5yyykf0sg200j00j3y9 |
+| 苍柩的青金石 - 朝野始 - 20181224.epub (824.48 KB) | wbdrive://841aea59ly1gd5yyzzakng200i00i3y9 |
+| 莲见律子的推理交响乐 比翼的威尼斯船歌 - 杉井光 - 20180202.epub (206.70 KB) | wbdrive://841aea59ly1gd5yz0zaljg200j00j3y9 |
+| 蔷薇的玛利亚 - 十文字青 - 20180212.epub (6.27 MB) | wbdrive://841aea59ly1gd5yz4azf2g200m00ma9t |
+| 薇尔莉特·伊芙加登(紫罗兰永恒花园) - 晓佳奈 - 20180105.epub (443.61 KB) | wbdrive://841aea59ly1gd5yz5p4g7g200j00j3y9 |
+| 虎鲸少女横扫异世界 - にゃお - 20180222.epub (149.28 KB) | wbdrive://841aea59ly1gd5yz6thf5g200i00i3y9 |
+| 见习神官LV1 - 佐佐原史绪 - 20180325.epub (871.34 KB) | wbdrive://841aea59ly1gd5yz89pzvg200i00i3y9 |
+| 让人想丢辞呈的魔法联盟 - 冰高悠 - 20181203.epub (167.17 KB) | wbdrive://841aea59ly1gd5yz9cdjug200j00j3y9 |
+| 让笨蛋登上舞台吧！(为那个笨蛋也打上脚灯！) - 昼熊 - 20181129.epub (650.33 KB) | wbdrive://841aea59ly1gd5yzar7urg200j00j3y9 |
+| 记录的地平线 - 橙乃麻麻理 - 20180727.epub (1.51 MB) | wbdrive://841aea59ly1gd5yzcfn1bg200i00i3y9 |
+| 请问您的胖次需要加热吗？ - 石山雄规 - 20180715.epub (157.76 KB) | wbdrive://841aea59ly1gd5yzdis2zg200j00j3y9 |
+| 读者与主人公以及这两人之后 - 岬鹭宫 - 20180519.epub (127.39 KB) | wbdrive://841aea59ly1gd5yzehvnyg200j00j3y9 |
+| 谁说尼特族在异世界就会认真工作？(以为到了异世界neet就会工作吗？) - 刈野ミカタ - 20180923.epub (847.37 KB) | wbdrive://841aea59ly1gd5yzg6df0g200k00k741 |
+| 超人高中生们即便在异世界里也能从容生存 - 海空陆 - 20180803.epub (739.65 KB) | wbdrive://841aea59ly1gd5yzhgcomg200j00j3y9 |
+| 转生鬼神浪漫谭 - 蓝藤游 - 20180824.epub (710.31 KB) | wbdrive://841aea59ly1gd5yziwm2lg200i00i3y9 |
+| 进化果实 不知不觉踏上胜利的人生 - 美红 - 20180413.epub (847.35 KB) | wbdrive://841aea59ly1gd5yzk6kaqg200j00j3y9 |
+| 迷幻魔域Ecstas Online - 久慈政宗 - 20180603.epub (1014.01 KB) | wbdrive://841aea59ly1gd5yzlmyblg200i00i3y9 |
+| 迷途英雄的异世界召唤 - 河端ジュン一 - 20180331.epub (495.49 KB) | wbdrive://841aea59ly1gd5yzmw2kng200j00j3y9 |
+| 逃杀竞技场 - 土桥真二郎 - 20180101.epub (458.71 KB) | wbdrive://841aea59ly1gd5yzoeow8g200i00i3y9 |
+| 逃离乐园岛(逃出乐园岛) - 土桥真二郎 - 20180101.epub (318.77 KB) | wbdrive://841aea59ly1gd5yzpnn66g200j00j3y9 |
+| 透过机器人与你相恋 - 山田悠介 - 20181219.epub (146.01 KB) | wbdrive://841aea59ly1gd5yzrf2amg200i00i3y9 |
+| 递回 - 米泽穗信 - 20180608.epub (269.87 KB) | wbdrive://841aea59ly1gd5yzsnkcsg200i00i3y9 |
+| 那样的世界毁掉算了─Qualidea Code─ - 相乐总 - 20181106.epub (278.62 KB) | wbdrive://841aea59ly1gd5yztrvmog200j00j3y9 |
+| 邪神大沼 - 川岸殴鱼 - 20180227.epub (856.83 KB) | wbdrive://841aea59ly1gd5yzv2yd9g200i00i3y9 |
+| 里世界郊游 - 宫泽伊织 - 20181023.epub (175.38 KB) | wbdrive://841aea59ly1gd5yzw5u2og200i00i3y9 |
+| 重启咲良田 - 河野裕 - 20180707.epub (930.92 KB) | wbdrive://841aea59ly1gd5yzxkulhg200i00i3y9 |
+| 钱为败者所有之物 - 玖城ナギ - 20180504.epub (162.67 KB) | wbdrive://841aea59ly1gd5yzyuz02g200i00i3y9 |
+| 钱进战国雄霸天下 - Y.A - 20181219.epub (655.46 KB) | wbdrive://841aea59ly1gd5z003fhcg200i00i3y9 |
+| 铳皇无尽的法夫纳 - 司 - 20180701.epub (2.30 MB) | wbdrive://841aea59ly1gd5z01wylgg200i00i3y9 |
+| 银弹的铳剑姬 - 村崎幸也 - 20181218.epub (546.17 KB) | wbdrive://841aea59ly1gd5z030xizg200i00i3y9 |
+| 闪偶大叔与幼女前辈 - 岩泽蓝 - 20181205.epub (325.04 KB) | wbdrive://841aea59ly1gd5z048nycg200i00i3y9 |
+| 阳台的幸福滋味 - 竹冈叶月 - 20180915.epub (574.73 KB) | wbdrive://841aea59ly1gd5z05serig200i00i3y9 |
+| 霸剑皇姬阿尔缇娜(霸剑的皇姬阿尔缇娜) - 村崎幸也 - 20181004.epub (1.95 MB) | wbdrive://841aea59ly1gd5z07i4ayg200j00j3y9 |
+| 非宅女友对我的H游戏感到兴致勃勃…… - 滝沢慧 - 20180915.epub (265.24 KB) | wbdrive://841aea59ly1gd5z08n029g200j00j3y9 |
+| 靠神兽们成为世界最强吧(和神兽（我）们在一起的话说不定能变成世界最强哟？) - 福山阳士 - 20180211.epub (160.87 KB) | wbdrive://841aea59ly1gd5z09m7oeg200l00l741 |
+| 饲养温柔死神的方法 - 知念实希人 - 20180917.epub (293.37 KB) | wbdrive://841aea59ly1gd5z0apl8lg200j00j3y9 |
+| 香魅堂奇谭 - 羽根川牧人 - 20180104.epub (536.68 KB) | wbdrive://841aea59ly1gd5z0buut1g200i00i3y9 |
+| 骸骨骑士大人异世界冒险中 - 秤猿鬼 - 20180812.epub (1.91 MB) | wbdrive://841aea59ly1gd5z0dk6gdg200j00j3y9 |
+| 高校女仆警察 - 泽上水也 - 20180116.epub (1.41 MB) | wbdrive://841aea59ly1gd5z0f7hnfg200i00i3y9 |
+| 魔女青春推理事件簿 - 相泽沙呼 - 20180514.epub (296.89 KB) | wbdrive://841aea59ly1gd5z0gf1gsg200i00i3y9 |
+| 魔弹之王与战姬 - 川口士 - 20180224.epub (3.58 MB) | wbdrive://841aea59ly1gd5z0iu1w4g200i00i3y9 |
+| 魔术士奥芬的无赖之旅 - 秋田祯信 - 20181108.epub (1.00 MB) | wbdrive://841aea59ly1gd5z0k6ytng200j00j3y9 |
+| 魔王勇者 - 橙乃麻麻理 - 20180610.epub (1.06 MB) | wbdrive://841aea59ly1gd5z0lnw3mg200i00i3y9 |
+| 魔王筑城记！ - 月夜泪 - 20181225.epub (375.76 KB) | wbdrive://841aea59ly1gd5z0ms57bg200i00i3y9 |
+| 魔装学园H×H - 久慈政宗 - 20180714.epub (1.75 MB) | wbdrive://841aea59ly1gd5z0omd75g200i00i3y9 |
+| 黄昏街不杀生的暗杀者 - 寺田海月 - 20180222.epub (174.90 KB) | wbdrive://841aea59ly1gd5z0ppk1ng200j00j3y9 |
+| 黑之夜刀神 - 手岛史词 - 20180917.epub (333.12 KB) | wbdrive://841aea59ly1gd5z0qvjrcg200i00i3y9 |
+| 黑崎麻由眼中的美丽世界 - 久远侑 - 20181106.epub (342.24 KB) | wbdrive://841aea59ly1gd5z0s1dasg200j00j3y9 |
+| 黑暗骑士不可脱 (不要脱人家的暗黑骑士啦) - 木村心一 - 20180527.epub (611.53 KB) | wbdrive://841aea59ly1gd5z0tgka3g200j00j3y9 |
