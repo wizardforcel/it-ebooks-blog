@@ -10,7 +10,7 @@ tags:
 pip install CDNDrive
 # 或
 # pip install git+https://github.com/apachecn/CDNDrive
-bdex download <link>
+cdrive download <link>
 ```
 
 ## 链接
