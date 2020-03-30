@@ -3,6 +3,8 @@ title: PUA 书籍
 date: 2019-01-01 00:00:00
 categories:
   - 通识
+tags:
+  - PUA
 ---
 
 ## 下载方式
