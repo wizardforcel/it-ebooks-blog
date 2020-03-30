@@ -1,6 +1,8 @@
 ---
 title: 知识星球精华整理
 date: 2019-10-1 00:00:00
+categories:
+  - 通识
 ---
 
 > 由[布客新知](https://github.com/ixinzhi)强力驱动

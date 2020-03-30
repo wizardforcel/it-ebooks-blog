@@ -2,6 +2,8 @@
 title: 日漫归档 2017 BiliDrive 备份
 date: 2017-12-31 23:59:59
 tags:
+categories:
+  - ACG
 ---
 
 ## 下载方式

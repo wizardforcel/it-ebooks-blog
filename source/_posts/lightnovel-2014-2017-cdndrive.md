@@ -1,7 +1,8 @@
 ﻿---
 title: 轻小说归档 2014~2017 CDNDrive 备份
 date: 2017-12-31 23:59:59
-tags:
+categories:
+  - ACG
 ---
 
 ## 下载方式

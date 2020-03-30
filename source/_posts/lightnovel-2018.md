@@ -1,7 +1,8 @@
 ---
 title: 轻小说汇总 2018
 date: 2018-12-31 23:59:59
-tags:
+categories:
+  - ACG
 ---
 
 ## 下载

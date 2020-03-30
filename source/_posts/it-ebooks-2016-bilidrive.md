@@ -1,6 +1,8 @@
 ---
 title: 计算机电子书 2016 BiliDrive 备份
 date: 2017-01-01 00:00:00
+categories:
+  - 计算机
 ---
 
 ## 下载方式

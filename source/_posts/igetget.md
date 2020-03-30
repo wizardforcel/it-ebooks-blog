@@ -1,6 +1,8 @@
 ---
 title: 得到课程整理
 date: 2020-1-31 00:00:00
+categories:
+  - 通识
 ---
 
 > 由[布客新知](https://github.com/ixinzhi)强力驱动

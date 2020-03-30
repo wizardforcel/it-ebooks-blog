@@ -1,6 +1,8 @@
 ---
 title: 得到课程 BiliDrive 备份
 date: 2020-1-31 00:00:00
+categories:
+  - 通识
 ---
 
 > 以下链接只包含图文，音频请自行用 PanDownload 搜索

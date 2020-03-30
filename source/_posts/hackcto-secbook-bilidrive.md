@@ -1,6 +1,8 @@
 ---
 title: 安全参考和书安 BiliDrive 备份
 date: 2017-01-01 00:00:00
+categories:
+  - 计算机
 ---
 
 ## 下载方式

@@ -1,6 +1,8 @@
 ---
 title: Syncfusion Succinctly 2017-2018 归档
 date: 2019-01-01 00:00:00
+categories:
+  - 计算机
 ---
 
 &zwj;

@@ -1,6 +1,8 @@
 ---
 title: 通识类其它课程 CDNDrive 备份
 date: 2020-02-29 00:00:00
+categories:
+  - 通识
 ---
 
 ## 下载方式
