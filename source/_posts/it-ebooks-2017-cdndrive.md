@@ -1555,3 +1555,541 @@ cdrive download <link>
 | PHP2Python API 参考 2017.9.25.epub (494.03 KB) | csdrive://20200405173441922 |
 | Java API 版本的Vert.x Core 手册.epub (118.12 KB) | csdrive://20200405173444997 |
 | Spring Boot 入门教程（翟永超）.epub (651.43 KB) | csdrive://20200405173449283 |
+
+<!--jsdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| 斯坦福 cs224d 深度学习与自然语言处理讲义.epub (2.87 MB) | jsdrive://118142-3a603d8baaf94dbc |
+| Matplotlib 用户指南.epub (4.67 MB) | jsdrive://118142-c707808db166ab8e |
+| OllyDbg 完全教程.pdf (617.28 KB) | jsdrive://118142-ddc337c9350d6236 |
+| Exploring ES6.epub (1.83 MB) | jsdrive://118142-3a372a260be0471b |
+| 商朝子的解密入门教学.epub (396.44 KB) | jsdrive://118142-ccb8466a3aa7b4c8 |
+| 阿里巴巴 Java 开发手册（正式版）.pdf (962.31 KB) | jsdrive://118142-70c510fbfa606ffb |
+| T00ls技术文章350篇.7z (503.69 KB) | jsdrive://118142-b049f9d045b75105 |
+| R4ndom 破解教程翻译 1~20a by QQSniper.pdf (17.63 MB) | jsdrive://118142-e172a380ba69c098 |
+| 漏洞利用的艺术：攻击JavaScript引擎.pdf (277.10 KB) | jsdrive://118142-82dbc1bf0c6ed5c2 |
+| Aircrack-ng 教程及文档（部分）.epub (201.40 KB) | jsdrive://118142-af729762c91733ab |
+| 从逆向工程的角度来看 C++（看雪）.epub (35.54 KB) | jsdrive://118142-39bd993c435e5a9d |
+| Matplotlib 入门教程.epub (5.34 MB) | jsdrive://118142-e8291be29ba011fa |
+| IDA Pro 5.4 中文帮助手册.chm (508.36 KB) | jsdrive://118142-5dab3c66437f48ff |
+| 使用 OllyDbg 从零开始 Cracking.epub (42.40 MB) | jsdrive://118142-f3e60dfcec79d324 |
+| Metasploit 新手指南.pdf (8.08 MB) | jsdrive://118142-6c192a628ae9cf9a |
+| OllyDbg 中文帮助手册 2.0.1.pdf (5.71 MB) | jsdrive://118142-60818a0bb5811598 |
+| Django 中文文档 1.8 20170215.epub (2.03 MB) | jsdrive://118142-f33c7cb31bcb8146 |
+| 斯坦福 CS229 机器学习讲义英文版（全）.pdf (2.19 MB) | jsdrive://118142-dfa84057102e1472 |
+| 社工研究组文章整理 2017.2.23.epub (15.64 MB) | jsdrive://118142-36e7994bb2d88b85 |
+| 斯坦福 CS229 机器学习讲义中文版 1~5.pdf (2.31 MB) | jsdrive://118142-d3028fab9d92e95d |
+| Exploit 编写系列教程 1 ~ 11.pdf (12.59 MB) | jsdrive://118142-fe53b05b1131ec33 |
+| MDN JavaScript 参考文档 2017.2.6.epub (4.49 MB) | jsdrive://118142-0980d7f9eb76c0a8 |
+| Exploring ES2016 and ES2017.epub (66.64 KB) | jsdrive://118142-0acb8e745bec46e8 |
+| CTF Writeups 2016.9.29.epub (11.57 MB) | jsdrive://118142-df97bd8759310070 |
+| NumPy 中文文档 1.11 20170215.epub (4.03 MB) | jsdrive://118142-0ea08c8c81eec029 |
+| 安全客 2016 年刊.7z (37.55 MB) | jsdrive://118142-2560fc6472387138 |
+| 吾爱破解『我是用户』破解实战.epub (1.66 MB) | jsdrive://118142-c7771ecd926a9168 |
+| Python 之旅.epub (1.61 MB) | jsdrive://118142-115de407430940ab |
+| Rails 指南.epub (1.92 MB) | jsdrive://118142-efaf6c5ee6e97a13 |
+| 软件构建实践 0.1.epub (2.03 MB) | jsdrive://118142-1ddef67741bb922b |
+| Go 简易教程.epub (115.13 KB) | jsdrive://118142-173f13f67ec8d545 |
+| 安全档案 第二期.pdf (10.37 MB) | jsdrive://118142-cb565fc27a344f0f |
+| 乌云月爆（全十期）.7z (37.86 MB) | jsdrive://118142-09978398f877e3c8 |
+| 软件漏洞分析入门专题.epub (2.30 MB) | jsdrive://118142-bfd8e3e084d496f9 |
+| problem-solving-with-algorithms-and-data-structure-using-python 中文版.epub (8.21 MB) | jsdrive://118142-240f70707d514195 |
+| Scikit Learn 官方文档：示例.epub (1.87 MB) | jsdrive://118142-3afabee626782808 |
+| SQLAlchemy 1.1 Documentation.epub (1.90 MB) | jsdrive://118142-cebf40e3e56015dd |
+| c_cpp_ref_html_book_20161029.zip (29.38 MB) | jsdrive://118142-152f6cfd35901c13 |
+| Windows Exploit 开发教程（Massimiliano Tomassoli）.epub (8.78 MB) | jsdrive://118142-3cb2d76b526cc8b5 |
+| 法克论坛一周年提权文集.pdf (5.21 MB) | jsdrive://118142-219eefe12b46eaea |
+| 新手指南：DVWA 1.9 全级别教程.epub (12.96 MB) | jsdrive://118142-196077376f0e6769 |
+| 逆向工程入门指南.epub (13.30 MB) | jsdrive://118142-85f1ceb4faf65ca2 |
+| Spring-Data-Elasticsearch 中文文档.epub (84.61 KB) | jsdrive://118142-15f86865d31c6350 |
+| 斯坦福机器学习个人笔记 v4.2 - 黄海广.pdf (11.30 MB) | jsdrive://118142-1a871c752e9d6696 |
+| CEH v9 Links.7z (683 B) | jsdrive://118142-2880ee26162f294c |
+| TIPI：深入理解PHP内核.pdf (1.95 MB) | jsdrive://118142-261f5d6cf01bf54d |
+| 邪恶八进制技术黑皮书第4版.chm (19.40 MB) | jsdrive://118142-7d3aaa599cc1d203 |
+| Microsoft可移植可执行文件和通用目标文件格式文件规范.pdf (1.39 MB) | jsdrive://118142-135baaba1acba3b3 |
+| theano Documentation 0.8.2.pdf (2.53 MB) | jsdrive://118142-d95da2b5e063a457 |
+| FuzzySecurity Windows Exploit 开发系列教程 1 ~ 8.epub (9.26 MB) | jsdrive://118142-3e35272db0886979 |
+| Scapy 中文文档.epub (728.57 KB) | jsdrive://118142-0d8b540b9f0134eb |
+| Programming Languages Application and Interpretation.epub (276.89 KB) | jsdrive://118142-e5c054efff20d098 |
+| Shark恒零基础破解教程之图文版.epub (3.77 MB) | jsdrive://118142-62dcd31014e7ec44 |
+| Linux命令全集（Linhan）.pdf (1.76 MB) | jsdrive://118142-b3ea2771381fd9ed |
+| Java 培训教程（千峰教育）.pdf (4.44 MB) | jsdrive://118142-d1c2874bbf8a0fbf |
+| VS2010 MFC编程入门（鸡啄米）.pdf (13.62 MB) | jsdrive://118142-56a8099cc7d5f2f0 |
+| 3天入门MySQL（千峰教育）.epub (3.10 MB) | jsdrive://118142-7a7928b28a30d43f |
+| PHP5面向对象初步（刀客羽朋）.pdf (4.93 MB) | jsdrive://118142-92543705e8a08ca0 |
+| 深入浅出MySQL数据库开发、优化与管理维护（网易）.pdf (661.69 KB) | jsdrive://118142-25de9c621213b013 |
+| 辛星 PHP 系列教程 2014（十一本）.zip (43.91 MB) | jsdrive://118142-ce404afd989da600 |
+| MySQL 5.5 新特性详解及参数优化 蓝皮书.pdf (2.45 MB) | jsdrive://118142-655d4b7bc9434a28 |
+| java并发的艺术（InfoQ）.pdf (3.40 MB) | jsdrive://118142-45d161a1511fbf88 |
+| 辛星 JDBC、MyBatis、Spring、Yaf、LESS、Symfony、Markdown、SQLite、Codeigniter 教程 2016.zip (14.79 MB) | jsdrive://118142-7db4163b14959b1e |
+| Linux菜鸟过关 v3.0.pdf (642.19 KB) | jsdrive://118142-ba8c1f93850bf80f |
+| 高级Bash脚本编程指南 3.9.1 (杨春敏 黄毅 译).pdf (2.68 MB) | jsdrive://118142-3edf10870a3989db |
+| ejb 3.0 实例教程（黎活明）.pdf (1.53 MB) | jsdrive://118142-e0cec8e1a2d9e7b0 |
+| java工程师实例参考手册（廖清远）.pdf (799.34 KB) | jsdrive://118142-b0996fe54b48aead |
+| C++Primer第4版课后习题解答(第1-18章)完整版.pdf (3.17 MB) | jsdrive://118142-65195b8ddb7402a4 |
+| 辛星 MySQL、Linux、Node、Nginx、Redis、CouchDB、Git 教程 2015.zip (49.80 MB) | jsdrive://118142-bd31eb3911fbed54 |
+| c++课程讲义（传智扫地僧）.pdf (6.08 MB) | jsdrive://118142-8151b271a4573915 |
+| C++编程入门系列（鸡啄米）.pdf (1.05 MB) | jsdrive://118142-88dda25abf4b3328 |
+| C++ Qt5 范例开发大全.pdf (2.83 MB) | jsdrive://118142-39bc95185ef8a758 |
+| Python 自然语言处理 第二版 20170304.epub (14.61 MB) | jsdrive://118142-da3243f5c573bb84 |
+| PHP内核介绍及扩展开发指南.pdf (441.01 KB) | jsdrive://118142-866810f9e78ab7b5 |
+| PHP教程从零开始学设计模式（千峰教育）.pdf (640.46 KB) | jsdrive://118142-60833508f9237155 |
+| YAF 用户手册.epub (313.83 KB) | jsdrive://118142-426a4cbf44c64749 |
+| Getting Started with Storm 中文版.pdf (1.60 MB) | jsdrive://118142-e17c148543fa2203 |
+| PyQt4 精彩实例分析.pdf (1.82 MB) | jsdrive://118142-491632f4dd1d1e22 |
+| linux系统管理手册0.6.1.pdf (522.73 KB) | jsdrive://118142-4672aea603c78311 |
+| Theano 中文文档 0.9 20170304.epub (4.75 MB) | jsdrive://118142-5829f366d45d607a |
+| 辛星 web 前端系列教程 2014（九本）.zip (15.29 MB) | jsdrive://118142-c9949a71900d8ba4 |
+| WordPress 主题教程.pdf (1.14 MB) | jsdrive://118142-e7dce520aeb3f701 |
+| 数据结构与算法 Java 版（周鹏）.pdf (1.94 MB) | jsdrive://118142-cb09b52fcc8b3a4e |
+| MySQL存储过程编程（1~5）.pdf (2.22 MB) | jsdrive://118142-db2d94bae0f0bb27 |
+| JavaScript 教程（YYM）.pdf (948.17 KB) | jsdrive://118142-8bd16cfa878858ff |
+| JavaScript基础教程（张陈斌）.pdf (3.41 MB) | jsdrive://118142-4fa4f0b5b4322f26 |
+| 设计模式精解－GoF 23种设计模式解析附C++实现源码.pdf (1.64 MB) | jsdrive://118142-fc9ec5715014658e |
+| PHP 调试技术手册.pdf (1.90 MB) | jsdrive://118142-0913a1e785c4b077 |
+| PHP设计模式范例.epub (957.69 KB) | jsdrive://118142-d5aa5132f272d573 |
+| java基础教程（Java快车）.pdf (2.12 MB) | jsdrive://118142-0baa4caaf1590845 |
+| Java面向对象程序设计（？）.pdf (1.71 MB) | jsdrive://118142-d6dbbc95f2e81bf3 |
+| MySQL 基础教程（大漠孤烟）.pdf (1.60 MB) | jsdrive://118142-3ed22434f1cfe0f0 |
+| Java基础教程（李兴华）.pdf (2.15 MB) | jsdrive://118142-227566542a4d855e |
+| 开源 PHP 开发框架 Yii 全方位教程.pdf (637.63 KB) | jsdrive://118142-77dc04fd8dfc6cea |
+| 易学C++（第一版）.pdf (2.25 MB) | jsdrive://118142-9eef47ecd67b1a75 |
+| Caffe官方教程中译本 CaffeCN社区翻译.pdf (1.48 MB) | jsdrive://118142-54589931764601fe |
+| 笨兔兔的故事.pdf (1.48 MB) | jsdrive://118142-eeba926efd008685 |
+| C++ 基础教程 Beta 版（Juan Soulie）.pdf (917.93 KB) | jsdrive://118142-768d0b63b38981db |
+| WordPress 高级教程（晋级版）.pdf (578.29 KB) | jsdrive://118142-03c6ae2975f449e9 |
+| 为生物信息学设计的Python教程.epub (2.99 MB) | jsdrive://118142-c1c61343ea8b84d1 |
+| PHP 完全中文手册（sadly）.epub (1.29 MB) | jsdrive://118142-3da4b8c837ddd19d |
+| 挑战30天C++入门极限.pdf (3.11 MB) | jsdrive://118142-0b12587973124de7 |
+| linux零基础初级教程（红联）.pdf (285.91 KB) | jsdrive://118142-7e8210f52720a740 |
+| 高质量 C C++ 编程指南（林锐）.pdf (563.06 KB) | jsdrive://118142-d95457b95f0e9f1d |
+| 史上最强的 WordPress 初级-中级-高级教程.pdf (1.51 MB) | jsdrive://118142-461fc5fcf5b15657 |
+| C#编程语言与面向对象基础精简教程（金旭亮）.pdf (1.07 MB) | jsdrive://118142-4ac8d204866270aa |
+| 辛星 python 系列教程 2014（九本）.zip (24.81 MB) | jsdrive://118142-0dd77d9d36161890 |
+| Python学习笔记（王纯业）.pdf (2.15 MB) | jsdrive://118142-d9e8d236f2dd4df6 |
+| GDI+ SDK参考（翻译版本）.pdf (1.92 MB) | jsdrive://118142-2895d3d6feb33a87 |
+| 北航 991 数据结构与C语言 1998~2015 真题.pdf (5.38 MB) | jsdrive://118142-f6b13675846c8acd |
+| MySQL 5.0存储过程.pdf (2.12 MB) | jsdrive://118142-2afde309dfbc4445 |
+| Linux操作系统下C语言编程入门（007xiong）.pdf (540.37 KB) | jsdrive://118142-0e44213f51fe4b2a |
+| 北航数据结构、组成原理、操作系统、计算机网络课件.7z (26.34 MB) | jsdrive://118142-4accefcac23efcc1 |
+| MySQL性能调优与架构设计（JesseLZJ）.epub (5.84 MB) | jsdrive://118142-13db8592c498f3ea |
+| Biopython 教程与手册.epub (3.32 MB) | jsdrive://118142-bfa55a95200b7a54 |
+| 30 天学习 30 种新技术系列.epub (5.45 MB) | jsdrive://118142-0ef170e1dd28d88e |
+| Linux基础命令教程豪华版.pdf (1.45 MB) | jsdrive://118142-6c1cfffde76dba91 |
+| OpenCV入门教程（于仕琪）.pdf (1.80 MB) | jsdrive://118142-ed22e55a1cd1cc2c |
+| C++程序设计课程学习（希赛教育）.pdf (5.37 MB) | jsdrive://118142-fff8bcf447b9d114 |
+| Python基础教程(crossin全60课).pdf (2.72 MB) | jsdrive://118142-1b41e427b5de5478 |
+| Python精要参考第二版.pdf (678.66 KB) | jsdrive://118142-e723f639ed7e76dd |
+| GTK+程序设计中文版.pdf (2.38 MB) | jsdrive://118142-6cb8fed5af58a9d3 |
+| Java SE 6 类库查询手册（龙马工作室）.pdf (12.89 MB) | jsdrive://118142-cb66e1b898f65284 |
+| 深度学习教程 0.1（LISA 实验室）20170304.epub (929.47 KB) | jsdrive://118142-2665bfb30a998977 |
+| 7天学会PHP（千峰教育）.epub (17.35 MB) | jsdrive://118142-e2698372a40c04fd |
+| Linux 运维入门到高级全套系列.pdf (4.54 MB) | jsdrive://118142-625d79b71296d4cd |
+| 深入浅出设计模式（AI92）.pdf (1.19 MB) | jsdrive://118142-73b434d3c7fe46fc |
+| Java面试宝典2016版.pdf (1.20 MB) | jsdrive://118142-3068dd1afe7e809d |
+| Java问题定位技术.pdf (3.13 MB) | jsdrive://118142-be80dd3dbdf6f537 |
+| 常用数据挖掘算法总结及Python实现.pdf (5.71 MB) | jsdrive://118142-e9c143882be83e09 |
+| linux常用命令集（知博网）.pdf (622.32 KB) | jsdrive://118142-ea971f78a03fea17 |
+| C++ 库函数查询手册（龙马工作室）.pdf (4.19 MB) | jsdrive://118142-f686abfded178a28 |
+| 随机过程讲义（南开大学）.pdf (1.21 MB) | jsdrive://118142-df16c7d77594d768 |
+| 概率论与数理统计习题参考解答（西安邮电）.pdf (1.09 MB) | jsdrive://118142-61d1c95b5e22545d |
+| 科大概率统计讲义（USTC 概率统计教研室）.pdf (2.43 MB) | jsdrive://118142-d3b5685ffd80d10e |
+| Algorithmic Game Theory Lecture Notes (Cornell CS6840).pdf (4.92 MB) | jsdrive://118142-e8a4dccf567624dd |
+| 神经网络与深度学习.pdf (3.92 MB) | jsdrive://118142-ec44b5e7ef4b5cfe |
+| Advanced Algorithms Lecture Notes (MIT 6.854J).pdf (1.36 MB) | jsdrive://118142-a2ea117d09d0cbdb |
+| 高等数学讲义之积分表公式推导（Daniel Lau）.pdf (1.57 MB) | jsdrive://118142-1ed8e4f7019c427a |
+| Machine Learning for Natural Language Processing Lecture Notes (Columbia E6998).pdf (1.06 MB) | jsdrive://118142-bd301f030b08ad2b |
+| Introduction to Analysis of Algorithms Lecture Notes (Cornell CS4820).pdf (329.29 KB) | jsdrive://118142-342ee526228fd734 |
+| Intuitionistic Type Theory.pdf (672.45 KB) | jsdrive://118142-31db756a5d425c76 |
+| Static Program Analysis.pdf (474.59 KB) | jsdrive://118142-03d20da7aa30be75 |
+| Software Analysis and Design I Lecture Notes (CUNY CSci135).pdf (4.14 MB) | jsdrive://118142-2849803203a0e7e1 |
+| Algorithms for Big Data Lecture Notes (Harvard CS229r).pdf (4.95 MB) | jsdrive://118142-10fd3216c707cd62 |
+| 线性代数讲义（武汉大学 马涛）.pdf (855.58 KB) | jsdrive://118142-d8ed8468df5f1d68 |
+| Notes on Programming (Alexander Stepanov).pdf (914.61 KB) | jsdrive://118142-aa8c51ff9ed22136 |
+| Programming Languages Lecture Notes (Washington CSE341).pdf (1.76 MB) | jsdrive://118142-d4f4d569bdcaede3 |
+| Introduction to Algorithms Lecture Notes (MIT 6.006).pdf (18.19 MB) | jsdrive://118142-f0cd26f13a072338 |
+| Deep Learning Methods and Application.pdf (8.93 MB) | jsdrive://118142-00936ef006dbc578 |
+| 换个角度看线性代数（风萧萧）.pdf (4.81 MB) | jsdrive://118142-77c1da1181e9c17a |
+| Theoretical Machine Learning Lecture Notes (Princeton COS511).pdf (3.99 MB) | jsdrive://118142-07986689167771ef |
+| Compiler Design Lecture Notes (CMU 15-411).pdf (4.52 MB) | jsdrive://118142-83172a500271fd13 |
+| 高等数学（CCP Maths 165）.pdf (738.61 KB) | jsdrive://118142-67613ad69fb09ee1 |
+| Random Algorithm (Sariel Har-Peled).pdf (5.02 MB) | jsdrive://118142-851318116ea5dae7 |
+| Vectors, Matrices, and Least Squares (Stanford EE103).pdf (6.41 MB) | jsdrive://118142-3424e3c919affcc5 |
+| Algorithms Jeff Erickson (UIUC CS473 573).pdf (10.63 MB) | jsdrive://118142-eeed52a0e2810991 |
+| UCB CS61AS SICP with Racket.epub (1.59 MB) | jsdrive://118142-bb4eea759026e43d |
+| Quantum Computing Lecture Notes (Amsterdam).pdf (820.79 KB) | jsdrive://118142-c6304658b750c96e |
+| Homotopy Type Theory Lecture Notes (CMU 15-819).pdf (3.03 MB) | jsdrive://118142-20b25529325fa87c |
+| 线性代数总结与复习（武汉大学 黄正华）.pdf (1.81 MB) | jsdrive://118142-7fe8fed848431b4d |
+| Design and Analysis of Algorithms Lecture Notes (MIT 6.046J).pdf (3.20 MB) | jsdrive://118142-09c4c5e482d754db |
+| Learning Deep Architectures for AI 中文版.pdf (1.68 MB) | jsdrive://118142-4e3f371ce45bc6d6 |
+| 概率论与数理统计讲义（复旦 徐勤丰） .pdf (728.55 KB) | jsdrive://118142-857e8c06e68ea694 |
+| Software Design and Analysis II Lecture Notes (CUNY CSci235).pdf (2.15 MB) | jsdrive://118142-925007a1ec70b6e2 |
+| Static Program Analysis Reading List (UCLA CS232).pdf (7.87 MB) | jsdrive://118142-eb4734eb9f050497 |
+| Aukland COMPSCI 111 Practical Computing Reference Manual.pdf (8.43 MB) | jsdrive://118142-8df9cba34726d87f |
+| 数学之美、浪潮之巅（谷歌黑板报）.epub (1.33 MB) | jsdrive://118142-b77cdf25be352076 |
+| 北航 961 计算机综合 2015 真题.pdf (1.72 MB) | jsdrive://118142-76b777a7e2eb6550 |
+| Natural Language Processing  Lecture Notes (Columbia CS4705).pdf (1.73 MB) | jsdrive://118142-2817cc41fc40d33f |
+| Statistical Learning Theory Lecture Notes (Stanford CS229t).pdf (1.18 MB) | jsdrive://118142-99b5de14543ef3fe |
+| Software Design and Analysis III Lecture Notes (CUNY CSci335).pdf (2.18 MB) | jsdrive://118142-f65ac0993e5fed0a |
+| A Second Course in Algorithms Lecture Notes (Stanford CS261).pdf (5.95 MB) | jsdrive://118142-1fe2dd15bde18683 |
+| Overcoming Intractability in Machine Learning Lecture Notes (Princeton COS598D).pdf (925.18 KB) | jsdrive://118142-3a5f85058a0e3a89 |
+| Building Blocks for Theoretical Computer Science (UIUC CS173).pdf (1.14 MB) | jsdrive://118142-e13e69ed052a8713 |
+| Quantum Computation Lecture Notes (Caltech CS219).pdf (3.54 MB) | jsdrive://118142-f560cac80c33a641 |
+| Advanced Data Flow Analysis Lecture Notes (Cambridge L111).pdf (332.19 KB) | jsdrive://118142-41ac2c82906a0e84 |
+| xv6 中文文档.epub (888.72 KB) | jsdrive://118142-ee10b7bb14384f76 |
+| Programming and Programming Languages (Brown Univ).epub (5.90 MB) | jsdrive://118142-149232b957879a1b |
+| Great Ideas in Theoretical Computer Science Lecture Notes (MIT 6.045).pdf (2.56 MB) | jsdrive://118142-68ce921b5a22b42f |
+| Pandas 0.19.2 中文文档 20170305.epub (6.56 MB) | jsdrive://118142-6e6535b295ae86b2 |
+| The Datacenter as a Computer.pdf (2.76 MB) | jsdrive://118142-21c000f102bc6010 |
+| SICP 2e (MIT 6.001).epub (3.15 MB) | jsdrive://118142-a2fd8b46872ed53f |
+| 神经网络与深度学习讲义（复旦 邱锡鹏）.pdf (695.57 KB) | jsdrive://118142-8c19b9b056775308 |
+| Introduction to Scientific Computing Lecture Notes (Cornell CS3220).pdf (3.86 MB) | jsdrive://118142-9d28e8d62acaad0d |
+| 随机过程讲义（中科院 孙应飞）.pdf (2.26 MB) | jsdrive://118142-7f41f72a37ae129e |
+| Convex Optimization (Stanford CVX101).pdf (5.73 MB) | jsdrive://118142-2b33dc42d613d16a |
+| Operating Systems - Three Easy Pieces.pdf (4.79 MB) | jsdrive://118142-0a72a9c5bd92f6eb |
+| 北航计算机复试上机真题 2006~2016.pdf (330.74 KB) | jsdrive://118142-0915bb8da30191d5 |
+| MARKOV CHAIN MONTE CARLO FOUNDATIONS & APPLICATIONS Lecture Notes (UCB CS294).pdf (3.15 MB) | jsdrive://118142-525ba7beea1f855c |
+| Algorithms for Big Data Lecture Notes (UIUC CS598CSC).pdf (1.81 MB) | jsdrive://118142-11e04f25f5cd1449 |
+| Quantum algorithms Lecture Notes (Waterloo CO781).pdf (3.30 MB) | jsdrive://118142-f357824cb2d85e9d |
+| Operating Systems and Middleware - Supporting Controlled Interaction.pdf (2.74 MB) | jsdrive://118142-f267fd854d96c3f1 |
+| Mining Massive Data Sets Reading Material (Stanford CS246).pdf (3.41 MB) | jsdrive://118142-0e3803bd8ecf30e4 |
+| Advanced Data Structures Lecture Notes (MIT 6.851).pdf (2.29 MB) | jsdrive://118142-42257f82e9598283 |
+| Parch 学习笔记系列（十七本）.zip (81.25 MB) | jsdrive://118142-ea6c2b444b5f96f2 |
+| Deep Learning in Neural Networks - An Overview.pdf (1.11 MB) | jsdrive://118142-c150cec9eebca4e2 |
+| 应用概率统计基础及算法（于江生）.pdf (8.57 MB) | jsdrive://118142-9b34fb2d634683f5 |
+| Probabilistic Graphical Models Lecture Notes (CMU 10.708).pdf (25.41 MB) | jsdrive://118142-d48ea159198c2522 |
+| Algorithmic Aspects of Machine Learning (MIT 18.409).pdf (913.42 KB) | jsdrive://118142-4802c9177f36b675 |
+| 传智播客 mybatis 框架课程讲义.pdf (1.16 MB) | jsdrive://118142-86be1994afaee281 |
+| Algebraic Graph Algorithms Lecture Notes (Stanford CS367).pdf (1.58 MB) | jsdrive://118142-34605fd674ba9413 |
+| Algorithms & Models of Computation Lecture Notes (UIUC CS374).pdf (10.38 MB) | jsdrive://118142-82d42e7b32ceabc1 |
+| Approximation Algorithms Lecture Notes (UIUC CS598CSC).pdf (1.72 MB) | jsdrive://118142-6a1182ec20caebb7 |
+| Theory of Quantum Information.pdf (2.07 MB) | jsdrive://118142-a8cb39ec6d2ed95e |
+| Program Analysis Lecture Notes (CMU 15-819O).pdf (1.42 MB) | jsdrive://118142-0d23244583431245 |
+| 线性代数的几何意义--图解线性代数.pdf (3.19 MB) | jsdrive://118142-4cd84ceb4662dd80 |
+| Programming Languages and Logics Lecture Notes (Cornell CS4110).pdf (2.46 MB) | jsdrive://118142-6542a158ed1ff5a6 |
+| Generic Programming with Adjunctions.pdf (665.00 KB) | jsdrive://118142-b4e62914a5ed690f |
+| Foundations of Programming Languages Lecture Notes (CMU 15-312).pdf (2.71 MB) | jsdrive://118142-ebf9cc563efbfb75 |
+| Combinatorial Optimization Lecture Notes (UIUC CS598CSC).pdf (3.60 MB) | jsdrive://118142-1240e822df7215a3 |
+| Advanced Algorithm Design Lecture Notes (Princeton COS521).pdf (11.39 MB) | jsdrive://118142-4e3312212089d792 |
+| Computer System Engineering Lecture Notes (MIT 6.033).pdf (738.38 KB) | jsdrive://118142-f4ccb0a7721e75e9 |
+| Combinatorial Optimization Lecture Notes (MIT 18.433).pdf (1.56 MB) | jsdrive://118142-ed917718b7b775bb |
+| Dynamic Systems and Control Lecture Notes (MIT 6.241J).pdf (15.32 MB) | jsdrive://118142-014023337a51d8b7 |
+| 常微分方程（冯巍）.pdf (3.29 MB) | jsdrive://118142-e52bdca81977e28f |
+| Introduction to EECS II Digital Communication Systems (MIT 6.02).pdf (14.37 MB) | jsdrive://118142-ebec458c494789df |
+| Exploiting Format String Vulnerabilities.pdf (228.89 KB) | jsdrive://118142-50414a250645882d |
+| Windows编程入门：Windows程序设计1小时入门教程.epub (637.16 KB) | jsdrive://118142-ffd771b5135cdd79 |
+| 偏微分方程简明教程（ZJU）.pdf (557.47 KB) | jsdrive://118142-b14106f4637d226e |
+| MFC入门教程：1天深入浅出MFC.epub (995.02 KB) | jsdrive://118142-c31d165dfbc7f5e0 |
+| Introduction to Probability (Dartmouth).pdf (3.06 MB) | jsdrive://118142-4fe3842f76d8a685 |
+| Introduction to Nanoelectronics (MIT 6.701).pdf (6.50 MB) | jsdrive://118142-1d439f0bb1841be7 |
+| 深度学习中文版（dlbook） v0.5b.7z (13.06 MB) | jsdrive://118142-e3cbb970b6258ada |
+| Principles of Computer System Design An Introduction Part II (MIT 6.004).pdf (4.18 MB) | jsdrive://118142-d60a3592e32d3fac |
+| Introduction to Information Retrieval.pdf (6.44 MB) | jsdrive://118142-966309cee01f10fc |
+| C C++ socket编程教程：1天玩转socket通信技术.epub (366.23 KB) | jsdrive://118142-2ddb57215af3edb6 |
+| Programming Languages Lecture Notes (NEU CS4400).epub (164.37 KB) | jsdrive://118142-75512841bbb9c029 |
+| Functional Programming Lecture Notes (Chicago CS223).epub (279.71 KB) | jsdrive://118142-e8bd5cb7f9623c0c |
+| Data Structures and Object Oriented Design Lecture Notes (USC CSCI104).pdf (1.31 MB) | jsdrive://118142-bb65d02d5260a8bf |
+| Computational Biology (MIT 6.047).pdf (17.48 MB) | jsdrive://118142-00af7180c5213bb6 |
+| 数据结构教程（C语言编程网）.epub (5.08 MB) | jsdrive://118142-de7ab4613ba5273f |
+| 偏微分方程讲义（张振宇）.pdf (835.82 KB) | jsdrive://118142-41543e3b5a6f29b4 |
+| Introduction to Arithmetic Geometry Lecture Notes (MIT 18.782).pdf (16.90 MB) | jsdrive://118142-54ce551d7d158776 |
+| coolfire黑客入门8篇.pdf (622.28 KB) | jsdrive://118142-5f09fe872c7fb428 |
+| 编程随想博客匿名术文集 2009~2015.epub (3.31 MB) | jsdrive://118142-cc8c382ebbabf80d |
+| 操作系统教程（C语言编程网）.epub (3.25 MB) | jsdrive://118142-73ab0e6aaf872d64 |
+| Mathematics for Computer Science (MIT 6.042J).pdf (5.92 MB) | jsdrive://118142-0c7d7b951df2a45c |
+| Transition to OO Programming Lecture Notes (Cornell CS1130).pdf (6.45 MB) | jsdrive://118142-121e4181c77883fa |
+| The Scheme Programming Language 4e.epub (395.76 KB) | jsdrive://118142-8e3191511bf7f02a |
+| Electromagnetics and Applications Lecture Notes (MIT 6.013).pdf (5.35 MB) | jsdrive://118142-a7d9513da2c4b048 |
+| Signals and Systems Lecture Notes (MIT 6.003).pdf (948.82 KB) | jsdrive://118142-ff226209c3463a5d |
+| The Art of Approximation in Science and Engineering Lecture Notes (MIT 6.055J).pdf (1.18 MB) | jsdrive://118142-ff029d70d55f0712 |
+| 三月机器学习在线班笔记（frank_shaw）.pdf (8.18 MB) | jsdrive://118142-878f9ad6c57ff93e |
+| 正则表达式教程：30分钟让你精通正则表达式语法.epub (165.99 KB) | jsdrive://118142-3bb09c3a1a308532 |
+| Introduction to Communication, Control, and Signal Processing Lecture Notes (MIT 6.011).pdf (3.25 MB) | jsdrive://118142-b2d2db37cd3cc1b6 |
+| Real-Time Programming Lecture Notes (Waterloo CS452).epub (133.60 KB) | jsdrive://118142-c0a8a18b79f33e47 |
+| Operating Systems Lecture Notes (UMD CMSC412).txt (179.36 KB) | jsdrive://118142-efc8761057dbf8eb |
+| UIUC Crowd-Sourced System Programming Book.epub (3.46 MB) | jsdrive://118142-c884cb7781a02392 |
+| Data Structures and Functional Programming Lecture Notes (Cornell CS3110).epub (270.10 KB) | jsdrive://118142-02b5848ee88b95df |
+| Introduction to Electric Power Systems Lecture Notes (MIT 6.061).pdf (4.16 MB) | jsdrive://118142-472ad8bb02c14b0e |
+| Introduction to Theory of Computing Lecture Notes (Cornell CS4810).pdf (1.15 MB) | jsdrive://118142-e880282865710f1d |
+| 单片机教程（C语言编程网）.epub (8.77 MB) | jsdrive://118142-ce7e64b3ddde4e15 |
+| Software Foundations.epub (660.17 KB) | jsdrive://118142-ec7f59ca2bdd20ed |
+| Advanced Topics in Compilers Reading List (Stanford CS343).pdf (11.68 MB) | jsdrive://118142-46f837472a33f374 |
+| Advanced Topics in Computer Systems Lecture Notes (UCB CS262A).pdf (2.93 MB) | jsdrive://118142-60a272fa55bb0708 |
+| Web Hacking 101 中文版.epub (1.68 MB) | jsdrive://118142-fdf1025f252616a7 |
+| Operating Systems Lecture Notes (Stanford CS140).epub (56.95 KB) | jsdrive://118142-ac1df842fd16ea6d |
+| 关于C++编程的42条建议.pdf (1.47 MB) | jsdrive://118142-9013a46f3313c4bc |
+| Programming Practice Tutorials (KAIST CS109).epub (1.11 MB) | jsdrive://118142-663a68e074034517 |
+| Graduate Computer Graphics (NYU CSCI-GA.2270-001).epub (1.80 MB) | jsdrive://118142-f60789c3620c1895 |
+| Distributed Systems Engineering Lecture notes (MIT 6.824).epub (261.19 KB) | jsdrive://118142-839e6b27feb3a53f |
+| MATLAB Tutorial (MIT 10.34).pdf (188.88 KB) | jsdrive://118142-84160354545a5cb8 |
+| 深入学习Web安全（万年死宅）.epub (4.45 MB) | jsdrive://118142-261cd34d866aa116 |
+| Ultrafast Optics Lecture Notes (MIT 6.977).pdf (8.58 MB) | jsdrive://118142-8bc02272d0903032 |
+| MySQL 教程（C语言中文网）.epub (933.24 KB) | jsdrive://118142-3d57dc969e32a8c9 |
+| Abstract Interpretation.epub (35.44 KB) | jsdrive://118142-c8338e559953f8e9 |
+| Category Theory for Scientists  (MIT 18.S996).pdf (4.16 MB) | jsdrive://118142-e9e8d5856799c3f2 |
+| How to Design Programs, Second Edition.epub (2.79 MB) | jsdrive://118142-11fd794138e85319 |
+| Linux Shell脚本教程：30分钟玩转Shell脚本编程.epub (40.62 KB) | jsdrive://118142-f0da3e1eed34be23 |
+| Discrete Stochastic Processes Lecture Notes (MIT 6.262).pdf (6.39 MB) | jsdrive://118142-7cfee78e5b880949 |
+| Electronic Feedback Systems (MIT 6.010).pdf (11.44 MB) | jsdrive://118142-b4c82ca6fdaa3ac4 |
+| Software Design and Implementation Lecture Notes (Washington CSE331).epub (359.97 KB) | jsdrive://118142-288b6921ffa00fab |
+| Inventions and Patents Lecture Notes (MIT 6.901).pdf (3.17 MB) | jsdrive://118142-4d7108784ce97a5e |
+| Web Hacking 101.pdf (5.89 MB) | jsdrive://118142-555419e45934d010 |
+| Software Construction Lecture Notes (MIT 6.005).epub (3.05 MB) | jsdrive://118142-444e9b971e058d0d |
+| black Hat 议题摘要翻译.epub (373.86 KB) | jsdrive://118142-ee52074cbad2664d |
+| Architecture of a Database System.pdf (909.54 KB) | jsdrive://118142-ec16bb382300c08e |
+| Linux 系统运维系列（unixhot）.7z (2.37 MB) | jsdrive://118142-5bcc381f4aecdd25 |
+| Information and Entropy (MIT 6.050J).pdf (4.41 MB) | jsdrive://118142-b8add24e06d2b7e4 |
+| 北航编译原理课件.pdf (7.29 MB) | jsdrive://118142-18511668e435baf7 |
+| Street-Fighting Mathematics Lecture Notes (MIT 6.009).pdf (1.09 MB) | jsdrive://118142-ff73ee1f75513e53 |
+| 偏微分方程引论（翟健）.pdf (611.04 KB) | jsdrive://118142-1057d29ebf057089 |
+| Functional Systems In Haskell Lecture Notes(Stanford CS240h).epub (745.82 KB) | jsdrive://118142-f4c7f9fc2eb9a0ee |
+| 米斯特白帽培训讲义 v1.5.epub (8.85 MB) | jsdrive://118142-79cba9e9973ff151 |
+| 如何学python（李三思）.epub (2.16 MB) | jsdrive://118142-3e017a44437ee39c |
+| Advanced Topics in Computer Systems Reading List (UCB CS262A).pdf (33.05 MB) | jsdrive://118142-7f27db86e68eda05 |
+| Type Systems（Luca Cardelli）.pdf (286.61 KB) | jsdrive://118142-0269372888867a69 |
+| 数据挖掘开源书（肖凯）.epub (5.38 MB) | jsdrive://118142-3053dbbbb47127de |
+| 七月在线 DL 论文翻译组译文 2017.3.7z (15.94 MB) | jsdrive://118142-97af20ae2e9e798c |
+| 楚狂人Windows驱动编程基础教程.pdf (349.43 KB) | jsdrive://118142-19886f75c717fae4 |
+| GTK+ 2.0 教程.epub (460.15 KB) | jsdrive://118142-e03ae99e9358b1d5 |
+| Information Security Lecture Notes (Dixie IT4500).pdf (267.00 KB) | jsdrive://118142-ff6a1d893237a605 |
+| System Security Lecture Notes (StonyBrook CSE509).pdf (2.10 MB) | jsdrive://118142-44e15792b6164146 |
+| Security Engineering — The Book V2.pdf (5.83 MB) | jsdrive://118142-83e15547dc970223 |
+| 汇编语言全接触.chm (834.12 KB) | jsdrive://118142-fc3ea99bec12a765 |
+| Spring 2.3.2 开发简明教程（张勇）.pdf (2.76 MB) | jsdrive://118142-a6a04fbffc1bd5f5 |
+| CALCULUS MADE EASY.pdf (1.81 MB) | jsdrive://118142-5b66b2b4e6733154 |
+| 模式识别与机器学习中文版（马春鹏）.pdf (11.71 MB) | jsdrive://118142-4c224759ef018b30 |
+| c语言也能干大事.pdf (4.75 MB) | jsdrive://118142-0be81a3d0b461d62 |
+| Deep Residual Learning for Image Recognition（七月在线DL翻译组2017.4）.pdf (1.08 MB) | jsdrive://118142-b69f3ac2ab501427 |
+| seaborn统计绘图模块中文指南.pdf (4.13 MB) | jsdrive://118142-cde60de2c792db8d |
+| 斯坦福机器学习笔记（JerryLead）.pdf (11.46 MB) | jsdrive://118142-aaf47d958c492469 |
+| 组合语言之艺术.epub (133.48 KB) | jsdrive://118142-21e521536ebadfb6 |
+| 安全客2017Q1.pdf (18.13 MB) | jsdrive://118142-b32e2b46db0b5cf7 |
+| React.js 小书 20170503.epub (3.79 MB) | jsdrive://118142-5d7ff298f7d32a73 |
+| Windows XP 2003 堆溢出实战.pdf (1.70 MB) | jsdrive://118142-36cc6b47a613e320 |
+| EXT 中文手册（pjq）.pdf (2.07 MB) | jsdrive://118142-c82cbf083d25a7be |
+| 微学苑 C++ 教程.epub (1019.39 KB) | jsdrive://118142-03d353df63b4b9cc |
+| Python 黑帽编程 1.1~4.2（玄魂工作室）.epub (9.18 MB) | jsdrive://118142-a4e94310e2edb80c |
+| tushare函数手册中文版.pdf (1.05 MB) | jsdrive://118142-044cb37555a2e0d3 |
+| 数据结构与算法分析学习笔记（罗聪）.epub (60.90 KB) | jsdrive://118142-cc8ae43a02c17cfa |
+| 80x86保护模式系列教程.epub (240.66 KB) | jsdrive://118142-76ad4ca201677393 |
+| Linux入门教程（C语言编程网）.epub (689.80 KB) | jsdrive://118142-ce789220737f9f69 |
+| Computer and Internet Security Lecture Notes (Syracuse CIS643 644).pdf (3.04 MB) | jsdrive://118142-da1fd2b8ff213379 |
+| 莫烦机器学习教程 2017.5.10.epub (28.99 MB) | jsdrive://118142-5a4050c9a862636c |
+| Spring 快速入门教程（Hantsy）.pdf (574.97 KB) | jsdrive://118142-8bdb2811c5a42ea5 |
+| Python 机器学习.epub (5.95 MB) | jsdrive://118142-28f8228820f4e313 |
+| 漏洞银行“大咖面对面”分享汇总 1~14 期.epub (4.64 MB) | jsdrive://118142-bf7aa2451febca7d |
+| Probabilistic Machine Learning (Duke STA561).pdf (883.92 KB) | jsdrive://118142-f32ba123a91ef1ca |
+| Parsing Techniques A Practical Guide.pdf (1.33 MB) | jsdrive://118142-2dec7f7890c89a69 |
+| Kubernetes Handbook.epub (3.58 MB) | jsdrive://118142-24f4cb34b0f7237f |
+| 你好，C++！.pdf (8.80 MB) | jsdrive://118142-828aef34f0cedfca |
+| Plotly 绘图模块中文指南第1期.pdf (7.28 MB) | jsdrive://118142-38b4dc025571613f |
+| 微学苑 Java 教程.epub (1.65 MB) | jsdrive://118142-8e60db254475e528 |
+| Java 开发利器 Myeclipse 全面详解（北风网）.pdf (9.85 MB) | jsdrive://118142-5340c6da8fd0078a |
+| 天书夜读（试读版）.pdf (397.44 KB) | jsdrive://118142-07777d89f2fafd5a |
+| Objective-C基础教程：1天玩转Objective-C语法.epub (1.04 MB) | jsdrive://118142-80a5d30de055872b |
+| 北航程序设计语言原理教材（共18章）.pdf (2.86 MB) | jsdrive://118142-6a5483ccd56580ac |
+| C语言基础教程（Lellansin）.epub (101.65 KB) | jsdrive://118142-ebbd0577cede6178 |
+| Intel® 64 and IA-32 Architectures Volume 1.pdf (2.41 MB) | jsdrive://118142-fad60b87fd1ff8cd |
+| 飞龙的安卓逆向教程 v1.0.epub (4.45 MB) | jsdrive://118142-ddbb21a1393d31c6 |
+| Secure Programs HOWTO.pdf (1.50 MB) | jsdrive://118142-1b563f0c4044b0cb |
+| Pandas 官方教程（10 分钟搞定 Pandas、Pandas 秘籍、学习 Pandas）.epub (1.40 MB) | jsdrive://118142-f77b63946378657e |
+| SploitFun Linux x86 Exploit 开发系列教程.epub (1.24 MB) | jsdrive://118142-eda9231636617fc0 |
+| MySQL 超新手入门.epub (25.25 MB) | jsdrive://118142-dd090b5f603409e7 |
+| CSDN 博客 - 高性能服务系统构建与实践 2017.5.13.epub (15.13 MB) | jsdrive://118142-bb1c71974977189f |
+| 中山大学编译原理讲义.pdf (2.91 MB) | jsdrive://118142-7ab2254b78d77a21 |
+| 莫烦 Python 教程 2017.5.10.epub (216.49 KB) | jsdrive://118142-af386ef94891d58a |
+| iOS App Reverse Engineering.pdf (8.29 MB) | jsdrive://118142-cee21e6e17a2ff6d |
+| PyAlgoTrade用户手册中文版.pdf (4.84 MB) | jsdrive://118142-e36d1cab4c51ce44 |
+| Scikit-learn 秘籍.epub (1.45 MB) | jsdrive://118142-fed5262525eaa630 |
+| 微学苑设计模式教程.epub (1.37 MB) | jsdrive://118142-96530f7017deb8fc |
+| Advanced SQL Injection In SQL Server Applications.pdf (291.03 KB) | jsdrive://118142-fb0d4e4a40040580 |
+| 面向对象的脚本语言Ruby.epub (213.75 KB) | jsdrive://118142-f6018177f9ff12eb |
+| Computer Security Reading List.7z (28.23 MB) | jsdrive://118142-1f1471bd5e69b7d0 |
+| Android开发教程&笔记（张亚飞）.pdf (4.69 MB) | jsdrive://118142-b9eeecbe97b9ae9a |
+| C++ 工程实践（陈硕）.pdf (899.86 KB) | jsdrive://118142-8de258729215c7cd |
+| Invent Your Own Computer Games with Python 2nd.pdf (4.89 MB) | jsdrive://118142-7d76bd4914164ac6 |
+| 大道至简（周爱民）.pdf (931.02 KB) | jsdrive://118142-348a278de2b838d1 |
+| 代码能有多难？——简单的网页代码书.epub (13.66 MB) | jsdrive://118142-f9b26d7dc5c192b0 |
+| 雪城大学计算机与网络安全讲义（CIS643&644）v0.1.epub (299.17 KB) | jsdrive://118142-f9f3b74b2ba92a89 |
+| Windows 平台下的堆溢出、格式化字符串漏洞利用技术.pdf (2.37 MB) | jsdrive://118142-7312c34c54de04df |
+| 莫烦 Git 教程 2017.5.10.epub (950.93 KB) | jsdrive://118142-b85e845b3d4c83ef |
+| Perl 语言编程.pdf (1.79 MB) | jsdrive://118142-38d5548f7ce87884 |
+| JS函数式编程指南.epub (3.11 MB) | jsdrive://118142-a19a950da4fb0ff0 |
+| C语言深度剖析 解开程序员面试笔试的秘密.pdf (850.64 KB) | jsdrive://118142-e79806360fa01aae |
+| 格式化字符串漏洞利用.epub (229.16 KB) | jsdrive://118142-28cfc8fa0e5b7815 |
+| Computer and Network Security by Avinash Kak.pdf (8.22 MB) | jsdrive://118142-f1df1a82db91d90b |
+| 我的职业是前端工程师.pdf (9.19 MB) | jsdrive://118142-ba923d7b9c0d4366 |
+| zw Python 量化分析课件.7z (11.54 MB) | jsdrive://118142-0c2797a23cbbcdee |
+| Hibernate 开发指南（夏昕）.pdf (567.73 KB) | jsdrive://118142-d97da83a7672e054 |
+| 算法艺术与信息学竞赛指导.pdf (7.00 MB) | jsdrive://118142-a8d6f4ee53de4e22 |
+| 从零开始学 ReactJS（ReactJS 101）.epub (4.60 MB) | jsdrive://118142-872e4416175b316f |
+| 莫烦数据处理教程 2017.5.10.epub (3.48 MB) | jsdrive://118142-b16bd13103034c13 |
+| 探索 ES6（未完）.epub (406.77 KB) | jsdrive://118142-c8e78086e25a9009 |
+| 从lex&yacc说到编译器.epub (46.66 KB) | jsdrive://118142-4598a2eed379aa9b |
+| Ruby 中文文档、RGSS 中文文档.epub (100.37 KB) | jsdrive://118142-9737f388cd38cbd5 |
+| the beginner's guide to idapython 中文版.pdf (2.65 MB) | jsdrive://118142-0a90c2ae33995c72 |
+| 借助开源项目，学习软件开发.epub (1.87 MB) | jsdrive://118142-70ba77958f0dea44 |
+| BigQuant 量化教程.pdf (6.94 MB) | jsdrive://118142-e7b4682004e8cc8e |
+| 零基础入门深度学习（hanbingtao）.pdf (2.64 MB) | jsdrive://118142-6e40cc8665b0a343 |
+| Go By Example 中文版.epub (107.83 KB) | jsdrive://118142-4f16808575931cd3 |
+| MDN HTML 文档 20170730.epub (1.55 MB) | jsdrive://118142-1efe2db2461526b3 |
+| Spring 2.0 核心技术与最佳实践.pdf (5.97 MB) | jsdrive://118142-72de108693816e9b |
+| 阿布量化课堂.epub (7.26 MB) | jsdrive://118142-cef941c42f0d59e0 |
+| 计算机程序的思维逻辑（Java 描述）.epub (3.42 MB) | jsdrive://118142-648569509d5213bd |
+| 数据结构思维中文版.epub (488.93 KB) | jsdrive://118142-3a9bb859ee9544e3 |
+| Swoole 中文文档.epub (173.65 KB) | jsdrive://118142-d2db1944fd5b139f |
+| calculus with applications (MIT 18.013A).epub (1.05 MB) | jsdrive://118142-220005ead428b821 |
+| TutorialsPoint Apex 教程.epub (1.75 MB) | jsdrive://118142-cf0a17e22476939e |
+| JavaScript正则表达式迷你书.pdf (3.42 MB) | jsdrive://118142-ed79f215d6b83730 |
+| CrossApp 中文文档.epub (2.28 MB) | jsdrive://118142-05cdeb804243bd20 |
+| Data Structures Lecture Notes (UCB CS61b).pdf (1.86 MB) | jsdrive://118142-b1e7714fefc6420a |
+| CTF-All-In-One 20171015.epub (2.36 MB) | jsdrive://118142-2f0ee8ffa71f25be |
+| 阿里巴巴Java开发手册（终极版）.pdf (1.01 MB) | jsdrive://118142-202a655a48c90394 |
+| An Introduction to Statistical Learning.pdf (8.33 MB) | jsdrive://118142-284a7576fc5a3dd0 |
+| imobilebbs Slick 教程.epub (179.53 KB) | jsdrive://118142-b97b6a635ba68a84 |
+| 初等算法（算法新解）0.6180339887498949.pdf (3.05 MB) | jsdrive://118142-2da935d74a9a4ff0 |
+| 笨办法学 Python · 续.epub (301.30 KB) | jsdrive://118142-6bb3b6a71efa16ae |
+| A Graduate Course in Applied Cryptography v0.3.pdf (5.11 MB) | jsdrive://118142-2504d058424febe5 |
+| 台湾大学林轩田机器学习基石笔记（红色石头）.epub (7.36 MB) | jsdrive://118142-316d749dd925a675 |
+| TensorFlow 教程（Hvass）.epub (19.34 MB) | jsdrive://118142-510e4718b76cfa3e |
+| MIT 线性代数笔记（子实）.pdf (1.46 MB) | jsdrive://118142-deb9a9c72acc03ae |
+| The Design and Analysis of Algorithms.pdf (188.75 KB) | jsdrive://118142-23a054616148da4d |
+| SSDB 数据库使用手册.epub (273.07 KB) | jsdrive://118142-256f156a49d08dc1 |
+| JavaScript 轻量级函数式编程.epub (597.77 KB) | jsdrive://118142-e730b0bfd7b9a48c |
+| 不周山之读薄 CSAPP.epub (4.35 MB) | jsdrive://118142-c606798db6417ea2 |
+| 精通 Omi 框架.epub (102.30 KB) | jsdrive://118142-762053b18589300e |
+| ECMAScript 6 入门（第三版）.epub (1.24 MB) | jsdrive://118142-f0274dd06c557a31 |
+| Revel 中文文档.epub (392.32 KB) | jsdrive://118142-f688ce53ddebcb6f |
+| 机器学习实战（ApacheCN）.pdf (6.47 MB) | jsdrive://118142-e5ab32c6beff2dc5 |
+| Photoshop 教程：必学技巧.epub (29.50 MB) | jsdrive://118142-faa4f96110523ece |
+| Kali Linux Revealed.pdf (3.94 MB) | jsdrive://118142-d547fe5c3e848562 |
+| Ember.js 参考文档.epub (399.83 KB) | jsdrive://118142-135ec9a8af193d24 |
+| 微信小程序开发文档.epub (8.08 MB) | jsdrive://118142-8a824251643d5723 |
+| HBuilder 使用教程.epub (3.19 MB) | jsdrive://118142-ef5aed19f1912e13 |
+| 笨办法学 Linux 中文版.epub (1.05 MB) | jsdrive://118142-c327187482c452f5 |
+| 以太坊黄皮书.pdf (493.26 KB) | jsdrive://118142-020be8f7c6531e51 |
+| HomeKit App 开发指南.epub (1.01 MB) | jsdrive://118142-36dfac2f22c7ad2d |
+| Chrome 开发工具指南.epub (13.77 MB) | jsdrive://118142-97df316ec177adb7 |
+| Fast.ai Computational Linear Algebra Textbook.pdf (5.87 MB) | jsdrive://118142-72caabc5b8a1ec4a |
+| Markdown 语法说明.epub (44.59 KB) | jsdrive://118142-9dddbf8a9770bed5 |
+| 通过例子学习 Go Web 编程.epub (23.26 KB) | jsdrive://118142-fb9e74e84874aaf5 |
+| 微信公众平台开发文档.epub (7.13 MB) | jsdrive://118142-b567e3371b4dd439 |
+| 演算法笔记 201710.epub (29.05 MB) | jsdrive://118142-509aec46cc71327f |
+| imobilebbs CodeSmith 教程.epub (1.01 MB) | jsdrive://118142-6d0be72040feadd6 |
+| CEH v8 Labs Module All-In-One.pdf (38.61 MB) | jsdrive://118142-d8176c833757b651 |
+| RiceQuant 量化教程.pdf (18.04 MB) | jsdrive://118142-11c71ea9fe9c47f8 |
+| Office技巧1000例.epub (13.12 MB) | jsdrive://118142-92aac92722603b94 |
+| 绿盟 Android APP 测试指南.pdf (2.11 MB) | jsdrive://118142-7ee1f23c312f0258 |
+| The Matrix Cookbook.pdf (676.45 KB) | jsdrive://118142-84ee591316a870c4 |
+| 以太坊白皮书.pdf (700.66 KB) | jsdrive://118142-5963479e52c3c5a1 |
+| Hadoop 笔记（PennyWong）.epub (2.14 MB) | jsdrive://118142-23f4d04b75443935 |
+| 统计思维：程序员数学之概率统计 · GitBook.url (89 B) | jsdrive://118142-db12c784af11297f |
+| Excel 教程：实用技巧系列.epub (2.32 MB) | jsdrive://118142-7a78905de6dd80a4 |
+| 绿盟 iOS APP 测试指南.pdf (2.73 MB) | jsdrive://118142-eae2ed187eefa3fd |
+| Dart 编码风格指南.epub (25.37 KB) | jsdrive://118142-a0b9e45fad9d2ca1 |
+| 高级Bash脚本编程指南 3.9.1.pdf (3.13 MB) | jsdrive://118142-8a09811041f82e00 |
+| 写给人类的机器学习.epub (6.28 MB) | jsdrive://118142-444da461479001b7 |
+| 探索 ES2016 与 ES2017.epub (93.77 KB) | jsdrive://118142-583f07baa8995201 |
+| CS for All.epub (1.38 MB) | jsdrive://118142-9d5faff11d8f87d1 |
+| 前端开发者指南（2017）.epub (5.16 MB) | jsdrive://118142-ce14b2842c89a87f |
+| 使⽤ MXNet Gluon 来动⼿学深度学习 0.4.pdf (4.65 MB) | jsdrive://118142-0f4f67b4bb96e834 |
+| Three.js 入门指南.epub (995.36 KB) | jsdrive://118142-ecb1ddfe38fe621b |
+| 一种针对特定网站类别的网页指纹识别方法 （南邮 CN105281973A）.pdf (1.12 MB) | jsdrive://118142-3b7721f85f47bff8 |
+| 斯坦福 CS183b YC 创业课文字版（创见）.epub (3.38 MB) | jsdrive://118142-4b824d418e77db0d |
+| 架构师之路（58沈剑）.epub (9.98 MB) | jsdrive://118142-7c778205ed9dd5d4 |
+| Analysis of Algorithms  Lecture Notes (Cornell CS6820).pdf (1.68 MB) | jsdrive://118142-6b75f9502becfb22 |
+| Sublime Text 中文文档、使用手册.epub (3.39 MB) | jsdrive://118142-b698e045773eedd7 |
+| Operating System Lecture Notes (MIT 6.828).pdf (1.68 MB) | jsdrive://118142-d47fd097086fcaca |
+| Serving Machine Learning Models.epub (886.75 KB) | jsdrive://118142-9f9867c0c802998b |
+| The Elements of Statistical Learning 2e.pdf (9.16 MB) | jsdrive://118142-9a4bc0cfcb9550e7 |
+| QmlBook 中文版.epub (6.33 MB) | jsdrive://118142-0e7d523192d54346 |
+| Java 编程思想.epub (1.01 MB) | jsdrive://118142-a6872c06272f89d7 |
+| Computational and Inferential Thinking (UCB Data8).epub (7.50 MB) | jsdrive://118142-6bab3d3c8859b8d2 |
+| A Brief Introduction to Machine Learning for Engineers.pdf (1.83 MB) | jsdrive://118142-842008e10e146160 |
+| Keras 中文文档.epub (5.22 MB) | jsdrive://118142-5f3b6bc9f654e60f |
+| 数据结构就该这样学.epub (3.63 MB) | jsdrive://118142-e099cc036d3d168b |
+| 支持向量机通俗导论（理解SVM的三层境界）Latex版.pdf (1.33 MB) | jsdrive://118142-8b69a85972f2a97e |
+| Calculus for Beginners (MIT).epub (295.32 KB) | jsdrive://118142-79374cd1531139db |
+| Scala 概述（瑞士洛桑联邦理工）.epub (246.29 KB) | jsdrive://118142-d5397e3c0a2897a2 |
+| MDN 文件 API 中文文档.epub (98.65 KB) | jsdrive://118142-5b42366648c0dc05 |
+| 《SciPy and NumPy》中文精要.pdf (1.38 MB) | jsdrive://118142-e8fe5fb1769e89fa |
+| Spring Boot 中文文档 1.5.2.epub (103.97 KB) | jsdrive://118142-e38be2fafd9e910f |
+| Computer Science Field Guide.epub (12.76 MB) | jsdrive://118142-c015e59ec158811f |
+| C 参考手册 2017.12.20.epub (2.14 MB) | jsdrive://118142-734e79b258616762 |
+| 区块链技术指南 0.9.0.epub (4.27 MB) | jsdrive://118142-d60adb24522fbef1 |
+| React In-depth.epub (321.09 KB) | jsdrive://118142-273816722963ca40 |
+| Python Data Science Handbook (Jupyter Notebook Version).pdf (20.85 MB) | jsdrive://118142-9fbd3bda9b4a8c86 |
+| An Introduction to Elm.epub (436.51 KB) | jsdrive://118142-7268841da0f0c636 |
+| DOM Enlightenment.epub (219.94 KB) | jsdrive://118142-27db0a32ed448231 |
+| 北京动力节点 Reyco郭 Spring4 SpringMVC4 Mybatis3 讲义.7z (18.37 MB) | jsdrive://118142-00a0be4fc3e0f264 |
+| 我的数学分析积木（修订版）.pdf (3.01 MB) | jsdrive://118142-9ff3ed44e2785951 |
+| Mastering Django Core.epub (1.76 MB) | jsdrive://118142-ba29983899f4af72 |
+| 2017阿里技术年度精选集.7z (12.59 MB) | jsdrive://118142-70775698cd0e1808 |
+| 增强学习导论中文版（RLAI）2~10.pdf (2.98 MB) | jsdrive://118142-a399a267c5a0b5a3 |
+| 非监督特征学习与深度学习 中文教程（UFLDL）.pdf (1.37 MB) | jsdrive://118142-e5ac94a8cabbb970 |
+| 安全客 2017 Q3.pdf (17.82 MB) | jsdrive://118142-400923d1b34cf907 |
+| 微软官方 F# 指南 20171224.epub (804.36 KB) | jsdrive://118142-a0867c6b8171c637 |
+| 轻松学习微积分（译言古登堡）.epub (6.19 MB) | jsdrive://118142-768d8915019fffb0 |
+| Tiny Python & ES6 Notebook.epub (316.31 KB) | jsdrive://118142-1a81dd032a6b671a |
+| Mininet 应用与源码剖析.epub (236.62 KB) | jsdrive://118142-d967b95512dbeaf1 |
+| React 入门教程.epub (212.80 KB) | jsdrive://118142-019d95af9fb81563 |
+| 深入 Python 编程 0.3（雨痕）.pdf (1.99 MB) | jsdrive://118142-e1b0e1f784a17442 |
+| Databricks Spark Reference Applications.epub (629.97 KB) | jsdrive://118142-2d7784936c444c48 |
+| 微软官方 VB  指南 20171224.epub (1.69 MB) | jsdrive://118142-bf18cf71870b37ae |
+| 微软官方 .NET 指南 20171224.epub (10.81 MB) | jsdrive://118142-70d42ea57fdaa9be |
+| TensorFlow 官方文档中文版.epub (5.50 MB) | jsdrive://118142-f069ed39563108cf |
+| Stanford CS109 Probability for Computer Scientists Lecture Notes.pdf (4.85 MB) | jsdrive://118142-c2da8f76a6df5a86 |
+| FPGA实战手册.pdf (9.09 MB) | jsdrive://118142-911fea202430b1fa |
+| 剑指 Offer 题解（JeanCheng）.epub (504.35 KB) | jsdrive://118142-6874f749a8cddd9a |
+| Spring MVC 4.2.4.RELEASE 中文文档.epub (380.06 KB) | jsdrive://118142-93605a54251a639d |
+| JavaScript Enlightenment.pdf (1.53 MB) | jsdrive://118142-1c51cc182a9914f7 |
+| Hyperledger 源码分析之 Fabric.epub (5.47 MB) | jsdrive://118142-6a713581a6be0e60 |
+| HBase 0.97 中文文档.epub (410.23 KB) | jsdrive://118142-0752b17830595618 |
+| MQTT协议中文版.epub (307.21 KB) | jsdrive://118142-c4b048b1b6704fb9 |
+| Zetcode PyQt4 教程.epub (473.42 KB) | jsdrive://118142-408f3d305dae1638 |
+| MDN Canvas API 中文文档 20171202.epub (970.42 KB) | jsdrive://118142-5ff56df0dbcf5318 |
+| Elasticsearch Java 手册.epub (151.20 KB) | jsdrive://118142-f60a2828795fd62c |
+| DeepLearningAI 笔记 v5.1（黄海广）.pdf (19.60 MB) | jsdrive://118142-d316f7bd5ae474df |
+| 微软官方 C# 指南 20171224.epub (3.18 MB) | jsdrive://118142-58189464ad485229 |
+| PyTorch 中文文档.epub (169.59 KB) | jsdrive://118142-88b933098c294735 |
+| SQL for Web Nerds.epub (925.81 KB) | jsdrive://118142-c96750be55ec2ee7 |
+| Spark 2.0.2 中文文档.epub (696.59 KB) | jsdrive://118142-a5e4480cba534fa2 |
+| C++ 参考手册 第三部分 2017.12.20.epub (3.15 MB) | jsdrive://118142-11eacdc9df66c952 |
+| Spring Cloud 教程（翟永超）.epub (1.55 MB) | jsdrive://118142-712bbd90f5dc820f |
+| OpenCV 官方教程中文版（Python）.pdf (6.24 MB) | jsdrive://118142-6ac2854451b418f6 |
+| Software Engineering for Internet Applications.epub (552.94 KB) | jsdrive://118142-b73c66ce7a05a016 |
+| 比特币开发者指南.epub (513.39 KB) | jsdrive://118142-aeb9fcf4cd56adc4 |
+| kafka 中文文档 0.10.0.epub (264.38 KB) | jsdrive://118142-5e79328dd300b62d |
+| MDN HTTP 中文文档 20171202.epub (4.22 MB) | jsdrive://118142-823c033c8bda996f |
+| C++ 参考手册 第二部分 2017.12.20.epub (3.85 MB) | jsdrive://118142-f344a7ddd3e966f7 |
+| Apache Kudu 1.4.0 中文文档.epub (704.56 KB) | jsdrive://118142-6303c6dd1d6497ee |
+| HTTP2 讲解.epub (1014.12 KB) | jsdrive://118142-68b27de44e2b360e |
+| Apache Zeppelin 0.7.2 中文文档.epub (3.34 MB) | jsdrive://118142-92de2360e21c648d |
+| Kibana 5.2 中文文档.epub (224.45 KB) | jsdrive://118142-b96987ba9e6bd0f2 |
+| Hadoop 2.7.1 中文文档.pdf (2.02 MB) | jsdrive://118142-679fa5d3966485d9 |
+| The Art of Data Science.epub (3.24 MB) | jsdrive://118142-075c7be20c02f8f7 |
+| 【spark论文】大型集群上的快速和通用数据处理架构（修正版）.pdf (2.03 MB) | jsdrive://118142-ee5305b93019af5d |
+| PHP7内核剖析.epub (3.20 MB) | jsdrive://118142-b97cc225f05ce6f1 |
+| 微软官方 .NET Core 指南 20171224.epub (3.32 MB) | jsdrive://118142-47c3d576f1344f8b |
+| Gainlo 面试指南.epub (178.65 KB) | jsdrive://118142-9cf8f9c0f1316e2a |
+| Elasticsearch 5.4 中文文档.epub (2.33 MB) | jsdrive://118142-be7ffc470c5c2668 |
+| OpenCV 中文文档.epub (1.64 MB) | jsdrive://118142-9fd21773669aabce |
+| Implementing a language with LLVM.epub (197.25 KB) | jsdrive://118142-cdeb9c13a5d45e70 |
+| React Bits 中文版.epub (116.79 KB) | jsdrive://118142-1474fa9d5782374c |
+| Reinforcement Learning An Introduction (Complete Draft).pdf (5.99 MB) | jsdrive://118142-4c0d29a01b0d3e1f |
+| Java for small teams.epub (1.58 MB) | jsdrive://118142-13083ae3e118fcf7 |
+| React Enlightenment.epub (442.73 KB) | jsdrive://118142-65838a16ebe0880b |
+| 利用 Python 进行数据分析 第二版 中文精要.pdf (7.47 MB) | jsdrive://118142-381bbfab82a1c0cc |
+| C++ 参考手册 第一部分 2017.12.20.epub (4.36 MB) | jsdrive://118142-29afa471e608d442 |
+| MongoDB 3.4 中文文档 2017.5.6.epub (6.06 MB) | jsdrive://118142-06997a7e1c13910c |
+| TypeScript Deep Dive.epub (966.45 KB) | jsdrive://118142-8af4e0f2e8c8ce22 |
+| SymPy 1.1.1 documentation.epub (1.15 MB) | jsdrive://118142-fafbe7df0030007e |
+| 系统设计入门.epub (3.70 MB) | jsdrive://118142-e5ad9fd654699d4f |
+| C++ Best Practices.epub (70.26 KB) | jsdrive://118142-ba9be1681927fba8 |
+| OpenCL 2.0 异构计算中文第三版.epub (14.42 MB) | jsdrive://118142-a46264b71db8acc4 |
+| 安全客 2017 Q2.pdf (16.34 MB) | jsdrive://118142-c74dd6b308d08492 |
+| Storm 1.1.0 中文文档.epub (4.24 MB) | jsdrive://118142-af18bde35d2ade7f |
+| PHP2Python API 参考 2017.9.25.epub (494.03 KB) | jsdrive://118142-67d99bf9314034a0 |
+| Java API 版本的Vert.x Core 手册.epub (118.12 KB) | jsdrive://118142-46ea8bcb6820cff9 |
+| Spring Boot 入门教程（翟永超）.epub (651.43 KB) | jsdrive://118142-c22bba0310d300c5 |
