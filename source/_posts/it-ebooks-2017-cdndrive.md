@@ -1017,3 +1017,541 @@ cdrive download <link>
 | PHP2Python API 参考 2017.9.25.epub (494.03 KB) | bjdrive://c9d7efb2d763016c690b9de4470c85d3 |
 | Java API 版本的Vert.x Core 手册.epub (118.12 KB) | bjdrive://89c83c6a7546daaff6a4d1bdbd8f089d |
 | Spring Boot 入门教程（翟永超）.epub (651.43 KB) | bjdrive://7077510f099033f5720474b8d35f0fb8 |
+
+<!--csdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| 斯坦福 cs224d 深度学习与自然语言处理讲义.epub (2.87 MB) | csdrive://20200405210257125 |
+| Matplotlib 用户指南.epub (4.67 MB) | csdrive://2020040521030760 |
+| OllyDbg 完全教程.pdf (617.28 KB) | csdrive://20200405210313926 |
+| Exploring ES6.epub (1.83 MB) | csdrive://20200405210326712 |
+| 商朝子的解密入门教学.epub (396.44 KB) | csdrive://20200405210332819 |
+| 阿里巴巴 Java 开发手册（正式版）.pdf (962.31 KB) | csdrive://2020040521034159 |
+| T00ls技术文章350篇.7z (503.69 KB) | csdrive://20200405210347286 |
+| R4ndom 破解教程翻译 1~20a by QQSniper.pdf (17.63 MB) | csdrive://20200405210412338 |
+| 漏洞利用的艺术：攻击JavaScript引擎.pdf (277.10 KB) | csdrive://20200405210416625 |
+| Aircrack-ng 教程及文档（部分）.epub (201.40 KB) | csdrive://20200405210420683 |
+| 从逆向工程的角度来看 C++（看雪）.epub (35.54 KB) | csdrive://20200405210423573 |
+| Matplotlib 入门教程.epub (5.34 MB) | csdrive://20200405210435903 |
+| IDA Pro 5.4 中文帮助手册.chm (508.36 KB) | csdrive://20200405210441473 |
+| 使用 OllyDbg 从零开始 Cracking.epub (42.40 MB) | csdrive://20200405210607933 |
+| Metasploit 新手指南.pdf (8.08 MB) | csdrive://20200405210631237 |
+| OllyDbg 中文帮助手册 2.0.1.pdf (5.71 MB) | csdrive://20200405210641239 |
+| Django 中文文档 1.8 20170215.epub (2.03 MB) | csdrive://20200405210648106 |
+| 斯坦福 CS229 机器学习讲义英文版（全）.pdf (2.19 MB) | csdrive://20200405210655127 |
+| 社工研究组文章整理 2017.2.23.epub (15.64 MB) | csdrive://20200405210717101 |
+| 斯坦福 CS229 机器学习讲义中文版 1~5.pdf (2.31 MB) | csdrive://20200405210723513 |
+| Exploit 编写系列教程 1 ~ 11.pdf (12.59 MB) | csdrive://20200405210737477 |
+| MDN JavaScript 参考文档 2017.2.6.epub (4.49 MB) | csdrive://2020040521102377 |
+| Exploring ES2016 and ES2017.epub (66.64 KB) | csdrive://20200405211026246 |
+| CTF Writeups 2016.9.29.epub (11.57 MB) | csdrive://20200405211040616 |
+| NumPy 中文文档 1.11 20170215.epub (4.03 MB) | csdrive://20200405211052891 |
+| 安全客 2016 年刊.7z (37.55 MB) | csdrive://20200405211127297 |
+| 吾爱破解『我是用户』破解实战.epub (1.66 MB) | csdrive://20200405211145660 |
+| Python 之旅.epub (1.61 MB) | csdrive://20200405211154278 |
+| Rails 指南.epub (1.92 MB) | csdrive://20200405211203355 |
+| 软件构建实践 0.1.epub (2.03 MB) | csdrive://20200405211213430 |
+| Go 简易教程.epub (115.13 KB) | csdrive://20200405211216917 |
+| 安全档案 第二期.pdf (10.37 MB) | csdrive://20200405211231275 |
+| 乌云月爆（全十期）.7z (37.86 MB) | csdrive://20200405211346420 |
+| 软件漏洞分析入门专题.epub (2.30 MB) | csdrive://20200405211356427 |
+| problem-solving-with-algorithms-and-data-structure-using-python 中文版.epub (8.21 MB) | csdrive://20200405211441679 |
+| Scikit Learn 官方文档：示例.epub (1.87 MB) | csdrive://20200405211451747 |
+| SQLAlchemy 1.1 Documentation.epub (1.90 MB) | csdrive://20200405211502135 |
+| c_cpp_ref_html_book_20161029.zip (29.38 MB) | csdrive://20200405211548775 |
+| Windows Exploit 开发教程（Massimiliano Tomassoli）.epub (8.78 MB) | csdrive://20200405211623381 |
+| 法克论坛一周年提权文集.pdf (5.21 MB) | csdrive://20200405211643905 |
+| 新手指南：DVWA 1.9 全级别教程.epub (12.96 MB) | csdrive://2020040521172076 |
+| 逆向工程入门指南.epub (13.30 MB) | csdrive://20200405211817978 |
+| Spring-Data-Elasticsearch 中文文档.epub (84.61 KB) | csdrive://20200405211821441 |
+| 斯坦福机器学习个人笔记 v4.2 - 黄海广.pdf (11.30 MB) | csdrive://20200405211929352 |
+| CEH v9 Links.7z (683 B) | csdrive://2020040521193284 |
+| TIPI：深入理解PHP内核.pdf (1.95 MB) | csdrive://20200405211954587 |
+| 邪恶八进制技术黑皮书第4版.chm (19.40 MB) | csdrive://20200405212143636 |
+| Microsoft可移植可执行文件和通用目标文件格式文件规范.pdf (1.39 MB) | csdrive://20200405212149113 |
+| theano Documentation 0.8.2.pdf (2.53 MB) | csdrive://20200405212202122 |
+| FuzzySecurity Windows Exploit 开发系列教程 1 ~ 8.epub (9.26 MB) | csdrive://20200405212406271 |
+| Scapy 中文文档.epub (728.57 KB) | csdrive://20200405212413126 |
+| Programming Languages Application and Interpretation.epub (276.89 KB) | csdrive://20200405212417607 |
+| Shark恒零基础破解教程之图文版.epub (3.77 MB) | csdrive://20200405212515960 |
+| Linux命令全集（Linhan）.pdf (1.76 MB) | csdrive://20200405185353293 |
+| Java 培训教程（千峰教育）.pdf (4.44 MB) | csdrive://20200405185415225 |
+| VS2010 MFC编程入门（鸡啄米）.pdf (13.62 MB) | csdrive://20200405185421691 |
+| 3天入门MySQL（千峰教育）.epub (3.10 MB) | csdrive://20200405185427916 |
+| PHP5面向对象初步（刀客羽朋）.pdf (4.93 MB) | csdrive://20200405185434307 |
+| 深入浅出MySQL数据库开发、优化与管理维护（网易）.pdf (661.69 KB) | csdrive://20200405185437956 |
+| 辛星 PHP 系列教程 2014（十一本）.zip (43.91 MB) | csdrive://20200405185508838 |
+| MySQL 5.5 新特性详解及参数优化 蓝皮书.pdf (2.45 MB) | csdrive://20200405185514309 |
+| java并发的艺术（InfoQ）.pdf (3.40 MB) | csdrive://20200405185522108 |
+| 辛星 JDBC、MyBatis、Spring、Yaf、LESS、Symfony、Markdown、SQLite、Codeigniter 教程 2016.zip (14.79 MB) | csdrive://20200405185530818 |
+| Linux菜鸟过关 v3.0.pdf (642.19 KB) | csdrive://20200405185534579 |
+| 高级Bash脚本编程指南 3.9.1 (杨春敏 黄毅 译).pdf (2.68 MB) | csdrive://20200405185540541 |
+| ejb 3.0 实例教程（黎活明）.pdf (1.53 MB) | csdrive://20200405185545230 |
+| java工程师实例参考手册（廖清远）.pdf (799.34 KB) | csdrive://20200405185549128 |
+| C++Primer第4版课后习题解答(第1-18章)完整版.pdf (3.17 MB) | csdrive://2020040518555598 |
+| 辛星 MySQL、Linux、Node、Nginx、Redis、CouchDB、Git 教程 2015.zip (49.80 MB) | csdrive://20200405185618973 |
+| c++课程讲义（传智扫地僧）.pdf (6.08 MB) | csdrive://20200405185627869 |
+| C++编程入门系列（鸡啄米）.pdf (1.05 MB) | csdrive://20200405185635212 |
+| C++ Qt5 范例开发大全.pdf (2.83 MB) | csdrive://20200405185644153 |
+| Python 自然语言处理 第二版 20170304.epub (14.61 MB) | csdrive://20200405185653852 |
+| PHP内核介绍及扩展开发指南.pdf (441.01 KB) | csdrive://20200405185657249 |
+| PHP教程从零开始学设计模式（千峰教育）.pdf (640.46 KB) | csdrive://20200405185700935 |
+| YAF 用户手册.epub (313.83 KB) | csdrive://20200405185704121 |
+| Getting Started with Storm 中文版.pdf (1.60 MB) | csdrive://20200405185709124 |
+| PyQt4 精彩实例分析.pdf (1.82 MB) | csdrive://20200405185714389 |
+| linux系统管理手册0.6.1.pdf (522.73 KB) | csdrive://2020040518571832 |
+| Theano 中文文档 0.9 20170304.epub (4.75 MB) | csdrive://20200405185725738 |
+| 辛星 web 前端系列教程 2014（九本）.zip (15.29 MB) | csdrive://20200405185734117 |
+| WordPress 主题教程.pdf (1.14 MB) | csdrive://20200405185743773 |
+| 数据结构与算法 Java 版（周鹏）.pdf (1.94 MB) | csdrive://20200405185752920 |
+| MySQL存储过程编程（1~5）.pdf (2.22 MB) | csdrive://20200405185759515 |
+| JavaScript 教程（YYM）.pdf (948.17 KB) | csdrive://2020040518580419 |
+| JavaScript基础教程（张陈斌）.pdf (3.41 MB) | csdrive://20200405185822847 |
+| 设计模式精解－GoF 23种设计模式解析附C++实现源码.pdf (1.64 MB) | csdrive://20200405185827617 |
+| PHP 调试技术手册.pdf (1.90 MB) | csdrive://20200405185833189 |
+| PHP设计模式范例.epub (957.69 KB) | csdrive://20200405185837756 |
+| java基础教程（Java快车）.pdf (2.12 MB) | csdrive://20200405185843455 |
+| Java面向对象程序设计（？）.pdf (1.71 MB) | csdrive://20200405185848840 |
+| MySQL 基础教程（大漠孤烟）.pdf (1.60 MB) | csdrive://20200405185854180 |
+| Java基础教程（李兴华）.pdf (2.15 MB) | csdrive://20200405185919595 |
+| 开源 PHP 开发框架 Yii 全方位教程.pdf (637.63 KB) | csdrive://20200405185926510 |
+| 易学C++（第一版）.pdf (2.25 MB) | csdrive://20200405185935624 |
+| Caffe官方教程中译本 CaffeCN社区翻译.pdf (1.48 MB) | csdrive://20200405185941394 |
+| 笨兔兔的故事.pdf (1.48 MB) | csdrive://20200405185947113 |
+| C++ 基础教程 Beta 版（Juan Soulie）.pdf (917.93 KB) | csdrive://2020040518595237 |
+| WordPress 高级教程（晋级版）.pdf (578.29 KB) | csdrive://20200405185957550 |
+| 为生物信息学设计的Python教程.epub (2.99 MB) | csdrive://20200405190007875 |
+| PHP 完全中文手册（sadly）.epub (1.29 MB) | csdrive://2020040519001358 |
+| 挑战30天C++入门极限.pdf (3.11 MB) | csdrive://20200405190020246 |
+| linux零基础初级教程（红联）.pdf (285.91 KB) | csdrive://20200405190023518 |
+| 高质量 C C++ 编程指南（林锐）.pdf (563.06 KB) | csdrive://20200405190027249 |
+| 史上最强的 WordPress 初级-中级-高级教程.pdf (1.51 MB) | csdrive://20200405190032151 |
+| C#编程语言与面向对象基础精简教程（金旭亮）.pdf (1.07 MB) | csdrive://20200405190036613 |
+| 辛星 python 系列教程 2014（九本）.zip (24.81 MB) | csdrive://20200405190051839 |
+| Python学习笔记（王纯业）.pdf (2.15 MB) | csdrive://20200405190056666 |
+| GDI+ SDK参考（翻译版本）.pdf (1.92 MB) | csdrive://20200405190101690 |
+| 北航 991 数据结构与C语言 1998~2015 真题.pdf (5.38 MB) | csdrive://20200405190108933 |
+| MySQL 5.0存储过程.pdf (2.12 MB) | csdrive://20200405190113607 |
+| Linux操作系统下C语言编程入门（007xiong）.pdf (540.37 KB) | csdrive://20200405190117100 |
+| 北航数据结构、组成原理、操作系统、计算机网络课件.7z (26.34 MB) | csdrive://20200405190142439 |
+| MySQL性能调优与架构设计（JesseLZJ）.epub (5.84 MB) | csdrive://20200405190151189 |
+| Biopython 教程与手册.epub (3.32 MB) | csdrive://20200405190157953 |
+| 30 天学习 30 种新技术系列.epub (5.45 MB) | csdrive://20200405190205123 |
+| Linux基础命令教程豪华版.pdf (1.45 MB) | csdrive://20200405190209714 |
+| OpenCV入门教程（于仕琪）.pdf (1.80 MB) | csdrive://20200405190214803 |
+| C++程序设计课程学习（希赛教育）.pdf (5.37 MB) | csdrive://20200405190220418 |
+| Python基础教程(crossin全60课).pdf (2.72 MB) | csdrive://20200405190226298 |
+| Python精要参考第二版.pdf (678.66 KB) | csdrive://2020040519023025 |
+| GTK+程序设计中文版.pdf (2.38 MB) | csdrive://20200405190235168 |
+| Java SE 6 类库查询手册（龙马工作室）.pdf (12.89 MB) | csdrive://20200405190241820 |
+| 深度学习教程 0.1（LISA 实验室）20170304.epub (929.47 KB) | csdrive://20200405190245846 |
+| 7天学会PHP（千峰教育）.epub (17.35 MB) | csdrive://20200405190308109 |
+| Linux 运维入门到高级全套系列.pdf (4.54 MB) | csdrive://20200405190314930 |
+| 深入浅出设计模式（AI92）.pdf (1.19 MB) | csdrive://2020040519031981 |
+| Java面试宝典2016版.pdf (1.20 MB) | csdrive://20200405190323459 |
+| Java问题定位技术.pdf (3.13 MB) | csdrive://20200405190329940 |
+| 常用数据挖掘算法总结及Python实现.pdf (5.71 MB) | csdrive://20200405190337189 |
+| linux常用命令集（知博网）.pdf (622.32 KB) | csdrive://2020040519034115 |
+| C++ 库函数查询手册（龙马工作室）.pdf (4.19 MB) | csdrive://20200405190346989 |
+| 随机过程讲义（南开大学）.pdf (1.21 MB) | csdrive://20200405183813840 |
+| 概率论与数理统计习题参考解答（西安邮电）.pdf (1.09 MB) | csdrive://20200405183817510 |
+| 科大概率统计讲义（USTC 概率统计教研室）.pdf (2.43 MB) | csdrive://20200405183821774 |
+| Algorithmic Game Theory Lecture Notes (Cornell CS6840).pdf (4.92 MB) | csdrive://20200405183826864 |
+| 神经网络与深度学习.pdf (3.92 MB) | csdrive://20200405183831544 |
+| Advanced Algorithms Lecture Notes (MIT 6.854J).pdf (1.36 MB) | csdrive://20200405183835259 |
+| 高等数学讲义之积分表公式推导（Daniel Lau）.pdf (1.57 MB) | csdrive://20200405183839173 |
+| Machine Learning for Natural Language Processing Lecture Notes (Columbia E6998).pdf (1.06 MB) | csdrive://20200405183842891 |
+| Introduction to Analysis of Algorithms Lecture Notes (Cornell CS4820).pdf (329.29 KB) | csdrive://20200405183846111 |
+| Intuitionistic Type Theory.pdf (672.45 KB) | csdrive://20200405183849503 |
+| Static Program Analysis.pdf (474.59 KB) | csdrive://20200405183852888 |
+| Software Analysis and Design I Lecture Notes (CUNY CSci135).pdf (4.14 MB) | csdrive://20200405183857333 |
+| Algorithms for Big Data Lecture Notes (Harvard CS229r).pdf (4.95 MB) | csdrive://20200405183902314 |
+| 线性代数讲义（武汉大学 马涛）.pdf (855.58 KB) | csdrive://20200405183905753 |
+| Notes on Programming (Alexander Stepanov).pdf (914.61 KB) | csdrive://20200405183909141 |
+| Programming Languages Lecture Notes (Washington CSE341).pdf (1.76 MB) | csdrive://20200405183913111 |
+| Introduction to Algorithms Lecture Notes (MIT 6.006).pdf (18.19 MB) | csdrive://20200405183921308 |
+| Deep Learning Methods and Application.pdf (8.93 MB) | csdrive://20200405183926540 |
+| 换个角度看线性代数（风萧萧）.pdf (4.81 MB) | csdrive://20200405183931235 |
+| Theoretical Machine Learning Lecture Notes (Princeton COS511).pdf (3.99 MB) | csdrive://20200405183936327 |
+| Compiler Design Lecture Notes (CMU 15-411).pdf (4.52 MB) | csdrive://2020040518394113 |
+| 高等数学（CCP Maths 165）.pdf (738.61 KB) | csdrive://20200405183944405 |
+| Random Algorithm (Sariel Har-Peled).pdf (5.02 MB) | csdrive://20200405183949427 |
+| Vectors, Matrices, and Least Squares (Stanford EE103).pdf (6.41 MB) | csdrive://20200405183954488 |
+| Algorithms Jeff Erickson (UIUC CS473 573).pdf (10.63 MB) | csdrive://20200405184010699 |
+| UCB CS61AS SICP with Racket.epub (1.59 MB) | csdrive://20200405184014644 |
+| Quantum Computing Lecture Notes (Amsterdam).pdf (820.79 KB) | csdrive://20200405184018273 |
+| Homotopy Type Theory Lecture Notes (CMU 15-819).pdf (3.03 MB) | csdrive://20200405184033538 |
+| 线性代数总结与复习（武汉大学 黄正华）.pdf (1.81 MB) | csdrive://20200405184037497 |
+| Design and Analysis of Algorithms Lecture Notes (MIT 6.046J).pdf (3.20 MB) | csdrive://2020040518404293 |
+| Learning Deep Architectures for AI 中文版.pdf (1.68 MB) | csdrive://2020040518404631 |
+| 概率论与数理统计讲义（复旦 徐勤丰） .pdf (728.55 KB) | csdrive://20200405184049427 |
+| Software Design and Analysis II Lecture Notes (CUNY CSci235).pdf (2.15 MB) | csdrive://20200405184053424 |
+| Static Program Analysis Reading List (UCLA CS232).pdf (7.87 MB) | csdrive://20200405184058561 |
+| Aukland COMPSCI 111 Practical Computing Reference Manual.pdf (8.43 MB) | csdrive://20200405184103792 |
+| 数学之美、浪潮之巅（谷歌黑板报）.epub (1.33 MB) | csdrive://20200405184107505 |
+| 北航 961 计算机综合 2015 真题.pdf (1.72 MB) | csdrive://20200405184111461 |
+| Natural Language Processing  Lecture Notes (Columbia CS4705).pdf (1.73 MB) | csdrive://20200405184115649 |
+| Statistical Learning Theory Lecture Notes (Stanford CS229t).pdf (1.18 MB) | csdrive://2020040518412066 |
+| Software Design and Analysis III Lecture Notes (CUNY CSci335).pdf (2.18 MB) | csdrive://20200405184124709 |
+| A Second Course in Algorithms Lecture Notes (Stanford CS261).pdf (5.95 MB) | csdrive://20200405184131100 |
+| Overcoming Intractability in Machine Learning Lecture Notes (Princeton COS598D).pdf (925.18 KB) | csdrive://20200405184134961 |
+| Building Blocks for Theoretical Computer Science (UIUC CS173).pdf (1.14 MB) | csdrive://20200405184139558 |
+| Quantum Computation Lecture Notes (Caltech CS219).pdf (3.54 MB) | csdrive://20200405184146186 |
+| Advanced Data Flow Analysis Lecture Notes (Cambridge L111).pdf (332.19 KB) | csdrive://20200405184149337 |
+| xv6 中文文档.epub (888.72 KB) | csdrive://20200405184153417 |
+| Programming and Programming Languages (Brown Univ).epub (5.90 MB) | csdrive://20200405184211400 |
+| Great Ideas in Theoretical Computer Science Lecture Notes (MIT 6.045).pdf (2.56 MB) | csdrive://2020040518421729 |
+| Pandas 0.19.2 中文文档 20170305.epub (6.56 MB) | csdrive://20200405184224136 |
+| The Datacenter as a Computer.pdf (2.76 MB) | csdrive://20200405184229532 |
+| SICP 2e (MIT 6.001).epub (3.15 MB) | csdrive://20200405184235657 |
+| 神经网络与深度学习讲义（复旦 邱锡鹏）.pdf (695.57 KB) | csdrive://20200405184239263 |
+| Introduction to Scientific Computing Lecture Notes (Cornell CS3220).pdf (3.86 MB) | csdrive://20200405184245916 |
+| 随机过程讲义（中科院 孙应飞）.pdf (2.26 MB) | csdrive://2020040518425155 |
+| Convex Optimization (Stanford CVX101).pdf (5.73 MB) | csdrive://20200405184306238 |
+| Operating Systems - Three Easy Pieces.pdf (4.79 MB) | csdrive://20200405184317541 |
+| 北航计算机复试上机真题 2006~2016.pdf (330.74 KB) | csdrive://20200405184320662 |
+| MARKOV CHAIN MONTE CARLO FOUNDATIONS & APPLICATIONS Lecture Notes (UCB CS294).pdf (3.15 MB) | csdrive://20200405184326796 |
+| Algorithms for Big Data Lecture Notes (UIUC CS598CSC).pdf (1.81 MB) | csdrive://20200405184331685 |
+| Quantum algorithms Lecture Notes (Waterloo CO781).pdf (3.30 MB) | csdrive://20200405184337838 |
+| Operating Systems and Middleware - Supporting Controlled Interaction.pdf (2.74 MB) | csdrive://20200405184343276 |
+| Mining Massive Data Sets Reading Material (Stanford CS246).pdf (3.41 MB) | csdrive://20200405184349479 |
+| Advanced Data Structures Lecture Notes (MIT 6.851).pdf (2.29 MB) | csdrive://20200405184354412 |
+| Parch 学习笔记系列（十七本）.zip (81.25 MB) | csdrive://2020040518443165 |
+| Deep Learning in Neural Networks - An Overview.pdf (1.11 MB) | csdrive://20200405184434701 |
+| 应用概率统计基础及算法（于江生）.pdf (8.57 MB) | csdrive://20200405184441505 |
+| Probabilistic Graphical Models Lecture Notes (CMU 10.708).pdf (25.41 MB) | csdrive://20200405184505230 |
+| Algorithmic Aspects of Machine Learning (MIT 18.409).pdf (913.42 KB) | csdrive://2020040518450997 |
+| 传智播客 mybatis 框架课程讲义.pdf (1.16 MB) | csdrive://20200405184513199 |
+| Algebraic Graph Algorithms Lecture Notes (Stanford CS367).pdf (1.58 MB) | csdrive://20200405184517823 |
+| Algorithms & Models of Computation Lecture Notes (UIUC CS374).pdf (10.38 MB) | csdrive://20200405184524728 |
+| Approximation Algorithms Lecture Notes (UIUC CS598CSC).pdf (1.72 MB) | csdrive://20200405184529397 |
+| Theory of Quantum Information.pdf (2.07 MB) | csdrive://20200405184534554 |
+| Program Analysis Lecture Notes (CMU 15-819O).pdf (1.42 MB) | csdrive://20200405184538942 |
+| 线性代数的几何意义--图解线性代数.pdf (3.19 MB) | csdrive://20200405184544402 |
+| Programming Languages and Logics Lecture Notes (Cornell CS4110).pdf (2.46 MB) | csdrive://20200405184549794 |
+| Generic Programming with Adjunctions.pdf (665.00 KB) | csdrive://20200405184553402 |
+| Foundations of Programming Languages Lecture Notes (CMU 15-312).pdf (2.71 MB) | csdrive://20200405184558858 |
+| Combinatorial Optimization Lecture Notes (UIUC CS598CSC).pdf (3.60 MB) | csdrive://2020040518460576 |
+| Advanced Algorithm Design Lecture Notes (Princeton COS521).pdf (11.39 MB) | csdrive://20200405184622996 |
+| Computer System Engineering Lecture Notes (MIT 6.033).pdf (738.38 KB) | csdrive://20200405184626627 |
+| Combinatorial Optimization Lecture Notes (MIT 18.433).pdf (1.56 MB) | csdrive://20200405184631261 |
+| Dynamic Systems and Control Lecture Notes (MIT 6.241J).pdf (15.32 MB) | csdrive://20200405182543409 |
+| 常微分方程（冯巍）.pdf (3.29 MB) | csdrive://20200405182550219 |
+| Introduction to EECS II Digital Communication Systems (MIT 6.02).pdf (14.37 MB) | csdrive://20200405182614469 |
+| Exploiting Format String Vulnerabilities.pdf (228.89 KB) | csdrive://20200405182618175 |
+| Windows编程入门：Windows程序设计1小时入门教程.epub (637.16 KB) | csdrive://20200405182623688 |
+| 偏微分方程简明教程（ZJU）.pdf (557.47 KB) | csdrive://20200405182628945 |
+| MFC入门教程：1天深入浅出MFC.epub (995.02 KB) | csdrive://20200405182635676 |
+| Introduction to Probability (Dartmouth).pdf (3.06 MB) | csdrive://20200405182645530 |
+| Introduction to Nanoelectronics (MIT 6.701).pdf (6.50 MB) | csdrive://20200405182704841 |
+| 深度学习中文版（dlbook） v0.5b.7z (13.06 MB) | csdrive://20200405182714639 |
+| Principles of Computer System Design An Introduction Part II (MIT 6.004).pdf (4.18 MB) | csdrive://20200405182722390 |
+| Introduction to Information Retrieval.pdf (6.44 MB) | csdrive://20200405182733368 |
+| C C++ socket编程教程：1天玩转socket通信技术.epub (366.23 KB) | csdrive://20200405182737261 |
+| Programming Languages Lecture Notes (NEU CS4400).epub (164.37 KB) | csdrive://20200405182740528 |
+| Functional Programming Lecture Notes (Chicago CS223).epub (279.71 KB) | csdrive://20200405182744215 |
+| Data Structures and Object Oriented Design Lecture Notes (USC CSCI104).pdf (1.31 MB) | csdrive://20200405182749664 |
+| Computational Biology (MIT 6.047).pdf (17.48 MB) | csdrive://20200405182802542 |
+| 数据结构教程（C语言编程网）.epub (5.08 MB) | csdrive://20200405182810440 |
+| 偏微分方程讲义（张振宇）.pdf (835.82 KB) | csdrive://20200405182814842 |
+| Introduction to Arithmetic Geometry Lecture Notes (MIT 18.782).pdf (16.90 MB) | csdrive://20200405182828114 |
+| coolfire黑客入门8篇.pdf (622.28 KB) | csdrive://20200405182833645 |
+| 编程随想博客匿名术文集 2009~2015.epub (3.31 MB) | csdrive://20200405182855270 |
+| 操作系统教程（C语言编程网）.epub (3.25 MB) | csdrive://20200405182902881 |
+| Mathematics for Computer Science (MIT 6.042J).pdf (5.92 MB) | csdrive://20200405182910736 |
+| Transition to OO Programming Lecture Notes (Cornell CS1130).pdf (6.45 MB) | csdrive://202004051829181 |
+| The Scheme Programming Language 4e.epub (395.76 KB) | csdrive://20200405182921402 |
+| Electromagnetics and Applications Lecture Notes (MIT 6.013).pdf (5.35 MB) | csdrive://20200405182928307 |
+| Signals and Systems Lecture Notes (MIT 6.003).pdf (948.82 KB) | csdrive://20200405182932286 |
+| The Art of Approximation in Science and Engineering Lecture Notes (MIT 6.055J).pdf (1.18 MB) | csdrive://20200405182936209 |
+| 三月机器学习在线班笔记（frank_shaw）.pdf (8.18 MB) | csdrive://20200405182943295 |
+| 正则表达式教程：30分钟让你精通正则表达式语法.epub (165.99 KB) | csdrive://20200405182946196 |
+| Introduction to Communication, Control, and Signal Processing Lecture Notes (MIT 6.011).pdf (3.25 MB) | csdrive://20200405182951925 |
+| Real-Time Programming Lecture Notes (Waterloo CS452).epub (133.60 KB) | csdrive://20200405182954803 |
+| Operating Systems Lecture Notes (UMD CMSC412).txt (179.36 KB) | csdrive://20200405182957737 |
+| UIUC Crowd-Sourced System Programming Book.epub (3.46 MB) | csdrive://20200405183004206 |
+| Data Structures and Functional Programming Lecture Notes (Cornell CS3110).epub (270.10 KB) | csdrive://20200405183007331 |
+| Introduction to Electric Power Systems Lecture Notes (MIT 6.061).pdf (4.16 MB) | csdrive://2020040518301460 |
+| Introduction to Theory of Computing Lecture Notes (Cornell CS4810).pdf (1.15 MB) | csdrive://20200405183018204 |
+| 单片机教程（C语言编程网）.epub (8.77 MB) | csdrive://20200405183025390 |
+| Software Foundations.epub (660.17 KB) | csdrive://202004051830295 |
+| Advanced Topics in Compilers Reading List (Stanford CS343).pdf (11.68 MB) | csdrive://20200405183036391 |
+| Advanced Topics in Computer Systems Lecture Notes (UCB CS262A).pdf (2.93 MB) | csdrive://2020040518304263 |
+| Web Hacking 101 中文版.epub (1.68 MB) | csdrive://20200405183046721 |
+| Operating Systems Lecture Notes (Stanford CS140).epub (56.95 KB) | csdrive://20200405183049352 |
+| 关于C++编程的42条建议.pdf (1.47 MB) | csdrive://20200405183053756 |
+| Programming Practice Tutorials (KAIST CS109).epub (1.11 MB) | csdrive://2020040518305898 |
+| Graduate Computer Graphics (NYU CSCI-GA.2270-001).epub (1.80 MB) | csdrive://20200405183102988 |
+| Distributed Systems Engineering Lecture notes (MIT 6.824).epub (261.19 KB) | csdrive://20200405183106125 |
+| MATLAB Tutorial (MIT 10.34).pdf (188.88 KB) | csdrive://2020040518310959 |
+| 深入学习Web安全（万年死宅）.epub (4.45 MB) | csdrive://20200405183115821 |
+| Ultrafast Optics Lecture Notes (MIT 6.977).pdf (8.58 MB) | csdrive://20200405183122906 |
+| MySQL 教程（C语言中文网）.epub (933.24 KB) | csdrive://20200405183126819 |
+| Abstract Interpretation.epub (35.44 KB) | csdrive://20200405183129249 |
+| Category Theory for Scientists  (MIT 18.S996).pdf (4.16 MB) | csdrive://20200405183135723 |
+| How to Design Programs, Second Edition.epub (2.79 MB) | csdrive://20200405183141394 |
+| Linux Shell脚本教程：30分钟玩转Shell脚本编程.epub (40.62 KB) | csdrive://2020040518314437 |
+| Discrete Stochastic Processes Lecture Notes (MIT 6.262).pdf (6.39 MB) | csdrive://20200405183150962 |
+| Electronic Feedback Systems (MIT 6.010).pdf (11.44 MB) | csdrive://20200405183158284 |
+| Software Design and Implementation Lecture Notes (Washington CSE331).epub (359.97 KB) | csdrive://20200405183201402 |
+| Inventions and Patents Lecture Notes (MIT 6.901).pdf (3.17 MB) | csdrive://20200405183207382 |
+| Web Hacking 101.pdf (5.89 MB) | csdrive://20200405183214300 |
+| Software Construction Lecture Notes (MIT 6.005).epub (3.05 MB) | csdrive://20200405183231137 |
+| black Hat 议题摘要翻译.epub (373.86 KB) | csdrive://20200405183234250 |
+| Architecture of a Database System.pdf (909.54 KB) | csdrive://20200405183238129 |
+| Linux 系统运维系列（unixhot）.7z (2.37 MB) | csdrive://20200405183243525 |
+| Information and Entropy (MIT 6.050J).pdf (4.41 MB) | csdrive://2020040518325047 |
+| 北航编译原理课件.pdf (7.29 MB) | csdrive://20200405183256541 |
+| Street-Fighting Mathematics Lecture Notes (MIT 6.009).pdf (1.09 MB) | csdrive://20200405183300417 |
+| 偏微分方程引论（翟健）.pdf (611.04 KB) | csdrive://20200405183303794 |
+| Functional Systems In Haskell Lecture Notes(Stanford CS240h).epub (745.82 KB) | csdrive://20200405183307431 |
+| 米斯特白帽培训讲义 v1.5.epub (8.85 MB) | csdrive://20200405183314513 |
+| 如何学python（李三思）.epub (2.16 MB) | csdrive://20200405183319669 |
+| Advanced Topics in Computer Systems Reading List (UCB CS262A).pdf (33.05 MB) | csdrive://20200405183335855 |
+| Type Systems（Luca Cardelli）.pdf (286.61 KB) | csdrive://20200405180411974 |
+| 数据挖掘开源书（肖凯）.epub (5.38 MB) | csdrive://20200405180416974 |
+| 七月在线 DL 论文翻译组译文 2017.3.7z (15.94 MB) | csdrive://20200405180422679 |
+| 楚狂人Windows驱动编程基础教程.pdf (349.43 KB) | csdrive://20200405180425869 |
+| GTK+ 2.0 教程.epub (460.15 KB) | csdrive://20200405180429258 |
+| Information Security Lecture Notes (Dixie IT4500).pdf (267.00 KB) | csdrive://20200405180432481 |
+| System Security Lecture Notes (StonyBrook CSE509).pdf (2.10 MB) | csdrive://20200405180436615 |
+| Security Engineering — The Book V2.pdf (5.83 MB) | csdrive://20200405180441522 |
+| 汇编语言全接触.chm (834.12 KB) | csdrive://20200405180445367 |
+| Spring 2.3.2 开发简明教程（张勇）.pdf (2.76 MB) | csdrive://20200405180450271 |
+| CALCULUS MADE EASY.pdf (1.81 MB) | csdrive://2020040518045474 |
+| 模式识别与机器学习中文版（马春鹏）.pdf (11.71 MB) | csdrive://20200405180459751 |
+| c语言也能干大事.pdf (4.75 MB) | csdrive://20200405180504576 |
+| Deep Residual Learning for Image Recognition（七月在线DL翻译组2017.4）.pdf (1.08 MB) | csdrive://20200405180508427 |
+| seaborn统计绘图模块中文指南.pdf (4.13 MB) | csdrive://20200405180513792 |
+| 斯坦福机器学习笔记（JerryLead）.pdf (11.46 MB) | csdrive://20200405180519569 |
+| 组合语言之艺术.epub (133.48 KB) | csdrive://20200405180522515 |
+| 安全客2017Q1.pdf (18.13 MB) | csdrive://20200405180548259 |
+| React.js 小书 20170503.epub (3.79 MB) | csdrive://20200405180553263 |
+| Windows XP 2003 堆溢出实战.pdf (1.70 MB) | csdrive://20200405180557354 |
+| EXT 中文手册（pjq）.pdf (2.07 MB) | csdrive://20200405180601579 |
+| 微学苑 C++ 教程.epub (1019.39 KB) | csdrive://20200405180605354 |
+| Python 黑帽编程 1.1~4.2（玄魂工作室）.epub (9.18 MB) | csdrive://20200405180611122 |
+| tushare函数手册中文版.pdf (1.05 MB) | csdrive://20200405180615116 |
+| 数据结构与算法分析学习笔记（罗聪）.epub (60.90 KB) | csdrive://20200405180617838 |
+| 80x86保护模式系列教程.epub (240.66 KB) | csdrive://2020040518062198 |
+| Linux入门教程（C语言编程网）.epub (689.80 KB) | csdrive://20200405180624574 |
+| Computer and Internet Security Lecture Notes (Syracuse CIS643 644).pdf (3.04 MB) | csdrive://20200405180629255 |
+| 莫烦机器学习教程 2017.5.10.epub (28.99 MB) | csdrive://2020040518064053 |
+| Spring 快速入门教程（Hantsy）.pdf (574.97 KB) | csdrive://20200405180643560 |
+| Python 机器学习.epub (5.95 MB) | csdrive://2020040518064922 |
+| 漏洞银行“大咖面对面”分享汇总 1~14 期.epub (4.64 MB) | csdrive://20200405180654380 |
+| Probabilistic Machine Learning (Duke STA561).pdf (883.92 KB) | csdrive://20200405180658166 |
+| Parsing Techniques A Practical Guide.pdf (1.33 MB) | csdrive://202004051807010 |
+| Kubernetes Handbook.epub (3.58 MB) | csdrive://20200405180707293 |
+| 你好，C++！.pdf (8.80 MB) | csdrive://20200405180713268 |
+| Plotly 绘图模块中文指南第1期.pdf (7.28 MB) | csdrive://20200405180718856 |
+| 微学苑 Java 教程.epub (1.65 MB) | csdrive://2020040518072346 |
+| Java 开发利器 Myeclipse 全面详解（北风网）.pdf (9.85 MB) | csdrive://20200405180728899 |
+| 天书夜读（试读版）.pdf (397.44 KB) | csdrive://20200405180732179 |
+| Objective-C基础教程：1天玩转Objective-C语法.epub (1.04 MB) | csdrive://20200405180735984 |
+| 北航程序设计语言原理教材（共18章）.pdf (2.86 MB) | csdrive://20200405180740888 |
+| C语言基础教程（Lellansin）.epub (101.65 KB) | csdrive://20200405180743901 |
+| Intel® 64 and IA-32 Architectures Volume 1.pdf (2.41 MB) | csdrive://20200405180750217 |
+| 飞龙的安卓逆向教程 v1.0.epub (4.45 MB) | csdrive://20200405180757761 |
+| Secure Programs HOWTO.pdf (1.50 MB) | csdrive://20200405180802571 |
+| Pandas 官方教程（10 分钟搞定 Pandas、Pandas 秘籍、学习 Pandas）.epub (1.40 MB) | csdrive://20200405180807466 |
+| SploitFun Linux x86 Exploit 开发系列教程.epub (1.24 MB) | csdrive://20200405180811973 |
+| MySQL 超新手入门.epub (25.25 MB) | csdrive://2020040518083173 |
+| CSDN 博客 - 高性能服务系统构建与实践 2017.5.13.epub (15.13 MB) | csdrive://20200405180838943 |
+| 中山大学编译原理讲义.pdf (2.91 MB) | csdrive://20200405180844701 |
+| 莫烦 Python 教程 2017.5.10.epub (216.49 KB) | csdrive://20200405180847976 |
+| iOS App Reverse Engineering.pdf (8.29 MB) | csdrive://20200405180855523 |
+| PyAlgoTrade用户手册中文版.pdf (4.84 MB) | csdrive://20200405180902242 |
+| Scikit-learn 秘籍.epub (1.45 MB) | csdrive://20200405180907201 |
+| 微学苑设计模式教程.epub (1.37 MB) | csdrive://20200405180911940 |
+| Advanced SQL Injection In SQL Server Applications.pdf (291.03 KB) | csdrive://2020040518091541 |
+| 面向对象的脚本语言Ruby.epub (213.75 KB) | csdrive://20200405180918399 |
+| Computer Security Reading List.7z (28.23 MB) | csdrive://2020040518094417 |
+| Android开发教程&笔记（张亚飞）.pdf (4.69 MB) | csdrive://20200405180951137 |
+| C++ 工程实践（陈硕）.pdf (899.86 KB) | csdrive://20200405180955206 |
+| Invent Your Own Computer Games with Python 2nd.pdf (4.89 MB) | csdrive://20200405181001983 |
+| 大道至简（周爱民）.pdf (931.02 KB) | csdrive://202004051810065 |
+| 代码能有多难？——简单的网页代码书.epub (13.66 MB) | csdrive://20200405181013716 |
+| 雪城大学计算机与网络安全讲义（CIS643&644）v0.1.epub (299.17 KB) | csdrive://20200405181016979 |
+| Windows 平台下的堆溢出、格式化字符串漏洞利用技术.pdf (2.37 MB) | csdrive://20200405181022254 |
+| 莫烦 Git 教程 2017.5.10.epub (950.93 KB) | csdrive://20200405181026277 |
+| Perl 语言编程.pdf (1.79 MB) | csdrive://2020040518103132 |
+| JS函数式编程指南.epub (3.11 MB) | csdrive://20200405181037202 |
+| C语言深度剖析 解开程序员面试笔试的秘密.pdf (850.64 KB) | csdrive://20200405181041194 |
+| 格式化字符串漏洞利用.epub (229.16 KB) | csdrive://20200405181044481 |
+| Computer and Network Security by Avinash Kak.pdf (8.22 MB) | csdrive://20200405181051446 |
+| 我的职业是前端工程师.pdf (9.19 MB) | csdrive://20200405181058670 |
+| zw Python 量化分析课件.7z (11.54 MB) | csdrive://20200405181106168 |
+| Hibernate 开发指南（夏昕）.pdf (567.73 KB) | csdrive://20200405181109632 |
+| 算法艺术与信息学竞赛指导.pdf (7.00 MB) | csdrive://20200405181116700 |
+| 从零开始学 ReactJS（ReactJS 101）.epub (4.60 MB) | csdrive://20200405181123580 |
+| 莫烦数据处理教程 2017.5.10.epub (3.48 MB) | csdrive://20200405181130250 |
+| 探索 ES6（未完）.epub (406.77 KB) | csdrive://20200405181133686 |
+| 从lex&yacc说到编译器.epub (46.66 KB) | csdrive://20200405181136457 |
+| Ruby 中文文档、RGSS 中文文档.epub (100.37 KB) | csdrive://20200405181139381 |
+| the beginner's guide to idapython 中文版.pdf (2.65 MB) | csdrive://20200405181144885 |
+| 借助开源项目，学习软件开发.epub (1.87 MB) | csdrive://20200405181150282 |
+| BigQuant 量化教程.pdf (6.94 MB) | csdrive://20200405174919411 |
+| 零基础入门深度学习（hanbingtao）.pdf (2.64 MB) | csdrive://2020040517492581 |
+| Go By Example 中文版.epub (107.83 KB) | csdrive://20200405174928149 |
+| MDN HTML 文档 20170730.epub (1.55 MB) | csdrive://20200405174932890 |
+| Spring 2.0 核心技术与最佳实践.pdf (5.97 MB) | csdrive://20200405174939462 |
+| 阿布量化课堂.epub (7.26 MB) | csdrive://20200405175012124 |
+| 计算机程序的思维逻辑（Java 描述）.epub (3.42 MB) | csdrive://20200405175019100 |
+| 数据结构思维中文版.epub (488.93 KB) | csdrive://20200405175022501 |
+| Swoole 中文文档.epub (173.65 KB) | csdrive://20200405175025408 |
+| calculus with applications (MIT 18.013A).epub (1.05 MB) | csdrive://20200405175029390 |
+| TutorialsPoint Apex 教程.epub (1.75 MB) | csdrive://20200405175034370 |
+| JavaScript正则表达式迷你书.pdf (3.42 MB) | csdrive://20200405175039649 |
+| CrossApp 中文文档.epub (2.28 MB) | csdrive://2020040517504654 |
+| Data Structures Lecture Notes (UCB CS61b).pdf (1.86 MB) | csdrive://20200405175050942 |
+| CTF-All-In-One 20171015.epub (2.36 MB) | csdrive://20200405175056375 |
+| 阿里巴巴Java开发手册（终极版）.pdf (1.01 MB) | csdrive://20200405175100278 |
+| An Introduction to Statistical Learning.pdf (8.33 MB) | csdrive://20200405175108779 |
+| imobilebbs Slick 教程.epub (179.53 KB) | csdrive://20200405175111693 |
+| 初等算法（算法新解）0.6180339887498949.pdf (3.05 MB) | csdrive://20200405175118109 |
+| 笨办法学 Python · 续.epub (301.30 KB) | csdrive://20200405175121254 |
+| A Graduate Course in Applied Cryptography v0.3.pdf (5.11 MB) | csdrive://20200405175128788 |
+| 台湾大学林轩田机器学习基石笔记（红色石头）.epub (7.36 MB) | csdrive://20200405175137281 |
+| TensorFlow 教程（Hvass）.epub (19.34 MB) | csdrive://20200405175151282 |
+| MIT 线性代数笔记（子实）.pdf (1.46 MB) | csdrive://2020040517515619 |
+| The Design and Analysis of Algorithms.pdf (188.75 KB) | csdrive://20200405175159210 |
+| SSDB 数据库使用手册.epub (273.07 KB) | csdrive://20200405175202412 |
+| JavaScript 轻量级函数式编程.epub (597.77 KB) | csdrive://2020040517520668 |
+| 不周山之读薄 CSAPP.epub (4.35 MB) | csdrive://20200405175213113 |
+| 精通 Omi 框架.epub (102.30 KB) | csdrive://2020040517521623 |
+| ECMAScript 6 入门（第三版）.epub (1.24 MB) | csdrive://20200405175220505 |
+| Revel 中文文档.epub (392.32 KB) | csdrive://20200405175223869 |
+| 机器学习实战（ApacheCN）.pdf (6.47 MB) | csdrive://20200405175231754 |
+| Photoshop 教程：必学技巧.epub (29.50 MB) | csdrive://20200405175246167 |
+| Kali Linux Revealed.pdf (3.94 MB) | csdrive://20200405175253211 |
+| Ember.js 参考文档.epub (399.83 KB) | csdrive://20200405175256613 |
+| 微信小程序开发文档.epub (8.08 MB) | csdrive://20200405175303930 |
+| HBuilder 使用教程.epub (3.19 MB) | csdrive://20200405175310361 |
+| 笨办法学 Linux 中文版.epub (1.05 MB) | csdrive://20200405175314497 |
+| 以太坊黄皮书.pdf (493.26 KB) | csdrive://20200405175317850 |
+| HomeKit App 开发指南.epub (1.01 MB) | csdrive://2020040517532229 |
+| Chrome 开发工具指南.epub (13.77 MB) | csdrive://20200405175542978 |
+| Fast.ai Computational Linear Algebra Textbook.pdf (5.87 MB) | csdrive://20200405175552262 |
+| Markdown 语法说明.epub (44.59 KB) | csdrive://20200405175554914 |
+| 通过例子学习 Go Web 编程.epub (23.26 KB) | csdrive://20200405175557376 |
+| 微信公众平台开发文档.epub (7.13 MB) | csdrive://20200405175605751 |
+| 演算法笔记 201710.epub (29.05 MB) | csdrive://20200405175621562 |
+| imobilebbs CodeSmith 教程.epub (1.01 MB) | csdrive://20200405175627838 |
+| CEH v8 Labs Module All-In-One.pdf (38.61 MB) | csdrive://20200405175822294 |
+| RiceQuant 量化教程.pdf (18.04 MB) | csdrive://20200405175836137 |
+| Office技巧1000例.epub (13.12 MB) | csdrive://20200405175846223 |
+| 绿盟 Android APP 测试指南.pdf (2.11 MB) | csdrive://20200405175852606 |
+| The Matrix Cookbook.pdf (676.45 KB) | csdrive://20200405175856264 |
+| 以太坊白皮书.pdf (700.66 KB) | csdrive://20200405175900181 |
+| Hadoop 笔记（PennyWong）.epub (2.14 MB) | csdrive://20200405175906328 |
+| 统计思维：程序员数学之概率统计 · GitBook.url (89 B) | csdrive://20200405175908517 |
+| Excel 教程：实用技巧系列.epub (2.32 MB) | csdrive://20200405175914839 |
+| 绿盟 iOS APP 测试指南.pdf (2.73 MB) | csdrive://20200405175921695 |
+| Dart 编码风格指南.epub (25.37 KB) | csdrive://2020040517592478 |
+| 高级Bash脚本编程指南 3.9.1.pdf (3.13 MB) | csdrive://20200405175931125 |
+| 写给人类的机器学习.epub (6.28 MB) | csdrive://20200405175940401 |
+| 探索 ES2016 与 ES2017.epub (93.77 KB) | csdrive://20200405175943273 |
+| CS for All.epub (1.38 MB) | csdrive://20200405175948115 |
+| 前端开发者指南（2017）.epub (5.16 MB) | csdrive://20200405180104963 |
+| 使⽤ MXNet Gluon 来动⼿学深度学习 0.4.pdf (4.65 MB) | csdrive://20200405180112456 |
+| Three.js 入门指南.epub (995.36 KB) | csdrive://20200405180116552 |
+| 一种针对特定网站类别的网页指纹识别方法 （南邮 CN105281973A）.pdf (1.12 MB) | csdrive://20200405180120712 |
+| 斯坦福 CS183b YC 创业课文字版（创见）.epub (3.38 MB) | csdrive://20200405180127771 |
+| 架构师之路（58沈剑）.epub (9.98 MB) | csdrive://20200405180141220 |
+| Analysis of Algorithms  Lecture Notes (Cornell CS6820).pdf (1.68 MB) | csdrive://20200405180152443 |
+| Sublime Text 中文文档、使用手册.epub (3.39 MB) | csdrive://20200405180318319 |
+| Operating System Lecture Notes (MIT 6.828).pdf (1.68 MB) | csdrive://20200405180323498 |
+| Serving Machine Learning Models.epub (886.75 KB) | csdrive://20200405180328684 |
+| The Elements of Statistical Learning 2e.pdf (9.16 MB) | csdrive://2020040518034052 |
+| QmlBook 中文版.epub (6.33 MB) | csdrive://20200405180353142 |
+| Java 编程思想.epub (1.01 MB) | csdrive://20200405180400717 |
+| Computational and Inferential Thinking (UCB Data8).epub (7.50 MB) | csdrive://20200405180411434 |
+| A Brief Introduction to Machine Learning for Engineers.pdf (1.83 MB) | csdrive://20200405180416679 |
+| Keras 中文文档.epub (5.22 MB) | csdrive://20200405180425286 |
+| 数据结构就该这样学.epub (3.63 MB) | csdrive://20200405180432658 |
+| 支持向量机通俗导论（理解SVM的三层境界）Latex版.pdf (1.33 MB) | csdrive://2020040518043722 |
+| Calculus for Beginners (MIT).epub (295.32 KB) | csdrive://20200405180440227 |
+| Scala 概述（瑞士洛桑联邦理工）.epub (246.29 KB) | csdrive://20200405180443412 |
+| MDN 文件 API 中文文档.epub (98.65 KB) | csdrive://20200405180446288 |
+| 《SciPy and NumPy》中文精要.pdf (1.38 MB) | csdrive://20200405171751790 |
+| Spring Boot 中文文档 1.5.2.epub (103.97 KB) | csdrive://20200405171755127 |
+| Computer Science Field Guide.epub (12.76 MB) | csdrive://20200405171806984 |
+| C 参考手册 2017.12.20.epub (2.14 MB) | csdrive://20200405171814247 |
+| 区块链技术指南 0.9.0.epub (4.27 MB) | csdrive://20200405171836407 |
+| React In-depth.epub (321.09 KB) | csdrive://20200405171839706 |
+| Python Data Science Handbook (Jupyter Notebook Version).pdf (20.85 MB) | csdrive://20200405171855926 |
+| An Introduction to Elm.epub (436.51 KB) | csdrive://20200405171901477 |
+| DOM Enlightenment.epub (219.94 KB) | csdrive://20200405171905507 |
+| 北京动力节点 Reyco郭 Spring4 SpringMVC4 Mybatis3 讲义.7z (18.37 MB) | csdrive://20200405172032316 |
+| 我的数学分析积木（修订版）.pdf (3.01 MB) | csdrive://20200405172039928 |
+| Mastering Django Core.epub (1.76 MB) | csdrive://20200405172048304 |
+| 2017阿里技术年度精选集.7z (12.59 MB) | csdrive://20200405172108132 |
+| 增强学习导论中文版（RLAI）2~10.pdf (2.98 MB) | csdrive://2020040517211662 |
+| 非监督特征学习与深度学习 中文教程（UFLDL）.pdf (1.37 MB) | csdrive://20200405172123845 |
+| 安全客 2017 Q3.pdf (17.82 MB) | csdrive://20200405172145866 |
+| 微软官方 F# 指南 20171224.epub (804.36 KB) | csdrive://20200405172151512 |
+| 轻松学习微积分（译言古登堡）.epub (6.19 MB) | csdrive://20200405172213551 |
+| Tiny Python & ES6 Notebook.epub (316.31 KB) | csdrive://20200405172216876 |
+| Mininet 应用与源码剖析.epub (236.62 KB) | csdrive://20200405172220293 |
+| React 入门教程.epub (212.80 KB) | csdrive://20200405172223658 |
+| 深入 Python 编程 0.3（雨痕）.pdf (1.99 MB) | csdrive://20200405172229449 |
+| Databricks Spark Reference Applications.epub (629.97 KB) | csdrive://20200405172233974 |
+| 微软官方 VB  指南 20171224.epub (1.69 MB) | csdrive://20200405172240726 |
+| 微软官方 .NET 指南 20171224.epub (10.81 MB) | csdrive://20200405172253426 |
+| TensorFlow 官方文档中文版.epub (5.50 MB) | csdrive://20200405172303321 |
+| Stanford CS109 Probability for Computer Scientists Lecture Notes.pdf (4.85 MB) | csdrive://20200405172311519 |
+| FPGA实战手册.pdf (9.09 MB) | csdrive://2020040517232334 |
+| 剑指 Offer 题解（JeanCheng）.epub (504.35 KB) | csdrive://20200405172326676 |
+| Spring MVC 4.2.4.RELEASE 中文文档.epub (380.06 KB) | csdrive://20200405172330288 |
+| JavaScript Enlightenment.pdf (1.53 MB) | csdrive://20200405172338628 |
+| Hyperledger 源码分析之 Fabric.epub (5.47 MB) | csdrive://20200405172349412 |
+| HBase 0.97 中文文档.epub (410.23 KB) | csdrive://20200405172353561 |
+| MQTT协议中文版.epub (307.21 KB) | csdrive://20200405172357442 |
+| Zetcode PyQt4 教程.epub (473.42 KB) | csdrive://2020040517240241 |
+| MDN Canvas API 中文文档 20171202.epub (970.42 KB) | csdrive://20200405172408719 |
+| Elasticsearch Java 手册.epub (151.20 KB) | csdrive://2020040517241227 |
+| DeepLearningAI 笔记 v5.1（黄海广）.pdf (19.60 MB) | csdrive://20200405172436505 |
+| 微软官方 C# 指南 20171224.epub (3.18 MB) | csdrive://20200405172445819 |
+| PyTorch 中文文档.epub (169.59 KB) | csdrive://20200405172448918 |
+| SQL for Web Nerds.epub (925.81 KB) | csdrive://20200405172453870 |
+| Spark 2.0.2 中文文档.epub (696.59 KB) | csdrive://20200405172458809 |
+| C++ 参考手册 第三部分 2017.12.20.epub (3.15 MB) | csdrive://20200405172545110 |
+| Spring Cloud 教程（翟永超）.epub (1.55 MB) | csdrive://20200405172552232 |
+| OpenCV 官方教程中文版（Python）.pdf (6.24 MB) | csdrive://20200405172658331 |
+| Software Engineering for Internet Applications.epub (552.94 KB) | csdrive://20200405172702166 |
+| 比特币开发者指南.epub (513.39 KB) | csdrive://20200405172706899 |
+| kafka 中文文档 0.10.0.epub (264.38 KB) | csdrive://20200405172710966 |
+| MDN HTTP 中文文档 20171202.epub (4.22 MB) | csdrive://20200405172744448 |
+| C++ 参考手册 第二部分 2017.12.20.epub (3.85 MB) | csdrive://20200405172753471 |
+| Apache Kudu 1.4.0 中文文档.epub (704.56 KB) | csdrive://20200405172758287 |
+| HTTP2 讲解.epub (1014.12 KB) | csdrive://20200405172806640 |
+| Apache Zeppelin 0.7.2 中文文档.epub (3.34 MB) | csdrive://20200405172839893 |
+| Kibana 5.2 中文文档.epub (224.45 KB) | csdrive://20200405172843276 |
+| Hadoop 2.7.1 中文文档.pdf (2.02 MB) | csdrive://20200405172850938 |
+| The Art of Data Science.epub (3.24 MB) | csdrive://20200405172913442 |
+| 【spark论文】大型集群上的快速和通用数据处理架构（修正版）.pdf (2.03 MB) | csdrive://20200405172922770 |
+| PHP7内核剖析.epub (3.20 MB) | csdrive://20200405172944596 |
+| 微软官方 .NET Core 指南 20171224.epub (3.32 MB) | csdrive://20200405173003441 |
+| Gainlo 面试指南.epub (178.65 KB) | csdrive://20200405173006524 |
+| Elasticsearch 5.4 中文文档.epub (2.33 MB) | csdrive://2020040517301349 |
+| OpenCV 中文文档.epub (1.64 MB) | csdrive://20200405173018978 |
+| Implementing a language with LLVM.epub (197.25 KB) | csdrive://2020040517302266 |
+| React Bits 中文版.epub (116.79 KB) | csdrive://20200405173025180 |
+| Reinforcement Learning An Introduction (Complete Draft).pdf (5.99 MB) | csdrive://20200405173035604 |
+| Java for small teams.epub (1.58 MB) | csdrive://20200405173044367 |
+| React Enlightenment.epub (442.73 KB) | csdrive://20200405173049145 |
+| 利用 Python 进行数据分析 第二版 中文精要.pdf (7.47 MB) | csdrive://20200405173100746 |
+| C++ 参考手册 第一部分 2017.12.20.epub (4.36 MB) | csdrive://2020040517314377 |
+| MongoDB 3.4 中文文档 2017.5.6.epub (6.06 MB) | csdrive://2020040517315399 |
+| TypeScript Deep Dive.epub (966.45 KB) | csdrive://20200405173158991 |
+| SymPy 1.1.1 documentation.epub (1.15 MB) | csdrive://20200405173205640 |
+| 系统设计入门.epub (3.70 MB) | csdrive://20200405173332839 |
+| C++ Best Practices.epub (70.26 KB) | csdrive://20200405173335721 |
+| OpenCL 2.0 异构计算中文第三版.epub (14.42 MB) | csdrive://20200405173355904 |
+| 安全客 2017 Q2.pdf (16.34 MB) | csdrive://20200405173416178 |
+| Storm 1.1.0 中文文档.epub (4.24 MB) | csdrive://2020040517343866 |
+| PHP2Python API 参考 2017.9.25.epub (494.03 KB) | csdrive://20200405173441922 |
+| Java API 版本的Vert.x Core 手册.epub (118.12 KB) | csdrive://20200405173444997 |
+| Spring Boot 入门教程（翟永超）.epub (651.43 KB) | csdrive://20200405173449283 |
