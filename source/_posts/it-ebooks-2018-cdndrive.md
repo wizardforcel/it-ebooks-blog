@@ -492,6 +492,230 @@ cdrive download <link>
 | 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | bjdrive://5dd8c9fb64d9bdd95011a4a4ee343437 |
 | Gradle 实战.epub (2.45 MB) | bjdrive://9f27a3e410243c08b678f130b3c13be3 |
 | Postman 中文文档.epub (3.92 MB) | bjdrive://ab6c9d7b1215c5de5343f51124f88126 |
+| Golang 101 hacks.epub (119.27 KB) | bjdrive://e2bbde45da4669aaaee436c464b7defd |
+| Chromium中文文档.epub (1.83 MB) | bjdrive://a5fc2155c01b8c60b740125ac31aeb5a |
+| 深入理解OpenStack自动化部署.epub (2.60 MB) | bjdrive://04feba51d04d585fa1264485c0c8d71b |
+| Docker Swarm 源码分析.epub (163.33 KB) | bjdrive://6f894f308a375583cdc3c99d6439a653 |
+| Tornado Tcp Program.epub (181.98 KB) | bjdrive://b0b7d92a3f696b7cc39b63f8c1c4fd86 |
+| Android&Java 技术笔记.epub (4.58 MB) | bjdrive://cb583f0d5c9bf69ca244b23cc22f1128 |
+| Spring Data 中文版本.epub (140.22 KB) | bjdrive://602a170b5f944e1c1088e696636004f7 |
+| 斯坦福 CS183c 闪电式扩张中文笔记.epub (7.67 MB) | bjdrive://178feec376db92a300a3b5d57a91ddfd |
+| Zoe的Python星际之旅.epub (843.79 KB) | bjdrive://10e348f34d18bffddc75719ba73c7a24 |
+| Ceph 运维手册.epub (179.73 KB) | bjdrive://a44f509d52b1c66b873453968a17e10a |
+| 耶鲁博弈论笔记全 24 讲 v2.0（Apollo, Gabriel）.pdf (2.12 MB) | bjdrive://449efe6bcf0af7aac2efd73939c87983 |
+| A Guide to Porting C C++ to Rust.epub (247.18 KB) | bjdrive://7b2e27c4c09fb478f10b82e9ab98b25c |
+| 深入浅出Java Web.epub (978.65 KB) | bjdrive://53ba7b20e50337eded0aaf91a5294e58 |
+| 和我一步步部署 kubernetes 集群.epub (1.51 MB) | bjdrive://313c0abff3ec7b5c160056e0fc1cd64a |
+| Serenity开发者指南中文版.epub (1.73 MB) | bjdrive://77706603a1cd1f422c19c40abb6546ac |
+| 爬虫之路.epub (757.16 KB) | bjdrive://1be380cc0c2ef561d4f7a15530987c6f |
+| Little ASP.NET Core Book.epub (258.06 KB) | bjdrive://399c4c1eddb1c8d6b245e76fce47d1bf |
+| PHP 扩展开发入门.epub (377.56 KB) | bjdrive://de0c0a5790688b6409668cb05cfb4048 |
+| Stochastic Processes Lecture Notes (UCB STAT150).pdf (5.32 MB) | bjdrive://42b06190253cff473ee16b4c4fcf4f3a |
+| Erlang 编程规则.epub (47.34 KB) | bjdrive://ae57442b25aa5869ef62cdabce6e0324 |
+| Node.js 设计模式 中文第二版.epub (9.08 MB) | bjdrive://2539235c4cdf95b3238ac081e41643ec |
+| Databricks Spark 知识库.epub (600.63 KB) | bjdrive://d5bfda2e67ccaab3a52fedee5110cc53 |
+| Android SDK 教程.epub (5.50 MB) | bjdrive://090a99c9548b86591c0b2391a1814cae |
+| Game Theory 2e.7z (2.96 MB) | bjdrive://6e5bac66f4cf6e5f7e238674714f6019 |
+| 机器学习教程（shareditor）.epub (7.69 MB) | bjdrive://f54b940586b72a1eef029997a11cc6db |
+| ウェブ健康診断仕様.pdf (770.25 KB) | bjdrive://f131156c53a6f78792cdff177e5430ae |
+| UCB Data8 计算与推断思维 中文版.epub (7.36 MB) | bjdrive://d62abd76c7d254db878767f1abd0cd5e |
+| OpenStack最终用户文档（简体中文版）.epub (106.13 KB) | bjdrive://39e4372b8b45215c41bacbb5d1be8a04 |
+| Programming Languages Application and Interpretation 中文版.epub (236.52 KB) | bjdrive://6fbc104ba8a371a47e72beeff8e7fa4d |
+| 安全なSQLの呼び出し方.pdf (713.12 KB) | bjdrive://2f500387d1a19d6e32588ad83ff88fe9 |
+| Java 微信开发.epub (6.99 MB) | bjdrive://b55964c43da3fed811268c432899326c |
+| Algorithmic Game Theory Lecture Notes (Stanford CS364A).pdf (2.95 MB) | bjdrive://d749b71f821bf45b9e0a86a7343d78e8 |
+| Java 面试笔记.epub (244.10 KB) | bjdrive://81dd5217ef78afadac4c742f6372e55d |
+| Kivy中文编程指南.epub (3.36 MB) | bjdrive://83bb3ecc005ef67e767f7d933a0d51ec |
+| Internet Of Things 101 Intel® Edison.epub (8.42 MB) | bjdrive://02413faebe43f3ea6732c465c1d7bde8 |
+| MongoDB入门指南.epub (38.36 KB) | bjdrive://41f48c8c5692d93df48d718e249447bf |
+| Understanding Model-View-Controller.epub (2.09 MB) | bjdrive://7fc53a825056a1fc55f5b7ea18234ddf |
+| Android控件操作-二十四章经.epub (5.86 MB) | bjdrive://0760aeb52c0c9dd7eb617f85eda4041c |
+| Tensorflow Tutorials (pkmital).epub (307.71 KB) | bjdrive://84ea26aa66834246440a7df6d96a655b |
+| 安全なウェブサイトの作り方 7e.pdf (3.68 MB) | bjdrive://a3097a26bb801a3f3f1cf52a6b308e22 |
+| 谷歌深度学习笔记（ahangchen）.epub (8.83 MB) | bjdrive://ba44eb7343e0cd28760f3b88303154ad |
+| Groovy 入门.epub (231.16 KB) | bjdrive://0e135d8c54a844b0ef221f71fb2e3361 |
+| TensorFlow Tutorials (nlintz).epub (381.96 KB) | bjdrive://59a4150117e5311b53863dc25b2a510f |
+| RubyFu.epub (1.64 MB) | bjdrive://b32590a4c5be9343b86749e580444e69 |
+| 文件系统层次结构标准中文版.epub (162.32 KB) | bjdrive://342c795aeb1b8f0dded24232744dc299 |
+| 傅里叶变换及其应用（斯坦福大学）.pdf (5.10 MB) | bjdrive://f1057547445b42603893c3532a48e977 |
+| Rancher 实战红宝书.epub (461.38 KB) | bjdrive://5651b996f950be548d1dfe314d9948dc |
+| 从Python到Django入门教程.epub (1.25 MB) | bjdrive://781b9d923cbba55d6e789eeb8563c6db |
+| 编写高质量代码改善 Python 程序的 91 个建议.epub (235.63 KB) | bjdrive://a9be340612632eb1ff9625ab5a8c18cc |
+| TensorFlow Examples (aymericdamien).epub (3.36 MB) | bjdrive://d61ccbced972e2e4a4ccb23173fcff97 |
+| PHP 5.5 Web零基础教程：开发一个在线阅读网站.epub (71.11 KB) | bjdrive://7d1ff8138cebba460c2312ab9796a5ea |
+| 给iOS开发者的Sketch入门教程.epub (7.09 MB) | bjdrive://92bbb9dc223099d4791b1fd1af2f3666 |
+| Sanic-For-Pythoneer.epub (1.37 MB) | bjdrive://901e28075876d1358076ccf3e4dd0abc |
+| Githug 通关攻略.epub (1.67 MB) | bjdrive://67b8e9d3f6ae40edd70dad8bef34ad0d |
+| Tensorflow 101 (sjchoi86).epub (29.76 MB) | bjdrive://322853e4255a08ba12b110ce99a8c4a1 |
+| laravel 源码解析.epub (2.12 MB) | bjdrive://93e9166c00f6052b9a95b8dca0557d89 |
+| 从头到尾彻底理解 KMP.epub (518.22 KB) | bjdrive://ea672a65cfda33efc8bec6d0ab56bca6 |
+| Python 3 Module Examples.epub (1.94 MB) | bjdrive://2e11036655a7ef68af485e54018120d1 |
+| Android 百战经典.epub (5.06 MB) | bjdrive://64d0e55e0e99a5c68497d0b16661f190 |
+| Windows App 应用开发教程.epub (5.25 MB) | bjdrive://6513550e79298f6839b1507f4cf06b33 |
+| FreeBSD 101 Hacks.epub (185.34 KB) | bjdrive://a24db268a476cbe27d4d9d6093cabbf4 |
+| 斯坦福 CS183f YC 创业课 2017 中文笔记.epub (276.86 KB) | bjdrive://6c413654720fb085aee4c61d2e81212d |
+| Python 3 Basics Tutorial.epub (1.07 MB) | bjdrive://3aeba875c5dd46dfff8a6e8e928cf27d |
+| Axure RP 指南.epub (16.19 MB) | bjdrive://af05284d92d59975b1bd60aa8d1ee82f |
+| Glide v4 中文版.epub (102.78 KB) | bjdrive://f2b107f1571ff6291fe1f7f79e6264ec |
+| Istio官方文档中文版.epub (2.06 MB) | bjdrive://738a6557c982abc66a8406ad9baa6576 |
+| Build your applications with Webpack.epub (103.40 KB) | bjdrive://340255c2b72e2f78b34faec1ffa661fd |
+| Docker简明教程.epub (1.01 MB) | bjdrive://c90e93dede38963cbf3ce8843ab8a94b |
+| Build Your Own Lisp 中文版.epub (223.07 KB) | bjdrive://48dd3fc6cd57cbfc545c9531de48a632 |
+| PaddlePaddle 深度学习入门.epub (3.23 MB) | bjdrive://cde070cca5ba5248c3cf77bb5275517e |
+| Python Testing Tutorial.epub (162.15 KB) | bjdrive://1152c56b85090caa870f8f8472323b7f |
+| Spring Framework 5 中文文档.epub (558.68 KB) | bjdrive://0440db5bf316c11da3921c49f5edb95a |
+| 概率编程与贝叶斯方法实践.pdf (7.61 MB) | bjdrive://dcb2a9edb4a525d6a5303626def86b9c |
+| 推荐系统之算法（Librec 中文文档）.epub (34.13 KB) | bjdrive://f51b43505fa132c60870cba20571ff63 |
+| iOS 9人机交互指南.epub (8.53 MB) | bjdrive://635b954bef45bd1e4f43ed6e3383176a |
+| Hibernate 高级教程.epub (402.83 KB) | bjdrive://c1c494a4f28c78e3836f23452e1ae8e8 |
+| kungeekUI.epub (68.49 KB) | bjdrive://b74bdccd678f2d27ac8b03427f15e910 |
+| Apple Pay 编程指南.epub (117.90 KB) | bjdrive://f9dbc57f581666419f30b008c8407c2e |
+| Java NIO简明教程.epub (291.76 KB) | bjdrive://d643a141e7cacf30304635309166037c |
+| Hadoop The Definitive Guide 4e 中文版.epub (1.33 MB) | bjdrive://c2c8e7cdaddfd4f8e9e4aea9b224cdaf |
+| 带你玩转 Visual Studio.epub (3.73 MB) | bjdrive://2d64948447e2345b529e272d105ac460 |
+| Time Series Lecture Notes (UCB STAT153).pdf (3.84 MB) | bjdrive://fbf475ac474b77e0483b92a2c5b2e6de |
+| iOS IAP 教程.epub (901.80 KB) | bjdrive://fe4084c7da5e3ac57d49934e3c43c306 |
+| C 语言进阶.epub (279.27 KB) | bjdrive://c82c8c867d670eadf05b79b7c325a6df |
+| Rxjs 5 ultimate.epub (81.50 KB) | bjdrive://318439de2f3faefffec3369aea754fef |
+| sdn网络指南.epub (21.92 MB) | bjdrive://45a1925b26ce64121dbdcedf1cb292e9 |
+| introduction-to-touchdesigner.epub (5.80 MB) | bjdrive://815a1a87d0463b73b7c9ff1e8205bc1b |
+| 在迭代1之前.epub (13.84 MB) | bjdrive://c890e97c2e5cc53d200970bb5d938930 |
+| InfluxDB简明手册.epub (191.74 KB) | bjdrive://5c6f60c884e88277d0aa7bb07c0b7828 |
+| spark机器学习算法研究和源码分析.epub (10.77 MB) | bjdrive://54c5166ea8b55e2f13994e5f61affa2d |
+| 工业控制网络安全基础 v2.pdf (4.00 MB) | bjdrive://1cd2a5873236cce7a1080451bd2d321c |
+| Spring Boot Cookbook 中文版.epub (4.85 MB) | bjdrive://73c65640f436f3566577780340be4b78 |
+| 《Real-Time Rendering 3rd》 提炼总结.pdf (25.22 MB) | bjdrive://bdb92d74f3fbcd5ed5159a8dfd34f4cd |
+| Scikit and Tensorflow Workbooks (bjpcjp).epub (5.38 MB) | bjdrive://4797d573573198ccbc855da3dd75f255 |
+| Spark GraphX源码分析.epub (3.13 MB) | bjdrive://f687a2339f8f9fe077588cc9c061d516 |
+| Animation动画详解.epub (62.29 MB) | bjdrive://a1470dd018218dff7c974feae08eb0e9 |
+| Build a Node.js Project from Scratch.epub (91.80 KB) | bjdrive://e0f751a69ecce8564386af6e8629ee99 |
+| 草根学 Python （基于Python3.6）.epub (8.08 MB) | bjdrive://9860329e93e47503e32136af84302892 |
+| 使用Ionic2制作移动应用.pdf (5.07 MB) | bjdrive://ecf08b796d827e40ef8cbe3455701746 |
+| devops-collective-inc PowerShell.7z (9.04 MB) | bjdrive://8d2b1cab74fbc853d5aac159c62c2433 |
+| 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | bjdrive://61ecac56af5d38913b4b9c25a24aa2e8 |
+| Learning Rust.epub (1.13 MB) | bjdrive://43031fd8c8ca8d463ee024ab5c863c9e |
+| 自己动手做聊天机器人.epub (8.62 MB) | bjdrive://d6cd359e567d03b7ac1d7f48f24c1ef1 |
+| | |
+| TensorFlow Zero To All.epub (1.43 MB) | bjdrive://c13a9d12569ee9217dd7a68d52c1802d |
+| Pandas Cookbook 带注释源码.epub (4.96 MB) | bjdrive://bbabbbd664cc216a6443202db3f0e04f |
+| Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | bjdrive://e802daa7be28b0dca9c9826f14412504 |
+| 网络表示学习综述（涂存超等）.pdf (877.87 KB) | bjdrive://f2f2c7bca9ee377de5ee2e57c5deec3b |
+| Machine Learning Super VIP Cheatsheet.pdf (1.26 MB) | bjdrive://6efb2f27a4aee274e2030032addcba8a |
+| 安卓校招面试指南.epub (29.06 MB) | bjdrive://aab12c78a5bab643acbd90ed0affcd3c |
+| PyTorch Zero To All.epub (92.85 KB) | bjdrive://cc17f02e925d670a256cf76807c75e4c |
+| Book on TypeScript.epub (1.73 MB) | bjdrive://1982f421cc2bf8b4844047bee2a72e89 |
+| 图嵌入综述译文（arxiv 1709.07604）.pdf (1.50 MB) | bjdrive://6e2759c45d72b09d63bc97e1353afdcc |
+| TensorFlow 学习指南.epub (5.08 MB) | bjdrive://0f475355e8c0e86b0a26927f2422f63e |
+| Kira 概统十篇 2018.pdf (971.41 KB) | bjdrive://43b4659d33a46d80311619a8d12ca035 |
+| 码农翻身全年文章精华 2016.epub (12.02 MB) | bjdrive://18b556c1dcfdba713e1a0b9cd7da855f |
+| 从 0 开始学架构（李运华）（完）.epub (6.49 MB) | bjdrive://2e3d5814b1201a410cef019a1f3a1453 |
+| uCore OS实验指导书和源码网址 (2017).epub (1.55 MB) | bjdrive://1070c72ebd3c0d9106fe161e8dd6ff96 |
+| 机器学习那些事（刘知远译）.pdf (2.67 MB) | bjdrive://2116d3f7b1a3e7f3447e66e88944ff30 |
+| Python 数据分析与挖掘实战 带注释源码.epub (136.92 KB) | bjdrive://75d929a0e5e21a078eea0b8fc1afc3ad |
+| 码农翻身全年文章精华 2017.epub (7.49 MB) | bjdrive://eed8bf33a06cb0a4cba3d87fbf19887c |
+| Kira 线代小菊花丸 2017（全）.pdf (3.80 MB) | bjdrive://a1166c898ab7b0e31982a46e974621d1 |
+| 机器学习训练秘籍（Machine Learning Yearning 中文版）.pdf (5.40 MB) | bjdrive://c59114f37f09f185ade4fa06a0703a78 |
+| i 春秋月刊第六期：Linux pwn 零基础入门.pdf (11.65 MB) | bjdrive://bc9fb74802c1efa12951642741895fc0 |
+| NumPy Essentials 带注释源码.epub (770.69 KB) | bjdrive://bf123e105c4f6a3e71ff7094dddcccae |
+| 台湾大学林轩田机器学习笔记（红色石头）.epub (25.85 MB) | bjdrive://ffc0a2cb9059dcd78bcd8e510dc3d9a1 |
+| SVD 及其应用（张志华）.pdf (743.71 KB) | bjdrive://97614dcaf40c47d1c80e59b1ba8e7f24 |
+| 静态网站构建手册-使用Hugo构建个人博客.epub (3.20 MB) | bjdrive://b246e11ef3e9eeaba3dec95c98da022f |
+| 推荐系统调研报告及综述（张永锋）.pdf (332.23 KB) | bjdrive://cf8827385edad0c6fd9295f7de6d4291 |
+| Python 中文文档 3.7：入门教程.epub (316.07 KB) | bjdrive://aac0a74fba2dd761d9969a577f0600ba |
+| 莫烦机器学习教程 2017.5.10 fix1.epub (29.00 MB) | bjdrive://caed2a00f5ade040b05b24a235294b4a |
+| 概率图模型研究进展综述.pdf (787.05 KB) | bjdrive://3f6dc9d6487cf555d10dd9a9992843f5 |
+| fast.ai 数值线性代数讲义中文版 v2.epub (8.75 MB) | bjdrive://5ba14507caa0aa737083df6151f06b92 |
+| 推荐系统遇上深度学习 1~21.epub (6.97 MB) | bjdrive://9b92fd0ce575a49d375dd5d13e70715c |
+| 阿里巴巴 Java 开发手册 1.4.0.pdf (1.11 MB) | bjdrive://e9ec8947e6cc295b51bd1def54c70542 |
+| Mathematics for Machine Learning.pdf (6.48 MB) | bjdrive://6dc49a0107920c4249bc4ccdeb858cf0 |
+| PyQt5 中文教程.epub (956.12 KB) | bjdrive://78868baf2158fcebde6ec366c6e9e5a0 |
+| ANTLR 4简明教程.epub (250.50 KB) | bjdrive://4859d491c72f54322bcf00d8a18ad4d9 |
+| 朱赟的技术管理课（完）.epub (3.73 MB) | bjdrive://68f65bb58d2af38e37654dd503f427bf |
+| 斯坦福 cs224d 深度学习与自然语言处理讲义 fix1.epub (3.29 MB) | bjdrive://254ff24fd81e9f5b67de2c0affc9f66b |
+| Android 101 Labs.epub (10.84 MB) | bjdrive://a2bd18fd8a723bd8f5a8aa8271eae04b |
+| 深度强化学习综述（刘全等）.pdf (1.24 MB) | bjdrive://91015caaf9a5fef1c71dd707cd553889 |
+| Python 数据科学手册.url (172 B) | bjdrive://94821484f4ded63bbc3499eccb82a9e1 |
+| UIC CS385 操作系统讲义.epub (22.18 MB) | bjdrive://9c27af8056a47f8e9136d677794e6d9a |
+| 学习AngularJS 1.x.epub (928.35 KB) | bjdrive://27a6c711b13ec72395e6597367dd98ca |
+| Java 核心技术 36 讲（李运华）（完）.epub (3.51 MB) | bjdrive://eea053a5df74fc5d82eb0db9f2bdb619 |
+| Figure Eight 2018 年数据科学家报告.pdf (1.16 MB) | bjdrive://5e15aa9c1cc2f648875006cd3a1925f0 |
+| SciPyCon 2018 sklearn 教程.epub (2.06 MB) | bjdrive://83ebfa68701df717cba1f067227afe98 |
+| aiohttp 中文文档.epub (173.54 KB) | bjdrive://2c80a2be5c30c6e2fbc388fbf51d1372 |
+| Node.js 调试指南.epub (8.09 MB) | bjdrive://773c42a58e3c889406668e0c6db19904 |
+| 卷积神经网络研究综述（周飞燕等）.pdf (893.74 KB) | bjdrive://79ab926c0cd09d17aabaaeef602f248c |
+| 迁移到云原生应用架构.epub (2.20 MB) | bjdrive://6a75687d715e395c11fc4673ca9c1a32 |
+| Kira 高数葵花宝典 2017（修订版）.pdf (4.03 MB) | bjdrive://78cc508c3dbd17490b31039106dcc8c2 |
+| 生物信息学札记（第三版）.pdf (6.07 MB) | bjdrive://dc21f14aaaeca2d28c52efc631034fde |
+| 达观数据NLP特刊：从原理到实践.pdf (21.52 MB) | bjdrive://e0e2ce5811f2ec2ef92da2cc51abe087 |
+| 深度有趣 - 人工智能实战项目合集.pdf (5.90 MB) | bjdrive://c71017828720f94b39746988581e3fbb |
+| 简单粗暴TensorFlow.pdf (1.21 MB) | bjdrive://5d6840e79d14214591a883e801ca1bae |
+| 一文详解 Word2vec 之 Skip-Gram 模型.pdf (1.57 MB) | bjdrive://d522b575a51ddb70f916539e9873d174 |
+| CUDA 编程指南 5.0 中文版.pdf (2.55 MB) | bjdrive://dc85e738c369d32720c1061ae7c73e06 |
+| 深度强化学习综述：兼论计算机围棋的发展.pdf (2.75 MB) | bjdrive://db3f9fd0867c685962c373da89c03974 |
+| 生物信息学讲义：结构信息部分（龚海鹏）.pdf (5.84 MB) | bjdrive://84a7064413419a74aa38fb45477bfa41 |
+| computer_networks_a_systems_approach_5th_ed.epub (14.35 MB) | bjdrive://2128442d91ec1c37e1bd79d0b956dc28 |
+| Python 数据科学速查表 14 张（呆鸟译）.7z (4.00 MB) | bjdrive://94283168c250ca8e02c3fbca9ba3f7b9 |
+| Rangle's Angular 2 Training Book 中文版.epub (2.81 MB) | bjdrive://c8393d63884f0d1b07c46c619f83ff49 |
+| Python One to Million.epub (449.45 KB) | bjdrive://8e98959ccc0766df69ea993d060c7d52 |
+| Markdown 入门参考.epub (2.11 MB) | bjdrive://33694272e3d5af5a55a932eab745a5c3 |
+| 新时期我国信息技术产业的发展.pdf (4.74 MB) | bjdrive://42e3dbd367062d56f10f7799c2edbd81 |
+| Artificial Inteligence - Leonardo Araujo dos Santos.epub (26.59 MB) | bjdrive://8083c9d82a82a95f7ec2d9abdc374f97 |
+| Mastering TensorFlow 1.x Code Notes.epub (4.13 MB) | bjdrive://21e5feb16a8fac7254d51beacf42f427 |
+| 牛客网春招备战手册+笔试分册+面试分册 2018.7z (3.25 MB) | bjdrive://75c59a82f5c95fc2d1288024f9ac8f4c |
+| Foundations of Data Science.pdf (1.87 MB) | bjdrive://789ec45d2c9a6ebc0c5d5d04e6d280dc |
+| OpenTutorial Git Python Django 教程.epub (7.49 MB) | bjdrive://43ebba6d4223fc74ba1a4dcd96c30852 |
+| Notes on Deep Learning for NLP.pdf (1.99 MB) | bjdrive://bb38a46d142b7d7f938a5b08b2666e06 |
+| Attention Is All You Need 中文翻译.pdf (1.34 MB) | bjdrive://e8d6dc7e4c71f9f3124a3e6b4deace0f |
+| Getting Started in Computer Vision Research.pdf (311.34 KB) | bjdrive://c24aba82633b3a9d0f2ab22d27c99238 |
+| 自由软件自由社会.epub (975.69 KB) | bjdrive://1e5b1755f798298055d80195054906aa |
+| 给妹子讲 python 第二季.epub (888.08 KB) | bjdrive://36122feed71326689118f1b84f013e41 |
+| 史上最简单的 IntelliJ IDEA 教程.epub (2.31 MB) | bjdrive://0002c691b485b17fe35fa5dd0b1da763 |
+| ICML 2018 Notes.pdf (571.94 KB) | bjdrive://682cc1b2d1412c2c495710d8ef7b65fd |
+| GrowingIO 增长秘籍 3.0 终版.pdf (4.26 MB) | bjdrive://73fdcebad886b453a5bb841eca4171ef |
+| The World Is Built On Probability.pdf (22.81 MB) | bjdrive://7debf8c98f1c1dfae22a0d38cb59bb20 |
+| 重来（Olivida 译）.epub (89.22 KB) | bjdrive://c7c9ac26fff133dc67a7fd1ffdcc303c |
+| RANDOM FORESTS FOR BEGINNERS.pdf (774.19 KB) | bjdrive://21155b4da76e0945a0f5e95cc1d4800f |
+| 金程教育 AQF 量化金融分析师讲义 2017.pdf (29.55 MB) | bjdrive://d69c03ce8894a4524f77dd68ad0ec3f6 |
+| Readings in Database Systems, 5th Edition.pdf (369.79 KB) | bjdrive://71abc8ee4e53b73ef7633637783388e7 |
+| 解析卷积神经网络——深度学习实践手册.pdf (5.47 MB) | bjdrive://938e911089d6b85e92d9982229ce6079 |
+| 深度学习技术选型白皮书（2018 年）.pdf (1.01 MB) | bjdrive://c2599a58b550df6a9df235d6785bcb0a |
+| JavaScript 完全手册（2018版）.epub (2.27 MB) | bjdrive://b587d6d0a415b19f7ad846e683e61879 |
+| Kubernetes 中文文档.epub (2.52 MB) | bjdrive://54ed43a8e4e44ffd8583de5d3e69331b |
+| Statistical Learning Theory Notes (Stanford CS229T STAT231).pdf (1.18 MB) | bjdrive://25392bd7f5760c8c424c0b3becdcbbca |
+| TensorFlow 内核剖析.pdf (5.31 MB) | bjdrive://05a27a8b5ef485e18fde35fd5d835b83 |
+| Algorithmic Information Theory - Review For Physicists And Natural Scientists.pdf (1.36 MB) | bjdrive://6ecc921515443813da9c87cefd080fef |
+| Handling and Processing Strings in R.pdf (398.54 KB) | bjdrive://a9bb60f255fca4e441292f06b967bce7 |
+| 从零开始学虚幻4游戏开发系列.pdf (13.55 MB) | bjdrive://e2186c5b57a4d1d27ece9f44a58369b9 |
+| Linear Programming.pdf (517.69 KB) | bjdrive://498a9b825bdb8997ad65291b115b8db6 |
+| Full Speed Python.epub (682.87 KB) | bjdrive://2c1ac7f0f44e04e6dfbd07de9465ba27 |
+| 操作系统 ThreeEasyPieces.pdf (832.91 KB) | bjdrive://9168ff9f3c4b66164214d5fbd4c1db81 |
+| Assembly Language for Beginners.pdf (7.60 MB) | bjdrive://8c301827c6979455f41928e5786b015f |
+| Forecasting in Economics, Business, Finance and Beyond.pdf (5.66 MB) | bjdrive://9ca475bb7e93c683f0e85f973757d785 |
+| Time Series Econometrics.pdf (1.82 MB) | bjdrive://0a48ae82cd39a8115c0775829e4941c2 |
+| Competitive Programmer's Handbook.pdf (1.05 MB) | bjdrive://5467d9d3b77c1ad905786e05343ee188 |
+| the practice of reproducible research.epub (2.76 MB) | bjdrive://e78a1197fa4ffadec13aea912c448063 |
+| Technical Notes On Using Data Science & Artificial Intelligence.epub (2.43 MB) | bjdrive://ef18ea292cf5ff0fad146da4aba414dc |
+| Sentiment Analysis and Opinion Mining.pdf (819.70 KB) | bjdrive://7b7378b152ee72c14da5e926e5250e24 |
+| Vue.js 2.0 完全入门记录.epub (1.17 MB) | bjdrive://586845fe3f151c3894f463c73f5d897c |
+| 给妹子讲 python 第一季.epub (86.34 KB) | bjdrive://826491ba115a861f3cae3312c749d58c |
+| i 春秋月刊 1~5.7z (43.33 MB) | bjdrive://f66013bed3ca44bb734c2e53c328d774 |
+| Category Theory for Programmers.pdf (2.49 MB) | bjdrive://d0e57f176894e959c52468be0316c739 |
+| CyC2018 CS 学习笔记 20181106.epub (13.17 MB) | bjdrive://caf58b13a6e33aafca5276588d1b9efd |
+| Bayesian Networks & Bayeslab.pdf (19.28 MB) | bjdrive://79b77740961ee47b530eeec8e0714dc6 |
+| Apache Airflow (incubating) Documentation.epub (2.57 MB) | bjdrive://b53c52f10ebc6955656db79882243311 |
+| Introduction to Statistics Online Edition.7z (13.97 MB) | bjdrive://1a578f1a8870ef2bc4209e3b46b5d708 |
+| Statistical inference for data science.pdf (2.47 MB) | bjdrive://5efd70e2eacf9b0eda91f66048eecde5 |
+| State Estimation for Robotics.pdf (4.26 MB) | bjdrive://bccb66a78b49ae747add04d901d1aea4 |
+| Computer Vision Algorithms and Applications.pdf (17.70 MB) | bjdrive://774114a0a8cb546150cbe2443711af6e |
+| DEEP REINFORCEMENT LEARNING (Yuxi Li).pdf (2.15 MB) | bjdrive://a924d3f9794b6e1ad29f3997df6f7e69 |
+| A Little Book of Python for Multivariate Analysis.epub (253.63 KB) | bjdrive://2090086c58a80f5a9714211b70c6cf33 |
+| Data Science and Analytics for Ordinary People.pdf (3.39 MB) | bjdrive://bcde46cdd19a7491d5e40ae46c622fa2 |
+| Econometrics Streamlined, Applied and e-Aware.pdf (5.06 MB) | bjdrive://c5641590ace0c6a5bf18e63b1cee189a |
+| Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.pdf (4.37 MB) | bjdrive://f3da51c6ced1c70ababb4dabb4c3f12b |
+| CSS Animation 101.epub (3.40 MB) | bjdrive://35dff34ea473c89ceb64cc2bcb74cfdf |
+| Django 2 By Example 中文版.epub (4.69 MB) | bjdrive://f728ea9e75db5b1821c20418c01757d0 |
+| Practical Data Cleaning - 19 Essential Tips.pdf (2.04 MB) | bjdrive://a44c73aa8f3ca83ebf3ca2280097f89a |
+| How to Write a Good Scientific Paper.pdf (2.49 MB) | bjdrive://ba99d8f908e9eadb8974edf998e55d41 |
 
 <!--csdrive-->
 
@@ -580,6 +804,232 @@ cdrive download <link>
 | 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | csdrive://20200405111133758 |
 | Gradle 实战.epub (2.45 MB) | csdrive://20200405111139305 |
 | Postman 中文文档.epub (3.92 MB) | csdrive://20200405111145966 |
+| Golang 101 hacks.epub (119.27 KB) | csdrive://2020040512054523 |
+| Chromium中文文档.epub (1.83 MB) | csdrive://20200405120550524 |
+| 深入理解OpenStack自动化部署.epub (2.60 MB) | csdrive://20200405120600297 |
+| Docker Swarm 源码分析.epub (163.33 KB) | csdrive://2020040512060460 |
+| Tornado Tcp Program.epub (181.98 KB) | csdrive://20200405120608126 |
+| Android&Java 技术笔记.epub (4.58 MB) | csdrive://20200405120619647 |
+| Spring Data 中文版本.epub (140.22 KB) | csdrive://20200405120622888 |
+| 斯坦福 CS183c 闪电式扩张中文笔记.epub (7.67 MB) | csdrive://20200405120758812 |
+| Zoe的Python星际之旅.epub (843.79 KB) | csdrive://20200405120802935 |
+| Ceph 运维手册.epub (179.73 KB) | csdrive://20200405120805837 |
+| 耶鲁博弈论笔记全 24 讲 v2.0（Apollo, Gabriel）.pdf (2.12 MB) | csdrive://20200405120811489 |
+| A Guide to Porting C C++ to Rust.epub (247.18 KB) | csdrive://20200405120814683 |
+| 深入浅出Java Web.epub (978.65 KB) | csdrive://2020040512081983 |
+| 和我一步步部署 kubernetes 集群.epub (1.51 MB) | csdrive://20200405120824252 |
+| Serenity开发者指南中文版.epub (1.73 MB) | csdrive://20200405120829608 |
+| 爬虫之路.epub (757.16 KB) | csdrive://20200405120833726 |
+| Little ASP.NET Core Book.epub (258.06 KB) | csdrive://20200405120836851 |
+| PHP 扩展开发入门.epub (377.56 KB) | csdrive://20200405120840230 |
+| Stochastic Processes Lecture Notes (UCB STAT150).pdf (5.32 MB) | csdrive://20200405120847716 |
+| Erlang 编程规则.epub (47.34 KB) | csdrive://20200405120850395 |
+| Node.js 设计模式 中文第二版.epub (9.08 MB) | csdrive://20200405120858220 |
+| Databricks Spark 知识库.epub (600.63 KB) | csdrive://20200405120901862 |
+| Android SDK 教程.epub (5.50 MB) | csdrive://20200405120909277 |
+| Game Theory 2e.7z (2.96 MB) | csdrive://20200405120914773 |
+| 机器学习教程（shareditor）.epub (7.69 MB) | csdrive://20200405120931535 |
+| ウェブ健康診断仕様.pdf (770.25 KB) | csdrive://20200405120935213 |
+| UCB Data8 计算与推断思维 中文版.epub (7.36 MB) | csdrive://20200405120941787 |
+| OpenStack最终用户文档（简体中文版）.epub (106.13 KB) | csdrive://20200405120944721 |
+| Programming Languages Application and Interpretation 中文版.epub (236.52 KB) | csdrive://20200405120948421 |
+| 安全なSQLの呼び出し方.pdf (713.12 KB) | csdrive://20200405120953892 |
+| Java 微信开发.epub (6.99 MB) | csdrive://2020040512100578 |
+| Algorithmic Game Theory Lecture Notes (Stanford CS364A).pdf (2.95 MB) | csdrive://2020040512102218 |
+| Java 面试笔记.epub (244.10 KB) | csdrive://20200405121025797 |
+| Kivy中文编程指南.epub (3.36 MB) | csdrive://20200405121032483 |
+| Internet Of Things 101 Intel® Edison.epub (8.42 MB) | csdrive://20200405121040241 |
+| MongoDB入门指南.epub (38.36 KB) | csdrive://20200405121042662 |
+| Understanding Model-View-Controller.epub (2.09 MB) | csdrive://20200405121047890 |
+| Android控件操作-二十四章经.epub (5.86 MB) | csdrive://2020040512105526 |
+| Tensorflow Tutorials (pkmital).epub (307.71 KB) | csdrive://20200405121058173 |
+| 安全なウェブサイトの作り方 7e.pdf (3.68 MB) | csdrive://20200405121104198 |
+| 谷歌深度学习笔记（ahangchen）.epub (8.83 MB) | csdrive://20200405121111375 |
+| Groovy 入门.epub (231.16 KB) | csdrive://20200405121114534 |
+| TensorFlow Tutorials (nlintz).epub (381.96 KB) | csdrive://20200405121117683 |
+| RubyFu.epub (1.64 MB) | csdrive://20200405121122411 |
+| 文件系统层次结构标准中文版.epub (162.32 KB) | csdrive://20200405121125321 |
+| 傅里叶变换及其应用（斯坦福大学）.pdf (5.10 MB) | csdrive://20200405121131940 |
+| Rancher 实战红宝书.epub (461.38 KB) | csdrive://20200405121135325 |
+| 从Python到Django入门教程.epub (1.25 MB) | csdrive://20200405121139732 |
+| 编写高质量代码改善 Python 程序的 91 个建议.epub (235.63 KB) | csdrive://20200405121142942 |
+| TensorFlow Examples (aymericdamien).epub (3.36 MB) | csdrive://20200405121149194 |
+| PHP 5.5 Web零基础教程：开发一个在线阅读网站.epub (71.11 KB) | csdrive://20200405121151869 |
+| 给iOS开发者的Sketch入门教程.epub (7.09 MB) | csdrive://20200405121158856 |
+| Sanic-For-Pythoneer.epub (1.37 MB) | csdrive://20200405121203250 |
+| Githug 通关攻略.epub (1.67 MB) | csdrive://20200405121207908 |
+| Tensorflow 101 (sjchoi86).epub (29.76 MB) | csdrive://20200405121232545 |
+| laravel 源码解析.epub (2.12 MB) | csdrive://20200405121237855 |
+| 从头到尾彻底理解 KMP.epub (518.22 KB) | csdrive://20200405121241284 |
+| Python 3 Module Examples.epub (1.94 MB) | csdrive://20200405121246414 |
+| Android 百战经典.epub (5.06 MB) | csdrive://20200405121303949 |
+| Windows App 应用开发教程.epub (5.25 MB) | csdrive://20200405121310776 |
+| FreeBSD 101 Hacks.epub (185.34 KB) | csdrive://20200405121313679 |
+| 斯坦福 CS183f YC 创业课 2017 中文笔记.epub (276.86 KB) | csdrive://20200405121316817 |
+| Python 3 Basics Tutorial.epub (1.07 MB) | csdrive://20200405121321132 |
+| Axure RP 指南.epub (16.19 MB) | csdrive://20200405121330421 |
+| Glide v4 中文版.epub (102.78 KB) | csdrive://20200405121333332 |
+| Istio官方文档中文版.epub (2.06 MB) | csdrive://20200405121338521 |
+| Build your applications with Webpack.epub (103.40 KB) | csdrive://20200405121341441 |
+| Docker简明教程.epub (1.01 MB) | csdrive://20200405121345808 |
+| Build Your Own Lisp 中文版.epub (223.07 KB) | csdrive://20200405121348996 |
+| PaddlePaddle 深度学习入门.epub (3.23 MB) | csdrive://20200405121355285 |
+| Python Testing Tutorial.epub (162.15 KB) | csdrive://20200405121358195 |
+| Spring Framework 5 中文文档.epub (558.68 KB) | csdrive://20200405121401587 |
+| 概率编程与贝叶斯方法实践.pdf (7.61 MB) | csdrive://20200405121408370 |
+| 推荐系统之算法（Librec 中文文档）.epub (34.13 KB) | csdrive://20200405121410790 |
+| iOS 9人机交互指南.epub (8.53 MB) | csdrive://20200405121417906 |
+| Hibernate 高级教程.epub (402.83 KB) | csdrive://20200405121421299 |
+| kungeekUI.epub (68.49 KB) | csdrive://20200405121423968 |
+| Apple Pay 编程指南.epub (117.90 KB) | csdrive://20200405121426893 |
+| Java NIO简明教程.epub (291.76 KB) | csdrive://2020040512143060 |
+| Hadoop The Definitive Guide 4e 中文版.epub (1.33 MB) | csdrive://20200405121434476 |
+| 带你玩转 Visual Studio.epub (3.73 MB) | csdrive://20200405121440935 |
+| Time Series Lecture Notes (UCB STAT153).pdf (3.84 MB) | csdrive://20200405121447405 |
+| iOS IAP 教程.epub (901.80 KB) | csdrive://20200405121451322 |
+| C 语言进阶.epub (279.27 KB) | csdrive://20200405121454459 |
+| Rxjs 5 ultimate.epub (81.50 KB) | csdrive://20200405121457167 |
+| sdn网络指南.epub (21.92 MB) | csdrive://2020040512151599 |
+| introduction-to-touchdesigner.epub (5.80 MB) | csdrive://20200405121531143 |
+| 在迭代1之前.epub (13.84 MB) | csdrive://20200405121538953 |
+| InfluxDB简明手册.epub (191.74 KB) | csdrive://2020040512154335 |
+| spark机器学习算法研究和源码分析.epub (10.77 MB) | csdrive://20200405121554883 |
+| 工业控制网络安全基础 v2.pdf (4.00 MB) | csdrive://20200405121601718 |
+| Spring Boot Cookbook 中文版.epub (4.85 MB) | csdrive://20200405121608569 |
+| 《Real-Time Rendering 3rd》 提炼总结.pdf (25.22 MB) | csdrive://20200405121621637 |
+| Scikit and Tensorflow Workbooks (bjpcjp).epub (5.38 MB) | csdrive://20200405121628458 |
+| Spark GraphX源码分析.epub (3.13 MB) | csdrive://20200405121634906 |
+| Animation动画详解.epub (62.29 MB) | csdrive://20200405121700753 |
+| Build a Node.js Project from Scratch.epub (91.80 KB) | csdrive://20200405121703428 |
+| 草根学 Python （基于Python3.6）.epub (8.08 MB) | csdrive://2020040512171077 |
+| 使用Ionic2制作移动应用.pdf (5.07 MB) | csdrive://20200405121716525 |
+| devops-collective-inc PowerShell.7z (9.04 MB) | csdrive://20200405121723220 |
+| 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | csdrive://20200405121729336 |
+| Learning Rust.epub (1.13 MB) | csdrive://20200405121733257 |
+| 自己动手做聊天机器人.epub (8.62 MB) | csdrive://20200405121739944 |
+| | |
+| TensorFlow Zero To All.epub (1.43 MB) | csdrive://20200405124555645 |
+| Pandas Cookbook 带注释源码.epub (4.96 MB) | csdrive://20200405124604240 |
+| Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | csdrive://2020040512460974 |
+| 网络表示学习综述（涂存超等）.pdf (877.87 KB) | csdrive://20200405124613283 |
+| Machine Learning Super VIP Cheatsheet.pdf (1.26 MB) | csdrive://2020040512461791 |
+| 安卓校招面试指南.epub (29.06 MB) | csdrive://20200405124634547 |
+| PyTorch Zero To All.epub (92.85 KB) | csdrive://20200405124637223 |
+| Book on TypeScript.epub (1.73 MB) | csdrive://20200405124641673 |
+| 图嵌入综述译文（arxiv 1709.07604）.pdf (1.50 MB) | csdrive://20200405124645882 |
+| TensorFlow 学习指南.epub (5.08 MB) | csdrive://2020040512465227 |
+| Kira 概统十篇 2018.pdf (971.41 KB) | csdrive://20200405124655714 |
+| 码农翻身全年文章精华 2016.epub (12.02 MB) | csdrive://20200405124702516 |
+| 从 0 开始学架构（李运华）（完）.epub (6.49 MB) | csdrive://20200405124708859 |
+| uCore OS实验指导书和源码网址 (2017).epub (1.55 MB) | csdrive://2020040512471363 |
+| 机器学习那些事（刘知远译）.pdf (2.67 MB) | csdrive://20200405124716796 |
+| Python 数据分析与挖掘实战 带注释源码.epub (136.92 KB) | csdrive://20200405124719696 |
+| 基于深度学习的推荐系统研究综述（黄立威等）.pdf (1.16 MB) | csdrive://20200405124723754 |
+| 码农翻身全年文章精华 2017.epub (7.49 MB) | csdrive://20200405124730977 |
+| Kira 线代小菊花丸 2017（全）.pdf (3.80 MB) | csdrive://20200405124738765 |
+| 机器学习训练秘籍（Machine Learning Yearning 中文版）.pdf (5.40 MB) | csdrive://20200405124746131 |
+| i 春秋月刊第六期：Linux pwn 零基础入门.pdf (11.65 MB) | csdrive://20200405124804339 |
+| NumPy Essentials 带注释源码.epub (770.69 KB) | csdrive://20200405124813825 |
+| 台湾大学林轩田机器学习笔记（红色石头）.epub (25.85 MB) | csdrive://20200405124847397 |
+| SVD 及其应用（张志华）.pdf (743.71 KB) | csdrive://20200405124851320 |
+| 静态网站构建手册-使用Hugo构建个人博客.epub (3.20 MB) | csdrive://20200405124858448 |
+| 推荐系统调研报告及综述（张永锋）.pdf (332.23 KB) | csdrive://20200405124901864 |
+| Python 中文文档 3.7：入门教程.epub (316.07 KB) | csdrive://20200405124905803 |
+| 莫烦机器学习教程 2017.5.10 fix1.epub (29.00 MB) | csdrive://20200405124925992 |
+| 概率图模型研究进展综述.pdf (787.05 KB) | csdrive://20200405124930394 |
+| fast.ai 数值线性代数讲义中文版 v2.epub (8.75 MB) | csdrive://20200405124939964 |
+| 推荐系统遇上深度学习 1~21.epub (6.97 MB) | csdrive://20200405124948153 |
+| 阿里巴巴 Java 开发手册 1.4.0.pdf (1.11 MB) | csdrive://20200405124952301 |
+| Mathematics for Machine Learning.pdf (6.48 MB) | csdrive://2020040512495953 |
+| PyQt5 中文教程.epub (956.12 KB) | csdrive://2020040512500313 |
+| ANTLR 4简明教程.epub (250.50 KB) | csdrive://20200405125006196 |
+| 朱赟的技术管理课（完）.epub (3.73 MB) | csdrive://20200405125012892 |
+| 斯坦福 cs224d 深度学习与自然语言处理讲义 fix1.epub (3.29 MB) | csdrive://20200405125019566 |
+| Android 101 Labs.epub (10.84 MB) | csdrive://20200405125027103 |
+| 深度强化学习综述（刘全等）.pdf (1.24 MB) | csdrive://20200405125031255 |
+| Python 数据科学手册.url (172 B) | csdrive://20200405125033443 |
+| UIC CS385 操作系统讲义.epub (22.18 MB) | csdrive://20200405125046838 |
+| 学习AngularJS 1.x.epub (928.35 KB) | csdrive://20200405125050726 |
+| Java 核心技术 36 讲（李运华）（完）.epub (3.51 MB) | csdrive://20200405125057447 |
+| Figure Eight 2018 年数据科学家报告.pdf (1.16 MB) | csdrive://20200405125101368 |
+| SciPyCon 2018 sklearn 教程.epub (2.06 MB) | csdrive://20200405125108913 |
+| aiohttp 中文文档.epub (173.54 KB) | csdrive://20200405125112290 |
+| Node.js 调试指南.epub (8.09 MB) | csdrive://20200405125123733 |
+| 卷积神经网络研究综述（周飞燕等）.pdf (893.74 KB) | csdrive://20200405125127879 |
+| 迁移到云原生应用架构.epub (2.20 MB) | csdrive://2020040512513485 |
+| Kira 高数葵花宝典 2017（修订版）.pdf (4.03 MB) | csdrive://20200405125141857 |
+| 生物信息学札记（第三版）.pdf (6.07 MB) | csdrive://20200405125150901 |
+| 达观数据NLP特刊：从原理到实践.pdf (21.52 MB) | csdrive://20200405125207609 |
+| 深度有趣 - 人工智能实战项目合集.pdf (5.90 MB) | csdrive://20200405125214139 |
+| 简单粗暴TensorFlow.pdf (1.21 MB) | csdrive://20200405125218255 |
+| 一文详解 Word2vec 之 Skip-Gram 模型.pdf (1.57 MB) | csdrive://20200405125222700 |
+| CUDA 编程指南 5.0 中文版.pdf (2.55 MB) | csdrive://2020040512522824 |
+| 深度强化学习综述：兼论计算机围棋的发展.pdf (2.75 MB) | csdrive://20200405125233749 |
+| 生物信息学讲义：结构信息部分（龚海鹏）.pdf (5.84 MB) | csdrive://20200405125240701 |
+| computer_networks_a_systems_approach_5th_ed.epub (14.35 MB) | csdrive://20200405125300121 |
+| Python 数据科学速查表 14 张（呆鸟译）.7z (4.00 MB) | csdrive://20200405125307731 |
+| Rangle's Angular 2 Training Book 中文版.epub (2.81 MB) | csdrive://20200405125313752 |
+| Python One to Million.epub (449.45 KB) | csdrive://20200405125317191 |
+| Markdown 入门参考.epub (2.11 MB) | csdrive://20200405125323267 |
+| 新时期我国信息技术产业的发展.pdf (4.74 MB) | csdrive://20200405125330325 |
+| Artificial Inteligence - Leonardo Araujo dos Santos.epub (26.59 MB) | csdrive://20200405120210466 |
+| Mastering TensorFlow 1.x Code Notes.epub (4.13 MB) | csdrive://20200405120255108 |
+| 牛客网春招备战手册+笔试分册+面试分册 2018.7z (3.25 MB) | csdrive://20200405120339195 |
+| Foundations of Data Science.pdf (1.87 MB) | csdrive://20200405120345408 |
+| OpenTutorial Git Python Django 教程.epub (7.49 MB) | csdrive://20200405120419775 |
+| Notes on Deep Learning for NLP.pdf (1.99 MB) | csdrive://20200405120425301 |
+| Attention Is All You Need 中文翻译.pdf (1.34 MB) | csdrive://20200405120430448 |
+| Getting Started in Computer Vision Research.pdf (311.34 KB) | csdrive://20200405120433929 |
+| 自由软件自由社会.epub (975.69 KB) | csdrive://20200405120439784 |
+| 给妹子讲 python 第二季.epub (888.08 KB) | csdrive://20200405120444817 |
+| 史上最简单的 IntelliJ IDEA 教程.epub (2.31 MB) | csdrive://20200405120455136 |
+| ICML 2018 Notes.pdf (571.94 KB) | csdrive://20200405120459673 |
+| GrowingIO 增长秘籍 3.0 终版.pdf (4.26 MB) | csdrive://20200405120554289 |
+| The World Is Built On Probability.pdf (22.81 MB) | csdrive://20200405120636744 |
+| 重来（Olivida 译）.epub (89.22 KB) | csdrive://20200405120640183 |
+| RANDOM FORESTS FOR BEGINNERS.pdf (774.19 KB) | csdrive://20200405120645184 |
+| 金程教育 AQF 量化金融分析师讲义 2017.pdf (29.55 MB) | csdrive://20200405120753138 |
+| Readings in Database Systems, 5th Edition.pdf (369.79 KB) | csdrive://20200405120756533 |
+| 解析卷积神经网络——深度学习实践手册.pdf (5.47 MB) | csdrive://20200405120805106 |
+| 深度学习技术选型白皮书（2018 年）.pdf (1.01 MB) | csdrive://20200405120809265 |
+| JavaScript 完全手册（2018版）.epub (2.27 MB) | csdrive://20200405120815287 |
+| Kubernetes 中文文档.epub (2.52 MB) | csdrive://20200405120821355 |
+| Statistical Learning Theory Notes (Stanford CS229T STAT231).pdf (1.18 MB) | csdrive://20200405120825908 |
+| TensorFlow 内核剖析.pdf (5.31 MB) | csdrive://20200405120834781 |
+| Algorithmic Information Theory - Review For Physicists And Natural Scientists.pdf (1.36 MB) | csdrive://20200405120843153 |
+| Handling and Processing Strings in R.pdf (398.54 KB) | csdrive://20200405120846735 |
+| 从零开始学虚幻4游戏开发系列.pdf (13.55 MB) | csdrive://20200405120856860 |
+| Linear Programming.pdf (517.69 KB) | csdrive://20200405120900446 |
+| Full Speed Python.epub (682.87 KB) | csdrive://20200405120904287 |
+| 操作系统 ThreeEasyPieces.pdf (832.91 KB) | csdrive://20200405120908351 |
+| Assembly Language for Beginners.pdf (7.60 MB) | csdrive://20200405120926425 |
+| Forecasting in Economics, Business, Finance and Beyond.pdf (5.66 MB) | csdrive://20200405120933398 |
+| Time Series Econometrics.pdf (1.82 MB) | csdrive://20200405120938250 |
+| Competitive Programmer's Handbook.pdf (1.05 MB) | csdrive://20200405120942378 |
+| the practice of reproducible research.epub (2.76 MB) | csdrive://20200405120948460 |
+| Technical Notes On Using Data Science & Artificial Intelligence.epub (2.43 MB) | csdrive://2020040512095441 |
+| Sentiment Analysis and Opinion Mining.pdf (819.70 KB) | csdrive://20200405120957891 |
+| Vue.js 2.0 完全入门记录.epub (1.17 MB) | csdrive://20200405121002236 |
+| 给妹子讲 python 第一季.epub (86.34 KB) | csdrive://20200405121005116 |
+| i 春秋月刊 1~5.7z (43.33 MB) | csdrive://20200405121025822 |
+| Category Theory for Programmers.pdf (2.49 MB) | csdrive://20200405121031211 |
+| CyC2018 CS 学习笔记 20181106.epub (13.17 MB) | csdrive://20200405121038873 |
+| Bayesian Networks & Bayeslab.pdf (19.28 MB) | csdrive://20200405121057303 |
+| Apache Airflow (incubating) Documentation.epub (2.57 MB) | csdrive://20200405121102937 |
+| Introduction to Statistics Online Edition.7z (13.97 MB) | csdrive://20200405121121175 |
+| Statistical inference for data science.pdf (2.47 MB) | csdrive://20200405121126376 |
+| State Estimation for Robotics.pdf (4.26 MB) | csdrive://20200405121133279 |
+| Computer Vision Algorithms and Applications.pdf (17.70 MB) | csdrive://2020040512114497 |
+| DEEP REINFORCEMENT LEARNING (Yuxi Li).pdf (2.15 MB) | csdrive://20200405121148501 |
+| A Little Book of Python for Multivariate Analysis.epub (253.63 KB) | csdrive://20200405121151705 |
+| 高可用架构（第 1~6 期）.rar (22.14 MB) | csdrive://20200405121206438 |
+| Data Science and Analytics for Ordinary People.pdf (3.39 MB) | csdrive://20200405121212796 |
+| Econometrics Streamlined, Applied and e-Aware.pdf (5.06 MB) | csdrive://20200405121219813 |
+| Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.pdf (4.37 MB) | csdrive://20200405121226516 |
+| CSS Animation 101.epub (3.40 MB) | csdrive://20200405121232887 |
+| Django 2 By Example 中文版.epub (4.69 MB) | csdrive://20200405121239658 |
+| Practical Data Cleaning - 19 Essential Tips.pdf (2.04 MB) | csdrive://20200405121244546 |
+| How to Write a Good Scientific Paper.pdf (2.49 MB) | csdrive://20200405121249908 |
 
 <!--jsdrive-->
 
@@ -668,6 +1118,232 @@ cdrive download <link>
 | 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | jsdrive://118142-a6c7fca7529df33c |
 | Gradle 实战.epub (2.45 MB) | jsdrive://118142-c093674584c750ff |
 | Postman 中文文档.epub (3.92 MB) | jsdrive://118142-e05c739b4733bc2c |
+| Golang 101 hacks.epub (119.27 KB) | jsdrive://118142-acd4e89fc1d231c6 |
+| Chromium中文文档.epub (1.83 MB) | jsdrive://118142-6c6390aa4bce6480 |
+| 深入理解OpenStack自动化部署.epub (2.60 MB) | jsdrive://118142-d16b9f8cd8a4c379 |
+| Docker Swarm 源码分析.epub (163.33 KB) | jsdrive://118142-4aa9607cf8ec7a58 |
+| Tornado Tcp Program.epub (181.98 KB) | jsdrive://118142-e73e4d3267facd89 |
+| Android&Java 技术笔记.epub (4.58 MB) | jsdrive://118142-3f9bd0d6de9c4800 |
+| Spring Data 中文版本.epub (140.22 KB) | jsdrive://118142-19d7a5e9ba031fdb |
+| 斯坦福 CS183c 闪电式扩张中文笔记.epub (7.67 MB) | jsdrive://118142-c115bf6bb67240b0 |
+| Zoe的Python星际之旅.epub (843.79 KB) | jsdrive://118142-4f060fa36d5b620d |
+| Ceph 运维手册.epub (179.73 KB) | jsdrive://118142-611a7cdb7e102c90 |
+| 耶鲁博弈论笔记全 24 讲 v2.0（Apollo, Gabriel）.pdf (2.12 MB) | jsdrive://118142-b25bfa280ad700bf |
+| A Guide to Porting C C++ to Rust.epub (247.18 KB) | jsdrive://118142-cc2f3f1c539343cd |
+| 深入浅出Java Web.epub (978.65 KB) | jsdrive://118142-8aad1713984c67ec |
+| 和我一步步部署 kubernetes 集群.epub (1.51 MB) | jsdrive://118142-69fc1bec3d10088a |
+| Serenity开发者指南中文版.epub (1.73 MB) | jsdrive://118142-3cb6515343602f6c |
+| 爬虫之路.epub (757.16 KB) | jsdrive://118142-8baff7d09ef0f75e |
+| Little ASP.NET Core Book.epub (258.06 KB) | jsdrive://118142-f75109bae63b4869 |
+| PHP 扩展开发入门.epub (377.56 KB) | jsdrive://118142-e977c1275c3387e8 |
+| Stochastic Processes Lecture Notes (UCB STAT150).pdf (5.32 MB) | jsdrive://118142-b417e5360b1c2d2c |
+| Erlang 编程规则.epub (47.34 KB) | jsdrive://118142-d94ce1c9d26c4937 |
+| Node.js 设计模式 中文第二版.epub (9.08 MB) | jsdrive://118142-a5f0b8183c58a5a1 |
+| Databricks Spark 知识库.epub (600.63 KB) | jsdrive://118142-523e28d777c3840c |
+| Android SDK 教程.epub (5.50 MB) | jsdrive://118142-f9ec2b7d433cf0a3 |
+| Game Theory 2e.7z (2.96 MB) | jsdrive://118142-f9af44b3be33c611 |
+| 机器学习教程（shareditor）.epub (7.69 MB) | jsdrive://118142-27537ccf14dbc6a9 |
+| ウェブ健康診断仕様.pdf (770.25 KB) | jsdrive://118142-7fe90991f9dc3840 |
+| UCB Data8 计算与推断思维 中文版.epub (7.36 MB) | jsdrive://118142-4578e2cd304dc0e0 |
+| OpenStack最终用户文档（简体中文版）.epub (106.13 KB) | jsdrive://118142-5af538e5dbdbb0c8 |
+| Programming Languages Application and Interpretation 中文版.epub (236.52 KB) | jsdrive://118142-e9d6cd8274aa076a |
+| 安全なSQLの呼び出し方.pdf (713.12 KB) | jsdrive://118142-1014cce88694ae48 |
+| Java 微信开发.epub (6.99 MB) | jsdrive://118142-d7f12f0b49185fe1 |
+| Algorithmic Game Theory Lecture Notes (Stanford CS364A).pdf (2.95 MB) | jsdrive://118142-60ceaa18872193e3 |
+| Java 面试笔记.epub (244.10 KB) | jsdrive://118142-1b8ee936c58c55da |
+| Kivy中文编程指南.epub (3.36 MB) | jsdrive://118142-9e08e49bcbd83a37 |
+| Internet Of Things 101 Intel® Edison.epub (8.42 MB) | jsdrive://118142-6261e0e34987fdcd |
+| MongoDB入门指南.epub (38.36 KB) | jsdrive://118142-14f1c029c6e325fc |
+| Understanding Model-View-Controller.epub (2.09 MB) | jsdrive://118142-e0c972cf21774516 |
+| Android控件操作-二十四章经.epub (5.86 MB) | jsdrive://118142-23e317a095d39520 |
+| Tensorflow Tutorials (pkmital).epub (307.71 KB) | jsdrive://118142-1cf5c5c18cfc4895 |
+| 安全なウェブサイトの作り方 7e.pdf (3.68 MB) | jsdrive://118142-012eac89fe135f0d |
+| 谷歌深度学习笔记（ahangchen）.epub (8.83 MB) | jsdrive://118142-25612f3fbecc3ea9 |
+| Groovy 入门.epub (231.16 KB) | jsdrive://118142-d2ad82e0050c7a0f |
+| TensorFlow Tutorials (nlintz).epub (381.96 KB) | jsdrive://118142-e7d65c3f0aed2865 |
+| RubyFu.epub (1.64 MB) | jsdrive://118142-fa567ff2a862d30a |
+| 文件系统层次结构标准中文版.epub (162.32 KB) | jsdrive://118142-c48ee12be682106c |
+| 傅里叶变换及其应用（斯坦福大学）.pdf (5.10 MB) | jsdrive://118142-117c742ec534b5f6 |
+| Rancher 实战红宝书.epub (461.38 KB) | jsdrive://118142-efe32726f2558315 |
+| 从Python到Django入门教程.epub (1.25 MB) | jsdrive://118142-e96e705befc65805 |
+| 编写高质量代码改善 Python 程序的 91 个建议.epub (235.63 KB) | jsdrive://118142-34e4eb14f9ff26ea |
+| TensorFlow Examples (aymericdamien).epub (3.36 MB) | jsdrive://118142-973f6f7460f9511d |
+| PHP 5.5 Web零基础教程：开发一个在线阅读网站.epub (71.11 KB) | jsdrive://118142-376706d96e85fbb2 |
+| 给iOS开发者的Sketch入门教程.epub (7.09 MB) | jsdrive://118142-008cad2c419af68b |
+| Sanic-For-Pythoneer.epub (1.37 MB) | jsdrive://118142-fe6f31fe39594d44 |
+| Githug 通关攻略.epub (1.67 MB) | jsdrive://118142-0df25e28a500f044 |
+| Tensorflow 101 (sjchoi86).epub (29.76 MB) | jsdrive://118142-c54f644f792efbec |
+| laravel 源码解析.epub (2.12 MB) | jsdrive://118142-a481838797685d96 |
+| 从头到尾彻底理解 KMP.epub (518.22 KB) | jsdrive://118142-0fba100cd4cc4506 |
+| Python 3 Module Examples.epub (1.94 MB) | jsdrive://118142-a30d81465b366733 |
+| Android 百战经典.epub (5.06 MB) | jsdrive://118142-c4d7470836b3b8a5 |
+| Windows App 应用开发教程.epub (5.25 MB) | jsdrive://118142-d07bc461bbed20d9 |
+| FreeBSD 101 Hacks.epub (185.34 KB) | jsdrive://118142-9f25770ac99990ee |
+| 斯坦福 CS183f YC 创业课 2017 中文笔记.epub (276.86 KB) | jsdrive://118142-7c9364512491f6ef |
+| Python 3 Basics Tutorial.epub (1.07 MB) | jsdrive://118142-413c4a0b70d52708 |
+| Axure RP 指南.epub (16.19 MB) | jsdrive://118142-ef9ef6a9d18d56ee |
+| Glide v4 中文版.epub (102.78 KB) | jsdrive://118142-4db4a40f7173adb7 |
+| Istio官方文档中文版.epub (2.06 MB) | jsdrive://118142-bcdc48a5346edc37 |
+| Build your applications with Webpack.epub (103.40 KB) | jsdrive://118142-9dad74a4605f049e |
+| Docker简明教程.epub (1.01 MB) | jsdrive://118142-f38e4a32bf0280dc |
+| Build Your Own Lisp 中文版.epub (223.07 KB) | jsdrive://118142-f86d2fa0fabe93e9 |
+| PaddlePaddle 深度学习入门.epub (3.23 MB) | jsdrive://118142-501a45d6ecc2e50f |
+| Python Testing Tutorial.epub (162.15 KB) | jsdrive://118142-c57b79f892072e5a |
+| Spring Framework 5 中文文档.epub (558.68 KB) | jsdrive://118142-e5cfb68ebc2751de |
+| 概率编程与贝叶斯方法实践.pdf (7.61 MB) | jsdrive://118142-7558e7bf239e26d1 |
+| 推荐系统之算法（Librec 中文文档）.epub (34.13 KB) | jsdrive://118142-8ab663c161d122d2 |
+| iOS 9人机交互指南.epub (8.53 MB) | jsdrive://118142-88f14e3404b04ba0 |
+| Hibernate 高级教程.epub (402.83 KB) | jsdrive://118142-b8378ade271be589 |
+| kungeekUI.epub (68.49 KB) | jsdrive://118142-92bf732ec0ef8860 |
+| Apple Pay 编程指南.epub (117.90 KB) | jsdrive://118142-5020b3c334cb022b |
+| Java NIO简明教程.epub (291.76 KB) | jsdrive://118142-2e7ff53bb7d836d4 |
+| Hadoop The Definitive Guide 4e 中文版.epub (1.33 MB) | jsdrive://118142-ee5bcf7e863f41d3 |
+| 带你玩转 Visual Studio.epub (3.73 MB) | jsdrive://118142-b27304ed1ee5ac27 |
+| Time Series Lecture Notes (UCB STAT153).pdf (3.84 MB) | jsdrive://118142-c6a29b8df5917309 |
+| iOS IAP 教程.epub (901.80 KB) | jsdrive://118142-0f4843138ad92e84 |
+| C 语言进阶.epub (279.27 KB) | jsdrive://118142-dc5896b836f627f6 |
+| Rxjs 5 ultimate.epub (81.50 KB) | jsdrive://118142-fc54ff48549dccba |
+| sdn网络指南.epub (21.92 MB) | jsdrive://118142-635e33e7d353b8e1 |
+| introduction-to-touchdesigner.epub (5.80 MB) | jsdrive://118142-1218df7cbc32773e |
+| 在迭代1之前.epub (13.84 MB) | jsdrive://118142-ce2a4c0d1135a346 |
+| InfluxDB简明手册.epub (191.74 KB) | jsdrive://118142-9d977c24f7bd73c9 |
+| spark机器学习算法研究和源码分析.epub (10.77 MB) | jsdrive://118142-732f414b7df83b02 |
+| 工业控制网络安全基础 v2.pdf (4.00 MB) | jsdrive://118142-c7ab19a694c08a21 |
+| Spring Boot Cookbook 中文版.epub (4.85 MB) | jsdrive://118142-526dee6758a91ba3 |
+| 《Real-Time Rendering 3rd》 提炼总结.pdf (25.22 MB) | jsdrive://118142-f5b7c0440311f7cc |
+| Scikit and Tensorflow Workbooks (bjpcjp).epub (5.38 MB) | jsdrive://118142-9c0e4422d7352531 |
+| Spark GraphX源码分析.epub (3.13 MB) | jsdrive://118142-423a1bd30cf5a0e8 |
+| Animation动画详解.epub (62.29 MB) | jsdrive://118142-3ffb964d27090622 |
+| Build a Node.js Project from Scratch.epub (91.80 KB) | jsdrive://118142-67db1707635a34a4 |
+| 草根学 Python （基于Python3.6）.epub (8.08 MB) | jsdrive://118142-b1fa4764acdfa991 |
+| 使用Ionic2制作移动应用.pdf (5.07 MB) | jsdrive://118142-70c28787ac907dcb |
+| devops-collective-inc PowerShell.7z (9.04 MB) | jsdrive://118142-830f5d8952ad3638 |
+| 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | jsdrive://118142-6a9e13252959fd7f |
+| Learning Rust.epub (1.13 MB) | jsdrive://118142-1de549f09c03d423 |
+| 自己动手做聊天机器人.epub (8.62 MB) | jsdrive://118142-086d892484065de5 |
+| | |
+| TensorFlow Zero To All.epub (1.43 MB) | jsdrive://118142-3dc032bf724998ec |
+| Pandas Cookbook 带注释源码.epub (4.96 MB) | jsdrive://118142-c097b63766390287 |
+| Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | jsdrive://118142-0fb973b5f5fd5c5c |
+| 网络表示学习综述（涂存超等）.pdf (877.87 KB) | jsdrive://118142-69a3e1da1925b88b |
+| Machine Learning Super VIP Cheatsheet.pdf (1.26 MB) | jsdrive://118142-5a85c0aafbbf36c0 |
+| 安卓校招面试指南.epub (29.06 MB) | jsdrive://118142-5d0886df21bc480e |
+| PyTorch Zero To All.epub (92.85 KB) | jsdrive://118142-4791e63828274e03 |
+| Book on TypeScript.epub (1.73 MB) | jsdrive://118142-0e42d6efdd854dfe |
+| 图嵌入综述译文（arxiv 1709.07604）.pdf (1.50 MB) | jsdrive://118142-f2ae64e3d8ba41ff |
+| TensorFlow 学习指南.epub (5.08 MB) | jsdrive://118142-ca143504351a8dd9 |
+| Kira 概统十篇 2018.pdf (971.41 KB) | jsdrive://118142-685c4ec967a1ae3d |
+| 码农翻身全年文章精华 2016.epub (12.02 MB) | jsdrive://118142-4076d5cfe1a5567a |
+| 从 0 开始学架构（李运华）（完）.epub (6.49 MB) | jsdrive://118142-d5039dd9e7132055 |
+| uCore OS实验指导书和源码网址 (2017).epub (1.55 MB) | jsdrive://118142-7f21eea119b4eeda |
+| 机器学习那些事（刘知远译）.pdf (2.67 MB) | jsdrive://118142-18b9b9ea7b0d6e0b |
+| Python 数据分析与挖掘实战 带注释源码.epub (136.92 KB) | jsdrive://118142-3a77640d549b7a37 |
+| 基于深度学习的推荐系统研究综述（黄立威等）.pdf (1.16 MB) | jsdrive://118142-900b23fd41f5c8d3 |
+| 码农翻身全年文章精华 2017.epub (7.49 MB) | jsdrive://118142-c449249d677c7336 |
+| Kira 线代小菊花丸 2017（全）.pdf (3.80 MB) | jsdrive://118142-40351740763b1cc3 |
+| 机器学习训练秘籍（Machine Learning Yearning 中文版）.pdf (5.40 MB) | jsdrive://118142-052ee938b46cffd6 |
+| i 春秋月刊第六期：Linux pwn 零基础入门.pdf (11.65 MB) | jsdrive://118142-aa73b791d4412ed4 |
+| NumPy Essentials 带注释源码.epub (770.69 KB) | jsdrive://118142-3f5070a3363f47db |
+| 台湾大学林轩田机器学习笔记（红色石头）.epub (25.85 MB) | jsdrive://118142-4e923395d5edfb90 |
+| SVD 及其应用（张志华）.pdf (743.71 KB) | jsdrive://118142-e4b2b9effdf0a348 |
+| 静态网站构建手册-使用Hugo构建个人博客.epub (3.20 MB) | jsdrive://118142-b3b2ddaeca3e347b |
+| 推荐系统调研报告及综述（张永锋）.pdf (332.23 KB) | jsdrive://118142-41f2a06fc8ecc8ae |
+| Python 中文文档 3.7：入门教程.epub (316.07 KB) | jsdrive://118142-e62dd6b3de50942c |
+| 莫烦机器学习教程 2017.5.10 fix1.epub (29.00 MB) | jsdrive://118142-2bbe9f68f48037eb |
+| 概率图模型研究进展综述.pdf (787.05 KB) | jsdrive://118142-bf76e128f05474c5 |
+| fast.ai 数值线性代数讲义中文版 v2.epub (8.75 MB) | jsdrive://118142-9c9ba617def057e2 |
+| 推荐系统遇上深度学习 1~21.epub (6.97 MB) | jsdrive://118142-9c4092080e54cf24 |
+| 阿里巴巴 Java 开发手册 1.4.0.pdf (1.11 MB) | jsdrive://118142-1e482dc79f9193bb |
+| Mathematics for Machine Learning.pdf (6.48 MB) | jsdrive://118142-07521b079059ace5 |
+| PyQt5 中文教程.epub (956.12 KB) | jsdrive://118142-74eb353c9c707aaf |
+| ANTLR 4简明教程.epub (250.50 KB) | jsdrive://118142-c46d499fcdd4541b |
+| 朱赟的技术管理课（完）.epub (3.73 MB) | jsdrive://118142-2d51eed59705e0fb |
+| 斯坦福 cs224d 深度学习与自然语言处理讲义 fix1.epub (3.29 MB) | jsdrive://118142-2333f83eb59cd86c |
+| Android 101 Labs.epub (10.84 MB) | jsdrive://118142-0067bb052607c0fa |
+| 深度强化学习综述（刘全等）.pdf (1.24 MB) | jsdrive://118142-8fc850273b4bf022 |
+| Python 数据科学手册.url (172 B) | jsdrive://118142-ac8ba44a710c7e4e |
+| UIC CS385 操作系统讲义.epub (22.18 MB) | jsdrive://118142-ff7d22503824ef44 |
+| 学习AngularJS 1.x.epub (928.35 KB) | jsdrive://118142-8be05ffb80df665a |
+| Java 核心技术 36 讲（李运华）（完）.epub (3.51 MB) | jsdrive://118142-a86c9dbdc1f043ef |
+| Figure Eight 2018 年数据科学家报告.pdf (1.16 MB) | jsdrive://118142-91fdfdba00367fa9 |
+| SciPyCon 2018 sklearn 教程.epub (2.06 MB) | jsdrive://118142-d0c1e098c2f657a4 |
+| aiohttp 中文文档.epub (173.54 KB) | jsdrive://118142-2618f168a6db8d85 |
+| Node.js 调试指南.epub (8.09 MB) | jsdrive://118142-ca48c2fe795ce194 |
+| 卷积神经网络研究综述（周飞燕等）.pdf (893.74 KB) | jsdrive://118142-a391e830464af158 |
+| 迁移到云原生应用架构.epub (2.20 MB) | jsdrive://118142-b725206eb833f56f |
+| Kira 高数葵花宝典 2017（修订版）.pdf (4.03 MB) | jsdrive://118142-d630cbb0ea601dda |
+| 生物信息学札记（第三版）.pdf (6.07 MB) | jsdrive://118142-769479cd28a24515 |
+| 达观数据NLP特刊：从原理到实践.pdf (21.52 MB) | jsdrive://118142-eee48824c4616d94 |
+| 深度有趣 - 人工智能实战项目合集.pdf (5.90 MB) | jsdrive://118142-2279a9b28022116d |
+| 简单粗暴TensorFlow.pdf (1.21 MB) | jsdrive://118142-0dec7e356b916a76 |
+| 一文详解 Word2vec 之 Skip-Gram 模型.pdf (1.57 MB) | jsdrive://118142-611c1076b9c4ecee |
+| CUDA 编程指南 5.0 中文版.pdf (2.55 MB) | jsdrive://118142-c84d1030b19bc5fc |
+| 深度强化学习综述：兼论计算机围棋的发展.pdf (2.75 MB) | jsdrive://118142-1afc066a08d8dd00 |
+| 生物信息学讲义：结构信息部分（龚海鹏）.pdf (5.84 MB) | jsdrive://118142-c923b422931897e3 |
+| computer_networks_a_systems_approach_5th_ed.epub (14.35 MB) | jsdrive://118142-e4eb0a0ccb4267e9 |
+| Python 数据科学速查表 14 张（呆鸟译）.7z (4.00 MB) | jsdrive://118142-1219fce3d761978f |
+| Rangle's Angular 2 Training Book 中文版.epub (2.81 MB) | jsdrive://118142-b31813c016333644 |
+| Python One to Million.epub (449.45 KB) | jsdrive://118142-8d1fbb72b6a45442 |
+| Markdown 入门参考.epub (2.11 MB) | jsdrive://118142-cda156b53dd7732d |
+| 新时期我国信息技术产业的发展.pdf (4.74 MB) | jsdrive://118142-f63f9ef31ca6ae60 |
+| Artificial Inteligence - Leonardo Araujo dos Santos.epub (26.59 MB) | jsdrive://118142-b797898b5d5438e8 |
+| Mastering TensorFlow 1.x Code Notes.epub (4.13 MB) | jsdrive://118142-e97abcaecf1e2748 |
+| 牛客网春招备战手册+笔试分册+面试分册 2018.7z (3.25 MB) | jsdrive://118142-4758ca226f5b2815 |
+| Foundations of Data Science.pdf (1.87 MB) | jsdrive://118142-263ba59fa0ba67dc |
+| OpenTutorial Git Python Django 教程.epub (7.49 MB) | jsdrive://118142-10eadf5c20d969b0 |
+| Notes on Deep Learning for NLP.pdf (1.99 MB) | jsdrive://118142-a440a17f5aa0535c |
+| Attention Is All You Need 中文翻译.pdf (1.34 MB) | jsdrive://118142-abf30ed654002847 |
+| Getting Started in Computer Vision Research.pdf (311.34 KB) | jsdrive://118142-1f47cc535a238743 |
+| 自由软件自由社会.epub (975.69 KB) | jsdrive://118142-0f72baef9247dd21 |
+| 给妹子讲 python 第二季.epub (888.08 KB) | jsdrive://118142-bd77b605a2f27bc3 |
+| 史上最简单的 IntelliJ IDEA 教程.epub (2.31 MB) | jsdrive://118142-1281b5159a269513 |
+| ICML 2018 Notes.pdf (571.94 KB) | jsdrive://118142-d0362df8faae058e |
+| GrowingIO 增长秘籍 3.0 终版.pdf (4.26 MB) | jsdrive://118142-f8e459a4fd9e9d7f |
+| The World Is Built On Probability.pdf (22.81 MB) | jsdrive://118142-24be509d8525801b |
+| 重来（Olivida 译）.epub (89.22 KB) | jsdrive://118142-13b8b31628ed3b3b |
+| RANDOM FORESTS FOR BEGINNERS.pdf (774.19 KB) | jsdrive://118142-bb32f477e5bf1aee |
+| 金程教育 AQF 量化金融分析师讲义 2017.pdf (29.55 MB) | jsdrive://118142-115db93282c1dc9c |
+| Readings in Database Systems, 5th Edition.pdf (369.79 KB) | jsdrive://118142-5e12cee2b57a8620 |
+| 解析卷积神经网络——深度学习实践手册.pdf (5.47 MB) | jsdrive://118142-360f21b8e9e8595e |
+| 深度学习技术选型白皮书（2018 年）.pdf (1.01 MB) | jsdrive://118142-a3f064546cf352b4 |
+| JavaScript 完全手册（2018版）.epub (2.27 MB) | jsdrive://118142-af286ddf54f5e5d9 |
+| Kubernetes 中文文档.epub (2.52 MB) | jsdrive://118142-68e95fafc74263c0 |
+| Statistical Learning Theory Notes (Stanford CS229T STAT231).pdf (1.18 MB) | jsdrive://118142-681cb1a767b52189 |
+| TensorFlow 内核剖析.pdf (5.31 MB) | jsdrive://118142-8eb4e3f3e308d096 |
+| Algorithmic Information Theory - Review For Physicists And Natural Scientists.pdf (1.36 MB) | jsdrive://118142-4fed9ff39cd6b19a |
+| Handling and Processing Strings in R.pdf (398.54 KB) | jsdrive://118142-ce4e773e49146f78 |
+| 从零开始学虚幻4游戏开发系列.pdf (13.55 MB) | jsdrive://118142-40aeb9ac1768cec2 |
+| Linear Programming.pdf (517.69 KB) | jsdrive://118142-383c78ea77dc7c50 |
+| Full Speed Python.epub (682.87 KB) | jsdrive://118142-f91f317c9eeafade |
+| 操作系统 ThreeEasyPieces.pdf (832.91 KB) | jsdrive://118142-ae0b473c40e52781 |
+| Assembly Language for Beginners.pdf (7.60 MB) | jsdrive://118142-48588a4c3ca050c1 |
+| Forecasting in Economics, Business, Finance and Beyond.pdf (5.66 MB) | jsdrive://118142-e002747d38875e2c |
+| Time Series Econometrics.pdf (1.82 MB) | jsdrive://118142-72636c78dc9ab0e1 |
+| Competitive Programmer's Handbook.pdf (1.05 MB) | jsdrive://118142-6ae613dce5a37922 |
+| the practice of reproducible research.epub (2.76 MB) | jsdrive://118142-4cd0ef29650f83e1 |
+| Technical Notes On Using Data Science & Artificial Intelligence.epub (2.43 MB) | jsdrive://118142-1df86d69308acf62 |
+| Sentiment Analysis and Opinion Mining.pdf (819.70 KB) | jsdrive://118142-6a0e8d80d800486b |
+| Vue.js 2.0 完全入门记录.epub (1.17 MB) | jsdrive://118142-07732294eac5a417 |
+| 给妹子讲 python 第一季.epub (86.34 KB) | jsdrive://118142-78aecc62d2aeefdd |
+| i 春秋月刊 1~5.7z (43.33 MB) | jsdrive://118142-d1415291656fdc05 |
+| Category Theory for Programmers.pdf (2.49 MB) | jsdrive://118142-f6605dcf58ed29b2 |
+| CyC2018 CS 学习笔记 20181106.epub (13.17 MB) | jsdrive://118142-668a254b4e5d2778 |
+| Bayesian Networks & Bayeslab.pdf (19.28 MB) | jsdrive://118142-757f7cbc0a8ce391 |
+| Apache Airflow (incubating) Documentation.epub (2.57 MB) | jsdrive://118142-9e72ad342d7c8d09 |
+| Introduction to Statistics Online Edition.7z (13.97 MB) | jsdrive://118142-66dbe9c3d9f0d1d0 |
+| Statistical inference for data science.pdf (2.47 MB) | jsdrive://118142-aa7b8ec3a680f918 |
+| State Estimation for Robotics.pdf (4.26 MB) | jsdrive://118142-943828109f0b7765 |
+| Computer Vision Algorithms and Applications.pdf (17.70 MB) | jsdrive://118142-d88a40c76db82947 |
+| DEEP REINFORCEMENT LEARNING (Yuxi Li).pdf (2.15 MB) | jsdrive://118142-d57027e7a4c10247 |
+| A Little Book of Python for Multivariate Analysis.epub (253.63 KB) | jsdrive://118142-033bee25a1842177 |
+| 高可用架构（第 1~6 期）.rar (22.14 MB) | jsdrive://118142-28e6ee9486171842 |
+| Data Science and Analytics for Ordinary People.pdf (3.39 MB) | jsdrive://118142-781ab2c31ce93718 |
+| Econometrics Streamlined, Applied and e-Aware.pdf (5.06 MB) | jsdrive://118142-9640e7aef9932362 |
+| Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.pdf (4.37 MB) | jsdrive://118142-2ad9df2fd3a51e82 |
+| CSS Animation 101.epub (3.40 MB) | jsdrive://118142-3c9f8adec3325d27 |
+| Django 2 By Example 中文版.epub (4.69 MB) | jsdrive://118142-5f43c900b94c5062 |
+| Practical Data Cleaning - 19 Essential Tips.pdf (2.04 MB) | jsdrive://118142-c3bcee52c57efc26 |
+| How to Write a Good Scientific Paper.pdf (2.49 MB) | jsdrive://118142-ae4ed3964f6b83e5 |
 
 <!--shdrive-->
 
@@ -756,3 +1432,229 @@ cdrive download <link>
 | 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | shdrive://20200405/d1ec77d63f854c8c9bba285c88c49c2f |
 | Gradle 实战.epub (2.45 MB) | shdrive://20200405/6b24c5a4570040ba87dc6d40ad015e61 |
 | Postman 中文文档.epub (3.92 MB) | shdrive://20200405/ca8cf43322414a4abd685946010304a6 |
+| Golang 101 hacks.epub (119.27 KB) | shdrive://20200405/4f1f2d63125240139f65e2338d0195ff |
+| Chromium中文文档.epub (1.83 MB) | shdrive://20200405/911158c336db411bb4a3f0f97856dcc0 |
+| 深入理解OpenStack自动化部署.epub (2.60 MB) | shdrive://20200405/a3ca359da62b48a5a33a5fa6fc61c173 |
+| Docker Swarm 源码分析.epub (163.33 KB) | shdrive://20200405/7019e5110ba944408e35307ff2577c5b |
+| Tornado Tcp Program.epub (181.98 KB) | shdrive://20200405/e7d962978ae64987ad1b38c586effd15 |
+| Android&Java 技术笔记.epub (4.58 MB) | shdrive://20200405/38370b46bbef464a889b5072830e4533 |
+| Spring Data 中文版本.epub (140.22 KB) | shdrive://20200405/5cae69ce72154bbc8e16f537d32458a1 |
+| 斯坦福 CS183c 闪电式扩张中文笔记.epub (7.67 MB) | shdrive://20200405/d474f2f8e2cc4e008e3ea603991bffcc |
+| Zoe的Python星际之旅.epub (843.79 KB) | shdrive://20200405/4fe583c158ad42628c954a57d46cda4e |
+| Ceph 运维手册.epub (179.73 KB) | shdrive://20200405/2491fd8bf3f7484b93f2b469a9025eba |
+| 耶鲁博弈论笔记全 24 讲 v2.0（Apollo, Gabriel）.pdf (2.12 MB) | shdrive://20200405/1342766302a0444f9aa06185f122f09a |
+| A Guide to Porting C C++ to Rust.epub (247.18 KB) | shdrive://20200405/ed3f3fdd07614b7aa34929a8134e499f |
+| 深入浅出Java Web.epub (978.65 KB) | shdrive://20200405/3df3d0b211ea44f9b0cff291bd65f80c |
+| 和我一步步部署 kubernetes 集群.epub (1.51 MB) | shdrive://20200405/f1666e54c30847088d381c1a8a4108ad |
+| Serenity开发者指南中文版.epub (1.73 MB) | shdrive://20200405/e75e3ed0ce414a8b9ad89755e8b73f64 |
+| 爬虫之路.epub (757.16 KB) | shdrive://20200405/a6bbcdce3cef48c09ccb882660699600 |
+| Little ASP.NET Core Book.epub (258.06 KB) | shdrive://20200405/c799461747484c018b14f1987bd19db3 |
+| PHP 扩展开发入门.epub (377.56 KB) | shdrive://20200405/28f98411a34849d48e0f79f52ce12758 |
+| Stochastic Processes Lecture Notes (UCB STAT150).pdf (5.32 MB) | shdrive://20200405/535276169b634bda87ca834fe0b81e7c |
+| Erlang 编程规则.epub (47.34 KB) | shdrive://20200405/d7a171344e104d96b7d597a58f736fea |
+| Node.js 设计模式 中文第二版.epub (9.08 MB) | shdrive://20200405/018ea8e2881b475abb82a2b92c5ed53d |
+| Databricks Spark 知识库.epub (600.63 KB) | shdrive://20200405/9fd7d481bdab40e2b071d1eeb1d4d098 |
+| Android SDK 教程.epub (5.50 MB) | shdrive://20200405/9a26961b2a25403ea45fab51127d7df9 |
+| Game Theory 2e.7z (2.96 MB) | shdrive://20200405/9e99419640a0437383f163345a1b7012 |
+| 机器学习教程（shareditor）.epub (7.69 MB) | shdrive://20200405/35b450f51d25497c84ee4a14f9b5b06f |
+| ウェブ健康診断仕様.pdf (770.25 KB) | shdrive://20200405/d5b9db3ab5e74596bacdaa56bc68a76e |
+| UCB Data8 计算与推断思维 中文版.epub (7.36 MB) | shdrive://20200405/b636c3fd795341789691c34c14c355c1 |
+| OpenStack最终用户文档（简体中文版）.epub (106.13 KB) | shdrive://20200405/a3d70e2278d14ef1847b73f8a1a9b3ea |
+| Programming Languages Application and Interpretation 中文版.epub (236.52 KB) | shdrive://20200405/9aadb1eb87a344fab3e1659a1b8d3be2 |
+| 安全なSQLの呼び出し方.pdf (713.12 KB) | shdrive://20200405/0765c418cb124db8b248860dd805e766 |
+| Java 微信开发.epub (6.99 MB) | shdrive://20200405/1b9c574ba44e4efb9ec49ba22f3dbc4d |
+| Algorithmic Game Theory Lecture Notes (Stanford CS364A).pdf (2.95 MB) | shdrive://20200405/4eabb1a9a2184ab196636f5a4bfef544 |
+| Java 面试笔记.epub (244.10 KB) | shdrive://20200405/b78fccaa8646447fb8fb0958cde6d331 |
+| Kivy中文编程指南.epub (3.36 MB) | shdrive://20200405/874c6689bc434d3bad105165f02ba1d4 |
+| Internet Of Things 101 Intel® Edison.epub (8.42 MB) | shdrive://20200405/7867e9698740458ca7b88469ff6b7ddb |
+| MongoDB入门指南.epub (38.36 KB) | shdrive://20200405/9edce2886a2346d4800e356742186039 |
+| Understanding Model-View-Controller.epub (2.09 MB) | shdrive://20200405/40d34e4fd9ad4b9b8100eadc06a38acd |
+| Android控件操作-二十四章经.epub (5.86 MB) | shdrive://20200405/40fdde2c3c884ad596d258e920cf751a |
+| Tensorflow Tutorials (pkmital).epub (307.71 KB) | shdrive://20200405/7a48e63a42c140e8aadc3e28c0b290cb |
+| 安全なウェブサイトの作り方 7e.pdf (3.68 MB) | shdrive://20200405/b43a88a8bb16439abeb23758f4c6478e |
+| 谷歌深度学习笔记（ahangchen）.epub (8.83 MB) | shdrive://20200405/c87d46e8cec84ec28853cf42ae7d0ea2 |
+| Groovy 入门.epub (231.16 KB) | shdrive://20200405/3651601fbba749e5af7ee8389079bbd5 |
+| TensorFlow Tutorials (nlintz).epub (381.96 KB) | shdrive://20200405/526333e342584db58d081f0903c54d76 |
+| RubyFu.epub (1.64 MB) | shdrive://20200405/eccb85886fcb4b62afa4ce7d656109dc |
+| 文件系统层次结构标准中文版.epub (162.32 KB) | shdrive://20200405/cf6465023a434e1589252e93e934db8f |
+| 傅里叶变换及其应用（斯坦福大学）.pdf (5.10 MB) | shdrive://20200405/9e488438c93a4c7082a5cbfdfffc611d |
+| Rancher 实战红宝书.epub (461.38 KB) | shdrive://20200405/ed357789cd69400186468707ae9cb77b |
+| 从Python到Django入门教程.epub (1.25 MB) | shdrive://20200405/b4c8a8c07ce64bb1833d4a988a4a99b0 |
+| 编写高质量代码改善 Python 程序的 91 个建议.epub (235.63 KB) | shdrive://20200405/72a5cb56f61b45b9974770c0b45c7740 |
+| TensorFlow Examples (aymericdamien).epub (3.36 MB) | shdrive://20200405/41c375b76ecb40b7b4f58a9c1b770d84 |
+| PHP 5.5 Web零基础教程：开发一个在线阅读网站.epub (71.11 KB) | shdrive://20200405/80cdd531df704e86b86645c7c999e50e |
+| 给iOS开发者的Sketch入门教程.epub (7.09 MB) | shdrive://20200405/4255109df2ce4880bb62d63b33849d80 |
+| Sanic-For-Pythoneer.epub (1.37 MB) | shdrive://20200405/7246e32b600740739fbeb7e8c84a8581 |
+| Githug 通关攻略.epub (1.67 MB) | shdrive://20200405/2854efe86f744485ae2f58ec056fea5f |
+| Tensorflow 101 (sjchoi86).epub (29.76 MB) | shdrive://20200405/aceca513a00b4df889176f2c4271ce4c |
+| laravel 源码解析.epub (2.12 MB) | shdrive://20200405/8172086f08cc4664bf04bcd898347208 |
+| 从头到尾彻底理解 KMP.epub (518.22 KB) | shdrive://20200405/d614bbfa193a47e59f099b1461b4a413 |
+| Python 3 Module Examples.epub (1.94 MB) | shdrive://20200405/64458d1b32664f4da3ba81ef2594a100 |
+| Android 百战经典.epub (5.06 MB) | shdrive://20200405/11c47acc679848ac8f8e06933e20615a |
+| Windows App 应用开发教程.epub (5.25 MB) | shdrive://20200405/1f2948a410254c0c9f58dce6a7e7b6bb |
+| FreeBSD 101 Hacks.epub (185.34 KB) | shdrive://20200405/0a95a68785b84bdfae0891222db04ea5 |
+| 斯坦福 CS183f YC 创业课 2017 中文笔记.epub (276.86 KB) | shdrive://20200405/4916080a42d34cc7af39f172d4dd25dd |
+| Python 3 Basics Tutorial.epub (1.07 MB) | shdrive://20200405/aee5e524c1244d31baa3c60d3e3c405f |
+| Axure RP 指南.epub (16.19 MB) | shdrive://20200405/c9f7e0b4c8d640e08b527f1d4bec2e76 |
+| Glide v4 中文版.epub (102.78 KB) | shdrive://20200405/eb1f4cef733541e7a2e093e8cc329626 |
+| Istio官方文档中文版.epub (2.06 MB) | shdrive://20200405/555573ad66a0446699b488e361133dbf |
+| Build your applications with Webpack.epub (103.40 KB) | shdrive://20200405/1ffbed1a74a5462a94237617c0b6cba1 |
+| Docker简明教程.epub (1.01 MB) | shdrive://20200405/d031cf0a6ce64ce1a71b2fc4519ce43b |
+| Build Your Own Lisp 中文版.epub (223.07 KB) | shdrive://20200405/1e5eda817b5e45a7b12bc3500e3ffbfd |
+| PaddlePaddle 深度学习入门.epub (3.23 MB) | shdrive://20200405/f84412bb993f42ef99bd0c08223e3dd3 |
+| Python Testing Tutorial.epub (162.15 KB) | shdrive://20200405/eac48d09cf6d4f58ae4040abed12e082 |
+| Spring Framework 5 中文文档.epub (558.68 KB) | shdrive://20200405/054cbcadff00454cacddcaba512ab7a5 |
+| 概率编程与贝叶斯方法实践.pdf (7.61 MB) | shdrive://20200405/543f803d5fea43ed8eae8c6b73f299f9 |
+| 推荐系统之算法（Librec 中文文档）.epub (34.13 KB) | shdrive://20200405/5723f8bb6dea4a03b691cbdabc997d75 |
+| iOS 9人机交互指南.epub (8.53 MB) | shdrive://20200405/251611b333d14650a8b1b0432f3dfd35 |
+| Hibernate 高级教程.epub (402.83 KB) | shdrive://20200405/3338b6e16da1468eacc68d39ff986cde |
+| kungeekUI.epub (68.49 KB) | shdrive://20200405/68dcd14f915a41d690fe4ad58093357c |
+| Apple Pay 编程指南.epub (117.90 KB) | shdrive://20200405/3aa646cfde344018afcdbab45260fcba |
+| Java NIO简明教程.epub (291.76 KB) | shdrive://20200405/19e32d1b12574c329bd64f24534de7f6 |
+| Hadoop The Definitive Guide 4e 中文版.epub (1.33 MB) | shdrive://20200405/057e575e1f0e40a1b0284f96d0397879 |
+| 带你玩转 Visual Studio.epub (3.73 MB) | shdrive://20200405/2cf5203b1ff940219f82a9ba08c98d25 |
+| Time Series Lecture Notes (UCB STAT153).pdf (3.84 MB) | shdrive://20200405/353af9a63b2c4415848efbf6581f5327 |
+| iOS IAP 教程.epub (901.80 KB) | shdrive://20200405/ad546d25a23844a09be17e6429835e8d |
+| C 语言进阶.epub (279.27 KB) | shdrive://20200405/d4ce85be50fa4ed6b8978b485bd92e98 |
+| Rxjs 5 ultimate.epub (81.50 KB) | shdrive://20200405/f4ee01dd195042f087c14cdea5ff4dfb |
+| sdn网络指南.epub (21.92 MB) | shdrive://20200405/1f8f0bc7699441f4b373c1931b4f08f3 |
+| introduction-to-touchdesigner.epub (5.80 MB) | shdrive://20200405/24ebe7b0b71e4345a392a8b97c63d96b |
+| 在迭代1之前.epub (13.84 MB) | shdrive://20200405/7125f32d980c4e099e4e9e0420d5d8bb |
+| InfluxDB简明手册.epub (191.74 KB) | shdrive://20200405/6cda55e937c74c35a6d50f8979e83ad2 |
+| spark机器学习算法研究和源码分析.epub (10.77 MB) | shdrive://20200405/0d029021ecc64a9f89f03b65b26bbc8f |
+| 工业控制网络安全基础 v2.pdf (4.00 MB) | shdrive://20200405/6ac7ae23823e4ba5957992c5435741b9 |
+| Spring Boot Cookbook 中文版.epub (4.85 MB) | shdrive://20200405/f60f7ed75c7045a3bcff3ba64d5e5063 |
+| 《Real-Time Rendering 3rd》 提炼总结.pdf (25.22 MB) | shdrive://20200405/a383eff33c414269a178255019cbd32f |
+| Scikit and Tensorflow Workbooks (bjpcjp).epub (5.38 MB) | shdrive://20200405/d9d1b12e15bb48aab301bef437db4cff |
+| Spark GraphX源码分析.epub (3.13 MB) | shdrive://20200405/0644971e6f91464db568ed69e7cb7d5f |
+| Animation动画详解.epub (62.29 MB) | shdrive://20200405/b363b7e6bd78412eb067e7ce816abb6d |
+| Build a Node.js Project from Scratch.epub (91.80 KB) | shdrive://20200405/903efa70733d4503b73d5229448d8ca4 |
+| 草根学 Python （基于Python3.6）.epub (8.08 MB) | shdrive://20200405/797c320ee89d4a5d93c8359e163c0443 |
+| 使用Ionic2制作移动应用.pdf (5.07 MB) | shdrive://20200405/ad13b0b926da4868ba4af3db41e4c5c5 |
+| devops-collective-inc PowerShell.7z (9.04 MB) | shdrive://20200405/e7d013dde773493798b1e6ab2cdb37a3 |
+| 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | shdrive://20200405/858a8871e4224579842535cdfb9f97b1 |
+| Learning Rust.epub (1.13 MB) | shdrive://20200405/9b277ef11cb548748ed3fa54e2d85969 |
+| 自己动手做聊天机器人.epub (8.62 MB) | shdrive://20200405/ea3cd2a3915d40aeb05b34f7dd33ce2f |
+| | |
+| TensorFlow Zero To All.epub (1.43 MB) | shdrive://20200405/c72c42ff31cd4bbcb00eb0ec187029d0 |
+| Pandas Cookbook 带注释源码.epub (4.96 MB) | shdrive://20200405/f58c4e6fb11746429d2e265473855bfa |
+| Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | shdrive://20200405/efed36bec28d403bba14ca451438c3c5 |
+| 网络表示学习综述（涂存超等）.pdf (877.87 KB) | shdrive://20200405/bf86b3ee4fc14f5b945bde807ae410d4 |
+| Machine Learning Super VIP Cheatsheet.pdf (1.26 MB) | shdrive://20200405/39fbc401fd0f455b8279d0cce65f4408 |
+| 安卓校招面试指南.epub (29.06 MB) | shdrive://20200405/a8df6781746d4e12b523d58a18fcde3e |
+| PyTorch Zero To All.epub (92.85 KB) | shdrive://20200405/04cccee73dd1414daac3ea0f78f129ea |
+| Book on TypeScript.epub (1.73 MB) | shdrive://20200405/fe0f77cff80a49c08c11215b3847554a |
+| 图嵌入综述译文（arxiv 1709.07604）.pdf (1.50 MB) | shdrive://20200405/1de89e1f78c54d188ce060367719b34b |
+| TensorFlow 学习指南.epub (5.08 MB) | shdrive://20200405/c55fc3e2235048e7b5fceca98a719eda |
+| Kira 概统十篇 2018.pdf (971.41 KB) | shdrive://20200405/3346310d25dc4c56a7659606443cffbb |
+| 码农翻身全年文章精华 2016.epub (12.02 MB) | shdrive://20200405/b0f321fd408b4d3bbf930d71b488886b |
+| 从 0 开始学架构（李运华）（完）.epub (6.49 MB) | shdrive://20200405/a69ff785b1dc4c25895ebe5378eb82cb |
+| uCore OS实验指导书和源码网址 (2017).epub (1.55 MB) | shdrive://20200405/0330f4ed647643188df43a3bef4db25a |
+| 机器学习那些事（刘知远译）.pdf (2.67 MB) | shdrive://20200405/6cad5d4d8a584e2d8a1afa8dafe03911 |
+| Python 数据分析与挖掘实战 带注释源码.epub (136.92 KB) | shdrive://20200405/77603573f1e54bd0b6354e6d408057b8 |
+| 基于深度学习的推荐系统研究综述（黄立威等）.pdf (1.16 MB) | shdrive://20200405/12ee471e4bfd4553a4d5a8893adcf5f1 |
+| 码农翻身全年文章精华 2017.epub (7.49 MB) | shdrive://20200405/3ffe7e0f502a499abed698194e42e1d5 |
+| Kira 线代小菊花丸 2017（全）.pdf (3.80 MB) | shdrive://20200405/a513c5a79d5e4166a48bf6af97a7730b |
+| 机器学习训练秘籍（Machine Learning Yearning 中文版）.pdf (5.40 MB) | shdrive://20200405/b91d469afe5a4591aaac6d189633fe5d |
+| i 春秋月刊第六期：Linux pwn 零基础入门.pdf (11.65 MB) | shdrive://20200405/1bedfb05a28c459889544203495a4f7e |
+| NumPy Essentials 带注释源码.epub (770.69 KB) | shdrive://20200405/ecd719935b524bd681ffd397a3589263 |
+| 台湾大学林轩田机器学习笔记（红色石头）.epub (25.85 MB) | shdrive://20200405/ae03affe449f43a3a8f5dbff3fdab638 |
+| SVD 及其应用（张志华）.pdf (743.71 KB) | shdrive://20200405/7263db00c2d44c63a9045252f066be53 |
+| 静态网站构建手册-使用Hugo构建个人博客.epub (3.20 MB) | shdrive://20200405/e84c4b788c124abdba2e8d32a0c23f0c |
+| 推荐系统调研报告及综述（张永锋）.pdf (332.23 KB) | shdrive://20200405/a2274ec3d5254a4b854ee44f93ec080b |
+| Python 中文文档 3.7：入门教程.epub (316.07 KB) | shdrive://20200405/417888d241294d229a59690a5244ae4d |
+| 莫烦机器学习教程 2017.5.10 fix1.epub (29.00 MB) | shdrive://20200405/170100c9da904debba4ad983a33e928d |
+| 概率图模型研究进展综述.pdf (787.05 KB) | shdrive://20200405/1f36cb5f17bf46ccb9465795c421cc68 |
+| fast.ai 数值线性代数讲义中文版 v2.epub (8.75 MB) | shdrive://20200405/03d475d0c23340da8849fcb549f7ded6 |
+| 推荐系统遇上深度学习 1~21.epub (6.97 MB) | shdrive://20200405/cdc54deb1eb34eb89415d33d0d3d672d |
+| 阿里巴巴 Java 开发手册 1.4.0.pdf (1.11 MB) | shdrive://20200405/a1b560c5a4924ae58edd87feff16d586 |
+| Mathematics for Machine Learning.pdf (6.48 MB) | shdrive://20200405/89d5b288e79a4755ba8707ac4fd3cbab |
+| PyQt5 中文教程.epub (956.12 KB) | shdrive://20200405/6cfc6faaf046473d894e46c091be5643 |
+| ANTLR 4简明教程.epub (250.50 KB) | shdrive://20200405/89bc9b75913b43b3b8f56deb6f343cb9 |
+| 朱赟的技术管理课（完）.epub (3.73 MB) | shdrive://20200405/1151f8747c2b459eb9b96e704eadbb6a |
+| 斯坦福 cs224d 深度学习与自然语言处理讲义 fix1.epub (3.29 MB) | shdrive://20200405/003eddb6f8cc42009f7a41293d7d3ed9 |
+| Android 101 Labs.epub (10.84 MB) | shdrive://20200405/ff429fa42c7f404f9ba1d2584f6941a7 |
+| 深度强化学习综述（刘全等）.pdf (1.24 MB) | shdrive://20200405/8627d0ad210f46b69cd5cc291fcc7d31 |
+| Python 数据科学手册.url (172 B) | shdrive://20200405/ff4ac82cc5cc43eebf9957279ad545c2 |
+| UIC CS385 操作系统讲义.epub (22.18 MB) | shdrive://20200405/be747c74da414194bdc4beffa41e5993 |
+| 学习AngularJS 1.x.epub (928.35 KB) | shdrive://20200405/54ef9d728ffc4d62824756c46a3613d5 |
+| Java 核心技术 36 讲（李运华）（完）.epub (3.51 MB) | shdrive://20200405/438e9b95f98d4cdcb851cb63f74e23de |
+| Figure Eight 2018 年数据科学家报告.pdf (1.16 MB) | shdrive://20200405/2410e78b4fa641db9b26e5ac42ef1489 |
+| SciPyCon 2018 sklearn 教程.epub (2.06 MB) | shdrive://20200405/744ce52f95534a108c66db480890ef55 |
+| aiohttp 中文文档.epub (173.54 KB) | shdrive://20200405/9b39c08b96754589b711e921bd59e56a |
+| Node.js 调试指南.epub (8.09 MB) | shdrive://20200405/9bb0df0669ee486ea6441b2451e4753b |
+| 卷积神经网络研究综述（周飞燕等）.pdf (893.74 KB) | shdrive://20200405/607e318a699a45a28cd63319f0966573 |
+| 迁移到云原生应用架构.epub (2.20 MB) | shdrive://20200405/571935eda72142658e7557e3c70ce014 |
+| Kira 高数葵花宝典 2017（修订版）.pdf (4.03 MB) | shdrive://20200405/23a35637cb234ab08699fa9a12d0036e |
+| 生物信息学札记（第三版）.pdf (6.07 MB) | shdrive://20200405/f8e9e65c51f0445f9c592e7d2ed9d51d |
+| 达观数据NLP特刊：从原理到实践.pdf (21.52 MB) | shdrive://20200405/c74ea3e40417478b9c9044dae21d9222 |
+| 深度有趣 - 人工智能实战项目合集.pdf (5.90 MB) | shdrive://20200405/25e403e034314d598ce1f42b5612f862 |
+| 简单粗暴TensorFlow.pdf (1.21 MB) | shdrive://20200405/b96b1d1035c14e1d92e65bfb2c831469 |
+| 一文详解 Word2vec 之 Skip-Gram 模型.pdf (1.57 MB) | shdrive://20200405/999179e5028b440182c5be6f62e27738 |
+| CUDA 编程指南 5.0 中文版.pdf (2.55 MB) | shdrive://20200405/2e4f34c91cdc4380b9c6a1ea55cf6008 |
+| 深度强化学习综述：兼论计算机围棋的发展.pdf (2.75 MB) | shdrive://20200405/506f807f02aa4b9b8d4b2470dab83d5c |
+| 生物信息学讲义：结构信息部分（龚海鹏）.pdf (5.84 MB) | shdrive://20200405/e93f085a84aa415c9961fc7076e58a8e |
+| computer_networks_a_systems_approach_5th_ed.epub (14.35 MB) | shdrive://20200405/0517e926ccf342a98624cc822cda4d1c |
+| Python 数据科学速查表 14 张（呆鸟译）.7z (4.00 MB) | shdrive://20200405/830bcd19a9e34bce93488aaaeeccd929 |
+| Rangle's Angular 2 Training Book 中文版.epub (2.81 MB) | shdrive://20200405/e57590117e404ac7adfda32c9b4e33e3 |
+| Python One to Million.epub (449.45 KB) | shdrive://20200405/efcaf42405eb48429fce6c3c11741976 |
+| Markdown 入门参考.epub (2.11 MB) | shdrive://20200405/72c8197ef04b4750af54aabbde737f6c |
+| 新时期我国信息技术产业的发展.pdf (4.74 MB) | shdrive://20200405/69d1c467bccf4d9cac27d95ba200116d |
+| Artificial Inteligence - Leonardo Araujo dos Santos.epub (26.59 MB) | shdrive://20200405/74dbc2d4206944cdb84dcdf92a2bbc45 |
+| Mastering TensorFlow 1.x Code Notes.epub (4.13 MB) | shdrive://20200405/b6a4ed3787f5404baba82cd1724c773e |
+| 牛客网春招备战手册+笔试分册+面试分册 2018.7z (3.25 MB) | shdrive://20200405/ca666d2a3f964b199ca1cceabca4c421 |
+| Foundations of Data Science.pdf (1.87 MB) | shdrive://20200405/c4d8fbbf0475428ca94d2b622bcdf96a |
+| OpenTutorial Git Python Django 教程.epub (7.49 MB) | shdrive://20200405/944bcbe3b9d44914a65e5c272f54944a |
+| Notes on Deep Learning for NLP.pdf (1.99 MB) | shdrive://20200405/d2768ef3f6a144949933039a0ad884a4 |
+| Attention Is All You Need 中文翻译.pdf (1.34 MB) | shdrive://20200405/f86c579795134c80b059f80cd186938d |
+| Getting Started in Computer Vision Research.pdf (311.34 KB) | shdrive://20200405/7172ca02e35f4debbc81cd584c82ac42 |
+| 自由软件自由社会.epub (975.69 KB) | shdrive://20200405/ce64f3ea3205450e80815e86d2776adf |
+| 给妹子讲 python 第二季.epub (888.08 KB) | shdrive://20200405/53e08d55ff6b4ae2a87e25b5166f7c73 |
+| 史上最简单的 IntelliJ IDEA 教程.epub (2.31 MB) | shdrive://20200405/d5710dde6bb2404bbb29d4bbea9c50d1 |
+| ICML 2018 Notes.pdf (571.94 KB) | shdrive://20200405/a58c04c9fd5b418eb19352d487edffb1 |
+| GrowingIO 增长秘籍 3.0 终版.pdf (4.26 MB) | shdrive://20200405/0606e9cb8f884abf94d1201db94e4e9f |
+| The World Is Built On Probability.pdf (22.81 MB) | shdrive://20200405/1aae4123745942afa89d35c14485ba5c |
+| 重来（Olivida 译）.epub (89.22 KB) | shdrive://20200405/cb51ba88104e4d5690dfa99cde94f40f |
+| RANDOM FORESTS FOR BEGINNERS.pdf (774.19 KB) | shdrive://20200405/0b6a2936ef9648ee8f010cc7ef26068e |
+| 金程教育 AQF 量化金融分析师讲义 2017.pdf (29.55 MB) | shdrive://20200405/13cd0d47cc27417d8b16ebe916a23826 |
+| Readings in Database Systems, 5th Edition.pdf (369.79 KB) | shdrive://20200405/af9a884f0611439ea56af32b82247dc7 |
+| 解析卷积神经网络——深度学习实践手册.pdf (5.47 MB) | shdrive://20200405/c4eb1a42b74943d6aa04295980564eba |
+| 深度学习技术选型白皮书（2018 年）.pdf (1.01 MB) | shdrive://20200405/d61ab182eb464c1ca3a938ae9b2a1308 |
+| JavaScript 完全手册（2018版）.epub (2.27 MB) | shdrive://20200405/b116c1b87fec4a07a03d545ce9e6b75e |
+| Kubernetes 中文文档.epub (2.52 MB) | shdrive://20200405/de063209ccd440e5ae2b60699feb7adf |
+| Statistical Learning Theory Notes (Stanford CS229T STAT231).pdf (1.18 MB) | shdrive://20200405/fe65f13e4d0d49d2aa908425c5e36bba |
+| TensorFlow 内核剖析.pdf (5.31 MB) | shdrive://20200405/c47f6f8ef0cc412496c2a864dccbd5d7 |
+| Algorithmic Information Theory - Review For Physicists And Natural Scientists.pdf (1.36 MB) | shdrive://20200405/3a4152ed2e09486092385f753d4da9ab |
+| Handling and Processing Strings in R.pdf (398.54 KB) | shdrive://20200405/a8d6bb4408094d08b9d15bd0a93fdce3 |
+| 从零开始学虚幻4游戏开发系列.pdf (13.55 MB) | shdrive://20200405/441b282a78804bf5b6f06308a23024ba |
+| Linear Programming.pdf (517.69 KB) | shdrive://20200405/eb423feb9f174cc0ba210e9e992acb13 |
+| Full Speed Python.epub (682.87 KB) | shdrive://20200405/fd2c5b5d9ea54540803179860efe308b |
+| 操作系统 ThreeEasyPieces.pdf (832.91 KB) | shdrive://20200405/b29cda71d72441a693aa3b9eeca39081 |
+| Assembly Language for Beginners.pdf (7.60 MB) | shdrive://20200405/9d130661d4db4cb3a668d9da805b7aad |
+| Forecasting in Economics, Business, Finance and Beyond.pdf (5.66 MB) | shdrive://20200405/e5960047590f4db8be3d1d86ed6394f3 |
+| Time Series Econometrics.pdf (1.82 MB) | shdrive://20200405/9eac37eff96d40e59c5c51c008cae101 |
+| Competitive Programmer's Handbook.pdf (1.05 MB) | shdrive://20200405/f1d14f47eec447f2800ddae14bae7628 |
+| the practice of reproducible research.epub (2.76 MB) | shdrive://20200405/ebfe103837e74674b040ad6f85ddef22 |
+| Technical Notes On Using Data Science & Artificial Intelligence.epub (2.43 MB) | shdrive://20200405/02e87a2cbb71435ca335660d54c94e7e |
+| Sentiment Analysis and Opinion Mining.pdf (819.70 KB) | shdrive://20200405/cf2f5364b5f54ac89ba984bc88674a27 |
+| Vue.js 2.0 完全入门记录.epub (1.17 MB) | shdrive://20200405/8ff84c71f2904ccc91b301b1b3f21dec |
+| 给妹子讲 python 第一季.epub (86.34 KB) | shdrive://20200405/938668c8221649c79e3161c5c7cb8ea6 |
+| i 春秋月刊 1~5.7z (43.33 MB) | shdrive://20200405/49c671907bea4e4fbc0f6513ff79a238 |
+| Category Theory for Programmers.pdf (2.49 MB) | shdrive://20200405/6d173baea7ed49a28357cd0caca2ad2c |
+| CyC2018 CS 学习笔记 20181106.epub (13.17 MB) | shdrive://20200405/d08cec8b3ad54bf19c1aa3571a69dcf8 |
+| Bayesian Networks & Bayeslab.pdf (19.28 MB) | shdrive://20200405/d2f909c003684a269151f66b5aff950a |
+| Apache Airflow (incubating) Documentation.epub (2.57 MB) | shdrive://20200405/97da566155d0448098c7311fee48eb7c |
+| Introduction to Statistics Online Edition.7z (13.97 MB) | shdrive://20200405/655fdc52bdae4750a222bd82f111d771 |
+| Statistical inference for data science.pdf (2.47 MB) | shdrive://20200405/0bbde07264234ff5b6e02d7b8fac0694 |
+| State Estimation for Robotics.pdf (4.26 MB) | shdrive://20200405/efeb6baf87fa42a7a1072c156202f7d3 |
+| Computer Vision Algorithms and Applications.pdf (17.70 MB) | shdrive://20200405/2fffcb5d3b2245f38ed9d62764a21fbd |
+| DEEP REINFORCEMENT LEARNING (Yuxi Li).pdf (2.15 MB) | shdrive://20200405/5dee49c2e44f4d5db65e96b2f7ae7aeb |
+| A Little Book of Python for Multivariate Analysis.epub (253.63 KB) | shdrive://20200405/02a807f677cc4688856750341d9d5958 |
+| 高可用架构（第 1~6 期）.rar (22.14 MB) | shdrive://20200405/85e82d3a556f4f168037bb6efc0db7a7 |
+| Data Science and Analytics for Ordinary People.pdf (3.39 MB) | shdrive://20200405/9266682e5d0a45f1bb77e473afef15ce |
+| Econometrics Streamlined, Applied and e-Aware.pdf (5.06 MB) | shdrive://20200405/f10ca9085448478085cece677f0476e6 |
+| Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.pdf (4.37 MB) | shdrive://20200405/8a23d71935e54fafac2f9d2c44c0c2a8 |
+| CSS Animation 101.epub (3.40 MB) | shdrive://20200405/88d2a7b9f9494e9597e2ad28a9f7f3a2 |
+| Django 2 By Example 中文版.epub (4.69 MB) | shdrive://20200405/b09e4d5cd48f474c82a44228fbfcb364 |
+| Practical Data Cleaning - 19 Essential Tips.pdf (2.04 MB) | shdrive://20200405/dedb5d4529bf4f75a1fea169fedb58ae |
+| How to Write a Good Scientific Paper.pdf (2.49 MB) | shdrive://20200405/b89a6459fb65460aa88db5765aea77d9 |
