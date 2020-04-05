@@ -595,7 +595,78 @@ cdrive download <link>
 | 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | bjdrive://61ecac56af5d38913b4b9c25a24aa2e8 |
 | Learning Rust.epub (1.13 MB) | bjdrive://43031fd8c8ca8d463ee024ab5c863c9e |
 | 自己动手做聊天机器人.epub (8.62 MB) | bjdrive://d6cd359e567d03b7ac1d7f48f24c1ef1 |
-| | |
+| Linux 命令大全（LinuxToday）.epub (2.30 MB) | bjdrive://25aebe0f02d9a1c42bcb1f8ba1b26631 |
+| ClojureScript 入门指南.epub (160.04 KB) | bjdrive://f9421b96d8cdf63f4d3b670dc94a1caf |
+| 深度学习：Python 教程：使用 Keras、Python、Theano 和 TensorFlow 开发深度学习模型.epub (1.57 MB) | bjdrive://87e4ff1c96441787e05ae1cf40cf96d7 |
+| 简明 Python 教程 4.0.epub (515.39 KB) | bjdrive://6795aa8b2127f98e3f8fa1d26231d079 |
+| Data Clustering 50 years beyond kmeans 翻译.pdf (1.10 MB) | bjdrive://02119138323f6134f4eed359410b3de3 |
+| FuzzySecurity Windows Exploit 开发系列教程 1~19.epub (15.33 MB) | bjdrive://af77a242e776d1f93eafe4564471e4fb |
+| 从算法设计到硬线逻辑的实现--复杂数字逻辑系统的 Verilog HDL 设计技术和方法.pdf (7.64 MB) | bjdrive://ab03f332c5e874c595cd093bd267f0d3 |
+| 微信小程序教程（歪脖网）.epub (23.16 MB) | bjdrive://1364e0b8b2fdd71ae34d5722a4bd8898 |
+| GeeksForGeeks Microprocessor Lecture Notes.epub (2.74 MB) | bjdrive://fa39d2f323fe8d39ee2fe40f692d9b2c |
+| GeeksForGeeks Computer Network Lecture Notes.epub (11.76 MB) | bjdrive://2e1b724b7072dd2b1251bde9cd75551b |
+| IDAPython 初学者指南.pdf (906.83 KB) | bjdrive://81dbddd35c479ed4fdbe2e28ea717b39 |
+| 生物信息学培训教材（北京华大基因研究中心）.pdf (8.26 MB) | bjdrive://35549ad48bc9780e5ead6173e5b583a0 |
+| Verilog 经典教程（夏宇闻）.pdf (1.73 MB) | bjdrive://78c56e4097c5af048c302ec952f94f78 |
+| Less 简明教程（歪脖网）.epub (187.96 KB) | bjdrive://a8de0100aa631914ef71b97811864a1b |
+| JavaScript 编程精解 中文第三版.epub (1.63 MB) | bjdrive://a3c4911740f95f7eb88604d670f7a7b4 |
+| Mathematical Methods for Robotics, Vision, and Graphics Lecture Notes (Stanford CS205).pdf (1.11 MB) | bjdrive://f5bb22434478352d7c6bc68665df2723 |
+| Visualizing and Understanding Convolutional Networks 译文（“看懂”卷积神经网络）.pdf (2.03 MB) | bjdrive://d36d31717fc20dc56d6c7ad447f9e83a |
+| Natural Language Processing (Jacob Eisenstein).pdf (5.64 MB) | bjdrive://1a99cff514d1a32b1a90b3459812fd97 |
+| 搜云库 Spring Boot & Cloud 教程.epub (4.16 MB) | bjdrive://f98d300f2bc47d2323b35f2f02b6ec45 |
+| GeeksForGeeks Theory Of Computation and Automata Lecture Notes.epub (2.92 MB) | bjdrive://0909b07de4ba1c8a7ddb5f53adf5e04c |
+| 梯度下降优化算法综述.pdf (700.83 KB) | bjdrive://d12dc2e38235265790e39f55fc1e4248 |
+| 生物信息学简明教程.pdf (492.95 KB) | bjdrive://909fa805a9bbcd81c3819eea8471c3fa |
+| GeeksForGeeks Engineering Mathematics Lecture Notes.epub (1.13 MB) | bjdrive://eef6e1ca24965b1bbbafd29881f77f11 |
+| 设计数据密集型应用（初翻）.epub (7.21 MB) | bjdrive://f97386597d82684bd7ef95555bc98aee |
+| ANDROID SDK 源码解析.epub (3.21 MB) | bjdrive://7f10ae4c2b19af5705547a162ee7ab98 |
+| Automating Inference, Learning, and Design using Probabilistic Programming.pdf (6.50 MB) | bjdrive://ea373e85aadfc17893e6de44e5e37305 |
+| swebok 2004 中文版.pdf (899.70 KB) | bjdrive://8cabb9967b976c14642a4da359fab463 |
+| 安卓应用安全指南 中文版.epub (2.19 MB) | bjdrive://a669b98371b66c3e430bc8652a653e2a |
+| JSON 教程（歪脖网）.epub (63.33 KB) | bjdrive://913d0882c4d07244da4a104c96f13652 |
+| Bootstrap3 实用教程（歪脖网）.epub (1.78 MB) | bjdrive://adee0490f92b0f3099e1e95ae098ee25 |
+| Zero to Hero：2017年机器之心AI高分概述文章全集.epub (34.70 MB) | bjdrive://87cd409529ca1d6ca8a5084f90c7fc30 |
+| Verilog HDL 硬件描述语言.pdf (1.11 MB) | bjdrive://d2c89660b2b0494cd49bfcb49255f78d |
+| GeeksForGeeks Computer Organization and Architecture Lecture Notes.epub (3.75 MB) | bjdrive://d1f43cd638a8e683ebb656d5f3b0c192 |
+| Vue.js 教程（歪脖网）.epub (750.69 KB) | bjdrive://0f3e7d02d4fac6968377acfa198df48f |
+| Algorithms for Reinforcement Learning.pdf (1.59 MB) | bjdrive://248b313a9580d63667d5ce28d47690aa |
+| Bootstrap2 用户指南（歪脖网）.epub (1.26 MB) | bjdrive://4b6f98291588199c2208a6dd17bce547 |
+| verilog 黄金参考指南中文版.pdf (511.67 KB) | bjdrive://8686aeab79fbe2b1988f3d683eaf4eb1 |
+| GeeksForGeeks Digital Electronics and Logic Design Lecture Notes.epub (7.27 MB) | bjdrive://268bf03abcfb2e0233c08b756fd20119 |
+| Metasploit 中文 Wiki.epub (335.41 KB) | bjdrive://94d6dbe5af81a94ebea1e9fc1daa01ce |
+| 揭秘 CSS（歪脖网）.epub (2.41 MB) | bjdrive://1c8ecf12d8524014f697eef818dd8900 |
+| Advanced Data Analysis from an Elementary Point of View.pdf (7.32 MB) | bjdrive://ce9d6c9a6fb7c827878f8a774340b743 |
+| GeeksForGeeks Database Management System Lecture Notes.epub (5.09 MB) | bjdrive://8981ff3b128f8470b5de53512a5d2edf |
+| XGBoost 原理解析.pdf (1.01 MB) | bjdrive://a2431e256b598b377e7c6fcb7267312e |
+| TensorFlow 中文文档 1.8 掘金 2018.5.19.epub (9.37 MB) | bjdrive://23dda002599512dc05852c7466f42f68 |
+| LearnOpenGL 中文教程.epub (10.96 MB) | bjdrive://080b9d2d76f8c3a8001069b687cb9e63 |
+| 2016 年机器之心高分技术文章全集.epub (27.79 MB) | bjdrive://d05f90b3b7374e880210521c53dca712 |
+| 台大林轩田机器学习笔记（TingxunShi）.pdf (3.94 MB) | bjdrive://db91fe0532e6a2e600aea200b58935fd |
+| 复杂性思维 中文第二版.epub (1.09 MB) | bjdrive://d07926fb611d982958c1bc4f4b6736b8 |
+| 信息管理专业Python教程.epub (724.75 KB) | bjdrive://ac54038542885ec1bce76a5c6d66cecd |
+| 高速上手 C++ 11 14 17.pdf (2.12 MB) | bjdrive://7ca8cd02098a26af642538b763a31a00 |
+| 周立功 51 单片机教程.pdf (1.03 MB) | bjdrive://8235e959caa34d0124eca87257810639 |
+| Hinton 神经网络与机器学习笔记（TingxunShi）.pdf (5.54 MB) | bjdrive://47780072baab203062d79316c2765f14 |
+| HTML 宝典（歪脖网）.epub (1.27 MB) | bjdrive://6512b1bb5eb6b9c4baf822f26e9969f4 |
+| GeeksForGeeks Compiler Design Lecture Notes.epub (5.91 MB) | bjdrive://27351e86df61a3f94ed663bcf02b68b4 |
+| Linux 内核源代码情景分析.pdf (5.32 MB) | bjdrive://3af23797bbce8454b05b6c5e495f04d3 |
+| word2vec 中的数学.pdf (863.65 KB) | bjdrive://cf75bd77a7662d4cf29f471e29942a7d |
+| Dive Into HTML5 中文版.epub (521.82 KB) | bjdrive://5d16c7a9861d7a64c43f411887ecea86 |
+| 大数据分析苏轼.pdf (4.62 MB) | bjdrive://5bd364634cb14c4cc38c97e01e2830cc |
+| IEEE SystemVerilog 3.1a 语言参考手册.chm (6.39 MB) | bjdrive://4c7cb094f937935f2e1ff6d271cb4030 |
+| PyTorch 0.3 中文文档和教程.epub (3.97 MB) | bjdrive://2b16eaf3e92166681ac068b8e9d393f5 |
+| HTML5 Canvas 实战.epub (4.79 MB) | bjdrive://18adabc48cb390cf956d4d9ca8b03ee1 |
+| Flask 大型教程 2017.epub (1.49 MB) | bjdrive://7fb75542ecba1c6bd51cdf2a2ff7a2fd |
+| 面对对象编程语言：应用和解释.epub (114.11 KB) | bjdrive://89fb08c60bd2e70594f23072c3a0ec88 |
+| 《从零到一》Tony 翻译版.epub (181.09 KB) | bjdrive://5d74a86cd9abe99eee0a53819e385192 |
+| Learning Deep Architectures for AI 中文版（初译）.pdf (1.75 MB) | bjdrive://7e2e077dd5af5adb36fe0d43c966cb2f |
+| AlexNet - ImageNet Classification with Deep Convolutional Neural Networks 译文.pdf (487.21 KB) | bjdrive://a4b914dfbf4d4ac38b5bf90280cd0c9e |
+| 人工智能指数 2017 年度报告.pdf (1.37 MB) | bjdrive://355d56310d8ea3d718a631e88f4df723 |
+| 迁移学习手册 1.0.pdf (3.24 MB) | bjdrive://19e7c36e19239eee23fbc9963f68539e |
+| GeeksForGeeks Operating Systems Lecture Notes.epub (8.51 MB) | bjdrive://e09216184067bde46bc46017ba8fee73 |
+| 大数入门.pdf (2.69 MB) | bjdrive://e17033462bf3b5616be03b2d65352a37 |
+| BAT 机器学习面试 1000 题系列（第 1~325 题）.pdf (6.45 MB) | bjdrive://eb250c3f9d32f8f98240fdb48f2021cc |
+| Sklearn 与 TensorFlow 机器学习实用指南中文版 2018.6.20.epub (16.63 MB) | bjdrive://7aaed686ea887a9e8d39c100e6f5c983 |
 | TensorFlow Zero To All.epub (1.43 MB) | bjdrive://c13a9d12569ee9217dd7a68d52c1802d |
 | Pandas Cookbook 带注释源码.epub (4.96 MB) | bjdrive://bbabbbd664cc216a6443202db3f0e04f |
 | Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | bjdrive://e802daa7be28b0dca9c9826f14412504 |
@@ -907,7 +978,78 @@ cdrive download <link>
 | 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | csdrive://20200405121729336 |
 | Learning Rust.epub (1.13 MB) | csdrive://20200405121733257 |
 | 自己动手做聊天机器人.epub (8.62 MB) | csdrive://20200405121739944 |
-| | |
+| Linux 命令大全（LinuxToday）.epub (2.30 MB) | csdrive://20200405160228485 |
+| ClojureScript 入门指南.epub (160.04 KB) | csdrive://20200405160231795 |
+| 深度学习：Python 教程：使用 Keras、Python、Theano 和 TensorFlow 开发深度学习模型.epub (1.57 MB) | csdrive://20200405160238504 |
+| 简明 Python 教程 4.0.epub (515.39 KB) | csdrive://20200405160242394 |
+| Data Clustering 50 years beyond kmeans 翻译.pdf (1.10 MB) | csdrive://20200405160247973 |
+| FuzzySecurity Windows Exploit 开发系列教程 1~19.epub (15.33 MB) | csdrive://20200405160308151 |
+| 从算法设计到硬线逻辑的实现--复杂数字逻辑系统的 Verilog HDL 设计技术和方法.pdf (7.64 MB) | csdrive://20200405160315118 |
+| 微信小程序教程（歪脖网）.epub (23.16 MB) | csdrive://20200405160337564 |
+| GeeksForGeeks Microprocessor Lecture Notes.epub (2.74 MB) | csdrive://20200405160346907 |
+| GeeksForGeeks Computer Network Lecture Notes.epub (11.76 MB) | csdrive://20200405160419701 |
+| IDAPython 初学者指南.pdf (906.83 KB) | csdrive://20200405160424137 |
+| 生物信息学培训教材（北京华大基因研究中心）.pdf (8.26 MB) | csdrive://20200405160432986 |
+| Verilog 经典教程（夏宇闻）.pdf (1.73 MB) | csdrive://20200405160438121 |
+| Less 简明教程（歪脖网）.epub (187.96 KB) | csdrive://20200405160441138 |
+| JavaScript 编程精解 中文第三版.epub (1.63 MB) | csdrive://20200405160446361 |
+| Mathematical Methods for Robotics, Vision, and Graphics Lecture Notes (Stanford CS205).pdf (1.11 MB) | csdrive://20200405160450742 |
+| Visualizing and Understanding Convolutional Networks 译文（“看懂”卷积神经网络）.pdf (2.03 MB) | csdrive://20200405160456913 |
+| Natural Language Processing (Jacob Eisenstein).pdf (5.64 MB) | csdrive://20200405160504754 |
+| 搜云库 Spring Boot & Cloud 教程.epub (4.16 MB) | csdrive://20200405160514816 |
+| GeeksForGeeks Theory Of Computation and Automata Lecture Notes.epub (2.92 MB) | csdrive://20200405160523289 |
+| 梯度下降优化算法综述.pdf (700.83 KB) | csdrive://20200405160528168 |
+| 生物信息学简明教程.pdf (492.95 KB) | csdrive://20200405160532215 |
+| GeeksForGeeks Engineering Mathematics Lecture Notes.epub (1.13 MB) | csdrive://20200405160542882 |
+| 设计数据密集型应用（初翻）.epub (7.21 MB) | csdrive://20200405160554793 |
+| ANDROID SDK 源码解析.epub (3.21 MB) | csdrive://20200405160601366 |
+| Automating Inference, Learning, and Design using Probabilistic Programming.pdf (6.50 MB) | csdrive://20200405160634705 |
+| swebok 2004 中文版.pdf (899.70 KB) | csdrive://20200405160639204 |
+| 安卓应用安全指南 中文版.epub (2.19 MB) | csdrive://20200405160645133 |
+| JSON 教程（歪脖网）.epub (63.33 KB) | csdrive://20200405160647804 |
+| Bootstrap3 实用教程（歪脖网）.epub (1.78 MB) | csdrive://20200405160652999 |
+| Zero to Hero：2017年机器之心AI高分概述文章全集.epub (34.70 MB) | csdrive://20200405160714328 |
+| Verilog HDL 硬件描述语言.pdf (1.11 MB) | csdrive://20200405160718978 |
+| GeeksForGeeks Computer Organization and Architecture Lecture Notes.epub (3.75 MB) | csdrive://20200405160727708 |
+| Vue.js 教程（歪脖网）.epub (750.69 KB) | csdrive://20200405160732257 |
+| Algorithms for Reinforcement Learning.pdf (1.59 MB) | csdrive://20200405160738551 |
+| Bootstrap2 用户指南（歪脖网）.epub (1.26 MB) | csdrive://20200405160752219 |
+| verilog 黄金参考指南中文版.pdf (511.67 KB) | csdrive://20200405160759482 |
+| GeeksForGeeks Digital Electronics and Logic Design Lecture Notes.epub (7.27 MB) | csdrive://2020040516082298 |
+| Metasploit 中文 Wiki.epub (335.41 KB) | csdrive://2020040516082635 |
+| 揭秘 CSS（歪脖网）.epub (2.41 MB) | csdrive://2020040516084553 |
+| Advanced Data Analysis from an Elementary Point of View.pdf (7.32 MB) | csdrive://20200405160906163 |
+| GeeksForGeeks Database Management System Lecture Notes.epub (5.09 MB) | csdrive://20200405161002174 |
+| XGBoost 原理解析.pdf (1.01 MB) | csdrive://20200405161006752 |
+| TensorFlow 中文文档 1.8 掘金 2018.5.19.epub (9.37 MB) | csdrive://20200405161016596 |
+| LearnOpenGL 中文教程.epub (10.96 MB) | csdrive://20200405161027129 |
+| 2016 年机器之心高分技术文章全集.epub (27.79 MB) | csdrive://20200405161059354 |
+| 台大林轩田机器学习笔记（TingxunShi）.pdf (3.94 MB) | csdrive://2020040516110848 |
+| 复杂性思维 中文第二版.epub (1.09 MB) | csdrive://20200405161112943 |
+| 信息管理专业Python教程.epub (724.75 KB) | csdrive://20200405161117262 |
+| 高速上手 C++ 11 14 17.pdf (2.12 MB) | csdrive://20200405161135323 |
+| 周立功 51 单片机教程.pdf (1.03 MB) | csdrive://2020040516114294 |
+| Hinton 神经网络与机器学习笔记（TingxunShi）.pdf (5.54 MB) | csdrive://20200405161154428 |
+| HTML 宝典（歪脖网）.epub (1.27 MB) | csdrive://20200405161200297 |
+| GeeksForGeeks Compiler Design Lecture Notes.epub (5.91 MB) | csdrive://20200405161212913 |
+| Linux 内核源代码情景分析.pdf (5.32 MB) | csdrive://20200405161225114 |
+| word2vec 中的数学.pdf (863.65 KB) | csdrive://20200405161230485 |
+| Dive Into HTML5 中文版.epub (521.82 KB) | csdrive://2020040516123569 |
+| 大数据分析苏轼.pdf (4.62 MB) | csdrive://20200405161246739 |
+| IEEE SystemVerilog 3.1a 语言参考手册.chm (6.39 MB) | csdrive://20200405161259214 |
+| PyTorch 0.3 中文文档和教程.epub (3.97 MB) | csdrive://20200405161308327 |
+| HTML5 Canvas 实战.epub (4.79 MB) | csdrive://20200405161341152 |
+| Flask 大型教程 2017.epub (1.49 MB) | csdrive://20200405161347750 |
+| 面对对象编程语言：应用和解释.epub (114.11 KB) | csdrive://20200405161351575 |
+| 《从零到一》Tony 翻译版.epub (181.09 KB) | csdrive://20200405161355248 |
+| Learning Deep Architectures for AI 中文版（初译）.pdf (1.75 MB) | csdrive://20200405161402635 |
+| AlexNet - ImageNet Classification with Deep Convolutional Neural Networks 译文.pdf (487.21 KB) | csdrive://20200405161407238 |
+| 人工智能指数 2017 年度报告.pdf (1.37 MB) | csdrive://20200405161414369 |
+| 迁移学习手册 1.0.pdf (3.24 MB) | csdrive://20200405161424781 |
+| GeeksForGeeks Operating Systems Lecture Notes.epub (8.51 MB) | csdrive://20200405161444427 |
+| 大数入门.pdf (2.69 MB) | csdrive://20200405161451313 |
+| BAT 机器学习面试 1000 题系列（第 1~325 题）.pdf (6.45 MB) | csdrive://20200405161500101 |
+| Sklearn 与 TensorFlow 机器学习实用指南中文版 2018.6.20.epub (16.63 MB) | csdrive://20200405161523700 |
 | TensorFlow Zero To All.epub (1.43 MB) | csdrive://20200405124555645 |
 | Pandas Cookbook 带注释源码.epub (4.96 MB) | csdrive://20200405124604240 |
 | Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | csdrive://2020040512460974 |
@@ -1221,7 +1363,78 @@ cdrive download <link>
 | 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | jsdrive://118142-6a9e13252959fd7f |
 | Learning Rust.epub (1.13 MB) | jsdrive://118142-1de549f09c03d423 |
 | 自己动手做聊天机器人.epub (8.62 MB) | jsdrive://118142-086d892484065de5 |
-| | |
+| Linux 命令大全（LinuxToday）.epub (2.30 MB) | jsdrive://118142-7c6f55c84294ca27 |
+| ClojureScript 入门指南.epub (160.04 KB) | jsdrive://118142-56332c25b3562f0a |
+| 深度学习：Python 教程：使用 Keras、Python、Theano 和 TensorFlow 开发深度学习模型.epub (1.57 MB) | jsdrive://118142-bdfbe0913292d494 |
+| 简明 Python 教程 4.0.epub (515.39 KB) | jsdrive://118142-27dd4c109338782c |
+| Data Clustering 50 years beyond kmeans 翻译.pdf (1.10 MB) | jsdrive://118142-6ed70022b046d7fc |
+| FuzzySecurity Windows Exploit 开发系列教程 1~19.epub (15.33 MB) | jsdrive://118142-9957c0c3c493638f |
+| 从算法设计到硬线逻辑的实现--复杂数字逻辑系统的 Verilog HDL 设计技术和方法.pdf (7.64 MB) | jsdrive://118142-80b7929524a1bd78 |
+| 微信小程序教程（歪脖网）.epub (23.16 MB) | jsdrive://118142-a11ca3405b093d00 |
+| GeeksForGeeks Microprocessor Lecture Notes.epub (2.74 MB) | jsdrive://118142-258ed2b17450f4f0 |
+| GeeksForGeeks Computer Network Lecture Notes.epub (11.76 MB) | jsdrive://118142-b632d7e3d850803f |
+| IDAPython 初学者指南.pdf (906.83 KB) | jsdrive://118142-78ca31a9adf67b21 |
+| 生物信息学培训教材（北京华大基因研究中心）.pdf (8.26 MB) | jsdrive://118142-7d4d7395445e9791 |
+| Verilog 经典教程（夏宇闻）.pdf (1.73 MB) | jsdrive://118142-648c98a92e4b9e2d |
+| Less 简明教程（歪脖网）.epub (187.96 KB) | jsdrive://118142-d5a296505a29af97 |
+| JavaScript 编程精解 中文第三版.epub (1.63 MB) | jsdrive://118142-4bc710e0ea7c4def |
+| Mathematical Methods for Robotics, Vision, and Graphics Lecture Notes (Stanford CS205).pdf (1.11 MB) | jsdrive://118142-deaca1b5f9a16d60 |
+| Visualizing and Understanding Convolutional Networks 译文（“看懂”卷积神经网络）.pdf (2.03 MB) | jsdrive://118142-44e745a152f3d290 |
+| Natural Language Processing (Jacob Eisenstein).pdf (5.64 MB) | jsdrive://118142-55d64c12a3bef417 |
+| 搜云库 Spring Boot & Cloud 教程.epub (4.16 MB) | jsdrive://118142-b50b8e28958664fa |
+| GeeksForGeeks Theory Of Computation and Automata Lecture Notes.epub (2.92 MB) | jsdrive://118142-6903f54c9d029a63 |
+| 梯度下降优化算法综述.pdf (700.83 KB) | jsdrive://118142-fa9726d45ac82e78 |
+| 生物信息学简明教程.pdf (492.95 KB) | jsdrive://118142-4ce11d92937d0099 |
+| GeeksForGeeks Engineering Mathematics Lecture Notes.epub (1.13 MB) | jsdrive://118142-ce940df2e4db3d1c |
+| 设计数据密集型应用（初翻）.epub (7.21 MB) | jsdrive://118142-3d5c090d82d5f54e |
+| ANDROID SDK 源码解析.epub (3.21 MB) | jsdrive://118142-067739481142f3e7 |
+| Automating Inference, Learning, and Design using Probabilistic Programming.pdf (6.50 MB) | jsdrive://118142-66e8f7f52183786e |
+| swebok 2004 中文版.pdf (899.70 KB) | jsdrive://118142-6d0dc60fa43ea52d |
+| 安卓应用安全指南 中文版.epub (2.19 MB) | jsdrive://118142-67bedbfdc55fb764 |
+| JSON 教程（歪脖网）.epub (63.33 KB) | jsdrive://118142-2496e438ce026806 |
+| Bootstrap3 实用教程（歪脖网）.epub (1.78 MB) | jsdrive://118142-4c8c581ed56196f5 |
+| Zero to Hero：2017年机器之心AI高分概述文章全集.epub (34.70 MB) | jsdrive://118142-fc4fcc245bb5d65b |
+| Verilog HDL 硬件描述语言.pdf (1.11 MB) | jsdrive://118142-7729670195166c5a |
+| GeeksForGeeks Computer Organization and Architecture Lecture Notes.epub (3.75 MB) | jsdrive://118142-54696f543f8007da |
+| Vue.js 教程（歪脖网）.epub (750.69 KB) | jsdrive://118142-15102bc55c0af302 |
+| Algorithms for Reinforcement Learning.pdf (1.59 MB) | jsdrive://118142-64d4e0a1a3b9706d |
+| Bootstrap2 用户指南（歪脖网）.epub (1.26 MB) | jsdrive://118142-d3dbabbfd3dec705 |
+| verilog 黄金参考指南中文版.pdf (511.67 KB) | jsdrive://118142-ce414dc4486e71e1 |
+| GeeksForGeeks Digital Electronics and Logic Design Lecture Notes.epub (7.27 MB) | jsdrive://118142-d7f4712b9da9c264 |
+| Metasploit 中文 Wiki.epub (335.41 KB) | jsdrive://118142-bfea10efc6e9935f |
+| 揭秘 CSS（歪脖网）.epub (2.41 MB) | jsdrive://118142-7009d9f8df8fe738 |
+| Advanced Data Analysis from an Elementary Point of View.pdf (7.32 MB) | jsdrive://118142-bfd4d994c1480960 |
+| GeeksForGeeks Database Management System Lecture Notes.epub (5.09 MB) | jsdrive://118142-4fa7548a7ff66888 |
+| XGBoost 原理解析.pdf (1.01 MB) | jsdrive://118142-b8d7bc1fd4c9108e |
+| TensorFlow 中文文档 1.8 掘金 2018.5.19.epub (9.37 MB) | jsdrive://118142-39bca41cb747b980 |
+| LearnOpenGL 中文教程.epub (10.96 MB) | jsdrive://118142-b054d07c1f055091 |
+| 2016 年机器之心高分技术文章全集.epub (27.79 MB) | jsdrive://118142-8ee1254bb89172b3 |
+| 台大林轩田机器学习笔记（TingxunShi）.pdf (3.94 MB) | jsdrive://118142-5be0c7d4852ded01 |
+| 复杂性思维 中文第二版.epub (1.09 MB) | jsdrive://118142-3c6a59331de1f34e |
+| 信息管理专业Python教程.epub (724.75 KB) | jsdrive://118142-1e484aa1518d3dc4 |
+| 高速上手 C++ 11 14 17.pdf (2.12 MB) | jsdrive://118142-c08fb6bc84dcbdf6 |
+| 周立功 51 单片机教程.pdf (1.03 MB) | jsdrive://118142-0aefb957c402571e |
+| Hinton 神经网络与机器学习笔记（TingxunShi）.pdf (5.54 MB) | jsdrive://118142-88f4609ec4dbd5d1 |
+| HTML 宝典（歪脖网）.epub (1.27 MB) | jsdrive://118142-4f1adf20dfa325a6 |
+| GeeksForGeeks Compiler Design Lecture Notes.epub (5.91 MB) | jsdrive://118142-0bdbefbf990e9c0a |
+| Linux 内核源代码情景分析.pdf (5.32 MB) | jsdrive://118142-9f403beecc20b4eb |
+| word2vec 中的数学.pdf (863.65 KB) | jsdrive://118142-6520b566a42aa930 |
+| Dive Into HTML5 中文版.epub (521.82 KB) | jsdrive://118142-8fb8a382f65146ae |
+| 大数据分析苏轼.pdf (4.62 MB) | jsdrive://118142-250d5dd5bba0ffd1 |
+| IEEE SystemVerilog 3.1a 语言参考手册.chm (6.39 MB) | jsdrive://118142-3afb5b0f8e94ea55 |
+| PyTorch 0.3 中文文档和教程.epub (3.97 MB) | jsdrive://118142-1ef28f8c7ff7751a |
+| HTML5 Canvas 实战.epub (4.79 MB) | jsdrive://118142-5832e9feeedd7989 |
+| Flask 大型教程 2017.epub (1.49 MB) | jsdrive://118142-426c6a8f0d12e1da |
+| 面对对象编程语言：应用和解释.epub (114.11 KB) | jsdrive://118142-a2b7446fc6bd8dc8 |
+| 《从零到一》Tony 翻译版.epub (181.09 KB) | jsdrive://118142-2da2b001aecd840b |
+| Learning Deep Architectures for AI 中文版（初译）.pdf (1.75 MB) | jsdrive://118142-46861b85f41de499 |
+| AlexNet - ImageNet Classification with Deep Convolutional Neural Networks 译文.pdf (487.21 KB) | jsdrive://118142-23003dbad1731784 |
+| 人工智能指数 2017 年度报告.pdf (1.37 MB) | jsdrive://118142-d3e99ac07f1a576d |
+| 迁移学习手册 1.0.pdf (3.24 MB) | jsdrive://118142-facecafdb17de742 |
+| GeeksForGeeks Operating Systems Lecture Notes.epub (8.51 MB) | jsdrive://118142-f48ea86f960dbb04 |
+| 大数入门.pdf (2.69 MB) | jsdrive://118142-d3fda8c9d7ba1394 |
+| BAT 机器学习面试 1000 题系列（第 1~325 题）.pdf (6.45 MB) | jsdrive://118142-4921bac51da7c9f1 |
+| Sklearn 与 TensorFlow 机器学习实用指南中文版 2018.6.20.epub (16.63 MB) | jsdrive://118142-f6b40bac4bd7a329 |
 | TensorFlow Zero To All.epub (1.43 MB) | jsdrive://118142-3dc032bf724998ec |
 | Pandas Cookbook 带注释源码.epub (4.96 MB) | jsdrive://118142-c097b63766390287 |
 | Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | jsdrive://118142-0fb973b5f5fd5c5c |
@@ -1535,7 +1748,78 @@ cdrive download <link>
 | 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | shdrive://20200405/858a8871e4224579842535cdfb9f97b1 |
 | Learning Rust.epub (1.13 MB) | shdrive://20200405/9b277ef11cb548748ed3fa54e2d85969 |
 | 自己动手做聊天机器人.epub (8.62 MB) | shdrive://20200405/ea3cd2a3915d40aeb05b34f7dd33ce2f |
-| | |
+| Linux 命令大全（LinuxToday）.epub (2.30 MB) | shdrive://20200405/d5a472617da4408ca43540b963328db9 |
+| ClojureScript 入门指南.epub (160.04 KB) | shdrive://20200405/a178e02181ac4d3e827d67de935792c3 |
+| 深度学习：Python 教程：使用 Keras、Python、Theano 和 TensorFlow 开发深度学习模型.epub (1.57 MB) | shdrive://20200405/b5fa10d4e56c4a6caf94c613ef99a5cb |
+| 简明 Python 教程 4.0.epub (515.39 KB) | shdrive://20200405/b64def71b4634a9e8b9bba7fb611ebe9 |
+| Data Clustering 50 years beyond kmeans 翻译.pdf (1.10 MB) | shdrive://20200405/9a76afee31784c15917dafd1b882dc2b |
+| FuzzySecurity Windows Exploit 开发系列教程 1~19.epub (15.33 MB) | shdrive://20200405/8aaa0793771747b98b72270fc4ad8c27 |
+| 从算法设计到硬线逻辑的实现--复杂数字逻辑系统的 Verilog HDL 设计技术和方法.pdf (7.64 MB) | shdrive://20200405/5dc3a3f847e046e1a8716850c47af83c |
+| 微信小程序教程（歪脖网）.epub (23.16 MB) | shdrive://20200405/50452df207c24574ab9da8fdf4a5e500 |
+| GeeksForGeeks Microprocessor Lecture Notes.epub (2.74 MB) | shdrive://20200405/572b1d9f94204aaca7be1682b5bb02ae |
+| GeeksForGeeks Computer Network Lecture Notes.epub (11.76 MB) | shdrive://20200405/cc9748277b5246f38b445845b06c97dc |
+| IDAPython 初学者指南.pdf (906.83 KB) | shdrive://20200405/693c5d042a8b4424bec2329fee9d7978 |
+| 生物信息学培训教材（北京华大基因研究中心）.pdf (8.26 MB) | shdrive://20200405/28da2691414e4609ad664b3910bd3ce5 |
+| Verilog 经典教程（夏宇闻）.pdf (1.73 MB) | shdrive://20200405/4a9ccf5ee99f40c8804b3e2e27502b8f |
+| Less 简明教程（歪脖网）.epub (187.96 KB) | shdrive://20200405/8fcd8a2f83794ba2a78edb42705427a2 |
+| JavaScript 编程精解 中文第三版.epub (1.63 MB) | shdrive://20200405/5421a7868a984e439aa12ce13ac86aa2 |
+| Mathematical Methods for Robotics, Vision, and Graphics Lecture Notes (Stanford CS205).pdf (1.11 MB) | shdrive://20200405/b2e56ea7bdd44134afab57d0992e2198 |
+| Visualizing and Understanding Convolutional Networks 译文（“看懂”卷积神经网络）.pdf (2.03 MB) | shdrive://20200405/df1d68be70434611a88cb0cac7b378dd |
+| Natural Language Processing (Jacob Eisenstein).pdf (5.64 MB) | shdrive://20200405/5dc4d61e2267469fb72cc33539b724cd |
+| 搜云库 Spring Boot & Cloud 教程.epub (4.16 MB) | shdrive://20200405/df448d3ebe80474fb744987513ebd142 |
+| GeeksForGeeks Theory Of Computation and Automata Lecture Notes.epub (2.92 MB) | shdrive://20200405/715b53ab44a34acb89f7d4b0a211ceed |
+| 梯度下降优化算法综述.pdf (700.83 KB) | shdrive://20200405/f35ad8df4bd54745aeaf7d1c8868660a |
+| 生物信息学简明教程.pdf (492.95 KB) | shdrive://20200405/822e5e6748484a75a72b821fa1692876 |
+| GeeksForGeeks Engineering Mathematics Lecture Notes.epub (1.13 MB) | shdrive://20200405/6b237e7ef083490bb09bd5f308fb6cb5 |
+| 设计数据密集型应用（初翻）.epub (7.21 MB) | shdrive://20200405/366841f9bb46457f8e1c1162ecb856a6 |
+| ANDROID SDK 源码解析.epub (3.21 MB) | shdrive://20200405/70587488f2614d2586d86f3da63bd21f |
+| Automating Inference, Learning, and Design using Probabilistic Programming.pdf (6.50 MB) | shdrive://20200405/e197ccef15c145b29dfc06d203776448 |
+| swebok 2004 中文版.pdf (899.70 KB) | shdrive://20200405/fd026a2170604690b6a0384250c9e587 |
+| 安卓应用安全指南 中文版.epub (2.19 MB) | shdrive://20200405/b3faa3c4a3a245d49b28468472548814 |
+| JSON 教程（歪脖网）.epub (63.33 KB) | shdrive://20200405/3b2968560ddd405385792e3de3be50d7 |
+| Bootstrap3 实用教程（歪脖网）.epub (1.78 MB) | shdrive://20200405/e44db499d2cb4107978d76f43d619f23 |
+| Zero to Hero：2017年机器之心AI高分概述文章全集.epub (34.70 MB) | shdrive://20200405/fb050f58b8f441ec8f68adad600a505b |
+| Verilog HDL 硬件描述语言.pdf (1.11 MB) | shdrive://20200405/eea28cc3d94941289a60040fddb058c3 |
+| GeeksForGeeks Computer Organization and Architecture Lecture Notes.epub (3.75 MB) | shdrive://20200405/9ff37a27062c4190803866a35103ecc2 |
+| Vue.js 教程（歪脖网）.epub (750.69 KB) | shdrive://20200405/714e5ededadb4f6a9ade87448c521932 |
+| Algorithms for Reinforcement Learning.pdf (1.59 MB) | shdrive://20200405/48a39ad2f4294259bf8f9b3c8fab269f |
+| Bootstrap2 用户指南（歪脖网）.epub (1.26 MB) | shdrive://20200405/e79e6b14124543ea8614cac9d9bff71c |
+| verilog 黄金参考指南中文版.pdf (511.67 KB) | shdrive://20200405/bdeb297c16d149a2ac6b0ba382315739 |
+| GeeksForGeeks Digital Electronics and Logic Design Lecture Notes.epub (7.27 MB) | shdrive://20200405/76bff976bd5047e1895a73c7077ab495 |
+| Metasploit 中文 Wiki.epub (335.41 KB) | shdrive://20200405/1ffbce62363b4928afe8e8584f7a7e98 |
+| 揭秘 CSS（歪脖网）.epub (2.41 MB) | shdrive://20200405/a9c84a2d861f448c8a12369a8dca552e |
+| Advanced Data Analysis from an Elementary Point of View.pdf (7.32 MB) | shdrive://20200405/2cd0d73a0f3b4882ae9d9a9fbf9397e1 |
+| GeeksForGeeks Database Management System Lecture Notes.epub (5.09 MB) | shdrive://20200405/c2b21244e6d4401bbf28d3b268150fa9 |
+| XGBoost 原理解析.pdf (1.01 MB) | shdrive://20200405/99b6bf38bc1940e6934c708037292584 |
+| TensorFlow 中文文档 1.8 掘金 2018.5.19.epub (9.37 MB) | shdrive://20200405/38d9370312fa485ab46746ebf21b5869 |
+| LearnOpenGL 中文教程.epub (10.96 MB) | shdrive://20200405/ca0a5d5f69cb4aa4bda9137f5e6b55df |
+| 2016 年机器之心高分技术文章全集.epub (27.79 MB) | shdrive://20200405/eb6aa81393934fe697b8a935d09c0c24 |
+| 台大林轩田机器学习笔记（TingxunShi）.pdf (3.94 MB) | shdrive://20200405/a5c35378d4994d789c27f0cbf95a8369 |
+| 复杂性思维 中文第二版.epub (1.09 MB) | shdrive://20200405/fa0c8c061fd540e981c0e1d9976eb1b7 |
+| 信息管理专业Python教程.epub (724.75 KB) | shdrive://20200405/12c6b111a0664ab4bb675228679fb061 |
+| 高速上手 C++ 11 14 17.pdf (2.12 MB) | shdrive://20200405/18a4af25b8ac44ac98b264c215986f90 |
+| 周立功 51 单片机教程.pdf (1.03 MB) | shdrive://20200405/de69323a3fb84dacac55aab4baebadf3 |
+| Hinton 神经网络与机器学习笔记（TingxunShi）.pdf (5.54 MB) | shdrive://20200405/9055778731d54ac8be3411644aaaf132 |
+| HTML 宝典（歪脖网）.epub (1.27 MB) | shdrive://20200405/2e682c63853343e996bf164b15c0d1ab |
+| GeeksForGeeks Compiler Design Lecture Notes.epub (5.91 MB) | shdrive://20200405/f0a88063adb44202ab36e2835c33c615 |
+| Linux 内核源代码情景分析.pdf (5.32 MB) | shdrive://20200405/68b457ea15e5492d9b05edd93f79542b |
+| word2vec 中的数学.pdf (863.65 KB) | shdrive://20200405/f4920cbf0111455d88ae61ee5cc10c22 |
+| Dive Into HTML5 中文版.epub (521.82 KB) | shdrive://20200405/f19bbf86a6844a82a90a367e47817a31 |
+| 大数据分析苏轼.pdf (4.62 MB) | shdrive://20200405/56f6f841db674c3e8af9f37801aa248b |
+| IEEE SystemVerilog 3.1a 语言参考手册.chm (6.39 MB) | shdrive://20200405/4cb021bb5f1143fe85004ecfc73cb937 |
+| PyTorch 0.3 中文文档和教程.epub (3.97 MB) | shdrive://20200405/4246943a5830488fadb38999844577b1 |
+| HTML5 Canvas 实战.epub (4.79 MB) | shdrive://20200405/9b52c2eef4ea40f39870986a2a620456 |
+| Flask 大型教程 2017.epub (1.49 MB) | shdrive://20200405/a5b2da508983429a844d5937b2b60a68 |
+| 面对对象编程语言：应用和解释.epub (114.11 KB) | shdrive://20200405/9a75cd06d7634c64a732341c301ae997 |
+| 《从零到一》Tony 翻译版.epub (181.09 KB) | shdrive://20200405/ef14b0eca3a04007ab859c18df6f68c3 |
+| Learning Deep Architectures for AI 中文版（初译）.pdf (1.75 MB) | shdrive://20200405/0d053435d29e4397be2428c440c698b8 |
+| AlexNet - ImageNet Classification with Deep Convolutional Neural Networks 译文.pdf (487.21 KB) | shdrive://20200405/4a7371efb0d74b60a373fe00e2d6dadc |
+| 人工智能指数 2017 年度报告.pdf (1.37 MB) | shdrive://20200405/b5712052b59942979703a0ba9f6f9e7f |
+| 迁移学习手册 1.0.pdf (3.24 MB) | shdrive://20200405/7c8c326ad2804c95b2d529c2159a32a0 |
+| GeeksForGeeks Operating Systems Lecture Notes.epub (8.51 MB) | shdrive://20200405/3bec838ec81440318fe7b755185224a4 |
+| 大数入门.pdf (2.69 MB) | shdrive://20200405/c589a4692a574162b93f7a20824904a0 |
+| BAT 机器学习面试 1000 题系列（第 1~325 题）.pdf (6.45 MB) | shdrive://20200405/68bc56c1eaee42eebbf2dfb81c22aabd |
+| Sklearn 与 TensorFlow 机器学习实用指南中文版 2018.6.20.epub (16.63 MB) | shdrive://20200405/7efab1cbf1264f2ca235e95116943fe4 |
 | TensorFlow Zero To All.epub (1.43 MB) | shdrive://20200405/c72c42ff31cd4bbcb00eb0ec187029d0 |
 | Pandas Cookbook 带注释源码.epub (4.96 MB) | shdrive://20200405/f58c4e6fb11746429d2e265473855bfa |
 | Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | shdrive://20200405/efed36bec28d403bba14ca451438c3c5 |
