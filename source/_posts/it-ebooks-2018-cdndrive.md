@@ -1,5 +1,5 @@
 ---
-title: 计算机电子书 2018 BiliDrive 备份
+title: 计算机电子书 2018 CDNDrive 备份
 date: 2019-01-01 00:00:00
 categories:
   - 计算机
@@ -10,17 +10,17 @@ tags:
 ## 下载方式
 
 ```
-pip install BiliDriveEx
+pip install CDNDrive
 # 或
-# pip install git+https://github.com/apachecn/BiliDriveEx
-bdex download <link>
+# pip install git+https://github.com/apachecn/CDNDrive
+cdrive download <link>
 ```
 
 ## 链接
 
 <!--more-->
 
-<script>location.href='../it-ebooks-2018-cdndrive/'</script>
+<!--bdex-->
 
 | 文档 | 链接 |
 | --- | --- |
@@ -404,3 +404,355 @@ bdex download <link>
 | Python One to Million.epub (449.45 KB) | bdrive://a35b58d5c0bfccbc0bffdae89bfadf0a506c802a |
 | Markdown 入门参考.epub (2.11 MB) | bdrive://e56a85b604df632cfee6411c41dfce1f4adf87c5 |
 | 新时期我国信息技术产业的发展.pdf (4.74 MB) | bdrive://af64c69fe052a35352491ab5a2343554a19a8c79 |
+
+<!--bjdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| Webpack 中文指南.epub (409.01 KB) | bjdrive://31a3dd7165886c853c0e591bc666f473 |
+| OpenIntro Statistics 3e.pdf (7.17 MB) | bjdrive://65bc7aa8fe810a57570459c6ee4ccab3 |
+| AngularJS学习笔记（checkcheckzz）.epub (163.79 KB) | bjdrive://1d9da34f2dd66ced82776495794cc441 |
+| 虚拟货币投资实战技巧.epub (3.84 MB) | bjdrive://3bab08bd168c02f3a5188a77537d6261 |
+| Scala 初学指南.epub (119.42 KB) | bjdrive://0557d0526004424fbd5213d0cb82474a |
+| 机器学习进阶笔记（大U的技术课堂）.epub (6.24 MB) | bjdrive://e03b52009a2be19a1e0aad0fb4997074 |
+| 安全客2017Q4.pdf (16.34 MB) | bjdrive://5064e982eac153ef374a2f6aac2fb3b9 |
+| scikit-learn 0.19 中文文档.epub (8.89 MB) | bjdrive://ebc08b96403d3d0e586129739263eaf3 |
+| Learning Scrapy 中文版.epub (2.97 MB) | bjdrive://0e38c128ccb996f99630252eea1568c4 |
+| R语言高级程序设计 --《Advanced R》中文版.pdf (5.44 MB) | bjdrive://c31d49fe981fa9689f43525180bcf324 |
+| React Native Training.epub (6.32 MB) | bjdrive://f6b983cea806fbcec25bd91e5601fceb |
+| TensorFlow从0到1.epub (7.62 MB) | bjdrive://2197509b68341132994c753d540cc58c |
+| 操作系统简单实现与基本原理.epub (2.26 MB) | bjdrive://fbcb751413afabb6bb014fb90eda7566 |
+| VS Code 中文文档.epub (9.05 MB) | bjdrive://340f6cdbe7b8d1d9089fbd5a2a740693 |
+| CTF-All-In-One 2018.1.24.epub (3.62 MB) | bjdrive://cc9dfcd9123751800cc27c45315cdb2f |
+| UCB CS294 深度强化学习中文笔记（谢天）.epub (2.25 MB) | bjdrive://07b8c2236139ca51d7afbf3e3df2e93d |
+| 知识共享协议使用常见问题解答非官方翻译项目.epub (153.51 KB) | bjdrive://7cdd701d970fcdec9b5e0e4af722d10e |
+| React 学习之道.epub (589.89 KB) | bjdrive://3e355c2b2fa19523d17726ac00126f92 |
+| Solidity 官方文档中文版.epub (149.78 KB) | bjdrive://b8d8642d3e72cf9526dcc4d6d79af234 |
+| JVM必知必会.epub (3.15 MB) | bjdrive://af40bb3b11247aff515a12234b7f83ec |
+| 使用Spring Cloud与Docker实战微服务.epub (993.41 KB) | bjdrive://5495b361f6beda1ce94216f4f0bd32ac |
+| Network Science (Albert-László Barabási).7z (16.52 MB) | bjdrive://74762bca3c8a484314d708047e7695b2 |
+| Python 分布式计算.epub (1.77 MB) | bjdrive://9b725a4ebc7ee1a609695b452bf4cf66 |
+| R packages.epub (4.86 MB) | bjdrive://239c7858f8b232057f2b30cfc559d342 |
+| LeetBook（LeetCode详解）.epub (1.81 MB) | bjdrive://9f4dd1f791b3b80ee4ac364f7fb33da7 |
+| 前端开发笔记本.epub (29.86 MB) | bjdrive://2c95f760625e5dc950526f80d5daf7fd |
+| Android 安全笔记（JnuSimba）.epub (9.89 MB) | bjdrive://310071fe9aeccfdfa81756980f45e92c |
+| HTTP 协议  RFC2616  中文版.pdf (1.03 MB) | bjdrive://57ef2786d4527e52578867bb8788b8dc |
+| 禅与 Objective-C 编程艺术.epub (176.19 KB) | bjdrive://d27201f2a84f9190cc7d6a1a0104a419 |
+| CTF Wiki 2017.12.27.epub (8.27 MB) | bjdrive://67b2f528970c26a4889d0f0c7579102c |
+| HIT-Alibaba 笔试面试知识整理.epub (3.37 MB) | bjdrive://c8768eab366a55a72978d940f101d27b |
+| 大数据实验手册.epub (16.91 MB) | bjdrive://1e60780e89fab7699785b68a85a7cef0 |
+| Everything curl.epub (1.84 MB) | bjdrive://fc140e68bdba78ee55880bf185b24766 |
+| Android Gradle 插件中文指南.epub (89.55 KB) | bjdrive://a7e79a64b56180db82847424af5a6f84 |
+| 果仁网量化课堂 & 帮助文档.epub (10.26 MB) | bjdrive://872f7ec99c6b41a69c3b84d78683cd3e |
+| 利用 Python 进行数据分析 中文第二版（SeanCheney）.epub (4.61 MB) | bjdrive://3f237b7080baa2a325e8395e03d6aa7a |
+| Redis开发运维实践指南.epub (2.81 MB) | bjdrive://089bcdf3a476f34e90ab03bf0c7c9b35 |
+| Spring Batch 参考文档中文版.epub (564.28 KB) | bjdrive://e145db7c80d829cbed2805d59690c002 |
+| A Java Reference (UCB CS61b Textbook).pdf (1.52 MB) | bjdrive://e70eba2ec97ab53474296e0734a5249c |
+| AI Cheat Sheet.7z (6.42 MB) | bjdrive://991a20518da312153b1c959eea01032c |
+| PaperWeekly #1~#54.epub (15.80 MB) | bjdrive://6b4546cfac2a73766c3951c686edafc4 |
+| Stackoverflow about Python 中文版.epub (164.14 KB) | bjdrive://e3a85433b16e3c52aabc61ebb88c408e |
+| Kira 高数葵花宝典 2017.pdf (6.97 MB) | bjdrive://9cd43ada29b8bc1bfc20693cd7fb8d8c |
+| Computer and Network Organization.pdf (2.42 MB) | bjdrive://2c891c9bebbb0e9f1a934f468def1b60 |
+| Fiddler2 中文手册.chm (481.84 KB) | bjdrive://dd2b3a0a5f4b46d6f72f4f8937ef2bc4 |
+| Forecasting Principles and Practice  2e.pdf (10.13 MB) | bjdrive://4628f0e81a9ae20a8fced4554d7ae0e1 |
+| Numerical Algorithms (Stanford CS205 Textbook).pdf (3.85 MB) | bjdrive://6c7240cda6f24bce34043046ca55512f |
+| 97 Things Every Programmer Should Know.epub (509.07 KB) | bjdrive://9439cc04bc03cd11dcdbe0a1fe22fa27 |
+| 数字安全实用手册.7z (5.93 MB) | bjdrive://917a0f6c9e865e08fcea47527afcd9b3 |
+| An Introduction to Data Science.epub (3.21 MB) | bjdrive://6fd4689ce801e49e453fb41f885b3748 |
+| R for Beginners 中文版 .pdf (912.08 KB) | bjdrive://41e81283980657fdc87c5f85dd56cc4a |
+| Swift设计模式 (iOS).epub (1.94 MB) | bjdrive://e3cbfe6845efd141c4ac8eb336e80319 |
+| Kira 概统解题指南 2017.pdf (2.85 MB) | bjdrive://864afc932692cfa6b2c2cc43c159cc92 |
+| C#区块链编程.epub (1.63 MB) | bjdrive://1e22ef22c7760ceace023a547ab12f7d |
+| F# for Fun and Profit eBook.epub (7.97 MB) | bjdrive://36e1d6f8c6c3c58ef0a1a32c020962f0 |
+| 人工智能标准化白皮书 2018.pdf (2.52 MB) | bjdrive://8c92ebceea742b83f617fec1d3110224 |
+| The Way To Flask 中文版.epub (568.93 KB) | bjdrive://b2f35d1d5aee10442e00ff56e2f8b63c |
+| iOS的函数响应型编程.epub (4.32 MB) | bjdrive://b79bdd67341bbd4ad69f2dea3c3f7cb8 |
+| SBT 中文手册.epub (117.04 KB) | bjdrive://2329641e05e7e8b577b69ac17551b225 |
+| Distributed Systems 3e.pdf (17.53 MB) | bjdrive://24d63430848e0dd9a4c2ce8a86ceb9d2 |
+| 随机过程（张灏）.pdf (3.91 MB) | bjdrive://d18b4ae5843411c41f930df49d42f76f |
+| 高盛区块链报告：区块链 从理论走向实践.epub (6.72 MB) | bjdrive://2656bb56a6b823f93c9950fe796519b2 |
+| Kubernetes 指南.epub (8.90 MB) | bjdrive://38404d1f2987596b432a565cef6cf9c6 |
+| 《精通比特币》第二版.epub (9.43 MB) | bjdrive://56bbc3c7accd3c95cc88f7d3061dd912 |
+| JoinQuant 量化课堂.pdf (26.40 MB) | bjdrive://25970c30e9421f0c81525e629a81c766 |
+| 用Python学微积分.epub (701.61 KB) | bjdrive://e4e09e0a7aec3e551fe0263070ee02ef |
+| 以太坊官网文档中文版.epub (123.51 KB) | bjdrive://27eabfcc07905222e27418b80c399402 |
+| 无痛的机器学习第二季.epub (392.33 KB) | bjdrive://3daefe2eb255a7255be3dae96c983dac |
+| Nessus 6.3 中文用户手册.pdf (8.48 MB) | bjdrive://7c58462a3a76f2fb07b00eda32600728 |
+| R for Data Science.epub (7.25 MB) | bjdrive://6e48286d1f2c06e5ae00a311fc0b3c96 |
+| Graph Theory and Complex Networks.pdf (3.44 MB) | bjdrive://29563cdbbdb234600daaa674a7a775a6 |
+| Data Structures Into Java (UCB CS61b textbook).pdf (1.39 MB) | bjdrive://1bc397e08e7fef213a873d780bec3a62 |
+| Consul 简介和快速入门.epub (319.47 KB) | bjdrive://49c954db89e5f4f80a29a772b64355bd |
+| 数字巨链.epub (1.32 MB) | bjdrive://6e90b11fc7a08d139abdccf57b34c412 |
+| Technical Indicators and Overlays.epub (19.81 MB) | bjdrive://6fceff1ebbb0b0b69d3166daba062252 |
+| Frida 中文文档.epub (6.05 MB) | bjdrive://d48a1f0cc412474673a3bdf073daf756 |
+| Advanced R.epub (1.04 MB) | bjdrive://0bbc6f20ff68bc95555970f95c42e510 |
+| IntelliJ IDEA 中文文档.epub (20.80 MB) | bjdrive://3e0f9497d952cb8d496743ed292071f5 |
+| 高级Bash脚本编程指南 Revision 10 中文版.epub (319.86 KB) | bjdrive://fa80b3aa8cb5bc04d3c9e283f6cac2ba |
+| DeepMind 强化学习中文讲义.epub (2.40 MB) | bjdrive://ec2367fec215420360d6e7b87f19861a |
+| 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | bjdrive://5dd8c9fb64d9bdd95011a4a4ee343437 |
+| Gradle 实战.epub (2.45 MB) | bjdrive://9f27a3e410243c08b678f130b3c13be3 |
+| Postman 中文文档.epub (3.92 MB) | bjdrive://ab6c9d7b1215c5de5343f51124f88126 |
+
+<!--csdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| Webpack 中文指南.epub (409.01 KB) | csdrive://20200405110323165 |
+| OpenIntro Statistics 3e.pdf (7.17 MB) | csdrive://20200405110328656 |
+| AngularJS学习笔记（checkcheckzz）.epub (163.79 KB) | csdrive://20200405110331918 |
+| 虚拟货币投资实战技巧.epub (3.84 MB) | csdrive://20200405110336783 |
+| Scala 初学指南.epub (119.42 KB) | csdrive://20200405110339744 |
+| 机器学习进阶笔记（大U的技术课堂）.epub (6.24 MB) | csdrive://20200405110345229 |
+| 安全客2017Q4.pdf (16.34 MB) | csdrive://20200405110402165 |
+| scikit-learn 0.19 中文文档.epub (8.89 MB) | csdrive://20200405110407917 |
+| Learning Scrapy 中文版.epub (2.97 MB) | csdrive://20200405110412914 |
+| R语言高级程序设计 --《Advanced R》中文版.pdf (5.44 MB) | csdrive://20200405110418112 |
+| React Native Training.epub (6.32 MB) | csdrive://20200405110423662 |
+| TensorFlow从0到1.epub (7.62 MB) | csdrive://2020040511042964 |
+| 操作系统简单实现与基本原理.epub (2.26 MB) | csdrive://20200405110433364 |
+| VS Code 中文文档.epub (9.05 MB) | csdrive://2020040511043959 |
+| CTF-All-In-One 2018.1.24.epub (3.62 MB) | csdrive://20200405110444104 |
+| UCB CS294 深度强化学习中文笔记（谢天）.epub (2.25 MB) | csdrive://20200405110448336 |
+| 知识共享协议使用常见问题解答非官方翻译项目.epub (153.51 KB) | csdrive://20200405110451181 |
+| React 学习之道.epub (589.89 KB) | csdrive://20200405110454531 |
+| Solidity 官方文档中文版.epub (149.78 KB) | csdrive://20200405110457383 |
+| JVM必知必会.epub (3.15 MB) | csdrive://20200405110502139 |
+| 使用Spring Cloud与Docker实战微服务.epub (993.41 KB) | csdrive://20200405110505749 |
+| Network Science (Albert-László Barabási).7z (16.52 MB) | csdrive://20200405110513922 |
+| Python 分布式计算.epub (1.77 MB) | csdrive://2020040511051875 |
+| R packages.epub (4.86 MB) | csdrive://20200405110523205 |
+| LeetBook（LeetCode详解）.epub (1.81 MB) | csdrive://20200405110537864 |
+| 前端开发笔记本.epub (29.86 MB) | csdrive://20200405110548833 |
+| Android 安全笔记（JnuSimba）.epub (9.89 MB) | csdrive://20200405110554703 |
+| HTTP 协议  RFC2616  中文版.pdf (1.03 MB) | csdrive://20200405110558317 |
+| 禅与 Objective-C 编程艺术.epub (176.19 KB) | csdrive://20200405110601191 |
+| CTF Wiki 2017.12.27.epub (8.27 MB) | csdrive://20200405110606871 |
+| HIT-Alibaba 笔试面试知识整理.epub (3.37 MB) | csdrive://20200405110611662 |
+| 大数据实验手册.epub (16.91 MB) | csdrive://20200405110620119 |
+| Everything curl.epub (1.84 MB) | csdrive://20200405110624137 |
+| Android Gradle 插件中文指南.epub (89.55 KB) | csdrive://20200405110626748 |
+| 果仁网量化课堂 & 帮助文档.epub (10.26 MB) | csdrive://20200405110632330 |
+| 利用 Python 进行数据分析 中文第二版（SeanCheney）.epub (4.61 MB) | csdrive://20200405110637686 |
+| Redis开发运维实践指南.epub (2.81 MB) | csdrive://20200405110642215 |
+| Spring Batch 参考文档中文版.epub (564.28 KB) | csdrive://20200405110645690 |
+| A Java Reference (UCB CS61b Textbook).pdf (1.52 MB) | csdrive://20200405110649696 |
+| AI Cheat Sheet.7z (6.42 MB) | csdrive://20200405110655106 |
+| PaperWeekly #1~#54.epub (15.80 MB) | csdrive://20200405110702172 |
+| Stackoverflow about Python 中文版.epub (164.14 KB) | csdrive://2020040511070584 |
+| Kira 高数葵花宝典 2017.pdf (6.97 MB) | csdrive://20200405110712611 |
+| Computer and Network Organization.pdf (2.42 MB) | csdrive://20200405110717819 |
+| Fiddler2 中文手册.chm (481.84 KB) | csdrive://20200405110721254 |
+| Forecasting Principles and Practice  2e.pdf (10.13 MB) | csdrive://20200405110728812 |
+| Numerical Algorithms (Stanford CS205 Textbook).pdf (3.85 MB) | csdrive://20200405110735668 |
+| 97 Things Every Programmer Should Know.epub (509.07 KB) | csdrive://20200405110739514 |
+| 数字安全实用手册.7z (5.93 MB) | csdrive://202004051107481 |
+| An Introduction to Data Science.epub (3.21 MB) | csdrive://2020040511075545 |
+| R for Beginners 中文版 .pdf (912.08 KB) | csdrive://20200405110801529 |
+| Swift设计模式 (iOS).epub (1.94 MB) | csdrive://20200405110810787 |
+| Kira 概统解题指南 2017.pdf (2.85 MB) | csdrive://20200405110819487 |
+| C#区块链编程.epub (1.63 MB) | csdrive://20200405110825366 |
+| F# for Fun and Profit eBook.epub (7.97 MB) | csdrive://20200405110847691 |
+| 人工智能标准化白皮书 2018.pdf (2.52 MB) | csdrive://2020040511085351 |
+| The Way To Flask 中文版.epub (568.93 KB) | csdrive://20200405110856656 |
+| iOS的函数响应型编程.epub (4.32 MB) | csdrive://20200405110903593 |
+| SBT 中文手册.epub (117.04 KB) | csdrive://20200405110906481 |
+| Distributed Systems 3e.pdf (17.53 MB) | csdrive://20200405110917447 |
+| 随机过程（张灏）.pdf (3.91 MB) | csdrive://20200405110923859 |
+| 高盛区块链报告：区块链 从理论走向实践.epub (6.72 MB) | csdrive://2020040511093117 |
+| Kubernetes 指南.epub (8.90 MB) | csdrive://2020040511093890 |
+| 《精通比特币》第二版.epub (9.43 MB) | csdrive://20200405110945620 |
+| JoinQuant 量化课堂.pdf (26.40 MB) | csdrive://20200405110958912 |
+| 用Python学微积分.epub (701.61 KB) | csdrive://2020040511100386 |
+| 以太坊官网文档中文版.epub (123.51 KB) | csdrive://20200405111005973 |
+| 无痛的机器学习第二季.epub (392.33 KB) | csdrive://20200405111009323 |
+| Nessus 6.3 中文用户手册.pdf (8.48 MB) | csdrive://20200405111017493 |
+| R for Data Science.epub (7.25 MB) | csdrive://2020040511102549 |
+| Graph Theory and Complex Networks.pdf (3.44 MB) | csdrive://20200405111031631 |
+| Data Structures Into Java (UCB CS61b textbook).pdf (1.39 MB) | csdrive://20200405111035957 |
+| Consul 简介和快速入门.epub (319.47 KB) | csdrive://2020040511103978 |
+| 数字巨链.epub (1.32 MB) | csdrive://20200405111043428 |
+| Technical Indicators and Overlays.epub (19.81 MB) | csdrive://20200405111056832 |
+| Frida 中文文档.epub (6.05 MB) | csdrive://20200405111103922 |
+| Advanced R.epub (1.04 MB) | csdrive://20200405111107993 |
+| IntelliJ IDEA 中文文档.epub (20.80 MB) | csdrive://2020040511112183 |
+| 高级Bash脚本编程指南 Revision 10 中文版.epub (319.86 KB) | csdrive://20200405111124235 |
+| DeepMind 强化学习中文讲义.epub (2.40 MB) | csdrive://20200405111129624 |
+| 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | csdrive://20200405111133758 |
+| Gradle 实战.epub (2.45 MB) | csdrive://20200405111139305 |
+| Postman 中文文档.epub (3.92 MB) | csdrive://20200405111145966 |
+
+<!--jsdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| Webpack 中文指南.epub (409.01 KB) | jsdrive://118142-0a2e0dd52c9be0d0 |
+| OpenIntro Statistics 3e.pdf (7.17 MB) | jsdrive://118142-e624f292f241ccfc |
+| AngularJS学习笔记（checkcheckzz）.epub (163.79 KB) | jsdrive://118142-d0839798ddf30a06 |
+| 虚拟货币投资实战技巧.epub (3.84 MB) | jsdrive://118142-ee1fa8c69e97c35c |
+| Scala 初学指南.epub (119.42 KB) | jsdrive://118142-4cc92ab530376760 |
+| 机器学习进阶笔记（大U的技术课堂）.epub (6.24 MB) | jsdrive://118142-9d6eb109a700ef50 |
+| 安全客2017Q4.pdf (16.34 MB) | jsdrive://118142-389f0b003cc84f54 |
+| scikit-learn 0.19 中文文档.epub (8.89 MB) | jsdrive://118142-3d393cb64a66dd44 |
+| Learning Scrapy 中文版.epub (2.97 MB) | jsdrive://118142-5a5c3adb251aea5e |
+| R语言高级程序设计 --《Advanced R》中文版.pdf (5.44 MB) | jsdrive://118142-10377bc127896641 |
+| React Native Training.epub (6.32 MB) | jsdrive://118142-880682cc4d3303bc |
+| TensorFlow从0到1.epub (7.62 MB) | jsdrive://118142-aaf269fd3fe5d47a |
+| 操作系统简单实现与基本原理.epub (2.26 MB) | jsdrive://118142-5f6452267ed24573 |
+| VS Code 中文文档.epub (9.05 MB) | jsdrive://118142-87a3827b6c94bc96 |
+| CTF-All-In-One 2018.1.24.epub (3.62 MB) | jsdrive://118142-b406f70b1bc83118 |
+| UCB CS294 深度强化学习中文笔记（谢天）.epub (2.25 MB) | jsdrive://118142-5789b5b1b34bc3c5 |
+| 知识共享协议使用常见问题解答非官方翻译项目.epub (153.51 KB) | jsdrive://118142-83c3cb14751fb673 |
+| React 学习之道.epub (589.89 KB) | jsdrive://118142-e9bcff2e0284d4f9 |
+| Solidity 官方文档中文版.epub (149.78 KB) | jsdrive://118142-588233cbd0d27c47 |
+| JVM必知必会.epub (3.15 MB) | jsdrive://118142-1e5a72fbca8be44f |
+| 使用Spring Cloud与Docker实战微服务.epub (993.41 KB) | jsdrive://118142-1743439eb0d1d5c9 |
+| Network Science (Albert-László Barabási).7z (16.52 MB) | jsdrive://118142-6a5fc6f32c0ca8da |
+| Python 分布式计算.epub (1.77 MB) | jsdrive://118142-288766342a8b3056 |
+| R packages.epub (4.86 MB) | jsdrive://118142-b3274ec2dff479ef |
+| LeetBook（LeetCode详解）.epub (1.81 MB) | jsdrive://118142-e1ad556bb7ce0199 |
+| 前端开发笔记本.epub (29.86 MB) | jsdrive://118142-5b945df4a547b786 |
+| Android 安全笔记（JnuSimba）.epub (9.89 MB) | jsdrive://118142-a089190f85b13b3e |
+| HTTP 协议  RFC2616  中文版.pdf (1.03 MB) | jsdrive://118142-c0861450e9f5f17c |
+| 禅与 Objective-C 编程艺术.epub (176.19 KB) | jsdrive://118142-e5a3064c1bc246aa |
+| CTF Wiki 2017.12.27.epub (8.27 MB) | jsdrive://118142-4dafddb3e2b36065 |
+| HIT-Alibaba 笔试面试知识整理.epub (3.37 MB) | jsdrive://118142-f0b6848e06639d0a |
+| 大数据实验手册.epub (16.91 MB) | jsdrive://118142-cf280a112b28ea40 |
+| Everything curl.epub (1.84 MB) | jsdrive://118142-c9fb38853eb8c4cd |
+| Android Gradle 插件中文指南.epub (89.55 KB) | jsdrive://118142-2feae2408c96dfcc |
+| 果仁网量化课堂 & 帮助文档.epub (10.26 MB) | jsdrive://118142-ac00622c563c1cf0 |
+| 利用 Python 进行数据分析 中文第二版（SeanCheney）.epub (4.61 MB) | jsdrive://118142-bb83e0a26da5a26b |
+| Redis开发运维实践指南.epub (2.81 MB) | jsdrive://118142-722856cf38bd418c |
+| Spring Batch 参考文档中文版.epub (564.28 KB) | jsdrive://118142-709eb0b13789d4bf |
+| A Java Reference (UCB CS61b Textbook).pdf (1.52 MB) | jsdrive://118142-658d6b4e5dfd673a |
+| AI Cheat Sheet.7z (6.42 MB) | jsdrive://118142-7fd4c05b62057b0c |
+| PaperWeekly #1~#54.epub (15.80 MB) | jsdrive://118142-d8ebf210a3274177 |
+| Stackoverflow about Python 中文版.epub (164.14 KB) | jsdrive://118142-5451980231d8c25f |
+| Kira 高数葵花宝典 2017.pdf (6.97 MB) | jsdrive://118142-7af3c521075c1a6b |
+| Computer and Network Organization.pdf (2.42 MB) | jsdrive://118142-7a7884d25271d6b0 |
+| Fiddler2 中文手册.chm (481.84 KB) | jsdrive://118142-9e15a23ede25f6f7 |
+| Forecasting Principles and Practice  2e.pdf (10.13 MB) | jsdrive://118142-411777ae28ad2a72 |
+| Numerical Algorithms (Stanford CS205 Textbook).pdf (3.85 MB) | jsdrive://118142-061777ac1c3b8587 |
+| 97 Things Every Programmer Should Know.epub (509.07 KB) | jsdrive://118142-5fb0d84c8f5a4bb3 |
+| 数字安全实用手册.7z (5.93 MB) | jsdrive://118142-7ff581e2e98ed580 |
+| An Introduction to Data Science.epub (3.21 MB) | jsdrive://118142-9784c9ad2bc48229 |
+| R for Beginners 中文版 .pdf (912.08 KB) | jsdrive://118142-df85dced851b3184 |
+| Swift设计模式 (iOS).epub (1.94 MB) | jsdrive://118142-b23be938f331b85b |
+| Kira 概统解题指南 2017.pdf (2.85 MB) | jsdrive://118142-e6de8b857366dcdb |
+| C#区块链编程.epub (1.63 MB) | jsdrive://118142-9892685e998c2707 |
+| F# for Fun and Profit eBook.epub (7.97 MB) | jsdrive://118142-c21ffff55a811da1 |
+| 人工智能标准化白皮书 2018.pdf (2.52 MB) | jsdrive://118142-cdad33d7917472dd |
+| The Way To Flask 中文版.epub (568.93 KB) | jsdrive://118142-666e1bd99c226885 |
+| iOS的函数响应型编程.epub (4.32 MB) | jsdrive://118142-90d5078dc347d768 |
+| SBT 中文手册.epub (117.04 KB) | jsdrive://118142-8bfd610152588e32 |
+| Distributed Systems 3e.pdf (17.53 MB) | jsdrive://118142-bd27cc866c2bf8a5 |
+| 随机过程（张灏）.pdf (3.91 MB) | jsdrive://118142-44c3cfd2dcbf1f2b |
+| 高盛区块链报告：区块链 从理论走向实践.epub (6.72 MB) | jsdrive://118142-5d70a5f570cc09ac |
+| Kubernetes 指南.epub (8.90 MB) | jsdrive://118142-febefe9f1c6d26ba |
+| 《精通比特币》第二版.epub (9.43 MB) | jsdrive://118142-7a183deb52285165 |
+| JoinQuant 量化课堂.pdf (26.40 MB) | jsdrive://118142-85e88ad58feb313c |
+| 用Python学微积分.epub (701.61 KB) | jsdrive://118142-9b07c7e12202d89d |
+| 以太坊官网文档中文版.epub (123.51 KB) | jsdrive://118142-195df7a938aa9c11 |
+| 无痛的机器学习第二季.epub (392.33 KB) | jsdrive://118142-5afea80cec9a3215 |
+| Nessus 6.3 中文用户手册.pdf (8.48 MB) | jsdrive://118142-032d664e8984ebcb |
+| R for Data Science.epub (7.25 MB) | jsdrive://118142-fbc8078f217afa07 |
+| Graph Theory and Complex Networks.pdf (3.44 MB) | jsdrive://118142-9b15b6fae337b523 |
+| Data Structures Into Java (UCB CS61b textbook).pdf (1.39 MB) | jsdrive://118142-d21e667c3622f7a4 |
+| Consul 简介和快速入门.epub (319.47 KB) | jsdrive://118142-90ce2f8d14070172 |
+| 数字巨链.epub (1.32 MB) | jsdrive://118142-34de79fb16665f2f |
+| Technical Indicators and Overlays.epub (19.81 MB) | jsdrive://118142-4b106c3516860403 |
+| Frida 中文文档.epub (6.05 MB) | jsdrive://118142-562dc52bc6580ecc |
+| Advanced R.epub (1.04 MB) | jsdrive://118142-fbac7e1ba2ffdb29 |
+| IntelliJ IDEA 中文文档.epub (20.80 MB) | jsdrive://118142-e5a1791653b83faf |
+| 高级Bash脚本编程指南 Revision 10 中文版.epub (319.86 KB) | jsdrive://118142-76f3ab542a7caddd |
+| DeepMind 强化学习中文讲义.epub (2.40 MB) | jsdrive://118142-27d7d175bdb47c28 |
+| 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | jsdrive://118142-a6c7fca7529df33c |
+| Gradle 实战.epub (2.45 MB) | jsdrive://118142-c093674584c750ff |
+| Postman 中文文档.epub (3.92 MB) | jsdrive://118142-e05c739b4733bc2c |
+
+<!--shdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| Webpack 中文指南.epub (409.01 KB) | shdrive://20200405/3ee2832c761b48f4b9e281bc7c237309 |
+| OpenIntro Statistics 3e.pdf (7.17 MB) | shdrive://20200405/220df5420b9940beb58bae282dd4d0c1 |
+| AngularJS学习笔记（checkcheckzz）.epub (163.79 KB) | shdrive://20200405/86aa454494df4781a77530935e8bfb89 |
+| 虚拟货币投资实战技巧.epub (3.84 MB) | shdrive://20200405/2599a5cc951649dcb74b78716c8c1862 |
+| Scala 初学指南.epub (119.42 KB) | shdrive://20200405/e82c3d9e535c4fef8c71bdb4a607d170 |
+| 机器学习进阶笔记（大U的技术课堂）.epub (6.24 MB) | shdrive://20200405/48d91a31059b40c19ef801dcb1c6db48 |
+| 安全客2017Q4.pdf (16.34 MB) | shdrive://20200405/98e9c08c061f4de9a5faa6b02b346244 |
+| scikit-learn 0.19 中文文档.epub (8.89 MB) | shdrive://20200405/7be3657a646a483394351285c99387b6 |
+| Learning Scrapy 中文版.epub (2.97 MB) | shdrive://20200405/67609d2635334b58bd978bebf92dce91 |
+| R语言高级程序设计 --《Advanced R》中文版.pdf (5.44 MB) | shdrive://20200405/f2fd4c3e918b4993b503bf7ff7c07079 |
+| React Native Training.epub (6.32 MB) | shdrive://20200405/01ab17b90ec745aabb80d11d425dda7e |
+| TensorFlow从0到1.epub (7.62 MB) | shdrive://20200405/54808ab3757242fdb9454f72d5ef0524 |
+| 操作系统简单实现与基本原理.epub (2.26 MB) | shdrive://20200405/d141bff354f94913a4cdad6c1ebc71fb |
+| VS Code 中文文档.epub (9.05 MB) | shdrive://20200405/8e2332d8a96b404db307df50892e75bf |
+| CTF-All-In-One 2018.1.24.epub (3.62 MB) | shdrive://20200405/8dbe062a1d264981b81a668f408a8f4b |
+| UCB CS294 深度强化学习中文笔记（谢天）.epub (2.25 MB) | shdrive://20200405/4b4065f1da8545e4a35cac9325e70566 |
+| 知识共享协议使用常见问题解答非官方翻译项目.epub (153.51 KB) | shdrive://20200405/7f1bd3992488463684467e979e7bd337 |
+| React 学习之道.epub (589.89 KB) | shdrive://20200405/56f9bc8b3ade40c98d58deca0859bb36 |
+| Solidity 官方文档中文版.epub (149.78 KB) | shdrive://20200405/a17fb005c21043d8bf2c2c6c6b1b7478 |
+| JVM必知必会.epub (3.15 MB) | shdrive://20200405/658dafcfe8ad4386b11b8567d0020232 |
+| 使用Spring Cloud与Docker实战微服务.epub (993.41 KB) | shdrive://20200405/3ec8ba002f304c09a0e19a9eff21d812 |
+| Network Science (Albert-László Barabási).7z (16.52 MB) | shdrive://20200405/e33712d1e41043d48a39da0a09915f2f |
+| Python 分布式计算.epub (1.77 MB) | shdrive://20200405/1bc2720aba864563806aa90d55511322 |
+| R packages.epub (4.86 MB) | shdrive://20200405/d25bc9773a4741d8892464ef19fe78f4 |
+| LeetBook（LeetCode详解）.epub (1.81 MB) | shdrive://20200405/36711c4934f24895b4730dd8601fe844 |
+| 前端开发笔记本.epub (29.86 MB) | shdrive://20200405/dc32ca08cfe14225b6f84d49c0b84361 |
+| Android 安全笔记（JnuSimba）.epub (9.89 MB) | shdrive://20200405/c9c4637b54b749c8befdb8648fc7fee4 |
+| HTTP 协议  RFC2616  中文版.pdf (1.03 MB) | shdrive://20200405/b6af5db0ee8f4e4ba1d9c1b41669d2e4 |
+| 禅与 Objective-C 编程艺术.epub (176.19 KB) | shdrive://20200405/5a40e579631c4c0ea6d1c4010426035e |
+| CTF Wiki 2017.12.27.epub (8.27 MB) | shdrive://20200405/7eb99abd136d4815a9561d6913e7b27d |
+| HIT-Alibaba 笔试面试知识整理.epub (3.37 MB) | shdrive://20200405/d2ab7edf91644842aa3b1cd14ebf8b5b |
+| 大数据实验手册.epub (16.91 MB) | shdrive://20200405/1cf1a193a6ca4244b90842a87129f2c8 |
+| Everything curl.epub (1.84 MB) | shdrive://20200405/49fd4d660d0f4e61a40676ac6631d72d |
+| Android Gradle 插件中文指南.epub (89.55 KB) | shdrive://20200405/4b8cf49d7272474fafdd70517e2e2ce3 |
+| 果仁网量化课堂 & 帮助文档.epub (10.26 MB) | shdrive://20200405/59cc75d04a2448c9b0a7c65950976070 |
+| 利用 Python 进行数据分析 中文第二版（SeanCheney）.epub (4.61 MB) | shdrive://20200405/b1e812411e8c48bf9a26e12911ae4ce9 |
+| Redis开发运维实践指南.epub (2.81 MB) | shdrive://20200405/a4830e3fda164abca85b5eca67cb4ded |
+| Spring Batch 参考文档中文版.epub (564.28 KB) | shdrive://20200405/abba5e4ea0f54a3eb410d35f1d1d3698 |
+| A Java Reference (UCB CS61b Textbook).pdf (1.52 MB) | shdrive://20200405/5604df6c82e4478bbc7e086b78b5ada7 |
+| AI Cheat Sheet.7z (6.42 MB) | shdrive://20200405/9342917e3bad4025b63d182e7b22041d |
+| PaperWeekly #1~#54.epub (15.80 MB) | shdrive://20200405/e3867112308e41c3876d2117a9cb74bc |
+| Stackoverflow about Python 中文版.epub (164.14 KB) | shdrive://20200405/2b28569b244b4472bca612c44bd6d34b |
+| Kira 高数葵花宝典 2017.pdf (6.97 MB) | shdrive://20200405/221ed61f75274ad49d8c05b5a476debc |
+| Computer and Network Organization.pdf (2.42 MB) | shdrive://20200405/3433333ecff248408a0d6dff084f2a2c |
+| Fiddler2 中文手册.chm (481.84 KB) | shdrive://20200405/f624cdc3e60543858165ad6be400ae40 |
+| Forecasting Principles and Practice  2e.pdf (10.13 MB) | shdrive://20200405/e3ae3dee964b427f920039f6d7dc7c00 |
+| Numerical Algorithms (Stanford CS205 Textbook).pdf (3.85 MB) | shdrive://20200405/f49957a0af054b3ab1030d2967227b83 |
+| 97 Things Every Programmer Should Know.epub (509.07 KB) | shdrive://20200405/0fabc4b050dc46d5b42ebabe88f79000 |
+| 数字安全实用手册.7z (5.93 MB) | shdrive://20200405/a70f5503cb424f74aafd928eb5410ee0 |
+| An Introduction to Data Science.epub (3.21 MB) | shdrive://20200405/5d337be9b0dd48d5b1d9fcaf05da1b76 |
+| R for Beginners 中文版 .pdf (912.08 KB) | shdrive://20200405/d91367868dd24795abe29e0e1f10c351 |
+| Swift设计模式 (iOS).epub (1.94 MB) | shdrive://20200405/5deb28ec969f42d9aaa692d8d8f1dab6 |
+| Kira 概统解题指南 2017.pdf (2.85 MB) | shdrive://20200405/bee9dcec497340508e33c8ba4eabfe90 |
+| C#区块链编程.epub (1.63 MB) | shdrive://20200405/3f72f447c3fd46a38bb615bdb6fa73e3 |
+| F# for Fun and Profit eBook.epub (7.97 MB) | shdrive://20200405/7de7a8deaa0b4313a62819f7ce5880eb |
+| 人工智能标准化白皮书 2018.pdf (2.52 MB) | shdrive://20200405/b750fc84a0914edc9480485c3d3cf095 |
+| The Way To Flask 中文版.epub (568.93 KB) | shdrive://20200405/1a374815b94844afac05a766938d8d55 |
+| iOS的函数响应型编程.epub (4.32 MB) | shdrive://20200405/97602f1dd19d496e86f53cbfd088d141 |
+| SBT 中文手册.epub (117.04 KB) | shdrive://20200405/4342bc5fb2ce468f9c9155555d4f4b42 |
+| Distributed Systems 3e.pdf (17.53 MB) | shdrive://20200405/20ce95a63f8949c7b363d500c442a88c |
+| 随机过程（张灏）.pdf (3.91 MB) | shdrive://20200405/9be65cd4481d4e89822b56efb886ccb5 |
+| 高盛区块链报告：区块链 从理论走向实践.epub (6.72 MB) | shdrive://20200405/5eecbf6a49044ccca3ab749c7dc28948 |
+| Kubernetes 指南.epub (8.90 MB) | shdrive://20200405/ba11125292a34b0d8dd4c37f6a061636 |
+| 《精通比特币》第二版.epub (9.43 MB) | shdrive://20200405/efbb7779b5bb46e09c27037deabbf71d |
+| JoinQuant 量化课堂.pdf (26.40 MB) | shdrive://20200405/854ee002e4284998b4f4ca9bb1f0d4df |
+| 用Python学微积分.epub (701.61 KB) | shdrive://20200405/9ce807ef16ca43ca9ea64e5a35ab27a3 |
+| 以太坊官网文档中文版.epub (123.51 KB) | shdrive://20200405/b2eb04d5ebde4617b8fe43d936f33e39 |
+| 无痛的机器学习第二季.epub (392.33 KB) | shdrive://20200405/d37d2051629543a88408ef92b8059cd6 |
+| Nessus 6.3 中文用户手册.pdf (8.48 MB) | shdrive://20200405/dc43f7d46de14ae28bf33dfcf7960b69 |
+| R for Data Science.epub (7.25 MB) | shdrive://20200405/9f4b7b06359547988c4afd1859e2f7e9 |
+| Graph Theory and Complex Networks.pdf (3.44 MB) | shdrive://20200405/c6dbfcf529384f31bfa38ef4b22c9ac8 |
+| Data Structures Into Java (UCB CS61b textbook).pdf (1.39 MB) | shdrive://20200405/0204e5b0e4d04f6dbe8b1586c5a61626 |
+| Consul 简介和快速入门.epub (319.47 KB) | shdrive://20200405/19f39b9092764cf4a6d5ec93a661a8fb |
+| 数字巨链.epub (1.32 MB) | shdrive://20200405/3a0c6fc66f064c50891a21d4b0c3dbbd |
+| Technical Indicators and Overlays.epub (19.81 MB) | shdrive://20200405/18b5ccaf54b54d95a55a43149c9c978d |
+| Frida 中文文档.epub (6.05 MB) | shdrive://20200405/5860d1a16ece4725ab06c36ee52829e2 |
+| Advanced R.epub (1.04 MB) | shdrive://20200405/9a616f78137d4ad480cd11bab397e3be |
+| IntelliJ IDEA 中文文档.epub (20.80 MB) | shdrive://20200405/a12fdcdbb6df4c74ba1a067bd8dd13a7 |
+| 高级Bash脚本编程指南 Revision 10 中文版.epub (319.86 KB) | shdrive://20200405/143f3b1ad96b4dadaa342c788b861505 |
+| DeepMind 强化学习中文讲义.epub (2.40 MB) | shdrive://20200405/51c6c28c4ed6475eb5067a7c0c537abd |
+| 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | shdrive://20200405/d1ec77d63f854c8c9bba285c88c49c2f |
+| Gradle 实战.epub (2.45 MB) | shdrive://20200405/6b24c5a4570040ba87dc6d40ad015e61 |
+| Postman 中文文档.epub (3.92 MB) | shdrive://20200405/ca8cf43322414a4abd685946010304a6 |
