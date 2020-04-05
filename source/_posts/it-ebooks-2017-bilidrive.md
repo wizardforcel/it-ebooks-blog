@@ -20,6 +20,8 @@ bdex download <link>
 
 <!--more-->
 
+<script>location.href='../it-ebooks-2017-cdndrive/'</script>
+
 | 文档 | 链接 |
 | --- | --- |
 | 斯坦福 cs224d 深度学习与自然语言处理讲义.epub (2.87 MB) | bdrive://2771ca27aa5f0eb73bcf9591ee127c2d51270617 |
