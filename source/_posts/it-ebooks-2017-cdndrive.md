@@ -615,7 +615,85 @@ cdrive download <link>
 | Scapy 中文文档.epub (728.57 KB) | bjdrive://fcccf0941fbfa516222aced2931a2893 |
 | Programming Languages Application and Interpretation.epub (276.89 KB) | bjdrive://1e48009027dce15970106e8693825c9e |
 | Shark恒零基础破解教程之图文版.epub (3.77 MB) | bjdrive://a0900681765a99845cdc5fd3ac384d8a |
-| | |
+| Linux命令全集（Linhan）.pdf (1.76 MB) | bjdrive://20ba1fe5cbde3eed02272ab9019e45af |
+| Java 培训教程（千峰教育）.pdf (4.44 MB) | bjdrive://a47fd77fbb5e98976e4d827af94438e2 |
+| VS2010 MFC编程入门（鸡啄米）.pdf (13.62 MB) | bjdrive://a4d1e75aa0dfdff4422de310b3feb818 |
+| 3天入门MySQL（千峰教育）.epub (3.10 MB) | bjdrive://5cfdc95e1ce6bdc57a30da66f60052e1 |
+| PHP5面向对象初步（刀客羽朋）.pdf (4.93 MB) | bjdrive://6d13fa12f98b1272ecac40384e2503d5 |
+| 深入浅出MySQL数据库开发、优化与管理维护（网易）.pdf (661.69 KB) | bjdrive://29e309543b79f1a85d5cfd9c8fd9c9b8 |
+| 辛星 PHP 系列教程 2014（十一本）.zip (43.91 MB) | bjdrive://43e2f2007dd584458951d3cc5ae5aa8d |
+| MySQL 5.5 新特性详解及参数优化 蓝皮书.pdf (2.45 MB) | bjdrive://562eb4464ba377d30403008a22867bc9 |
+| java并发的艺术（InfoQ）.pdf (3.40 MB) | bjdrive://26219425a20c8ef188445847e628fe48 |
+| 辛星 JDBC、MyBatis、Spring、Yaf、LESS、Symfony、Markdown、SQLite、Codeigniter 教程 2016.zip (14.79 MB) | bjdrive://9534fef34793b930f3790255e416a667 |
+| Linux菜鸟过关 v3.0.pdf (642.19 KB) | bjdrive://60e6d848d735852688fce65ad7a398fc |
+| 高级Bash脚本编程指南 3.9.1 (杨春敏 黄毅 译).pdf (2.68 MB) | bjdrive://21ca9d4507643643dac71285d160611c |
+| ejb 3.0 实例教程（黎活明）.pdf (1.53 MB) | bjdrive://27df6c081bc08e7114a077eeca108f37 |
+| java工程师实例参考手册（廖清远）.pdf (799.34 KB) | bjdrive://8c04fe3bcdd241daa664523e09c5f031 |
+| C++Primer第4版课后习题解答(第1-18章)完整版.pdf (3.17 MB) | bjdrive://eb47b50a3769304f38775425f8445b56 |
+| 辛星 MySQL、Linux、Node、Nginx、Redis、CouchDB、Git 教程 2015.zip (49.80 MB) | bjdrive://d105401e4c1ddf890b67168cb3abd3fa |
+| c++课程讲义（传智扫地僧）.pdf (6.08 MB) | bjdrive://3cb7a61024052bb5304988c915d39df0 |
+| C++编程入门系列（鸡啄米）.pdf (1.05 MB) | bjdrive://6a3bbc11804266ed24c83cb45d5762a3 |
+| C++ Qt5 范例开发大全.pdf (2.83 MB) | bjdrive://b4bcf1b6b124474bccc25d4bfb11a543 |
+| Python 自然语言处理 第二版 20170304.epub (14.61 MB) | bjdrive://0203aac7e5dea4aa5051978714b52481 |
+| PHP内核介绍及扩展开发指南.pdf (441.01 KB) | bjdrive://0d9dc372b6f430d02b5bbb32f1455fb1 |
+| PHP教程从零开始学设计模式（千峰教育）.pdf (640.46 KB) | bjdrive://0fbb4a04947a968d9adc88383cf2d212 |
+| YAF 用户手册.epub (313.83 KB) | bjdrive://0cf81e86fab289437d0770af253e289d |
+| Getting Started with Storm 中文版.pdf (1.60 MB) | bjdrive://d08bf90ac72d3b4b6cc7393548a879a3 |
+| PyQt4 精彩实例分析.pdf (1.82 MB) | bjdrive://2e46d8b19f21376e4d54ab44bc9714a9 |
+| linux系统管理手册0.6.1.pdf (522.73 KB) | bjdrive://e8199b80e7985493f8939510af547f8e |
+| Theano 中文文档 0.9 20170304.epub (4.75 MB) | bjdrive://24e7ae3d715ee043fc6e3e4bed68d5a6 |
+| 辛星 web 前端系列教程 2014（九本）.zip (15.29 MB) | bjdrive://29c72001497495582df826dfbdc6d36a |
+| WordPress 主题教程.pdf (1.14 MB) | bjdrive://2e6826564233db69c2b07ceaa8261078 |
+| 数据结构与算法 Java 版（周鹏）.pdf (1.94 MB) | bjdrive://3478128b94d5322cff20b28fa124d984 |
+| MySQL存储过程编程（1~5）.pdf (2.22 MB) | bjdrive://d3533c398584ca408765c5f8c8239d0e |
+| JavaScript 教程（YYM）.pdf (948.17 KB) | bjdrive://9f3e3934835037982e4432ec9d01bb84 |
+| JavaScript基础教程（张陈斌）.pdf (3.41 MB) | bjdrive://b016bb12dde02edc8711ae6293c4fbf2 |
+| 设计模式精解－GoF 23种设计模式解析附C++实现源码.pdf (1.64 MB) | bjdrive://a853e4ff96a21993e63883ee9e375620 |
+| PHP 调试技术手册.pdf (1.90 MB) | bjdrive://1714abd3a0ee887991a05168632d3996 |
+| PHP设计模式范例.epub (957.69 KB) | bjdrive://60ee0a26d22a65699f5904b8bdd83075 |
+| java基础教程（Java快车）.pdf (2.12 MB) | bjdrive://446a40e102e1f15960539569e010f247 |
+| Java面向对象程序设计（？）.pdf (1.71 MB) | bjdrive://9a9a13bbdee3131dc24dd243eb7bf1e0 |
+| MySQL 基础教程（大漠孤烟）.pdf (1.60 MB) | bjdrive://d4792c60a5e7075b5128c3e73649c729 |
+| Java基础教程（李兴华）.pdf (2.15 MB) | bjdrive://5809a2bc6074c25094e22566e29cddb8 |
+| 开源 PHP 开发框架 Yii 全方位教程.pdf (637.63 KB) | bjdrive://52ec95293810fece91bab29e8a7217fc |
+| 易学C++（第一版）.pdf (2.25 MB) | bjdrive://6fa320714eb5bba1c947701507374f57 |
+| Caffe官方教程中译本 CaffeCN社区翻译.pdf (1.48 MB) | bjdrive://589cfffbe2cb4d9725bbab1525e393ee |
+| 笨兔兔的故事.pdf (1.48 MB) | bjdrive://8cc402de5ae9962079aa60a3b7ea7e2d |
+| C++ 基础教程 Beta 版（Juan Soulie）.pdf (917.93 KB) | bjdrive://a2e8e36bea83ba2400a7c055fbb0c800 |
+| WordPress 高级教程（晋级版）.pdf (578.29 KB) | bjdrive://cf73b971f2beccda7416bd2e68680225 |
+| 为生物信息学设计的Python教程.epub (2.99 MB) | bjdrive://af3e8ea6bcb906261bb849536fde3c5c |
+| PHP 完全中文手册（sadly）.epub (1.29 MB) | bjdrive://3925907f69f7960d01bac778069d0b98 |
+| 挑战30天C++入门极限.pdf (3.11 MB) | bjdrive://63c3dcfcfa8b54a153022dbdb1c5664f |
+| linux零基础初级教程（红联）.pdf (285.91 KB) | bjdrive://318f1eaa333ffc89f5a2397536581fd4 |
+| 高质量 C C++ 编程指南（林锐）.pdf (563.06 KB) | bjdrive://ac5234b22979a592404bf47ffd5d392f |
+| 史上最强的 WordPress 初级-中级-高级教程.pdf (1.51 MB) | bjdrive://7d1195fae68d0113e54adafa39d5c392 |
+| C#编程语言与面向对象基础精简教程（金旭亮）.pdf (1.07 MB) | bjdrive://29374a938fb2e998c35e388e32fe9f16 |
+| 辛星 python 系列教程 2014（九本）.zip (24.81 MB) | bjdrive://9415da7c7961a264d5b20bd09454d761 |
+| Python学习笔记（王纯业）.pdf (2.15 MB) | bjdrive://9337b8fc78b72e481414d623c4c58092 |
+| GDI+ SDK参考（翻译版本）.pdf (1.92 MB) | bjdrive://705436e02371a18fa42be99400f9eb37 |
+| 北航 991 数据结构与C语言 1998~2015 真题.pdf (5.38 MB) | bjdrive://9433251522f5c3492894858776f3e0b6 |
+| MySQL 5.0存储过程.pdf (2.12 MB) | bjdrive://196ab223952ccc69b869619cda600ca3 |
+| Linux操作系统下C语言编程入门（007xiong）.pdf (540.37 KB) | bjdrive://a70e7898fa5ef376ba4993c3cfd65b57 |
+| 北航数据结构、组成原理、操作系统、计算机网络课件.7z (26.34 MB) | bjdrive://c0b0aa8aff62cbe5330b60d93247a109 |
+| MySQL性能调优与架构设计（JesseLZJ）.epub (5.84 MB) | bjdrive://b23cc5f95bd00073b60931c94393c6c5 |
+| Biopython 教程与手册.epub (3.32 MB) | bjdrive://da65e3ba82ecac812594c69a532e2b75 |
+| 30 天学习 30 种新技术系列.epub (5.45 MB) | bjdrive://82e75603bc24e38817dd41fd0c8a48f2 |
+| Linux基础命令教程豪华版.pdf (1.45 MB) | bjdrive://7aa471a0780bbc3309f8fe2ec0f50dc1 |
+| OpenCV入门教程（于仕琪）.pdf (1.80 MB) | bjdrive://0b3edd2be5f844e491938fcc565a9edb |
+| C++程序设计课程学习（希赛教育）.pdf (5.37 MB) | bjdrive://c63d9604dc51b1a823d152c18dcea51c |
+| Python基础教程(crossin全60课).pdf (2.72 MB) | bjdrive://a021f52d472d4fcebd62e4182123e3d1 |
+| Python精要参考第二版.pdf (678.66 KB) | bjdrive://199426145ce6fd8cb2184ea796da15fa |
+| GTK+程序设计中文版.pdf (2.38 MB) | bjdrive://78b6029a88d4db253bb59b50107c4185 |
+| Java SE 6 类库查询手册（龙马工作室）.pdf (12.89 MB) | bjdrive://ffd2555434195cf1829a50b560712fde |
+| 深度学习教程 0.1（LISA 实验室）20170304.epub (929.47 KB) | bjdrive://652d759a6c1950976125a9ca4f196440 |
+| 7天学会PHP（千峰教育）.epub (17.35 MB) | bjdrive://e0786b387d42a0e18d81ac01f3d310f9 |
+| Linux 运维入门到高级全套系列.pdf (4.54 MB) | bjdrive://0eb8666aa09af9090262735ed92ff15c |
+| 深入浅出设计模式（AI92）.pdf (1.19 MB) | bjdrive://e3fa56e941d5828310694f6e1dce4769 |
+| Java面试宝典2016版.pdf (1.20 MB) | bjdrive://8a2071c28f83e537877c468ce29ef37b |
+| Java问题定位技术.pdf (3.13 MB) | bjdrive://a63c327f2515648f1a6e613d3be658bc |
+| 常用数据挖掘算法总结及Python实现.pdf (5.71 MB) | bjdrive://d0c3dccb7dbc337e821b605909d3927a |
+| linux常用命令集（知博网）.pdf (622.32 KB) | bjdrive://662077c2e01058317450ae4e63286874 |
+| C++ 库函数查询手册（龙马工作室）.pdf (4.19 MB) | bjdrive://7632af421fbaf097810227abb964b5dd |
 | 随机过程讲义（南开大学）.pdf (1.21 MB) | bjdrive://08714f1bd6ffce94b58f07db89d6746a |
 | 概率论与数理统计习题参考解答（西安邮电）.pdf (1.09 MB) | bjdrive://6b78d53044b89f027b67f525bc3e546c |
 | 科大概率统计讲义（USTC 概率统计教研室）.pdf (2.43 MB) | bjdrive://07f94c2be79d18b20f6205637902a792 |
