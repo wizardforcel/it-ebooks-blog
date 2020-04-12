@@ -15,7 +15,7 @@ after_script:
   - git config user.email ${GH_EMAIL}
   - git add -A
   - git commit -am "$(date "+%Y-%m-%d %H:%M:%S")"
-  - git push "https://${GH_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git" master:${GH_BRANCH} -f
+  - git push "https://oauth2:${GH_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git" master:${GH_BRANCH} -f
   
 env:
   global:
