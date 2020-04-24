@@ -1,29 +1,10 @@
 var process = require('child_process');
+var moment = require('moment')
 
-var getTimeStr = function() {
-    
-    var tm = new Date();
-    var o = {
-        yr: tm.getFullYear(),
-        mon: tm.getMonth() + 1,
-        dt: tm.getDate(),
-        hr: tm.getHours(),
-        min: tm.getMinutes(),
-        sec: tm.getSeconds()
-    };
-    for(var i in o)
-    {
-        o[i] = o[i].toString();
-        if(o[i].length < 2)
-            o[i] = '0' + o[i];
-    }
-    return o.yr + '-' + o.mon + '-' + o.dt + 
-        ' ' + o.hr + ':' + o.min + ':' + o.sec;
-};
-
+var tmstr = moment().format('YYYY-MM-DD HH:mm:ss')
 var cmds = [
     'git add -A',
-    'git commit -m "' + getTimeStr() + '"',
+    'git commit -m "' + tmstr + '"',
     'git push',
     'hexo clean',
     'hexo g -d'
