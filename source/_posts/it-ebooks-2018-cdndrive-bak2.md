@@ -789,3 +789,387 @@ cdrive download <link>
 | Django 2 By Example 中文版.epub (4.69 MB) | aldrive://Ua3b407ef22174ec4a88fcd74551309f3q |
 | Practical Data Cleaning - 19 Essential Tips.pdf (2.04 MB) | aldrive://U8be43abf229b436c93d757198315bdccz |
 | How to Write a Good Scientific Paper.pdf (2.49 MB) | aldrive://U75ecc44c6f414a99af32ddfdfe320191R |
+
+<!--osdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| 2016 年机器之心高分技术文章全集.epub (27.79 MB) | osdrive://2393267384b8d55086dd34d8c9a5371988c |
+| 97 Things Every Programmer Should Know.epub (509.07 KB) | osdrive://a887e64044030c5a6e11fa405b6f489384c |
+| A Guide to Porting C C++ to Rust.epub (247.18 KB) | osdrive://4fb90a1bb5f23b5830b68a1dedd6c4d9828 |
+| A Java Reference (UCB CS61b Textbook).pdf (1.52 MB) | osdrive://a320606af8f9b25cbe8d5cae281c00537f8 |
+| A Little Book of Python for Multivariate Analysis.epub (253.63 KB) | osdrive://5a3783d0c6a8f986520854aa15241d46971 |
+| Advanced Data Analysis from an Elementary Point of View.pdf (7.32 MB) | osdrive://c34d76eb247ad6e16f65cc339618be92e97 |
+| Advanced R.epub (1.04 MB) | osdrive://078bfaddc0250d2d5385aefeacbf473966f |
+| AI Cheat Sheet.7z (6.42 MB) | osdrive://6cb555578129f312a86762057b383deff1c |
+| aiohttp 中文文档.epub (173.54 KB) | osdrive://29631e1214f45b9d72a286e09e0bcb2f3ab |
+| AlexNet - ImageNet Classification with Deep Convolutional Neural Networks 译文.pdf (487.21 KB) | osdrive://78f54f5a257803926b94568bcd328db2529 |
+| Algorithmic Game Theory Lecture Notes (Stanford CS364A).pdf (2.95 MB) | osdrive://7c53e66570d899592ab9ca215a59555a1f1 |
+| Algorithmic Information Theory - Review For Physicists And Natural Scientists.pdf (1.36 MB) | osdrive://703af9aa3895426362691a9cb4ed827fb49 |
+| Algorithms for Reinforcement Learning.pdf (1.59 MB) | osdrive://95254b95d96f590e0c12922e298f3b83b26 |
+| An Introduction to Data Science.epub (3.21 MB) | osdrive://af7bafe678d917958287952eff21b1b3583 |
+| Android 101 Labs.epub (10.84 MB) | osdrive://78545be5b77a69e83d529242fbe4e8eefe3 |
+| Android Gradle 插件中文指南.epub (89.55 KB) | osdrive://c287390faffe84eadb2ddeae761d0143882 |
+| Android SDK 教程.epub (5.50 MB) | osdrive://38a461206036253aaa6482e5e30457481ef |
+| ANDROID SDK 源码解析.epub (3.21 MB) | osdrive://c7455e88421d33d397577f97d2ca3f72310 |
+| Android 安全笔记（JnuSimba）.epub (9.89 MB) | osdrive://49b9fe1dff105ac0ac67b6b355fdecd7b2c |
+| Android 百战经典.epub (5.06 MB) | osdrive://b189c39c2c01445ab9af8b2b8bbd4061700 |
+| Android&Java 技术笔记.epub (4.58 MB) | osdrive://6288d5e65c4e33c9802ebc89d60d488bb9c |
+| Android控件操作-二十四章经.epub (5.86 MB) | osdrive://add3504d65c6a29d592d47e3182abc985e7 |
+| AngularJS学习笔记（checkcheckzz）.epub (163.79 KB) | osdrive://146ad652d8a2ce963b45ea6dbc6ebc31e76 |
+| Animation动画详解.epub (62.29 MB) | osdrive://ad7b36aff9fb50d23298a4735b227159f66 |
+| ANTLR 4简明教程.epub (250.50 KB) | osdrive://639c5a81f65282258a1503934d787bec45a |
+| Apache Airflow (incubating) Documentation.epub (2.57 MB) | osdrive://5871b29604e9d6a7f6d6e03aefe0da69521 |
+| Apple Pay 编程指南.epub (117.90 KB) | osdrive://f4838478d2d8259d70058f6983d626675fc |
+| Artificial Inteligence - Leonardo Araujo dos Santos.epub (26.59 MB) | osdrive://b4642e749aca5b520c40bc213aaef85879b |
+| Assembly Language for Beginners.pdf (7.60 MB) | osdrive://face485c3f1a6d646d26914b91edfc675f6 |
+| Attention Is All You Need 中文翻译.pdf (1.34 MB) | osdrive://8810abdefb9251619929d8ec47b8669d6c0 |
+| Automating Inference, Learning, and Design using Probabilistic Programming.pdf (6.50 MB) | osdrive://225e21f3975e9ab6df35fae191103054842 |
+| Axure RP 指南.epub (16.19 MB) | osdrive://fb1cf440696408e7ccea9a7ad26643a49b9 |
+| BAT 机器学习面试 1000 题系列（第 1~325 题）.pdf (6.45 MB) | osdrive://e6f913f4b55651684d9692ca5577dea5546 |
+| Bayesian Networks & Bayeslab.pdf (19.28 MB) | osdrive://8cb9eb5f843b72eab9e24a1141792da47a8 |
+| Book on TypeScript.epub (1.73 MB) | osdrive://f8f649d1a9d8aca76b7b45ff9692a0e365c |
+| Bootstrap2 用户指南（歪脖网）.epub (1.26 MB) | osdrive://bc574fbbe7b725ad813773ca846a1cd0c23 |
+| Bootstrap3 实用教程（歪脖网）.epub (1.78 MB) | osdrive://4837debb0697f3e6d359beddf441c9d96e0 |
+| Build a Node.js Project from Scratch.epub (91.80 KB) | osdrive://ed4f20f64f1a3040d8dfbb133783bbb633a |
+| Build your applications with Webpack.epub (103.40 KB) | osdrive://f01d0cb4a25b9088ad03d227ecfa1334cc4 |
+| Build Your Own Lisp 中文版.epub (223.07 KB) | osdrive://f02136703391be2f241b7cc30411912a551 |
+| C 语言进阶.epub (279.27 KB) | osdrive://db8597f6982b8fd533a0baf24eb7f1a96dc |
+| C#区块链编程.epub (1.63 MB) | osdrive://473f5138238cdbaaa69a5bf38439f935ae5 |
+| Category Theory for Programmers.pdf (2.49 MB) | osdrive://aa16ed25130ce5b5bf796ae002c917dc446 |
+| Ceph 运维手册.epub (179.73 KB) | osdrive://2874f3ed1305f5848c256a9d4cc560a3730 |
+| Chromium中文文档.epub (1.83 MB) | osdrive://21ffc7adaba3d6282de67575518fd4016da |
+| ClojureScript 入门指南.epub (160.04 KB) | osdrive://ca1509592e337d26bc6d9f56b7f2744cf57 |
+| Competitive Programmer's Handbook.pdf (1.05 MB) | osdrive://20c2ce3a76a5a12dccfaa33cc60193aeab5 |
+| Computer and Network Organization.pdf (2.42 MB) | osdrive://a54e2db41d8f1df52382a3dec917252588f |
+| Computer Vision Algorithms and Applications.pdf (17.70 MB) | osdrive://2113edeefad118a734291c9f3d9d84fdab0 |
+| computer_networks_a_systems_approach_5th_ed.epub (14.35 MB) | osdrive://e137e1d1ff4136373a7bdae38e3a0599cda |
+| Consul 简介和快速入门.epub (319.47 KB) | osdrive://45c96afd9af1fc98a762c67f96896218a7d |
+| CSS Animation 101.epub (3.40 MB) | osdrive://b854637db222ddef8baf4af19fad060694a |
+| CTF Wiki 2017.12.27.epub (8.27 MB) | osdrive://297c6b9889660e0b8b6b2260069978c1a73 |
+| CTF-All-In-One 2018.1.24.epub (3.62 MB) | osdrive://4c230ed22693403fcbe0b32ca2a2a623397 |
+| CUDA 编程指南 5.0 中文版.pdf (2.55 MB) | osdrive://957e784f95a1e4c68ac8c0a3dc222c77b02 |
+| CyC2018 CS 学习笔记 20181106.epub (13.17 MB) | osdrive://dd4764721f9f0c65480ff66f154b7f86483 |
+| Data Clustering 50 years beyond kmeans 翻译.pdf (1.10 MB) | osdrive://45be5de6230a4477e45314de81842e226b0 |
+| Data Science and Analytics for Ordinary People.pdf (3.39 MB) | osdrive://ca2e156349d0c52694876f1d59054241ff0 |
+| Data Structures Into Java (UCB CS61b textbook).pdf (1.39 MB) | osdrive://b91195c214110c0b262fca1a8a3778e7329 |
+| Databricks Spark 知识库.epub (600.63 KB) | osdrive://55322748ec01d3e2799800a74d15ba5205a |
+| Deep Learning for Multivariate Financial Time Series.pdf (1.83 MB) | osdrive://a64308f9a3cf3c0fdbb8b2d5bd2d05ea121 |
+| DEEP REINFORCEMENT LEARNING (Yuxi Li).pdf (2.15 MB) | osdrive://270135fe565c92914959c994859003edb9f |
+| DeepMind 强化学习中文讲义.epub (2.40 MB) | osdrive://b28167d2d1f2fc84331284b03fb8afd9b07 |
+| devops-collective-inc PowerShell.7z (9.04 MB) | osdrive://f5f9403c8420cea7d858c865f74fbca382e |
+| Distributed Systems 3e.pdf (17.53 MB) | osdrive://9547076cb70dabe0bebc93623db82d562fa |
+| Dive Into HTML5 中文版.epub (521.82 KB) | osdrive://3daeb6f52638da403732ecadfcd25c8a5fb |
+| Django 2 By Example 中文版.epub (4.69 MB) | osdrive://fc671b8dd4869579ad60b28cc0e666fc0fa |
+| Docker Swarm 源码分析.epub (163.33 KB) | osdrive://a9951b4514573faf0b3a1b45317052b3754 |
+| Docker简明教程.epub (1.01 MB) | osdrive://36da1ab008c03bec50a8fda9d7efaf1201a |
+| Econometrics Streamlined, Applied and e-Aware.pdf (5.06 MB) | osdrive://c4de47c2f1068ca025972c998b4be1ed8d8 |
+| Erlang 编程规则.epub (47.34 KB) | osdrive://c7f5f87643660aa314ea86f563b26a5b39d |
+| Everything curl.epub (1.84 MB) | osdrive://dede1a7a96d57f692cb2322311e8c2eb2a9 |
+| F# for Fun and Profit eBook.epub (7.97 MB) | osdrive://37d6923e3a7589343d49ba1faef1da48f6e |
+| fast.ai 数值线性代数讲义中文版 v2.epub (8.75 MB) | osdrive://885f6e9edd7585a634730ebe3e012360bf7 |
+| Fiddler2 中文手册.chm (481.84 KB) | osdrive://b59ed2456cde9c7c1b916f47829e68b16b5 |
+| Figure Eight 2018 年数据科学家报告.pdf (1.16 MB) | osdrive://3548aa090f18b7e037273c7ab664543dd61 |
+| Flask 大型教程 2017.epub (1.49 MB) | osdrive://382600d94e6017bde0ece39531b30ee9686 |
+| Forecasting in Economics, Business, Finance and Beyond.pdf (5.66 MB) | osdrive://e09b6c849f742b76ea6f86d75c166abda67 |
+| Forecasting Principles and Practice  2e.pdf (10.13 MB) | osdrive://a8aa93aabb0a742c1f0e10ed41edd8b12b4 |
+| Foundations of Data Science.pdf (1.87 MB) | osdrive://433785f8947684ddf063cd16cedbfd1c695 |
+| FreeBSD 101 Hacks.epub (185.34 KB) | osdrive://49d2cae56df61dfae448cd0cd1169c0710d |
+| Frida 中文文档.epub (6.05 MB) | osdrive://f21216dc635e97ac5267fe6612dd012dc8f |
+| Full Speed Python.epub (682.87 KB) | osdrive://186e1d76cd43baf3be96f4048c2ad15cba0 |
+| FuzzySecurity Windows Exploit 开发系列教程 1~19.epub (15.33 MB) | osdrive://a937cc8fa42b3404c71fe33dccc6f4f9d57 |
+| Game Theory 2e.7z (2.96 MB) | osdrive://c7efb6521f6358fae8539947fd77751a49f |
+| GeeksForGeeks Compiler Design Lecture Notes.epub (5.91 MB) | osdrive://f3350046f8cd8b04f5346432bde44867600 |
+| GeeksForGeeks Computer Network Lecture Notes.epub (11.76 MB) | osdrive://a130b4ca22b0e6165acb98d8bc8518addaa |
+| GeeksForGeeks Computer Organization and Architecture Lecture Notes.epub (3.75 MB) | osdrive://45c06eed0e1923574f800d9459e35bf2aad |
+| GeeksForGeeks Database Management System Lecture Notes.epub (5.09 MB) | osdrive://805f85f15b06511b8f292ec15bb6a990bf3 |
+| GeeksForGeeks Digital Electronics and Logic Design Lecture Notes.epub (7.27 MB) | osdrive://27b00dce78eebf0d9eec93b8292273f9efb |
+| GeeksForGeeks Engineering Mathematics Lecture Notes.epub (1.13 MB) | osdrive://4e669317e5ae94e6e7afb6c24431899c95a |
+| GeeksForGeeks Microprocessor Lecture Notes.epub (2.74 MB) | osdrive://b7797a0ca2d5cb2076410281aa66ef63366 |
+| GeeksForGeeks Operating Systems Lecture Notes.epub (8.51 MB) | osdrive://99670a8c25f12d4d82ff5e84cd9c4a600f9 |
+| GeeksForGeeks Theory Of Computation and Automata Lecture Notes.epub (2.92 MB) | osdrive://ec2858dd55c7d43dc345b495bec6eeed59d |
+| Getting Started in Computer Vision Research.pdf (311.34 KB) | osdrive://953903eb46d119e1e40c198bd258dcdc0a9 |
+| Githug 通关攻略.epub (1.67 MB) | osdrive://97c7a9cf56987fce52c60d8a161774d1260 |
+| Glide v4 中文版.epub (102.78 KB) | osdrive://926b9fd09f8d297123b8a122daa3e5fefe9 |
+| Golang 101 hacks.epub (119.27 KB) | osdrive://6acb25cf3f9e6b2f03201dd68cca35b2550 |
+| Gradle 实战.epub (2.45 MB) | osdrive://65c551d4fe46b1610e5a1be00941137651d |
+| Graph Theory and Complex Networks.pdf (3.44 MB) | osdrive://1040f6e81767dae0069627bf4d00a9c8629 |
+| Groovy 入门.epub (231.16 KB) | osdrive://913a13c4453493c39ca0a0f0441462ee189 |
+| GrowingIO 增长秘籍 3.0 终版.pdf (4.26 MB) | osdrive://2da735cf914b7f30d0f08c62efe7f1f42ee |
+| Hadoop The Definitive Guide 4e 中文版.epub (1.33 MB) | osdrive://a5d4bcfdd083fa53573e80a844ec09260c1 |
+| Handling and Processing Strings in R.pdf (398.54 KB) | osdrive://8a054312ebc42a26215897586cf0e4b555f |
+| Hibernate 高级教程.epub (402.83 KB) | osdrive://8e4711c1f7ce3a78c75d7f6d240eccf5f79 |
+| Hinton 神经网络与机器学习笔记（TingxunShi）.pdf (5.54 MB) | osdrive://f2046e2c64b6bea90aecf2f69bfed314c28 |
+| HIT-Alibaba 笔试面试知识整理.epub (3.37 MB) | osdrive://a9fbb9a6686deb0e06eb6a97621379abf31 |
+| How to Write a Good Scientific Paper.pdf (2.49 MB) | osdrive://8dd2bdaf11337dd8b24e559687b69e787a5 |
+| HTML 宝典（歪脖网）.epub (1.27 MB) | osdrive://a32e3ddfb207316cb8e0cbc516b822ba16d |
+| HTML5 Canvas 实战.epub (4.79 MB) | osdrive://b7cec433a929fece93601a13c2640ff16cf |
+| HTTP 协议  RFC2616  中文版.pdf (1.03 MB) | osdrive://b6e523c31013c15160f490c2c66b1d79be0 |
+| i 春秋月刊 1~5.7z (43.33 MB) | osdrive://97c43931cac1c3cf6ac8df80290bb83bb17 |
+| i 春秋月刊第六期：Linux pwn 零基础入门.pdf (11.65 MB) | osdrive://8bf9a4ea92e4b5a2c14edee554d81c0f1e8 |
+| ICML 2018 Notes.pdf (571.94 KB) | osdrive://67ff6ecb4668b07085e10547a3b72acd9fd |
+| IDAPython 初学者指南.pdf (906.83 KB) | osdrive://952dab01a080a3d8424498613b270c86e4a |
+| IEEE SystemVerilog 3.1a 语言参考手册.chm (6.39 MB) | osdrive://08a2f2535f9385d7d49bc10c3f2982b2c2f |
+| InfluxDB简明手册.epub (191.74 KB) | osdrive://56d2f34e6f47ffdeb742b8a2417e88344cc |
+| IntelliJ IDEA 中文文档.epub (20.80 MB) | osdrive://2632cb23a67cf230ae02e5c55b32101f2c2 |
+| Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.pdf (4.37 MB) | osdrive://596c4fb3edd6130a52e5135e80cc2dac2e5 |
+| Introduction to Statistics Online Edition.7z (13.97 MB) | osdrive://9324da386c8b8b2b34576e83368269c3b50 |
+| introduction-to-touchdesigner.epub (5.80 MB) | osdrive://957d6a88b450077f2a945929aac2883ec01 |
+| iOS 9人机交互指南.epub (8.53 MB) | osdrive://aaa01ab92a288c97a199fc8c72c6f9b0e17 |
+| iOS IAP 教程.epub (901.80 KB) | osdrive://f8138db81158286abc29b3b53c0a9fa040f |
+| iOS的函数响应型编程.epub (4.32 MB) | osdrive://22144cf0ffc9fdb2f30ff6d1def7e576876 |
+| Istio官方文档中文版.epub (2.06 MB) | osdrive://7ac8d0022c43674ba5355420a6ac953346d |
+| Java NIO简明教程.epub (291.76 KB) | osdrive://89b9257167d0afd88d7e2db1933e98a12d0 |
+| Java 微信开发.epub (6.99 MB) | osdrive://79342261352e1fcf9d986fee62fddb2e78f |
+| Java 核心技术 36 讲（李运华）（完）.epub (3.51 MB) | osdrive://3863168769cbb2fa377d91142828aa83f79 |
+| Java 面试笔记.epub (244.10 KB) | osdrive://ba1ceffdd08a4e61a3483c982ebd9773df1 |
+| JavaScript 完全手册（2018版）.epub (2.27 MB) | osdrive://5a25b6b2564f17e84a1b53d619f4851f408 |
+| JavaScript 编程精解 中文第三版.epub (1.63 MB) | osdrive://633c4ff0d29db0e78e5212f5f9052c59b4f |
+| JoinQuant 量化课堂.pdf (26.40 MB) | osdrive://f1625cb15fad1ee0c748cea251a2dbdbf90 |
+| JSON 教程（歪脖网）.epub (63.33 KB) | osdrive://b4c61e8677302a6900878704b9b5dad927c |
+| JVM必知必会.epub (3.15 MB) | osdrive://bdae1c8652ce005730afe0d9bb6c2f55ead |
+| Kira 概统十篇 2018.pdf (971.41 KB) | osdrive://a7079830bad3226133a1f0ada16cae6f502 |
+| Kira 概统解题指南 2017.pdf (2.85 MB) | osdrive://96e36cb5831daae4cf1b5177fa6e4b34a3d |
+| Kira 线代小菊花丸 2017（全）.pdf (3.80 MB) | osdrive://e8d07a3515a5abddc2f417fc0d62ef85297 |
+| Kira 高数葵花宝典 2017.pdf (6.97 MB) | osdrive://6c1e76204c29df25ea50cd2b443e2e46282 |
+| Kira 高数葵花宝典 2017（修订版）.pdf (4.03 MB) | osdrive://ea45c924d9cf94309171c3b71696a179aae |
+| Kivy中文编程指南.epub (3.36 MB) | osdrive://5283988af4c43f718c0aa1a0af31380cf19 |
+| Kubernetes 中文文档.epub (2.52 MB) | osdrive://0ba9455052c72b46d6943ee0aad76b9b92a |
+| Kubernetes 指南.epub (8.90 MB) | osdrive://7599fc83ef3de457adb0bab73c951fac8ff |
+| kungeekUI.epub (68.49 KB) | osdrive://81d75d8c1fdf29bd140d46a51ee6f95c4b9 |
+| laravel 源码解析.epub (2.12 MB) | osdrive://9c2da9bb721db258d3370472aa054d262ec |
+| Learning Deep Architectures for AI 中文版（初译）.pdf (1.75 MB) | osdrive://b9744c868ba1bc805ff211da1e784790b78 |
+| Learning Rust.epub (1.13 MB) | osdrive://ab502da3362757b16bc4694a92048d1701b |
+| Learning Scrapy 中文版.epub (2.97 MB) | osdrive://4b0f18d18d0fa944ab9d1ae267d56ecdb79 |
+| LearnOpenGL 中文教程.epub (10.96 MB) | osdrive://eba47f83e5fe2262d59268b4de0170602b9 |
+| LeetBook（LeetCode详解）.epub (1.81 MB) | osdrive://4bdafa6c3440459f403481ecc925eee858f |
+| Less 简明教程（歪脖网）.epub (187.96 KB) | osdrive://8c5cfa750186567039ecf70185793cd0c3d |
+| Linear Programming.pdf (517.69 KB) | osdrive://2dbe9ece63c5388e65e5601df510c2a79ba |
+| Linux 内核源代码情景分析.pdf (5.32 MB) | osdrive://fe1de90e3219bc52bbea780cdfb54090d91 |
+| Linux 命令大全（LinuxToday）.epub (2.30 MB) | osdrive://829890cdb65488f4a250e25260bc2610580 |
+| Little ASP.NET Core Book.epub (258.06 KB) | osdrive://30dfda636d95cc10e5f6f4132096a3e472d |
+| Machine Learning Super VIP Cheatsheet.pdf (1.26 MB) | osdrive://e8e3d51da6ad7c36856c95e6f4f486f5534 |
+| Markdown 入门参考.epub (2.11 MB) | osdrive://db3d598bd7a6e224db9fee8ffc3745d4569 |
+| Mastering TensorFlow 1.x Code Notes.epub (4.13 MB) | osdrive://9011e0aa111ede9fb7f714d50131cc185ac |
+| Mathematical Methods for Robotics, Vision, and Graphics Lecture Notes (Stanford CS205).pdf (1.11 MB) | osdrive://af8c4d14b5e73b0e6a6c6979273974c2ca1 |
+| Mathematics for Machine Learning.pdf (6.48 MB) | osdrive://368ea681de90d9f84da28c6407d46e1b939 |
+| Metasploit 中文 Wiki.epub (335.41 KB) | osdrive://777a09c13f64658d0381db673f26e8c8556 |
+| MongoDB入门指南.epub (38.36 KB) | osdrive://1c6ff4f2a724ef3811e92522e2dbfa6b4af |
+| Natural Language Processing (Jacob Eisenstein).pdf (5.64 MB) | osdrive://b74a73e6aedb68cb5a3c56c64db42ed54e3 |
+| Nessus 6.3 中文用户手册.pdf (8.48 MB) | osdrive://91ed6c4b911eb1af0fa6ff3a62b9981277d |
+| Network Science (Albert-László Barabási).7z (16.52 MB) | osdrive://059a6e1b592179252b7cb4024c6aa014a05 |
+| Node.js 设计模式 中文第二版.epub (9.08 MB) | osdrive://97954edc85a853e4064ab2a751e29ecde72 |
+| Node.js 调试指南.epub (8.09 MB) | osdrive://968295ec4394635af367523480d828ab604 |
+| Notes on Deep Learning for NLP.pdf (1.99 MB) | osdrive://14e5bc1965bfecbd4989f970b50cbef4246 |
+| Numerical Algorithms (Stanford CS205 Textbook).pdf (3.85 MB) | osdrive://238e7268cc3b2c8be62bb6bf38ddf1611b7 |
+| NumPy Essentials 带注释源码.epub (770.69 KB) | osdrive://eea463d3687d5e632076e1a5b445d35b98f |
+| OpenIntro Statistics 3e.pdf (7.17 MB) | osdrive://f05c0b3fabd8d54d20bcd081aa367ad61b3 |
+| OpenStack最终用户文档（简体中文版）.epub (106.13 KB) | osdrive://d843b86d792610229ccd6610d541d1473b4 |
+| OpenTutorial Git Python Django 教程.epub (7.49 MB) | osdrive://035bbdd58327f3d9e7b5aa3c07c9fa43141 |
+| PaddlePaddle 深度学习入门.epub (3.23 MB) | osdrive://3cb74b9fbdfea02986051371aa84dfe96cb |
+| Pandas Cookbook 带注释源码.epub (4.96 MB) | osdrive://ba11f8d960bbae9f37250f079eeedb64525 |
+| PaperWeekly #1~#54.epub (15.80 MB) | osdrive://2842d96322206870c49922830aaeefc362a |
+| PHP 5.5 Web零基础教程：开发一个在线阅读网站.epub (71.11 KB) | osdrive://3721b9d5d4b5f551520d6656a76c4c770c9 |
+| PHP 扩展开发入门.epub (377.56 KB) | osdrive://d35b9ceb9759acd05d91967a4ed7eceb20d |
+| Postman 中文文档.epub (3.92 MB) | osdrive://b48ee464395f65f6161748bf883683dc06c |
+| Practical Data Cleaning - 19 Essential Tips.pdf (2.04 MB) | osdrive://5f6bb4066326f0b461c792bc642fd7f4069 |
+| Programming Languages Application and Interpretation 中文版.epub (236.52 KB) | osdrive://82f61b06d6c0a7936caba3441ad2e76bcab |
+| PyQt5 中文教程.epub (956.12 KB) | osdrive://a41f2468378b33bd50cade3208fa0ef2b6e |
+| Python 3 Basics Tutorial.epub (1.07 MB) | osdrive://d810bcf92b49f32d2793351c2eaea91f9f3 |
+| Python 3 Module Examples.epub (1.94 MB) | osdrive://f7fa6f266cfd408746227496e962faa1190 |
+| Python One to Million.epub (449.45 KB) | osdrive://ec7fadc06256f117baf8e25cf12822487a8 |
+| Python Testing Tutorial.epub (162.15 KB) | osdrive://40bb08f3a3025d6a5a84a5dfa2436645374 |
+| Python 中文文档 3.7：入门教程.epub (316.07 KB) | osdrive://6347228a488d829e4cdd664c9bd4f908e12 |
+| Python 分布式计算.epub (1.77 MB) | osdrive://b30983ecca3112da7ec563f201746bf84de |
+| Python 数据分析与挖掘实战 带注释源码.epub (136.92 KB) | osdrive://5d28347d0430d5bbc6d40441a14cfe58540 |
+| Python 数据科学手册.url (172 B) | osdrive://f53d4fe0287dd9ff29c38a890ee1af0f1dc |
+| Python 数据科学速查表 14 张（呆鸟译）.7z (4.00 MB) | osdrive://f7efafe8ff24152a611378cf4224b7b6b89 |
+| PyTorch 0.3 中文文档和教程.epub (3.97 MB) | osdrive://8a9fa8eec48dc2baf31bd6ea7f102984eca |
+| PyTorch Zero To All.epub (92.85 KB) | osdrive://81c5eb7128fa83de6ea4f9364ed039fba91 |
+| R for Beginners 中文版 .pdf (912.08 KB) | osdrive://b64e14598141e07035573c278fde3b5649a |
+| R for Data Science.epub (7.25 MB) | osdrive://a8462e10f4a7564f39a9af128a5d5c68c1d |
+| R packages.epub (4.86 MB) | osdrive://c8665059cc2cb46b468ac1e807b55d63a60 |
+| Rancher 实战红宝书.epub (461.38 KB) | osdrive://7648ea09967d727b97db97bd1445accead3 |
+| RANDOM FORESTS FOR BEGINNERS.pdf (774.19 KB) | osdrive://161081b6ec2a7129cb5562fbbcb55f7d5f0 |
+| Rangle's Angular 2 Training Book 中文版.epub (2.81 MB) | osdrive://5d1b80c64784e9ad8f1579c5c8a366d64e0 |
+| React Native Training.epub (6.32 MB) | osdrive://8666903da7b1b640c64fbcab11bffe8a3e1 |
+| React 学习之道.epub (589.89 KB) | osdrive://43994bd576153e28683adc6fdb33fc5254e |
+| Readings in Database Systems, 5th Edition.pdf (369.79 KB) | osdrive://8be3076a4300896d031bb40defe2134ed3a |
+| Redis开发运维实践指南.epub (2.81 MB) | osdrive://e18cae713da32c7f02836965f3f3e381f4a |
+| RubyFu.epub (1.64 MB) | osdrive://7267ca1901692528981d228107df00dbead |
+| Rxjs 5 ultimate.epub (81.50 KB) | osdrive://1ff264b695ee6c3b0c10c74e1b185c5a100 |
+| R语言高级程序设计 --《Advanced R》中文版.pdf (5.44 MB) | osdrive://d50c9c5d9c7ab7dff317a72046f461531a1 |
+| Sanic-For-Pythoneer.epub (1.37 MB) | osdrive://708a7cf67f21e2f656d114b4fdf573f02a3 |
+| SBT 中文手册.epub (117.04 KB) | osdrive://06b886e9b417c9b5b47683bb73f7b174166 |
+| Scala 初学指南.epub (119.42 KB) | osdrive://6fdb6e4ddb9a71aac63d3b100406bf2609d |
+| Scikit and Tensorflow Workbooks (bjpcjp).epub (5.38 MB) | osdrive://4a40db7eeab6fad9f0478b33cdce02edd76 |
+| scikit-learn 0.19 中文文档.epub (8.89 MB) | osdrive://d3baf620e9ea79a12a0e71f57562f6e8210 |
+| SciPyCon 2018 sklearn 教程.epub (2.06 MB) | osdrive://f3fe05448e5dd7a7c2ee04b03dd9eb579a3 |
+| sdn网络指南.epub (21.92 MB) | osdrive://9e1d4365f909aa60ff09043676d058cd05f |
+| Sentiment Analysis and Opinion Mining.pdf (819.70 KB) | osdrive://ad631358f85d1f3d97545f7eaf17ab12bdf |
+| Serenity开发者指南中文版.epub (1.73 MB) | osdrive://8cb3c33a7a0824de60d15cd53035673edea |
+| Sklearn 与 TensorFlow 机器学习实用指南中文版 2018.6.20.epub (16.63 MB) | osdrive://6f273ed4e9628747b24c0a4785c0a56fec7 |
+| Solidity 官方文档中文版.epub (149.78 KB) | osdrive://2a4d6d72c13260cd454e4e4a945602a87af |
+| Spark GraphX源码分析.epub (3.13 MB) | osdrive://e0254b1c84b96405dbc10c39778b43048dd |
+| spark机器学习算法研究和源码分析.epub (10.77 MB) | osdrive://1f378194a1e16c238a28609f1205d12b3c1 |
+| Spring Batch 参考文档中文版.epub (564.28 KB) | osdrive://e933649d71ef8130c15ef3e6c90e496bd21 |
+| Spring Boot Cookbook 中文版.epub (4.85 MB) | osdrive://e13e7ea498b62a8f56de6ea756864bfd858 |
+| Spring Data 中文版本.epub (140.22 KB) | osdrive://607ddf6a5dceff3efe8c51011e2bb2b6a86 |
+| Spring Framework 5 中文文档.epub (558.68 KB) | osdrive://0e905833061492ce9adccc5fa51c064b0d2 |
+| Stackoverflow about Python 中文版.epub (164.14 KB) | osdrive://8c8bf77efa71f7033abd60e843607ae0dfe |
+| State Estimation for Robotics.pdf (4.26 MB) | osdrive://291edf885d870df17491ef8f063e98cbe40 |
+| Statistical inference for data science.pdf (2.47 MB) | osdrive://a60397ec60cab25f87aa783f0d466cc7d85 |
+| Statistical Learning Theory Notes (Stanford CS229T STAT231).pdf (1.18 MB) | osdrive://9fda592b70beeb0811f2384a54ed5252850 |
+| Stochastic Processes Lecture Notes (UCB STAT150).pdf (5.32 MB) | osdrive://200fb9e81e731600a579445c6342b156cae |
+| SVD 及其应用（张志华）.pdf (743.71 KB) | osdrive://d426b2061f67a73f6908f786468a4f56704 |
+| swebok 2004 中文版.pdf (899.70 KB) | osdrive://5e63152fba4010e77ac9ad9e86376f8da35 |
+| Swift设计模式 (iOS).epub (1.94 MB) | osdrive://1c03f6cda324700ae3d5c7f267e37330b7a |
+| Technical Indicators and Overlays.epub (19.81 MB) | osdrive://3ebdaffdd4ca87b5caf4f27a979d58a620f |
+| Technical Notes On Using Data Science & Artificial Intelligence.epub (2.43 MB) | osdrive://a550975b27c5c4f7675993dde8bfffa7df1 |
+| Tensorflow 101 (sjchoi86).epub (29.76 MB) | osdrive://808b8c26c5b40ea559cf904fd32291e9ffb |
+| TensorFlow Examples (aymericdamien).epub (3.36 MB) | osdrive://cc42b712c88be506cebc55261147e61e0c0 |
+| TensorFlow Tutorials (nlintz).epub (381.96 KB) | osdrive://3deaff581aae9328ddab0054999bef00d41 |
+| Tensorflow Tutorials (pkmital).epub (307.71 KB) | osdrive://b3cdf7e81561f524c2be3a2579d019e5f6b |
+| TensorFlow Zero To All.epub (1.43 MB) | osdrive://ae4ea36882d12229e40498415b488f0a0be |
+| TensorFlow 中文文档 1.8 掘金 2018.5.19.epub (9.37 MB) | osdrive://b783ad74ffb165da5b163931681811d1df3 |
+| TensorFlow 内核剖析.pdf (5.31 MB) | osdrive://f285601c02cc347a88556cd6ceb6f6a9a4b |
+| TensorFlow 学习指南.epub (5.08 MB) | osdrive://5b66d10377c251e42328614a82133e6f2fa |
+| TensorFlow从0到1.epub (7.62 MB) | osdrive://c1fad8fed2b9472eb48c9e233c8cd8a6222 |
+| the practice of reproducible research.epub (2.76 MB) | osdrive://bb3edd9db2bbc9055ba622123f22bd30733 |
+| The Way To Flask 中文版.epub (568.93 KB) | osdrive://ef4cab27490842c36dd5e04c88634049f70 |
+| The World Is Built On Probability.pdf (22.81 MB) | osdrive://eccb294d5b4bc4dd889b753ad370db47185 |
+| Time Series Econometrics.pdf (1.82 MB) | osdrive://20cb8941d5bbc26b24bb2b2da759f32335a |
+| Time Series Lecture Notes (UCB STAT153).pdf (3.84 MB) | osdrive://ac6ed92d6699711a8942eae0b6a7fb2285c |
+| Tornado Tcp Program.epub (181.98 KB) | osdrive://ef0896336580db22ceb33858b0785161e69 |
+| UCB CS294 深度强化学习中文笔记（谢天）.epub (2.25 MB) | osdrive://92dbfa1323fd04e935dbbf665b6089b1f35 |
+| UCB Data8 计算与推断思维 中文版.epub (7.36 MB) | osdrive://d7220302f30063661cf6239206014269e34 |
+| uCore OS实验指导书和源码网址 (2017).epub (1.55 MB) | osdrive://07fc2305a1a7244f121e535b6de387bc126 |
+| UIC CS385 操作系统讲义.epub (22.18 MB) | osdrive://00755d137b78d09d876ad84746e0cff2125 |
+| Understanding Model-View-Controller.epub (2.09 MB) | osdrive://270acfc15332de04e6faf91b8dcf923a2dc |
+| Verilog HDL 硬件描述语言.pdf (1.11 MB) | osdrive://9cb83c4ea7643d3562012c2c94dcf3c120e |
+| Verilog 经典教程（夏宇闻）.pdf (1.73 MB) | osdrive://56d48214071d35e9a80e539262c448b206f |
+| verilog 黄金参考指南中文版.pdf (511.67 KB) | osdrive://d32e08463d09ffae41a27cc004fa7a2f474 |
+| Visualizing and Understanding Convolutional Networks 译文（“看懂”卷积神经网络）.pdf (2.03 MB) | osdrive://457ea301d7e8988d15d6d17b295585c73f3 |
+| VS Code 中文文档.epub (9.05 MB) | osdrive://2823fcb9b3835a18dc0e08045e01a36d101 |
+| Vue.js 2.0 完全入门记录.epub (1.17 MB) | osdrive://a023e87cf3b25081bcd2e476d69ec8af286 |
+| Vue.js 教程（歪脖网）.epub (750.69 KB) | osdrive://938ead611aea11a3694f647ef8f3dca0cbd |
+| Webpack 中文指南.epub (409.01 KB) | osdrive://2de5256cf310574a0e9c3cc51bdf79fd023 |
+| Windows App 应用开发教程.epub (5.25 MB) | osdrive://0a896d50b69728d2543e5407c6ee9e8b141 |
+| word2vec 中的数学.pdf (863.65 KB) | osdrive://cae24cba5a1de60adedeaccd7c66bc5bcc9 |
+| XGBoost 原理解析.pdf (1.01 MB) | osdrive://f4f1b36aa946da535e99fa8f79c4e0b4fed |
+| Zero to Hero：2017年机器之心AI高分概述文章全集.epub (34.70 MB) | osdrive://dc0f526d611350b733ea4a7459e07f51026 |
+| Zoe的Python星际之旅.epub (843.79 KB) | osdrive://b48c94f5a26842fbfae032a2b91fd2e58ed |
+| 《Real-Time Rendering 3rd》 提炼总结.pdf (25.22 MB) | osdrive://c66183a02e9686fc3fe52fa3c1ab1b91001 |
+| 《从零到一》Tony 翻译版.epub (181.09 KB) | osdrive://aa12a5151d261e7e9e1b5dc5d0f5bc456a4 |
+| 《精通比特币》第二版.epub (9.43 MB) | osdrive://51dd64b5fb4cc545f1b9079fe07ec3bd6b5 |
+| ウェブ健康診断仕様.pdf (770.25 KB) | osdrive://47fdcfc39ebeadd3e30b355cfa1dfae4250 |
+| 一文详解 Word2vec 之 Skip-Gram 模型.pdf (1.57 MB) | osdrive://1582f578d1dab6a6f1e2f083e2bfffce16a |
+| 人工智能指数 2017 年度报告.pdf (1.37 MB) | osdrive://b736d64ddd7a12cb7e885bf906f72f19194 |
+| 人工智能标准化白皮书 2018.pdf (2.52 MB) | osdrive://baea34584b015715654aa5192630cb78bda |
+| 从 0 开始学架构（李运华）（完）.epub (6.49 MB) | osdrive://bfa55054a2355952cc07441fac18f421f2b |
+| 从Python到Django入门教程.epub (1.25 MB) | osdrive://0c2bfbac1f0a9f4d095cfec8cbf3d6f916e |
+| 从头到尾彻底理解 KMP.epub (518.22 KB) | osdrive://fe10cd1430e7c9da7239079da41d53afc21 |
+| 从算法设计到硬线逻辑的实现--复杂数字逻辑系统的 Verilog HDL 设计技术和方法.pdf (7.64 MB) | osdrive://ac714b485967fd54ad0935c83f9fd7e78e8 |
+| 从零开始学虚幻4游戏开发系列.pdf (13.55 MB) | osdrive://25630c0d1adfc0fd68a6e2322c38b52294c |
+| 以太坊官网文档中文版.epub (123.51 KB) | osdrive://03740677b3c6604e54137584aec4682812f |
+| 使用Ionic2制作移动应用.pdf (5.07 MB) | osdrive://6bc242aef4bb269a969262c7d1e91dbe0b8 |
+| 使用Spring Cloud与Docker实战微服务.epub (993.41 KB) | osdrive://e4e2d25bbb2116ef09825991332b79d2b49 |
+| 信息管理专业Python教程.epub (724.75 KB) | osdrive://1df56b353ffdbedf68ffa087880193b2df8 |
+| 傅里叶变换及其应用（斯坦福大学）.pdf (5.10 MB) | osdrive://4e6b045600755138a4b08a184ee0279485b |
+| 再译《从零到一》（佟奈尔）.pdf (4.24 MB) | osdrive://ce344dc3e5c9036e619125cff7025a410e8 |
+| 利用 Python 进行数据分析 中文第二版（SeanCheney）.epub (4.61 MB) | osdrive://54b2ea6478910b499d1091bb7bdfc303cca |
+| 前端开发笔记本.epub (29.86 MB) | osdrive://a4313cfca0080c67d0b048a5904dcb0093e |
+| 卷积神经网络研究综述（周飞燕等）.pdf (893.74 KB) | osdrive://fbdbb2bcdd939ac6b55df39d81c7268c6b3 |
+| 台大林轩田机器学习笔记（TingxunShi）.pdf (3.94 MB) | osdrive://1fe1cad329c23add487162a58e618f2643e |
+| 台湾大学林轩田机器学习笔记（红色石头）.epub (25.85 MB) | osdrive://32653885ed437dbb2d559ef019a649083ed |
+| 史上最简单的 IntelliJ IDEA 教程.epub (2.31 MB) | osdrive://3ddd538ce93e4d2b12bd8837e408fe4982f |
+| 周立功 51 单片机教程.pdf (1.03 MB) | osdrive://f02b17333f29669ae7a1b2f3b2daa6934c4 |
+| 和我一步步部署 kubernetes 集群.epub (1.51 MB) | osdrive://da6c16fd5c733ccbeaae7801e7718c5bb29 |
+| 图嵌入综述译文（arxiv 1709.07604）.pdf (1.50 MB) | osdrive://1304290377e9a14dc60ca8d6bed2cd14f75 |
+| 在迭代1之前.epub (13.84 MB) | osdrive://0ec55a6295b30e8965d4292f59335063c62 |
+| 基于深度学习的推荐系统研究综述（黄立威等）.pdf (1.16 MB) | osdrive://65c97f24ddf1dd4ef15d335de534215382f |
+| 复杂性思维 中文第二版.epub (1.09 MB) | osdrive://47651d6dd47593cb5e272a7a13ef9b0328a |
+| 大数入门.pdf (2.69 MB) | osdrive://e76237cb1e34bc6a300abfb82712351f873 |
+| 大数据分析苏轼.pdf (4.62 MB) | osdrive://6b38d25d0340d771a2614c188240bd6951f |
+| 大数据实验手册.epub (16.91 MB) | osdrive://3e0c65c15a87d78ec44f1c1b8269e727c7a |
+| 学习AngularJS 1.x.epub (928.35 KB) | osdrive://8e130eace2794cb8de01a25e0720d8fb6b5 |
+| 安全なSQLの呼び出し方.pdf (713.12 KB) | osdrive://4eb1f9fef6db5ae08866da87e81d372cfb2 |
+| 安全なウェブサイトの作り方 7e.pdf (3.68 MB) | osdrive://f803acd8d90221b4d6153f0b3f1006c7a20 |
+| 安全客2017Q4.pdf (16.34 MB) | osdrive://e2fe29ceb4c4133d88f5ad4084f64e2d629 |
+| 安卓应用安全指南 中文版.epub (2.19 MB) | osdrive://ce733127cddd9793e94a7688b478ff4481f |
+| 安卓校招面试指南.epub (29.06 MB) | osdrive://610e00df64e000b96ecd6a123da7fff44de |
+| 工业控制网络安全基础 v2.pdf (4.00 MB) | osdrive://889727aabf6a2b8352a9afb3479c5bcd73d |
+| 带你玩转 Visual Studio.epub (3.73 MB) | osdrive://6713a6078eee0fa636bd672d7208430b103 |
+| 微信小程序教程（歪脖网）.epub (23.16 MB) | osdrive://f410845560a4320cbf704948ad816b1095b |
+| 推荐系统之算法（Librec 中文文档）.epub (34.13 KB) | osdrive://bcbe412707d821ef68c9af64fa404415d4e |
+| 推荐系统调研报告及综述（张永锋）.pdf (332.23 KB) | osdrive://90edc7b5d0d1f37a3919439abf3aa712529 |
+| 推荐系统遇上深度学习 1~21.epub (6.97 MB) | osdrive://3b1161f95553ae0abe5cd5d2cab5372a3c5 |
+| 揭秘 CSS（歪脖网）.epub (2.41 MB) | osdrive://58b302be57be0ca1fc0413fd49c908dc239 |
+| 搜云库 Spring Boot & Cloud 教程.epub (4.16 MB) | osdrive://71cbeef36294c53b7a307ef8085ea4578e8 |
+| 操作系统 ThreeEasyPieces.pdf (832.91 KB) | osdrive://60f076e1f7ebbd069806d46c607f88273b9 |
+| 操作系统简单实现与基本原理.epub (2.26 MB) | osdrive://12a3ef739baea314cde0775623ef7756b38 |
+| 数字安全实用手册.7z (5.93 MB) | osdrive://f5376fb6ec4c43556bf803b8d8361445901 |
+| 数字巨链.epub (1.32 MB) | osdrive://8b7a5adba81655502872347ea2b014b7956 |
+| 文件系统层次结构标准中文版.epub (162.32 KB) | osdrive://c34b1cbb38d2803f994920ca495fc33c82b |
+| 斯坦福 CS183c 闪电式扩张中文笔记.epub (7.67 MB) | osdrive://aedf9c0202d6aca58efbba9d6a2282944bc |
+| 斯坦福 CS183f YC 创业课 2017 中文笔记.epub (276.86 KB) | osdrive://ff728506627c0802d7ad333249ae43d7f4f |
+| 斯坦福 cs224d 深度学习与自然语言处理讲义 fix1.epub (3.29 MB) | osdrive://cacc2b6e453900ab45cb49252d05a12f47b |
+| 新时期我国信息技术产业的发展.pdf (4.74 MB) | osdrive://7bae99f44a24bfed7b30f0dfce45a87ca17 |
+| 无痛的机器学习第二季.epub (392.33 KB) | osdrive://0161cb4d6abd51836db1fdb3fe8a21adf31 |
+| 朱赟的技术管理课（完）.epub (3.73 MB) | osdrive://d5e84c8275717ee02748fea9e4b4f9339f7 |
+| 机器学习教程（shareditor）.epub (7.69 MB) | osdrive://810381c86c94df6d8b2ae033c5434b7f7ee |
+| 机器学习训练秘籍（Machine Learning Yearning 中文版）.pdf (5.40 MB) | osdrive://cfbc7d0f259123ca588eb8b1c489ef66ca2 |
+| 机器学习进阶笔记（大U的技术课堂）.epub (6.24 MB) | osdrive://75ce350b36a9636c56b392a05ca37867bbb |
+| 机器学习那些事（刘知远译）.pdf (2.67 MB) | osdrive://bd41b00344fde3d57166e866f9acbfa4d3c |
+| 果仁网量化课堂 & 帮助文档.epub (10.26 MB) | osdrive://71cfc50df40a6a89995518be241d0f54fc7 |
+| 梯度下降优化算法综述.pdf (700.83 KB) | osdrive://aa7aa49a682f4eec63638e3906f578402a5 |
+| 概率图模型研究进展综述.pdf (787.05 KB) | osdrive://818bf1d1938fc26f1eb2551ae2f57e9a147 |
+| 概率编程与贝叶斯方法实践.pdf (7.61 MB) | osdrive://6b86b2ab147eabbaaa6650b4e2b931901c7 |
+| 深入浅出Java Web.epub (978.65 KB) | osdrive://47806e539660b45c21ac865b5b74ef7d54d |
+| 深入理解OpenStack自动化部署.epub (2.60 MB) | osdrive://f8154f042067a735eaff632aa932220624f |
+| 深度学习技术选型白皮书（2018 年）.pdf (1.01 MB) | osdrive://a196adc2c417859145ec2330493df2d57d3 |
+| 深度学习：Python 教程：使用 Keras、Python、Theano 和 TensorFlow 开发深度学习模型.epub (1.57 MB) | osdrive://7ce2d44a16ea0dd655cfbd627957660500c |
+| 深度强化学习综述（刘全等）.pdf (1.24 MB) | osdrive://487066791a5bfe3116be40a9cb6498b657e |
+| 深度强化学习综述：兼论计算机围棋的发展.pdf (2.75 MB) | osdrive://dc856ad6022708b4e97066f7e53c3d26d9b |
+| 深度有趣 - 人工智能实战项目合集.pdf (5.90 MB) | osdrive://4994cfec473b749447ca39026776d8ce30c |
+| 爬虫之路.epub (757.16 KB) | osdrive://114a7886b5592692d2a4c358f673eeb7714 |
+| 牛客网春招备战手册+笔试分册+面试分册 2018.7z (3.25 MB) | osdrive://a4380bd20ae29bbd203da733d8a81ffa525 |
+| 生物信息学培训教材（北京华大基因研究中心）.pdf (8.26 MB) | osdrive://7d868d6c199dc209f5c94c462d509215d5b |
+| 生物信息学札记（第三版）.pdf (6.07 MB) | osdrive://dd526a5cc7b344eacab5655ee985414a776 |
+| 生物信息学简明教程.pdf (492.95 KB) | osdrive://a12bdcb438618c6bc5820d79b92ab4949ec |
+| 生物信息学讲义：结构信息部分（龚海鹏）.pdf (5.84 MB) | osdrive://ee8281f4492d06a7c6acc9f877ddb0e8ae1 |
+| 用Python学微积分.epub (701.61 KB) | osdrive://1c8f59a36d33ffc2476b418343d81ae8479 |
+| 知识共享协议使用常见问题解答非官方翻译项目.epub (153.51 KB) | osdrive://2807d1ee5e9447f785c28e674697d16f88c |
+| 码农翻身全年文章精华 2016.epub (12.02 MB) | osdrive://55677d41bc7bbc9c500de6b0e4600b6de96 |
+| 码农翻身全年文章精华 2017.epub (7.49 MB) | osdrive://760e9d453015d1515412b47afb84e436c82 |
+| 禅与 Objective-C 编程艺术.epub (176.19 KB) | osdrive://4798d717997d678aabe558e35826e98e46a |
+| 简单粗暴TensorFlow.pdf (1.21 MB) | osdrive://18125ee25a5c358c7630c5c47a6aa2f22e8 |
+| 简明 Python 教程 4.0.epub (515.39 KB) | osdrive://8a52d7fa73fe212af705e5e38fe238b1c15 |
+| 给iOS开发者的Sketch入门教程.epub (7.09 MB) | osdrive://f1b5c35114fe9d8e6fe7efecb46695473c1 |
+| 给妹子讲 python 第一季.epub (86.34 KB) | osdrive://9c53da73c71850c217c91c2e8db0ce0459d |
+| 给妹子讲 python 第二季.epub (888.08 KB) | osdrive://25a37d3a948e95855d12be679e7d660035d |
+| 编写高质量代码改善 Python 程序的 91 个建议.epub (235.63 KB) | osdrive://64389943322a86c934a0896e2d5a349e2b2 |
+| 网络表示学习综述（涂存超等）.pdf (877.87 KB) | osdrive://a02e794ef90af878c6228196628f326ebda |
+| 耶鲁博弈论笔记全 24 讲 v2.0（Apollo, Gabriel）.pdf (2.12 MB) | osdrive://02b12cc84c21a33ad5ccf0624881fc23e37 |
+| 自己动手做聊天机器人.epub (8.62 MB) | osdrive://fea68caedfcfd494b5206ec43074d5461aa |
+| 自由软件自由社会.epub (975.69 KB) | osdrive://7abdd36d268301bd014fe093524d044606c |
+| 草根学 Python （基于Python3.6）.epub (8.08 MB) | osdrive://1ba7c8b35d5503636a8ab1d2ca39902c51f |
+| 莫烦机器学习教程 2017.5.10 fix1.epub (29.00 MB) | osdrive://7be1e7ea81ff328ca46d2305b2db9067be8 |
+| 虚拟货币投资实战技巧.epub (3.84 MB) | osdrive://c9c95519e12dd5fc7f9d4ecf9bd10ad6acf |
+| 解析卷积神经网络——深度学习实践手册.pdf (5.47 MB) | osdrive://ff23bcea5927326f68b91b0bec5d33268d6 |
+| 设计数据密集型应用（初翻）.epub (7.21 MB) | osdrive://74207884040844078cc1ef9d64026bafbcc |
+| 谷歌深度学习笔记（ahangchen）.epub (8.83 MB) | osdrive://c9558a8edf3b5722d9a0af79d0aa8117775 |
+| 达观数据NLP特刊：从原理到实践.pdf (21.52 MB) | osdrive://cc9cb6065c6213acbd2cb31c4e74dcdb19b |
+| 迁移到云原生应用架构.epub (2.20 MB) | osdrive://c8678096fb5665a2333429398d8a428d44d |
+| 迁移学习手册 1.0.pdf (3.24 MB) | osdrive://2c7f4715092906c56a4f02698d4543d922e |
+| 重来（Olivida 译）.epub (89.22 KB) | osdrive://351c02add7b3f648f768d56f40e4a89e89d |
+| 金程教育 AQF 量化金融分析师讲义 2017.pdf (29.55 MB) | osdrive://42572b8de4e221b115c5feacd16437933a3 |
+| 阿里巴巴 Android 开发手册 1.0.pdf (1.29 MB) | osdrive://5da53983b5c5a61d2a9eede6450c35f609a |
+| 阿里巴巴 Java 开发手册 1.4.0.pdf (1.11 MB) | osdrive://f92d74b6418dcc03408eb34fc1bf10ac4bf |
+| 随机过程（张灏）.pdf (3.91 MB) | osdrive://eb7a044196ca3c29fc4df58ab78a15e3fe4 |
+| 静态网站构建手册-使用Hugo构建个人博客.epub (3.20 MB) | osdrive://07a1b091d1c57a9564022e1d065d75cb3c5 |
+| 面对对象编程语言：应用和解释.epub (114.11 KB) | osdrive://76cd8475e63a2d642d60755ab02ada7aefd |
+| 高可用架构（第 1~6 期）.rar (22.14 MB) | osdrive://3ec2c56549eeeb7f0edb4cc742e61c9f00d |
+| 高盛区块链报告：区块链 从理论走向实践.epub (6.72 MB) | osdrive://68ae9fbc715d1b6207b006840db9628a58f |
+| 高级Bash脚本编程指南 Revision 10 中文版.epub (319.86 KB) | osdrive://323f271a4fce8a593012ff96a6e2d4c9b40 |
+| 高速上手 C++ 11 14 17.pdf (2.12 MB) | osdrive://dfe97ca2f6fed155fc2a58b457729be5b2c |
