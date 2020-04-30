@@ -42,6 +42,12 @@ cdrive download <link>
 | --- | --- |
 | COVID-19-timeline.epub (343.79 KB) | jsdrive://118142-e5636af6a43ff59b |
 
+<!--shdrive-->
+
+| 文档 | 链接 |
+| --- | --- |
+| COVID-19-timeline.epub (343.79 KB) | shdrive://20200430/1f67ef7ff2c54352b9375a32e70ac61c |
+
 <!--wbdrive-->
 
 | 文档 | 链接 |
