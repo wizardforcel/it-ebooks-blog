@@ -22,7 +22,7 @@ for i in range(st, ed + 1):
         f = path.join(textdir, f'{i}.html')
         print(f)
         co = open(f, encoding='utf8').read()
-        imgs_ = re.findall(r'Images/(\w+\.jpg)', co)
+        imgs_ = re.findall(r'Images/(\w+\.\w+)', co)
         imgs += imgs_
         nf = path.join(textdir + subfix, f'{i}.html')
         os.rename(f, nf)
