@@ -237,10 +237,14 @@ cdrive download <link>
 | COVID-19-timeline.epub (343.79 KB) | shdrive://20200430/1f67ef7ff2c54352b9375a32e70ac61c |
 | nCovMemory 备份：DeepTech深科技.epub (8.35 MB) | shdrive://20200506/1dbad8892de941eb948d91c1b59b80cd |
 | nCovMemory 备份：一条.epub (24.41 MB) | shdrive://20200506/91f55a4c140441218a84231e547d8ab3 |
+| nCovMemory 备份：三联生活周刊.epub (26.01 MB) | shdrive://20200502/1618d1ffd88143ec8ece495f083280a1 |
+| nCovMemory 备份：中国新闻周刊.epub (21.94 MB) | shdrive://20200502/4c873401dab144e781320b32aaf66f8d |
+| nCovMemory 备份：中国经营报.epub (13.81 MB) | shdrive://20200502/48a1596ef4304d7486f5818138f945dc |
 | nCovMemory 备份：人是最美的风景.epub (24.49 MB) | shdrive://20200506/c421176220714a9184d0830eb2c59c3c |
 | nCovMemory 备份：体坛周报.epub (3.38 MB) | shdrive://20200506/8054943e67b44129b913212eba130d3a |
 | nCovMemory 备份：作家方方的博客.epub (950.20 KB) | shdrive://20200506/2bef3e6c19cc410ca95c0b9a85996536 |
 | nCovMemory 备份：八点健闻.epub (8.34 MB) | shdrive://20200506/0bb61673b5ad4a609e35ea054163829a |
+| nCovMemory 备份：其它.epub (21.93 MB) | shdrive://20200502/799a4a8b4b2346cbb26889993a7ff08b |
 | nCovMemory 备份：其它（七）.epub (14.50 MB) | shdrive://20200506/6844edb2b5ff4529bd40b52dba37bcbc |
 | nCovMemory 备份：其它（三）.epub (17.96 MB) | shdrive://20200506/58fa580ae8334ce4b99b0e13a3735fdb |
 | nCovMemory 备份：其它（九）.epub (19.01 MB) | shdrive://20200506/277e2be96d8a4bea9d8561df1c05f22a |
@@ -256,17 +260,27 @@ cdrive download <link>
 | nCovMemory 备份：其它（十四）.epub (25.28 MB) | shdrive://20200506/98e3fd7829904d4c89c4294e475c23ff |
 | nCovMemory 备份：其它（十）.epub (23.18 MB) | shdrive://20200506/4532bbb88f444f69bf501171ad2a048f |
 | nCovMemory 备份：其它（四）.epub (24.25 MB) | shdrive://20200506/96b5e964aef545f2b2e50db0e97c1cc9 |
+| nCovMemory 备份：冰点周刊.epub (11.82 MB) | shdrive://20200502/0f641c7a71e540b28b8d2faeddd0a3ef |
+| nCovMemory 备份：剥洋葱people.epub (10.89 MB) | shdrive://20200502/b46bbea507aa4b18898fbf5a350a009d |
+| nCovMemory 备份：北青深一度.epub (10.15 MB) | shdrive://20200502/08f6a65f500b4d8f8abe197c3397e4cd |
 | nCovMemory 备份：南方周末.epub (20.52 MB) | shdrive://20200506/91c52ded99864ec29cec1e6ef0bb9d0c |
 | nCovMemory 备份：南方都市报、南都周刊.epub (10.03 MB) | shdrive://20200506/65da438931f54539a8b3ee98bf97a3ed |
 | nCovMemory 备份：叶青.epub (6.22 MB) | shdrive://20200506/d1dfc1e34499454f8211a5e955e6d945 |
 | nCovMemory 备份：所有的鱼.epub (7.13 MB) | shdrive://20200506/8f7a69a283c3438991791b3877ccffb8 |
+| nCovMemory 备份：新京报.epub (10.70 MB) | shdrive://20200502/60b7623b27cf45c1b0f852b81316cf3c |
 | nCovMemory 备份：新民周刊（一）.epub (27.95 MB) | shdrive://20200506/675438942d2a4bc0a2f5641514139f6b |
 | nCovMemory 备份：新民周刊（二）.epub (25.30 MB) | shdrive://20200506/baa741735c1b4ab18d11d10e920e5b71 |
 | nCovMemory 备份：极昼工作室.epub (13.41 MB) | shdrive://20200506/84dabb3de8d74a4992dd707ae344be69 |
+| nCovMemory 备份：每日人物.epub (14.72 MB) | shdrive://20200502/473c2f83980e4acaa717e6acf27bf865 |
+| nCovMemory 备份：澎湃新闻.epub (3.49 MB) | shdrive://20200502/85e7f0cc366c4e78b94a7a05a08f7e23 |
 | nCovMemory 备份：燃财经.epub (15.92 MB) | shdrive://20200506/0ca34b2a15c046a6b2ab4940b0319f6d |
 | nCovMemory 备份：界面新闻（一）.epub (7.45 MB) | shdrive://20200506/03eb6472b0d2444da0bbd8a3c9aabb04 |
 | nCovMemory 备份：界面新闻（三）.epub (9.03 MB) | shdrive://20200506/0f9bb7f8cd964d0ea83f09fee748be04 |
 | nCovMemory 备份：界面新闻（二）.epub (7.37 MB) | shdrive://20200506/819cffbefd0b4b41ac7b3ca529bab742 |
+| nCovMemory 备份：第一财经.epub (11.57 MB) | shdrive://20200502/d50f9039398945a0a5c1bd74c3ae40c2 |
+| nCovMemory 备份：经济观察报.epub (1.04 MB) | shdrive://20200502/f62b28db0a454cdfaf0318d887b80d3b |
+| nCovMemory 备份：财经杂志（一）.epub (25.24 MB) | shdrive://20200502/23543d3ae9574c71b2507a5ab8fe6d62 |
+| nCovMemory 备份：财经杂志（二）.epub (22.17 MB) | shdrive://20200502/501e62094dff4215b7a5467f43607cc9 |
 | nCovMemory 备份：阑夕.epub (290.13 KB) | shdrive://20200506/81fe9542b2b144a2a658bb28ceafd082 |
 
 <!--wbdrive-->
