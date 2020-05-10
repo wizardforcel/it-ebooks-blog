@@ -19,7 +19,7 @@ var coTemp = `
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/{repo}/raw/master/{fname})
 +   [Github 下载](https://cdn.jsdelivr.net/gh/it-ebooks/{repo}/{fname})
-+   [SourceForge 下载](https://sourceforge.net/p/{repo}/code/ci/master/tree/{fname}?format=raw)
++   [Gitlab 下载](https://gitlab.com/it-ebooks/{repo}/raw/master/{fname})
 `
 
 var ofile = fs.openSync('out.md', 'w')
