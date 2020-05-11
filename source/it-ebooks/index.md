@@ -41,6 +41,9 @@ date: 9999-12-31 23:59:59
   + [看云（提取码: pb1x）](https://pan.baidu.com/s/1SZLFg1gWZ4CWI1XNdYNS9g)
   + [极客学院Wiki（提取码: yadx）](https://pan.baidu.com/s/1Fe83mA5JT1XoeWEmI7-bRg)
   + [其它（提取码: 31r4）](https://pan.baidu.com/s/1eYyam0XSPKut51Jmp3wLaw)
++ 曲奇云下载
+  + [2017](https://quqi.gblhgk.com/s/4407653/CmedQYfuB1rrru1x)
+  + [2016](https://quqi.gblhgk.com/s/4407653/Biaf1qYExh9PanGL)
 
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
