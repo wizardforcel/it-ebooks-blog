@@ -38,6 +38,9 @@ date: 9999-12-31 23:59:59
   + [2018（提取码: 3vvc）](https://pan.baidu.com/s/1y1jeNhMy1C9-cVOlc_nI-g)
   + [2017（提取码: h71i）](https://pan.baidu.com/s/1mhB0v6KcYLjvDocj-OJhEA)
   + [2016（提取码: d3ng）](https://pan.baidu.com/s/1IPoZNyTkksq-o8EoRJVryA)
+  + [看云（提取码: pb1x）](https://pan.baidu.com/s/1SZLFg1gWZ4CWI1XNdYNS9g)
+  + [极客学院Wiki（提取码: yadx）](https://pan.baidu.com/s/1Fe83mA5JT1XoeWEmI7-bRg)
+  + [其它（提取码: 31r4）](https://pan.baidu.com/s/1eYyam0XSPKut51Jmp3wLaw)
 
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
