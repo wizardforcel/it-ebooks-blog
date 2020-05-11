@@ -33,6 +33,9 @@ date: 9999-12-31 23:59:59
 
 + [MEGA下载](https://mega.nz/#F!mFEBSI5L!9ufOmfbA7cnLhBz8nPjT1A)
 + [坚果云下载](https://www.jianguoyun.com/p/Dd8libYQyIybBhizxiU)
++ 百度云下载
+  + [2017（提取码: h71i）](https://pan.baidu.com/s/1mhB0v6KcYLjvDocj-OJhEA)
+  + [2016（提取码: d3ng）](https://pan.baidu.com/s/1IPoZNyTkksq-o8EoRJVryA)
 
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
