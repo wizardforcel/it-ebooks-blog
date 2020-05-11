@@ -42,8 +42,13 @@ date: 9999-12-31 23:59:59
   + [极客学院Wiki（提取码: yadx）](https://pan.baidu.com/s/1Fe83mA5JT1XoeWEmI7-bRg)
   + [其它（提取码: 31r4）](https://pan.baidu.com/s/1eYyam0XSPKut51Jmp3wLaw)
 + 曲奇云下载
+  + [2019](https://quqi.gblhgk.com/s/4407653/xol5qeXfpuyLM5wv)
+  + [2018](https://quqi.gblhgk.com/s/4407653/9nsl4IUcLwDI57Tk)
   + [2017](https://quqi.gblhgk.com/s/4407653/CmedQYfuB1rrru1x)
   + [2016](https://quqi.gblhgk.com/s/4407653/Biaf1qYExh9PanGL)
+  + [极客学院Wiki](https://quqi.gblhgk.com/s/4407653/K0WLt30igsrqpBLb)
+  + [看云](https://quqi.gblhgk.com/s/4407653/dGGbqT5qkeynCTTg)
+  + [其它](https://quqi.gblhgk.com/s/4407653/N49TzrDObglJ4Ay2)
 
 [这里](https://mega.nz/#F!eI1BxSAS!DSkJ1YSFtm8MVmADvm8amw)是部分电子书的Gitbook源码。
 
