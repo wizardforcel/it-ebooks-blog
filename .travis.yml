@@ -22,6 +22,6 @@ env:
   global:
     - GH_UN=wizardforcel
     - GH_EMAIL=562826179@qq.com
-    - GH_USER=it-ebooks
-    - GH_REPO=it-ebooks.github.io
-    - GH_BRANCH=master
+    - GH_USER=wizardforcel
+    - GH_REPO=it-ebooks-blog
+    - GH_BRANCH=gh-pages
