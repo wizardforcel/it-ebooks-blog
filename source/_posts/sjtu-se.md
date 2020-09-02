@@ -10,7 +10,7 @@ tags:
 ## 打包下载
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/sjtu-se-courseware/repository/archive/master.zip)
-+   [Github 下载](https://github.com/it-ebooks/sjtu-se-courseware/archive/master.zip)
++   [Github 下载](https://github.com/sjtu-se-courseware/sjtu-se-courseware/archive/master.zip)
 +   [Gitlab 下载](https://sourceforge.net/p/sjtu-se-courseware/code/ci/master/tarball)
 
 <!--more-->

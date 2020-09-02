@@ -8,7 +8,7 @@ categories:
 ## 打包下载
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/lightnovel-2009to2013/repository/archive/master.zip)
-+   [Github 下载](https://github.com/it-ebooks/lightnovel-2009to2013/archive/master.zip)
++   [Github 下载](https://github.com/ixinzhi/lightnovel-2009to2013/archive/master.zip)
 +   [Gitlab 下载](https://sourceforge.net/p/lightnovel-2009to2013/code/ci/master/tarball)
 
 <!--more-->
