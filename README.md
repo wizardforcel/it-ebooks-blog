@@ -2,6 +2,11 @@
 
 ![](source/img/repo-deployed.svg) ![](source/img/cdn-deployed.svg) ![](source/img/northpole-preparing.svg) ![](source/img/blockchain-preparing.svg)
 
++   [计算机电子书 2020 CDNDrive 备份](source/_posts/it-ebooks-2020-cdndrive.md)
++   [机器之心高分教程 BiliDrive 备份](source/_posts/jiqizhixin-bilidrive.md)
++   [吾爱破解论坛精华集 BiliDrive 备份](source/_posts/52pojie-bilidrive.md)
++   [Kaggle Kernel BiliDrive 备份](source/_posts/kaggle-kernel-bilidrive.md)
++   [看雪软件安全文档库 KSSD 归档](source/_posts/kssd.md)
 +   [KSSD BiliDrive 备份](source/_posts/kssd-bilidrive.md)
 +   [TutorialsPoint 电子书 归档](source/_posts/tutorialspoint.md)
 +   [计算机电子书 2019 归档](source/_posts/it-ebooks-2019.md)
