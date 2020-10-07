@@ -38,7 +38,6 @@ Advanced Data Structures Lecture Notes (MIT 6.851).pdf
 Advanced SQL Injection In SQL Server Applications.pdf
 Advanced Topics in Compilers Reading List (Stanford CS343).pdf
 Advanced Topics in Computer Systems Lecture Notes (UCB CS262A).pdf
-Dockerfile
 
 part1
 ------
@@ -60,7 +59,6 @@ Apache Zeppelin 0.7.2 中文文档.epub
 Approximation Algorithms Lecture Notes (UIUC CS598CSC).pdf
 Architecture of a Database System.pdf
 Aukland COMPSCI 111 Practical Computing Reference Manual.pdf
-Dockerfile
 
 part2
 ------
@@ -90,7 +88,6 @@ calculus with applications (MIT 18.013A).epub
 Category Theory for Scientists  (MIT 18.S996).pdf
 CEH v8 Labs Module All-In-One.pdf
 CEH v9 Links.7z
-Dockerfile
 
 part3
 ------
@@ -103,7 +100,6 @@ Computational Biology (MIT 6.047).pdf
 Computer and Internet Security Lecture Notes (Syracuse CIS643 644).pdf
 Computer and Network Security by Avinash Kak.pdf
 Computer Science Field Guide.epub
-Dockerfile
 
 part4
 ------
@@ -117,7 +113,6 @@ CSDN 博客 - 高性能服务系统构建与实践 2017.5.13.epub
 CTF Writeups 2016.9.29.epub
 CTF-All-In-One 20171015.epub
 c_cpp_ref_html_book_20161029.zip
-Dockerfile
 
 part5
 ------
@@ -137,7 +132,6 @@ Design and Analysis of Algorithms Lecture Notes (MIT 6.046J).pdf
 Discrete Stochastic Processes Lecture Notes (MIT 6.262).pdf
 Distributed Systems Engineering Lecture notes (MIT 6.824).epub
 Django 中文文档 1.8 20170215.epub
-Dockerfile
 DOM Enlightenment.epub
 Dynamic Systems and Control Lecture Notes (MIT 6.241J).pdf
 ECMAScript 6 入门（第三版）.epub
@@ -151,7 +145,6 @@ Excel 教程：实用技巧系列.epub
 
 part6
 ------
-Dockerfile
 Exploit 编写系列教程 1 ~ 11.pdf
 Exploiting Format String Vulnerabilities.pdf
 Exploring ES2016 and ES2017.epub
@@ -193,7 +186,6 @@ Intel® 64 and IA-32 Architectures Volume 1.pdf
 
 part7
 ------
-Dockerfile
 Introduction to Algorithms Lecture Notes (MIT 6.006).pdf
 Introduction to Analysis of Algorithms Lecture Notes (Cornell CS4820).pdf
 Introduction to Arithmetic Geometry Lecture Notes (MIT 18.782).pdf
@@ -214,7 +206,6 @@ Java for small teams.epub
 
 part8
 ------
-Dockerfile
 Java SE 6 类库查询手册（龙马工作室）.pdf
 Java 培训教程（千峰教育）.pdf
 Java 开发利器 Myeclipse 全面详解（北风网）.pdf
@@ -258,7 +249,6 @@ MATLAB Tutorial (MIT 10.34).pdf
 
 part9
 ------
-Dockerfile
 Matplotlib 入门教程.epub
 Matplotlib 用户指南.epub
 MDN Canvas API 中文文档 20171202.epub
@@ -288,7 +278,6 @@ Objective-C基础教程：1天玩转Objective-C语法.epub
 
 part10
 ------
-Dockerfile
 Office技巧1000例.epub
 OllyDbg 中文帮助手册 2.0.1.pdf
 OllyDbg 完全教程.pdf
@@ -307,14 +296,12 @@ Pandas 官方教程（10 分钟搞定 Pandas、Pandas 秘籍、学习 Pandas）.
 
 part11
 ------
-Dockerfile
 Parch 学习笔记系列（十七本）.zip
 Parsing Techniques A Practical Guide.pdf
 Perl 语言编程.pdf
 
 part12
 ------
-Dockerfile
 Photoshop 教程：必学技巧.epub
 PHP 完全中文手册（sadly）.epub
 PHP 调试技术手册.pdf
@@ -337,7 +324,6 @@ Programming Languages Lecture Notes (NEU CS4400).epub
 
 part13
 ------
-Dockerfile
 Programming Languages Lecture Notes (Washington CSE341).pdf
 Programming Practice Tutorials (KAIST CS109).epub
 PyAlgoTrade用户手册中文版.pdf
@@ -359,7 +345,6 @@ R4ndom 破解教程翻译 1~20a by QQSniper.pdf
 
 part14
 ------
-Dockerfile
 Rails 指南.epub
 Random Algorithm (Sariel Har-Peled).pdf
 React Bits 中文版.epub
@@ -407,7 +392,6 @@ Stanford CS109 Probability for Computer Scientists Lecture Notes.pdf
 
 part15
 ------
-Dockerfile
 Static Program Analysis Reading List (UCLA CS232).pdf
 Static Program Analysis.pdf
 Statistical Learning Theory Lecture Notes (Stanford CS229t).pdf
@@ -445,7 +429,6 @@ UIUC Crowd-Sourced System Programming Book.epub
 
 part16
 ------
-Dockerfile
 Ultrafast Optics Lecture Notes (MIT 6.977).pdf
 Vectors, Matrices, and Least Squares (Stanford EE103).pdf
 VS2010 MFC编程入门（鸡啄米）.pdf
@@ -470,7 +453,6 @@ zw Python 量化分析课件.7z
 
 part17
 ------
-Dockerfile
 中山大学编译原理讲义.pdf
 为生物信息学设计的Python教程.epub
 乌云月爆（全十期）.7z
@@ -486,7 +468,6 @@ Dockerfile
 
 part18
 ------
-Dockerfile
 使用 OllyDbg 从零开始 Cracking.epub
 借助开源项目，学习软件开发.epub
 偏微分方程引论（翟健）.pdf
@@ -504,7 +485,6 @@ Dockerfile
 
 part19
 ------
-Dockerfile
 北航数据结构、组成原理、操作系统、计算机网络课件.7z
 北航程序设计语言原理教材（共18章）.pdf
 北航编译原理课件.pdf
@@ -522,7 +502,6 @@ Dockerfile
 
 part20
 ------
-Dockerfile
 安全客 2016 年刊.7z
 安全客 2017 Q2.pdf
 安全客 2017 Q3.pdf
@@ -530,7 +509,6 @@ Dockerfile
 
 part21
 ------
-Dockerfile
 安全档案 第二期.pdf
 常微分方程（冯巍）.pdf
 常用数据挖掘算法总结及Python实现.pdf
@@ -559,7 +537,6 @@ Dockerfile
 
 part22
 ------
-Dockerfile
 数据结构与算法 Java 版（周鹏）.pdf
 数据结构与算法分析学习笔记（罗聪）.epub
 数据结构就该这样学.epub
@@ -588,7 +565,6 @@ Dockerfile
 
 part23
 ------
-Dockerfile
 深入学习Web安全（万年死宅）.epub
 深入浅出MySQL数据库开发、优化与管理维护（网易）.pdf
 深入浅出设计模式（AI92）.pdf
@@ -611,7 +587,6 @@ Dockerfile
 
 part24
 ------
-Dockerfile
 线性代数总结与复习（武汉大学 黄正华）.pdf
 线性代数的几何意义--图解线性代数.pdf
 线性代数讲义（武汉大学 马涛）.pdf
@@ -633,13 +608,11 @@ Dockerfile
 
 part25
 ------
-Dockerfile
 辛星 MySQL、Linux、Node、Nginx、Redis、CouchDB、Git 教程 2015.zip
 辛星 PHP 系列教程 2014（十一本）.zip
 
 part26
 ------
-Dockerfile
 辛星 python 系列教程 2014（九本）.zip
 辛星 web 前端系列教程 2014（九本）.zip
 逆向工程入门指南.epub
@@ -661,7 +634,6 @@ Dockerfile
 
 part27
 ------
-Dockerfile
 高级Bash脚本编程指南 3.9.1.pdf
 高质量 C C++ 编程指南（林锐）.pdf
 ```
