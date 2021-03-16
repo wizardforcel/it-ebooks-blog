@@ -8,9 +8,9 @@ script:
   - hexo g
 
 after_script:
+  - cp README.md public/README.md
   - cd public
   - touch .nojekyll
-  - ls -l
   - git init
   - git config user.name ${GH_UN}
   - git config user.email ${GH_EMAIL}
