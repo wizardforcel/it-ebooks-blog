@@ -24,8 +24,6 @@ cdrive download <link>
 
 | 文件 | 链接 |
 | --- | --- |
-| 文件 | 链接 |
-| --- | --- |
 | [くどうひさし] イかせてオナタイム [中国翻訳].epub | bdex://005e5e0089fe41642afcc99276bbcbbad110e64a |
 | [くみこ] LOA (League of Legends) [中国語].epub | bdex://c7647e29e29afd3c7f9e872d77eb9cac57b0f914 |
 | [くれいちろう] DEAR TATTOO (黒淫 ～BLACK HUNT～) [中国翻訳].epub | bdex://b56fb5a91c54c1e10b64f8744828039ea87ca679 |

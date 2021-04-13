@@ -24,8 +24,6 @@ cdrive download <link>
 
 | 文件 | 链接 |
 | --- | --- |
-| 文件 | 链接 |
-| --- | --- |
 | [三崎 (田スケ)] オキナグサ [中国翻訳].epub | bdex://afcbb5723caf79fe2ef51dc8999bb6dd2fc91ba5 |
 | [三杯酢] おばさんは家庭教師 [中国翻訳].epub | bdex://28b2e57bfee36f37a4e9343200e19c7922f93c4b |
 | [三毛蔵亭] 神のチ○コを持つ少年 前編 [中国翻訳].epub | bdex://0aecb6bd61321d2d19f111f6d22e753a5ed3b2c5 |
