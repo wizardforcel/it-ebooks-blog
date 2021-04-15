@@ -2,6 +2,34 @@
 
 ![](source/img/repo-deployed.svg) ![](source/img/cdn-deployed.svg) ![](source/img/northpole-preparing.svg) ![](source/img/blockchain-preparing.svg)
 
+## 下载
+
+### Docker
+
+```
+docker pull wizardforcel/it-ebooks-blog
+docker run -tid -p <port>:80 wizardforcel/it-ebooks-blog
+# 访问 http://localhost:{port} 查看文档
+```
+
+### PYPI
+
+```
+pip install it-ebooks-blog
+it-ebooks-blog <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g it-ebooks-blog
+it-ebooks-blog <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+## 目录
+
 +   [计算机电子书 2020 CDNDrive 备份](source/_posts/it-ebooks-2020-cdndrive.md)
 +   [机器之心高分教程 BiliDrive 备份](source/_posts/jiqizhixin-bilidrive.md)
 +   [吾爱破解论坛精华集 BiliDrive 备份](source/_posts/52pojie-bilidrive.md)
