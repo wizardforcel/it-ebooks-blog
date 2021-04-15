@@ -2,23 +2,15 @@ var fs = require('fs')
 var request = require('sync-request')
 var cheerio = require('cheerio')
 
-var repoList = [
-    'it-ebooks-2017-01to02',
-    'it-ebooks-201703-part1',
-    'it-ebooks-201703-part2',
-    'it-ebooks-201703-part3',
-    'it-ebooks-2017-04to06',
-    'it-ebooks-2017-07to11',
-    'it-ebooks-201712',
-]
+var repoList = process.argv[2].split(':')
 
-var urlTemp = 'https://github.com/it-ebooks/{repo}'
+var urlTemp = 'https://github.com/it-ebooks-0/{repo}'
 
 var coTemp = `
 ## {title}
 
 +   [Gitee 下载](https://gitee.com/it-ebooks/{repo}/raw/master/{fname})
-+   [Github 下载](https://cdn.jsdelivr.net/gh/it-ebooks/{repo}/{fname})
++   [Github 下载](https://cdn.jsdelivr.net/gh/it-ebooks-0/{repo}/{fname})
 +   [Gitlab 下载](https://gitlab.com/it-ebooks/{repo}/raw/master/{fname})
 `
 
