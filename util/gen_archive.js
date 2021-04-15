@@ -4,7 +4,7 @@ var cheerio = require('cheerio')
 
 var repoList = process.argv[2].split(':')
 
-var urlTemp = 'https://github.com/it-ebooks-0/{repo}'
+var urlTemp = 'https://gitee.com/it-ebooks/{repo}'
 
 var coTemp = `
 ## {title}
@@ -20,7 +20,7 @@ for(var repo of repoList) {
     
     var url = urlTemp.replace('{repo}', repo)
     console.log(url)
-    var html = request('GET', url).getBody().toString()
+    var html = request('GET', url, {timeout: 20000}).getBody().toString()
     var flist = getFileList(html)
     
     for(var fname of flist) {
@@ -46,7 +46,7 @@ console.log('done..')
 function getFileList(html) {
     
     var $ = cheerio.load(html)
-    var $list = $('.content a')
+    var $list = $('div.five.column a')
     var res = []
     for(var i = 0; i < $list.length; i++) {
         res.push($list.eq(i).text())
