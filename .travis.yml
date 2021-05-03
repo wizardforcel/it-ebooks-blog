@@ -10,6 +10,7 @@ script:
 after_script:
   - cp README.md public/README.md
   - cp Dockerfile public/Dockerfile
+  - cp .gitignore public/.gitignore
   - cd public
   - touch .nojekyll
   - git init
