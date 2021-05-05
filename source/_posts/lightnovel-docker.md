@@ -17,6 +17,8 @@ docker run -tid -p <port>:80 ixinzhi/lightnovel:<year>
 
 ## 目录
 
+<!--more-->
+
 ### 2019
 
 ```
