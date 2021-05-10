@@ -1,11 +1,5 @@
 <div class="alignleft">
-  <p>
-  <% if (config.author){ %>
-  &copy; <%= new Date().getFullYear() %> <%= config.author %>
-  <% } else { %>
-  &copy; <%= new Date().getFullYear() %> <%= config.title %>
-  <% } %>
-  All rights reserved.</p>
+  <p>&copy; <%= new Date().getFullYear() %> <%= config.author || config.title %>; All rights reserved.</p>
   <p>Powered by <a href="http://hexo.io/" target="_blank">Hexo</a></p>
 </div>
 <div class="clearfix"></div>
