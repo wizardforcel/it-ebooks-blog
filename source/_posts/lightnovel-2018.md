@@ -10,7 +10,7 @@ tags:
 ## 下载
 
 +   [坚果云下载](https://www.jianguoyun.com/p/DfmxU-0Qhr7PBxierdIB)
-+   [MEGA 下载](https://mega.nz/#!zc8z0QIK!56ikdV1Su5TkWSUnPwn3CFC8RzTN7D98tCsn0uuIeXE)
++   [MEGA 下载](https://mega.nz/file/nJlDVSLQ#4xaLjWSIIZK_uXKpFaU7G4U0mUa-HZ0wIdeCt_zeJuM)
 
 <!--more-->
 
