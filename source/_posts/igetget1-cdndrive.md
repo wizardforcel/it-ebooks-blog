@@ -1,5 +1,5 @@
 ---
-title: 得到课程 CDNDrive 备份
+title: 得到课程 CDNDrive 备份（一）
 date: 2020-1-31 00:00:00
 categories:
   - 通识
@@ -21,8 +21,6 @@ cdrive download <link>
 ## 链接
 
 <!--more-->
-
-### 第一批
 
 <!--bdex-->
 

@@ -1,5 +1,5 @@
 ---
-title: 知识星球精华 BiliDrive 备份
+title: 知识星球精华 BiliDrive 备份（一）
 date: 2019-10-1 00:00:00
 categories:
   - 通识
@@ -21,8 +21,6 @@ bdex download <link>
 <!--more-->
 
 <script>location.href='../zsxq-cdndrive/'</script>
-
-### 第一批
 
 | 文档 | 链接 |
 | --- | --- |

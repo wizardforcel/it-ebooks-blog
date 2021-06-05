@@ -1,5 +1,5 @@
 ---
-title: 知识星球精华整理
+title: 知识星球精华整理（一）
 date: 2019-10-1 00:00:00
 categories:
   - 通识
@@ -12,8 +12,6 @@ tags:
 > 任何形式的备份，以及镜像制作也是欢迎的
 
 <!--more-->
-
-## 第一批
 
 +   [1000 种赚钱方法知识星球精华 20190828.epub](https://github.com/ixinzhi/zsxq/blob/master/1000%20%E7%A7%8D%E8%B5%9A%E9%92%B1%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E7%B2%BE%E5%8D%8E%2020190828.epub)
 +   [11 点港股打新知识星球整理 20190909.epub](https://github.com/ixinzhi/zsxq/blob/master/11%20%E7%82%B9%E6%B8%AF%E8%82%A1%E6%89%93%E6%96%B0%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%2020190909.epub)

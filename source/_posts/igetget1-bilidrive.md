@@ -1,5 +1,5 @@
 ---
-title: 得到课程 BiliDrive 备份
+title: 得到课程 BiliDrive 备份（一）
 date: 2020-1-31 00:00:00
 categories:
   - 通识
@@ -23,8 +23,6 @@ bdex download <link>
 <!--more-->
 
 <script>location.href='../igetget-cdndrive/'</script>
-
-### 第一批
 
 | 文档 | 链接 |
 | --- | --- |

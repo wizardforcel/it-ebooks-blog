@@ -1,5 +1,5 @@
 ---
-title: 得到课程整理
+title: 得到课程整理（一）
 date: 2020-1-31 00:00:00
 categories:
   - 通识
@@ -14,8 +14,6 @@ tags:
 > 以下链接只包含图文，音频请自行用 PanDownload 搜索
 
 <!--more-->
-
-## 第一批
 
 +   [30天认知训练营.pdf](https://github.com/ixinzhi/igetget/blob/master/30%E5%A4%A9%E8%AE%A4%E7%9F%A5%E8%AE%AD%E7%BB%83%E8%90%A5.pdf)
 +   [30天认知训练营2019.pdf](https://github.com/ixinzhi/igetget/blob/master/30%E5%A4%A9%E8%AE%A4%E7%9F%A5%E8%AE%AD%E7%BB%83%E8%90%A52019.pdf)

@@ -1,5 +1,5 @@
 ---
-title: 知识星球 CDNDrive 备份
+title: 知识星球 CDNDrive 备份（一）
 date: 2019-10-1 00:00:00
 categories:
   - 通识
@@ -19,8 +19,6 @@ cdrive download <link>
 ## 链接
 
 <!--more-->
-
-### 第一批
 
 <!--bdex-->
 
