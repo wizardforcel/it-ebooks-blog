@@ -1,6 +1,6 @@
 ---
 title: C87 本子合集 CDNDrive 备份 II
-date: 0000-0-0 00:00:00
+date: 1987-01-01 00:00:00
 categories:
   - ACG
 tags:
