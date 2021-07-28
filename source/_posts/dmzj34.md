@@ -1,3 +1,21 @@
+---
+title: 动漫之家网盘备份（34）
+date: 2013-04-01 00:00:00
+categories:
+  - ACG
+tags:
+  - 日漫
+---
+
+## 下载
+
++   [百度云（提取码: zj8s）](https://pan.baidu.com/s/1L85DxkrpBDiAOIexG1sWJg)
++   [115](https://115.com/s/swn41yk3h4f?password=l1e6)
+
+<!-- more -->
+
+## 目录
+
 ```
 胖胖的你 - 平间要 - 第17话.epub
 胖胖的你 - 平间要 - 第18话.epub
