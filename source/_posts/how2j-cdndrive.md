@@ -80,8 +80,7 @@ cdrive download <link>
 
 | 文件 | 链接 |
 | --- | --- |
-| HOW2J J2EE 教程.epub | 
-wbdrive://002pZByxly1gug2c7m9olg600i00i3y9 |
+| HOW2J J2EE 教程.epub | wbdrive://002pZByxly1gug2c7m9olg600i00i3y9 |
 | HOW2J Java 中级教程.epub | wbdrive://002pZByxly1gug2c8nrr9g600i00i3y9 |
 | HOW2J Java 初级教程.epub | wbdrive://002pZByxly1gug2c9bsu8g600i00i3y9 |
 | HOW2J Java 框架教程.epub | wbdrive://002pZByxly1gug2cayvk1g600i00i3y9 |
