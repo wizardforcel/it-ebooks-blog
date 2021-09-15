@@ -10,8 +10,8 @@ tags:
 ## 下载
 
 ```
-docker pull apachecn0/how2j-tuts
-docker run -tid -p <port>:80 apachecn0/how2j-tuts
+docker pull apachecn0/how2j
+docker run -tid -p <port>:80 apachecn0/how2j
 # 访问 http://localhost:{port} 下载文件
 ```
 
