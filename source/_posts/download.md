@@ -5,7 +5,7 @@ categories:
   - 公告
 ---
 
-![](../img/repo-deployed.svg) ![](../img/cdn-deployed.svg) ![](../img/northpole-preparing.svg) ![](../img/blockchain-preparing.svg)
+![](../img/repo-deployed.svg) ![](../img/cdn-deployed.svg) ![](../img/northpole-deployed.svg) ![](../img/blockchain-deployed.svg)
 
 ### Docker
 
