@@ -2,7 +2,7 @@
 
 ![](source/img/repo-deployed.svg) ![](source/img/cdn-deployed.svg) ![](source/img/northpole-preparing.svg) ![](source/img/blockchain-preparing.svg)
 
-1.  原布客新知网站已被分拆，计算机内容整合到[计算机电子书归档](https://it-ebooks.apachecn.org/)，通识内容整合到[布客主站](https://home.apachecn.org/)的【通识】一节，ACGN 内容整合到 [ACGN 归档](https://acgn.flygon.net/)。
+原布客新知网站已被分拆，计算机内容整合到[计算机电子书归档](https://it-ebooks.apachecn.org/)，通识内容整合到[布客主站](https://home.apachecn.org/)的【通识】一节，ACGN 内容整合到 [ACGN 归档](https://acgn.flygon.net/)。
 
 ## 下载
 
